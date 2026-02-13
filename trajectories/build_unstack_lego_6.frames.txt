@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((846,718),down-right,left,up,left,up-right,still,up-left,left,up-right,down,down-right,up,up,up,down,up-left,right,up-left,left,down-left,down-right,down,up-right,down-left,left,up-left)
+right hand:((1256,868),up-right,up-left,down-right,right,left,right,up-right,down,up-right,left,up,down,down,up,down,up-left,down,up-right,left,right,down-left,up-left,down-right,down-left,up-left,down-right)
+left hand object:((954,824,carpet),up,room,down,carpet,up-right,floor,up,room,down,carpet,still,carpet,still,carpet,up-right,plastic model,down-left,carpet,up,room,down-left,carpet,right,carpet,up-right,floor,still,floor,still,floor,up-left,toothbrush,down-right,countertop,up-left,linen,down-right,carpet,right,carpet,up-left,linen,down-right,room,up-left,linen,right,room,still,room,none)
+right hand object:((954,824,carpet),up,room,none,none,floor,up,room,down,carpet,still,carpet,still,carpet,up-right,plastic model,down-left,carpet,up,room,down-left,carpet,right,carpet,up-right,floor,up-right,box,down-left,floor,none,none,countertop,none,none,plastic model,down,wooden model,up-left,room,down-right,wooden model,down-right,wooden model,still,wooden model,up,plastic model piece,right,wooden model)
+two hand object:((958,542,room),still,room,none,none,room,still,room,down,carpet,still,carpet,up-left,floor,still,carpet,up,room,still,room,down-left,carpet,right,carpet,up,room,none,none,room,none,none,room,none,none,room,down-left,carpet,up-right,room,still,room,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → left → up → left → up-right → still → up-left → left → up-right → down → down-right → up → up → up → down → up-left → right → up-left → left → down-left → down-right → down → up-right → down-left → left → up-left (object: floor → carpet → room → countertop → toothbrush → linen → plastic model)
+Right hand: up-right → up-left → down-right → right → left → right → up-right → down → up-right → left → up → down → down → up → down → up-left → down → up-right → left → right → down-left → up-left → down-right → down-left → up-left → down-right (object: floor → carpet → room → countertop → plastic model piece → plastic model → wooden model → box)
+Two-hand object: floor → carpet → room

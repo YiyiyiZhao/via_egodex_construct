@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((923,672),still,up-left,still,still,up,down,down)
+right hand:((1326,596),down-left,still,up-left,left,right,left,right)
+left hand object:((1024,608,instruction manual),still,instruction manual,up-left,instruction manual,still,instruction manual,up-left,room,right,instruction manual,down,instruction manual,down-right,book)
+right hand object:((960,736,bed),still,bed,still,bed,up-right,pair of scissors,left,room,right,pair of scissors,down-left,instruction manual,down-left,bed)
+two hand object:((960,542,room),down,bed,still,bed,up-right,instruction manual,up-left,room,right,pair of scissors,down-left,instruction manual,up-left,room)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-left → still → still → up → down → down (object: book → room → instruction manual)
+Right hand: down-left → still → up-left → left → right → left → right (object: pair of scissors → instruction manual → room → bed)
+Two-hand object: pair of scissors → instruction manual → room → bed

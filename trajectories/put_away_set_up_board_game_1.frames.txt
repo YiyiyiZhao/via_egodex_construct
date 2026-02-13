@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((614,620),right,up,down,left,up-left,right,up-left,up,right,down,up,down-left)
+right hand:((1683,623),left,up-right,none,none,right,left,right,none,none,up,none,none)
+left hand object:((958,777,desk),up-right,notebook,up,box,down,tray,down-left,desk,up-right,desk,left,desk,up-left,fidget spinner ring,right,tablet,down-left,desk,up-right,cutting pad,up-left,linen,down,paper tablemat)
+right hand object:((958,777,desk),up-right,architectural craft manual,up,box,none,none,rolling tray,right,puzzle card,left,hot plate,up-right,sachet,none,none,desk,up,linen,none,none)
+two hand object:((958,777,desk),up-right,book,up,box,none,none,rolling tray,down-left,desk,up-right,rolling tray,up,linen,none,none,bed,up,room,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → down → left → up-left → right → up-left → up → right → down → up → down-left (object: tray → paper tablemat → cutting pad → desk → linen → notebook → tablet → fidget spinner ring → box)
+Right hand: left → up-right → none → none → right → left → right → none → none → up → none → none (object: sachet → rolling tray → desk → linen → puzzle card → architectural craft manual → hot plate → box)
+Two-hand object: room → book → rolling tray → desk → linen → bed → box

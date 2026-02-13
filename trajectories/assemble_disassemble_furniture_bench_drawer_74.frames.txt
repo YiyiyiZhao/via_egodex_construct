@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((944,856),up-left,up-right,right,up,up-left,left,left)
+right hand:((1529,997),up-left,up-left,up-left,up-left,down-right,down-right,right)
+left hand object:((960,850,carpet),up-left,bed,still,bed,right,paper container,up-left,book,up-left,paper container,left,bed,still,bed)
+right hand object:((960,850,carpet),up-left,bed,right,foam block,still,instruction manual,up-left,book,up-left,paper container,left,bed,right,foam block)
+two hand object:((975,558,room),down,bed,still,bed,right,architectural craft manual,left,bed,still,bed,still,bed,up,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → right → up → up-left → left → left (object: book → carpet → paper container → bed)
+Right hand: up-left → up-left → up-left → up-left → down-right → down-right → right (object: foam block → carpet → paper container → book → bed → instruction manual)
+Two-hand object: architectural craft manual → room → bed

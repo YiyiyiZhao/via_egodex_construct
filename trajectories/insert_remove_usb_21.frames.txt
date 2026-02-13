@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((942,892),up,up-right,up,up-right,right,down-left,right,right,up-left,left,down-left,left,down,up-right,down-right,up,up,up,down,down-right,up-right,left,down,right,still)
+right hand:((1428,888),left,up-right,up-left,up-left,up,down,left,up-right,up,down-right,up-left,left,down,up-right,up-left,up-left,up-left,down,right,left,up-left,down-right,down-right,still,still)
+left hand object:((932,791,pair of scissors),up,tweezer,up-right,pair of scissors,right,remote control,up-left,usb cable,right,keyboard,down-left,keyboard,up-left,fidget spinner ring,down-left,floor,up-right,keyboard,down-right,keyboard,down-left,remote control,left,remote control,down,remote control,up-right,remote control,down-right,remote control,up-left,remote control,up-left,cutting pad,up-left,paint brush,down-right,remote control,down-right,remote control,up-right,remote control,left,remote control,down-left,desk,still,desk,still,desk)
+right hand object:((946,896,desk),still,desk,still,desk,left,desk,up-right,pair of glasses,down-left,desk,right,pair of pliers,up-right,sock,up-left,fidget spinner ring,none,none,pair of scissors,left,desk,right,charging cable,left,desk,right,charging cable,up-left,remote control,up-left,remote control,up-left,cutting pad,up-left,paint brush,down-right,charging cable,left,remote control,up-right,remote control,down-left,desk,down,desk,still,desk,still,desk)
+two hand object:((946,896,desk),still,desk,still,desk,left,desk,up-right,desk,left,desk,right,desk,up-right,floor,none,none,none,desk,left,desk,right,desk,down,desk,up,desk,left,desk,right,desk,up-right,cutting pad,up-left,room,down,desk,left,desk,up-right,desk,right,desk,down,desk,still,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → up → up-right → right → down-left → right → right → up-left → left → down-left → left → down → up-right → down-right → up → up → up → down → down-right → up-right → left → down → right → still (object: floor → pair of scissors → keyboard → paint brush → usb cable → desk → remote control → tweezer → cutting pad → fidget spinner ring)
+Right hand: left → up-right → up-left → up-left → up → down → left → up-right → up → down-right → up-left → left → down → up-right → up-left → up-left → up-left → down → right → left → up-left → down-right → down-right → still → still (object: pair of glasses → pair of scissors → pair of pliers → charging cable → paint brush → sock → desk → remote control → cutting pad → fidget spinner ring)
+Two-hand object: floor → cutting pad → desk → room

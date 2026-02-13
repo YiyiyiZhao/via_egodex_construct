@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((900,1046),up,right,up-left,up-left,still,down-right,still,left,up-left,down-right,right,left,still,down-right,up-left,still,down-right,left,up-left,still,up-right)
+right hand:((1422,1036),up,up-left,down-right,down-right,down-left,up-left,up,down-right,down-right,up-left,up-left,down,down,up,down,up-right,up-left,down-right,down-left,right,up-right)
+left hand object:((None,None),none,cutting mat,none,none,cutting pad,up-right,kitchen workbench,down-left,cutting mat,down-right,cutting pad,still,cutting pad,right,cutting mat,left,cutting pad,right,cutting mat,left,cutting pad,left,cutting pad,still,cutting pad,right,countertop,left,cutting pad,right,cutting mat,right,cutting mat,left,cutting pad,right,cutting mat,left,cutting mat,right,cutting mat)
+right hand object:((1543,638,refrigerator),down-left,cutting mat,up-left,microwave,up-left,microwave,right,kitchen workbench,down-right,rolling tray,up-left,microwave,right,microwave,right,stove,down,rolling tray,up-left,kitchen,up,sauce container,down,kitchen workbench,down-right,fidget spinner ring,up,glass cup,down,glass cup,down,glass cup,up-left,cupboard,down-right,container lid,down-left,sponge cloth,right,rolling tray,left,glass cup)
+two hand object:((None,None),none,kitchen workbench,none,none,kitchen workbench,right,kitchen workbench,still,kitchen workbench,up-left,kitchen workbench,still,kitchen workbench,down-left,kitchen,left,kitchen workbench,right,kitchen,still,kitchen,right,kitchen workbench,still,kitchen workbench,left,kitchen workbench,still,kitchen workbench,still,kitchen workbench,up-left,kitchen,right,kitchen workbench,left,kitchen workbench,left,kitchen workbench,right,kitchen workbench)
+
+
+## LLM-Friendly Format:
+Left hand: up → right → up-left → up-left → still → down-right → still → left → up-left → down-right → right → left → still → down-right → up-left → still → down-right → left → up-left → still → up-right (object: kitchen workbench → cutting pad → cutting mat → countertop)
+Right hand: up → up-left → down-right → down-right → down-left → up-left → up → down-right → down-right → up-left → up-left → down → down → up → down → up-right → up-left → down-right → down-left → right → up-right (object: kitchen workbench → microwave → stove → glass cup → container lid → rolling tray → sponge cloth → sauce container → kitchen → refrigerator → fidget spinner ring → cutting mat → cupboard)
+Two-hand object: kitchen workbench → kitchen

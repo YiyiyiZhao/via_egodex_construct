@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1026,586),down,down-right,up-right,down-right,still,down-right,still)
+right hand:((1446,558),down-left,down,right,down-left,still,down-right,still)
+left hand object:((960,787,bed),none,none,remote control,left,fidget spinner ring,down-left,bed,up-right,fidget spinner ring,down-left,bed,still,bed)
+right hand object:((960,787,bed),none,none,remote control,none,none,remote control,still,remote control,down-right,phone,left,bed)
+two hand object:((960,787,bed),none,none,remote control,none,none,bed,none,none,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down → down-right → up-right → down-right → still → down-right → still (object: remote control → fidget spinner ring → bed)
+Right hand: down-left → down → right → down-left → still → down-right → still (object: remote control → phone → bed)
+Two-hand object: remote control → bed

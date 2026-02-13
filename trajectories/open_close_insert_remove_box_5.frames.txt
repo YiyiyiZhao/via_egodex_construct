@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((696,905),up,left,down-right,down-right,down-right,down-left,down-left,up-left,down-right,up,still,up-right,up,up,down,still,left,up-right,down-left,still,still,up-left,still)
+right hand:((1274,913),up-right,still,down,left,up-left,right,down-right,down-right,up-left,right,left,down-right,up-right,up,down-right,left,up,right,left,right,left,right,left)
+left hand object:((808,783,desk),up-right,table,down-left,wristband,right,wristband,up-right,table,down-left,wristband,up-right,countertop,left,table,left,countertop,down-right,countertop,still,countertop,still,table,up-right,cardboard box,up-right,cardboard box,down-right,box,down-right,box,down-left,wristband,still,wristband,up-right,wristband,down-left,wristband,still,wristband,left,wristband,right,wristband,left,wristband)
+right hand object:((808,783,desk),up-right,table,still,table,right,toothbrush,left,cellphone,up,cardboard box,down,cardboard box,left,cardboard box,down-left,countertop,up-right,box,right,fidget spinner ring,left,box,down-right,cardboard box,up-right,cardboard box,down-right,box,left,bed,right,book,up-left,cardboard box,left,bed,right,book,left,bed,still,bed,right,bed,down-left,bed)
+two hand object:((982,673,cardboard box),down-left,table,still,table,right,desk,down-right,table,down-left,desk,down-left,countertop,left,table,up-left,table,down-right,table,still,countertop,still,table,up-right,box,up-right,cardboard box,down-right,box,down-right,cardboard box,up-right,book,left,bed,right,book,still,architectural craft manual,left,architectural craft manual,left,architectural craft manual,right,architectural craft manual,left,architectural craft manual)
+
+
+## LLM-Friendly Format:
+Left hand: up → left → down-right → down-right → down-right → down-left → down-left → up-left → down-right → up → still → up-right → up → up → down → still → left → up-right → down-left → still → still → up-left → still (object: wristband → countertop → table → desk → cardboard box → box)
+Right hand: up-right → still → down → left → up-left → right → down-right → down-right → up-left → right → left → down-right → up-right → up → down-right → left → up → right → left → right → left → right → left (object: bed → countertop → book → table → toothbrush → desk → cardboard box → box → fidget spinner ring → cellphone)
+Two-hand object: countertop → book → table → desk → cardboard box → bed → architectural craft manual → box

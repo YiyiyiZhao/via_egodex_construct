@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((967,794),up,up-left,right,down,up-right,right,up-left,down-right,still,right,down,up-right,up-left,still,up-right,up-right,left,down-right)
+right hand:((1362,776),left,up,up-right,down-left,up,still,down-left,still,down,still,up-right,left,up-right,left,up-left,up,right,up)
+left hand object:((1134,808,plastic ball),left,desk,up-right,tupperware container,up-right,plastic container,down-left,desk,up-right,tupperware container,still,plastic container,up-left,plastic ball,down,plastic ball,down-left,plastic ball,still,plastic ball,right,plastic ball,up-left,food container,still,plastic ball,still,plastic ball,left,food container,still,plastic ball,down-left,plastic ball,down-right,plastic ball)
+right hand object:((954,868,floor),up,desk,up-right,tupperware container,up-right,tupperware container,down-left,desk,up-right,tupperware container,still,plastic container,up-left,plastic ball,down,plastic ball,down-left,plastic ball,still,plastic ball,right,plastic ball,up-left,plastic ball,still,plastic ball,still,plastic ball,left,plastic ball,still,plastic ball,down-left,plastic ball,down-right,plastic ball)
+two hand object:((960,544,room),down,desk,still,desk,still,desk,still,desk,up-right,tupperware container,still,plastic container,up-left,plastic ball,down,plastic ball,down-left,plastic ball,still,plastic ball,right,plastic ball,up-left,food container,still,plastic ball,still,plastic ball,left,plastic ball,down-left,countertop,up-right,plastic ball,down-right,plastic ball)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-left → right → down → up-right → right → up-left → down-right → still → right → down → up-right → up-left → still → up-right → up-right → left → down-right (object: plastic ball → tupperware container → desk → food container → plastic container)
+Right hand: left → up → up-right → down-left → up → still → down-left → still → down → still → up-right → left → up-right → left → up-left → up → right → up (object: floor → plastic ball → tupperware container → desk → plastic container)
+Two-hand object: plastic ball → room → tupperware container → countertop → desk → food container → plastic container

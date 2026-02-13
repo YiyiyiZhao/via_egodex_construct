@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((868,729),right,down-right,right,down,down-right,left,up-left)
+right hand:((1344,940),up-left,up-left,still,still,still,still,still)
+left hand object:((972,755,lotion tube),right,sewing machine,up-right,mechanical model,none,none,mechanical model,down-right,mechanical model,still,mechanical model,still,mechanical model)
+right hand object:((1342,751,sewing machine),up-left,sewing machine,up-right,mechanical model,none,none,wooden model,down-right,cash register,still,wooden model,still,plastic model piece)
+two hand object:((None,None),none,sewing machine,up-right,mechanical model,none,none,mechanical model,down-right,cash register,still,mechanical model,still,mechanical model)
+
+
+## LLM-Friendly Format:
+Left hand: right → down-right → right → down → down-right → left → up-left (object: lotion tube → sewing machine → mechanical model)
+Right hand: up-left → up-left → still → still → still → still → still (object: sewing machine → mechanical model → plastic model piece → cash register → wooden model)
+Two-hand object: sewing machine → cash register → mechanical model

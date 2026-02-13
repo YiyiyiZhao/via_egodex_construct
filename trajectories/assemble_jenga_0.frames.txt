@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1056,772),left,right,right,left,still,down-right,down-right,up,still)
+right hand:((1244,744),right,up-left,up,down-left,left,up-right,down,up,down)
+left hand object:((1137,716,architectural craft manual),left,fidget spinner ring,down-right,desk,up,room,down,desk,still,desk,still,desk,still,desk,still,desk,still,desk)
+right hand object:((1137,716,architectural craft manual),up-left,room,down,desk,up,room,down-right,jenga block,up-left,architectural craft manual,down-right,jenga block,down-right,jenga block,up,paper bag,down-left,instruction manual)
+two hand object:((1138,719,instruction manual),up-left,room,down,desk,up,room,still,room,still,room,still,room,down,desk,still,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → right → left → still → down-right → down-right → up → still (object: architectural craft manual → room → desk → fidget spinner ring)
+Right hand: right → up-left → up → down-left → left → up-right → down → up → down (object: jenga block → room → paper bag → desk → architectural craft manual → instruction manual)
+Two-hand object: room → desk → instruction manual

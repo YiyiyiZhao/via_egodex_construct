@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((648,680),up-right,right,up-left,down-right,down-right,up-left,up,up,down-left,right,down-right)
+right hand:((1180,960),up-right,down-left,up,left,down-left,down-right,up-right,up-right,down-left,down-right,up-right)
+left hand object:((None,None),none,none,bag,up-left,room,right,polythene bag,down,polythene bag,left,fidget spinner ring,right,polythene bag,up-left,bag,down-left,bed,still,bed,still,bed)
+right hand object:((1398,772,nylon bag),up-left,nylon bag,up-left,bag,up-left,room,right,polythene bag,down,polythene bag,up-left,polythene bag,right,polythene bag,up-left,paper bag,down-left,bed,left,fidget spinner ring,up-right,tablet bag)
+two hand object:((None,None),none,none,bag,up-left,room,right,polythene bag,down,paper bag,up-left,polythene bag,right,polythene bag,up-left,paper bag,left,bed,down,bed,up,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → right → up-left → down-right → down-right → up-left → up → up → down-left → right → down-right (object: room → bag → polythene bag → bed → fidget spinner ring)
+Right hand: up-right → down-left → up → left → down-left → down-right → up-right → up-right → down-left → down-right → up-right (object: tablet bag → room → bag → nylon bag → bed → paper bag → fidget spinner ring → polythene bag)
+Two-hand object: room → bag → bed → paper bag → polythene bag

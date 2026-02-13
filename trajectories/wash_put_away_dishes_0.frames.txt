@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1014,923),up,left,down-right,down-right,up-right,down-left,up-left,left,up)
+right hand:((1664,824),up-left,down-left,up-left,down,up-right,down-left,down-right,left,left)
+left hand object:((1238,729,sink),up-right,sink,left,sink,down-right,sink,still,sink,up-right,pot lid,down-left,lemonade,up,kitchen workbench,still,kitchen workbench,down,plate)
+right hand object:((960,540,kitchen),still,kitchen,down-right,sink,up-right,bottle,down-left,sink,up-right,pot lid,down-left,lemonade,up-right,stove,down-right,stove,left,plate)
+two hand object:((960,540,kitchen),down-right,sink,up-left,kitchen,still,kitchen,still,kitchen,still,kitchen,down,lemonade,up,kitchen workbench,still,kitchen workbench,still,kitchen workbench)
+
+
+## LLM-Friendly Format:
+Left hand: up → left → down-right → down-right → up-right → down-left → up-left → left → up (object: kitchen workbench → pot lid → sink → plate → lemonade)
+Right hand: up-left → down-left → up-left → down → up-right → down-left → down-right → left → left (object: pot lid → sink → stove → kitchen → bottle → plate → lemonade)
+Two-hand object: sink → kitchen → kitchen workbench → lemonade

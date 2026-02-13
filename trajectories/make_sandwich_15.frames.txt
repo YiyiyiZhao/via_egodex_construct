@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((517,661),right,up-right,left,down-right,up,left,up,down-left,down-right,down-left,up-right,down,left,still,left)
+right hand:((1673,844),up-right,up-left,down-left,left,still,down-right,up-left,down,down-right,down,up,down-right,left,up-left,down-right)
+left hand object:((280,870,towel),right,fidget spinner ring,right,sponge cloth,up-right,linen,down-left,bed,up-right,yoghurt cup,down-left,desk,still,bed,left,towel,right,bed,down-left,tongs,up-right,rolling tray,down-right,plate,left,bed,left,towel,left,towel)
+right hand object:((966,794,bed),up,bed,still,bed,right,rolling tray,left,plate,up,yoghurt cup,down-left,desk,right,toast,down-left,plate,left,bed,right,plate,left,bed,right,fidget spinner ring,left,plate,up,food container,right,remote control)
+two hand object:((966,794,bed),up,bed,still,bed,down-right,sponge cloth,left,bed,up-right,yoghurt cup,down-left,bed,right,toast,left,bed,still,bed,still,bed,still,bed,right,plate,left,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-right → left → down-right → up → left → up → down-left → down-right → down-left → up-right → down → left → still → left (object: yoghurt cup → towel → plate → tongs → sponge cloth → rolling tray → desk → linen → bed → fidget spinner ring)
+Right hand: up-right → up-left → down-left → left → still → down-right → up-left → down → down-right → down → up → down-right → left → up-left → down-right (object: yoghurt cup → bed → toast → rolling tray → desk → plate → remote control → food container → fidget spinner ring)
+Two-hand object: yoghurt cup → bed → toast → sponge cloth → plate

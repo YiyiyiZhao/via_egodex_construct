@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((953,688),up-left,up-right,left,up-left,right,left,right,down-left,right)
+right hand:((1359,628),left,up-left,up-right,up-right,down,right,left,down-right,left)
+left hand object:((960,538,room),down-right,soft lego brick,up-left,fidget spinner ring,up-left,room,down,countertop,still,countertop,still,countertop,up,room,still,room,still,room)
+right hand object:((960,538,room),down-right,soft lego brick,up-left,room,right,fidget spinner ring,left,countertop,still,countertop,still,countertop,up,room,still,room,still,room)
+two hand object:((960,538,room),still,room,still,room,still,room,still,room,still,room,down,countertop,up,room,still,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → left → up-left → right → left → right → down-left → right (object: fidget spinner ring → soft lego brick → room → countertop)
+Right hand: left → up-left → up-right → up-right → down → right → left → down-right → left (object: fidget spinner ring → soft lego brick → room → countertop)
+Two-hand object: room → countertop

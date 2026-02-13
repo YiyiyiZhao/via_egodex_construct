@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((942,818),up,down-right,up-right,right,left,down-left,down-right)
+right hand:((1532,865),up,up-right,none,none,down,right,up)
+left hand object:((992,784,desk),up,room,down,yoghurt cup,up-right,cup,up-right,cup,still,cup,right,yoghurt cup,up-right,cup)
+right hand object:((992,784,desk),up-right,trowel,up-right,paper bag,none,none,scissors,down-left,trowel,right,tweezer,left,scissors)
+two hand object:((992,784,desk),up,room,still,room,none,none,rolling tray,up-left,rolling tray,none,none,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-right → up-right → right → left → down-left → down-right (object: yoghurt cup → desk → room → cup)
+Right hand: up → up-right → none → none → down → right → up (object: trowel → scissors → desk → paper bag → tweezer)
+Two-hand object: rolling tray → desk → room

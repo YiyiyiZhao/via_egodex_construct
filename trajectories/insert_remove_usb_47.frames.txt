@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((884,909),up-right,up-right,up-left,up-left,right,down-right,up-left,left,up,up-right,up-left,down-right,down-left)
+right hand:((1311,899),up,left,up,down-left,right,up,up-right,left,left,up,down-left,right,down-right)
+left hand object:((952,896,desk),left,desk,right,desk,right,remote control,left,desk,left,desk,right,remote control,left,wristband,right,keyboard,down,charging cable,up,remote control,down-left,desk,left,desk,right,desk)
+right hand object:((952,896,desk),right,wristband,left,desk,left,desk,right,charging cable,down-left,remote control,right,remote control,left,remote control,up-left,keyboard,none,none,fidget spinner ring,down,desk,up-right,remote control,down-left,desk)
+two hand object:((952,896,desk),left,desk,right,desk,left,desk,right,desk,left,desk,left,desk,right,desk,right,desk,none,none,desk,up-right,room,down,desk,right,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → up-left → up-left → right → down-right → up-left → left → up → up-right → up-left → down-right → down-left (object: wristband → keyboard → charging cable → desk → remote control)
+Right hand: up → left → up → down-left → right → up → up-right → left → left → up → down-left → right → down-right (object: wristband → keyboard → charging cable → desk → remote control → fidget spinner ring)
+Two-hand object: desk → room

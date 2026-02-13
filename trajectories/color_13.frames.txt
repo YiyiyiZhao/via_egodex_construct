@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1828,884),up-left,down,up-left,up,left,up-left,still,up,still,still,left,down-left)
+right hand:((None,None),none,none,left,up-right,left,up,still,up-left,right,left,left,still)
+left hand object:((960,766,desk),up-right,package,down-right,paint brush,up-left,instruction manual,up,instruction manual,left,cutting pad,up-left,instruction manual,still,instruction manual,up-left,cutting pad,still,cutting pad,still,cutting pad,left,cutting pad,down-left,cutting pad)
+right hand object:((None,None),none,none,sketch manual,up-right,pencil,up-right,pair of pliers,left,pair of scissors,up,pencil,down,pair of pliers,up,pair of scissors,still,toothbrush,still,pencil,left,pencil,down-right,pair of pliers)
+two hand object:((None,None),none,none,instruction manual,up-left,instruction manual,up,instruction manual,left,instruction manual,up-left,instruction manual,still,instruction manual,up-left,instruction manual,still,instruction manual,still,instruction manual,left,instruction manual,down-left,instruction manual)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → down → up-left → up → left → up-left → still → up → still → still → left → down-left (object: paint brush → desk → cutting pad → instruction manual → package)
+Right hand: none → none → left → up-right → left → up → still → up-left → right → left → left → still (object: pair of scissors → pencil → pair of pliers → sketch manual → toothbrush)
+Two-hand object: instruction manual

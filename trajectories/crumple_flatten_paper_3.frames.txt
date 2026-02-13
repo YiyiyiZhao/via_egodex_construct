@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((960,581),down-right,up,up-left,still,up-left,right,down-left,left,up,down,down-right,up-right,up-left,up-left,down-right,left,up-right,up-left,down,up-left,down,up,down-right)
+right hand:((1388,622),left,up-left,still,down-right,left,up-right,down,right,left,down-left,left,up,left,up-left,right,down-right,up-left,right,down,up-right,down-left,up,down)
+left hand object:((954,778,bed),up-right,remote control,down-left,bed,none,none,napkin,down-left,bed,up-right,sponge cloth,down-left,sponge cloth,still,sponge cloth,down-right,sponge cloth,down-left,sponge cloth,none,none,sponge cloth,up,cutting mat,up,sponge cloth,down,cutting pad,left,sponge cloth,down,sponge cloth,up,sponge cloth,down-right,sponge cloth,still,cutting pad,down-right,sponge cloth,up-left,napkin,down-right,sponge cloth)
+right hand object:((954,778,bed),up-right,remote control,down-left,bed,none,none,napkin,down-left,bed,up-right,sponge cloth,still,napkin,up-right,towel,down-right,sponge cloth,down-left,sponge cloth,none,none,sponge cloth,up,cutting mat,up,sponge cloth,down-right,cutting mat,left,cutting pad,down,sponge cloth,up,napkin,down-right,cutting pad,up-left,cutting pad,down-right,sponge cloth,up-left,sponge cloth,down-right,sponge cloth)
+two hand object:((954,778,bed),up-right,remote control,down-left,bed,none,none,napkin,down-left,bed,up-right,sponge cloth,still,napkin,still,sponge cloth,down-right,sponge cloth,down-left,sponge cloth,none,none,sponge cloth,up,sponge cloth,still,sponge cloth,down,cutting pad,left,cutting pad,left,bed,right,sponge cloth,down-right,sponge cloth,still,cutting pad,down-right,cutting pad,up-left,napkin,down-right,sponge cloth)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up → up-left → still → up-left → right → down-left → left → up → down → down-right → up-right → up-left → up-left → down-right → left → up-right → up-left → down → up-left → down → up → down-right (object: napkin → sponge cloth → bed → remote control → cutting pad → cutting mat)
+Right hand: left → up-left → still → down-right → left → up-right → down → right → left → down-left → left → up → left → up-left → right → down-right → up-left → right → down → up-right → down-left → up → down (object: towel → napkin → sponge cloth → bed → remote control → cutting pad → cutting mat)
+Two-hand object: napkin → sponge cloth → bed → remote control → cutting pad

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((820,598),right,down,down,up-left,down-left,down-right,left,right,down,up-left,up-left,left,left,down-right,right)
+right hand:((1340,520),down-left,up,up-right,down,down-right,down-left,up-left,up-right,right,left,down-left,still,left,up-right,up)
+left hand object:((962,530,plate),down-right,pancake,down,yoghurt cup,down-left,table,still,countertop,down,table,right,ice cream,left,countertop,still,countertop,up,plate,down-right,yoghurt cup,up-left,plate,down-right,paper tablemat,left,paper tablemat,none,none)
+right hand object:((962,748,table),up-right,pancake,down,yoghurt cup,down-left,table,still,countertop,down,table,right,ice cream,left,countertop,still,countertop,none,none,yoghurt cup,down-right,paper tablemat,right,paper tablemat,left,paper tablemat,up-left,mustard,none)
+two hand object:((962,748,table),up,linen,down,yoghurt cup,down-left,table,still,countertop,down,table,right,ice cream,left,countertop,still,countertop,none,none,countertop,right,paper tablemat,right,paper tablemat,left,paper tablemat,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → down → down → up-left → down-left → down-right → left → right → down → up-left → up-left → left → left → down-right → right (object: yoghurt cup → countertop → table → ice cream → paper tablemat → pancake → plate)
+Right hand: down-left → up → up-right → down → down-right → down-left → up-left → up-right → right → left → down-left → still → left → up-right → up (object: yoghurt cup → countertop → table → ice cream → paper tablemat → pancake → mustard)
+Two-hand object: yoghurt cup → countertop → table → ice cream → paper tablemat → linen

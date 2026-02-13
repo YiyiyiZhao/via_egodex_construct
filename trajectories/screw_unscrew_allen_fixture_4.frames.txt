@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1720,948),up-left,down-right,up-right,down-left,right,right,up-left,up-left,up-right,left,up-left,up-right,right,left,up-right,up-left,up-right,up-right,right,still,still,right,up-left)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((956,786,bed),up,phone,down-right,phone,up-right,tv,down-right,laptop,right,pen,down,pair of scissors,up-right,tweezer,up-left,pen,up-right,toothbrush,down-left,bed,still,bed,up-right,pair of scissors,left,phone,down-left,bed,up-right,phone,up,remote control,right,phone,up,pair of pliers,down,phone,up-right,phone,up-right,pair of pliers,down-left,phone,still,phone)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → down-right → up-right → down-left → right → right → up-left → up-left → up-right → left → up-left → up-right → right → left → up-right → up-left → up-right → up-right → right → still → still → right → up-left (object: pair of scissors → pair of pliers → tv → toothbrush → phone → laptop → bed → pen → remote control → tweezer)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

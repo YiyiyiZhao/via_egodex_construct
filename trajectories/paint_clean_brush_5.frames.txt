@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((781,976),up-left,right,right,up-left,right,still,down-right,up,down-left,still,up-left,down-left)
+right hand:((1853,842),up-left,left,up-right,still,right,down-right,down-right,down,down-right,down,right,up)
+left hand object:((806,866,instruction manual),up,cutting pad,right,sponge cloth,up-right,sponge cloth,right,sponge cloth,up-left,sponge cloth,down-right,paper tablemat,up-left,sponge cloth,left,sponge cloth,up-left,sponge cloth,down-right,cutting pad,up-left,sponge cloth,down-right,table)
+right hand object:((1822,802,pen),up-left,paint brush,left,paint brush,down-left,paint brush,down,sponge cloth,up-right,chopstick,down-left,tweezer,up-right,paint brush,down,sponge cloth,still,sponge cloth,left,cutting pad,down-right,cutting pad,up-right,cutting pad)
+two hand object:((1116,802,table),up-right,table,up,table,up,table,still,table,down-right,paper tablemat,up-left,table,up-right,sponge cloth,left,sponge cloth,up-left,sponge cloth,down-right,table,still,table,left,table)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → right → right → up-left → right → still → down-right → up → down-left → still → up-left → down-left (object: table → paper tablemat → sponge cloth → cutting pad → instruction manual)
+Right hand: up-left → left → up-right → still → right → down-right → down-right → down → down-right → down → right → up (object: chopstick → sponge cloth → paint brush → pen → tweezer → cutting pad)
+Two-hand object: sponge cloth → table → paper tablemat

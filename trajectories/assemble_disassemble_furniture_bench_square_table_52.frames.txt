@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1099,592),down,right,up-left,left,down-left,up-left,left)
+right hand:((1365,984),still,still,still,still,still,still,still)
+left hand object:((1146,728,jenga block),down-right,cutting pad,still,plastic model piece,still,cutting pad,still,cutting pad,still,cutting pad,up-left,toothbrush,up-left,remote control)
+right hand object:((1347,851,cutting pad),still,cutting pad,still,cutting pad,still,cutting pad,still,sewing machine,still,cutting pad,none,none,cutting pad)
+two hand object:((1348,850,wooden model),still,cutting pad,still,cutting pad,still,cutting pad,still,cutting pad,still,cutting pad,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: down → right → up-left → left → down-left → up-left → left (object: jenga block → toothbrush → plastic model piece → remote control → cutting pad)
+Right hand: still → still → still → still → still → still → still (object: sewing machine → cutting pad)
+Two-hand object: wooden model → cutting pad

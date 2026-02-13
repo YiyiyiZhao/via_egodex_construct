@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((910,1040),up,down-right,left,up-left,down-left,down,up,down-right,up-right,down-right,right,right,up,still,up-left,up-left,down-right,right,left,up-left,down)
+right hand:((1376,1018),down-right,up-right,left,down-right,up-left,down,up-right,down,up-right,up-left,down,right,left,up,left,right,down-right,still,left,down-right,left)
+left hand object:((784,888,countertop),down,countertop,none,none,none,bottle,left,bottle,down,bottle,none,none,bottle,up,cup,down-right,cup,right,sauce container,none,none,food container,none,none,fidget spinner ring,none,none,none,food container,left,sauce container,up-left,salt can,down,countertop)
+right hand object:((784,888,countertop),down,countertop,none,none,fidget spinner ring,down-right,apple,left,bottle,down-right,paint can,up-right,bottle cap,down-left,bottle,left,countertop,right,tennis ball,left,sauce container,none,none,food container,none,none,none,none,tennis ball,up-left,food container,left,sauce container,right,tennis ball,up-left,plastic ball)
+two hand object:((784,888,countertop),down,countertop,none,none,none,bottle,left,bottle,down,bottle,none,none,countertop,right,countertop,right,cup,right,sauce container,none,none,phone,none,none,none,none,none,food container,left,sauce container,left,countertop,still,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-right → left → up-left → down-left → down → up → down-right → up-right → down-right → right → right → up → still → up-left → up-left → down-right → right → left → up-left → down (object: countertop → sauce container → bottle → cup → salt can → food container → fidget spinner ring)
+Right hand: down-right → up-right → left → down-right → up-left → down → up-right → down → up-right → up-left → down → right → left → up → left → right → down-right → still → left → down-right → left (object: plastic ball → countertop → tennis ball → paint can → apple → bottle cap → sauce container → bottle → food container → fidget spinner ring)
+Two-hand object: countertop → sauce container → phone → bottle → cup → food container

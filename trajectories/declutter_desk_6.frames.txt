@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((918,954),left,up,up-right,down-left,down-left,right,left,up-right,left,up,right,up,up,down,up-left,left,left,up-right,up,down-left,up-left)
+right hand:((1465,928),none,none,none,none,none,none,none,down-right,up-left,up-right,up-right,none,none,down-left,up-right,down,up-right,down-left,down-left,right,none)
+left hand object:((950,794,desk),right,notebook,left,cutting pad,right,paint can,left,desk,down-left,instruction manual,right,desk,left,book,up-right,book,down-right,desk,left,cutting pad,right,desk,left,notebook,up-right,bottle,down,desk,right,desk,left,desk,right,desk,left,desk,up-right,desk,still,desk,left,cutting pad)
+right hand object:((1652,793,cardboard box),none,none,none,none,none,towel,none,none,desk,right,towel,up-left,napkin,up-right,napkin,left,desk,none,none,desk,right,paper bag,none,none,desk,up-right,sauce bottle,left,sand disc,down,box,still,box,none)
+two hand object:((950,794,desk),none,none,none,none,none,desk,none,none,desk,up,desk,down,desk,right,napkin,left,desk,none,none,none,desk,none,none,desk,none,none,desk,up-right,desk,still,desk,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → up → up-right → down-left → down-left → right → left → up-right → left → up → right → up → up → down → up-left → left → left → up-right → up → down-left → up-left (object: book → cutting pad → paint can → desk → bottle → notebook → instruction manual)
+Right hand: none → none → none → none → none → none → none → down-right → up-left → up-right → up-right → none → none → down-left → up-right → down → up-right → down-left → down-left → right → none (object: sand disc → towel → sauce bottle → napkin → desk → cardboard box → paper bag → box)
+Two-hand object: napkin → desk

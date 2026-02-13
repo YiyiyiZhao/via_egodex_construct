@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((965,811),up-left,up-right,down,up,up-right,right,down-right)
+right hand:((1707,906),up-left,up,left,left,left,up-right,right)
+left hand object:((1230,848,remote control),up-left,remote control,up-right,remote control,left,remote control,left,paint brush,left,plier,up-right,sweeping brush,right,sweeping brush)
+right hand object:((961,798,bed),up,room,still,room,down,desk,down,bed,still,desk,up,desk,up,room)
+two hand object:((959,545,room),still,room,still,room,still,room,right,room,down,desk,up,room,left,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → down → up → up-right → right → down-right (object: paint brush → remote control → sweeping brush → plier)
+Right hand: up-left → up → left → left → left → up-right → right (object: desk → room → bed)
+Two-hand object: desk → room

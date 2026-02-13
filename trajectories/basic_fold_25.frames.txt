@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((818,685),up-right,up-left,still,down-right,left,down-right,up-right,up-right,down-left,right,right,right)
+right hand:((1823,825),left,up-right,down-left,down,none,none,none,up,none,none,none,up-left)
+left hand object:((1050,768,desk),up,napkin,down-right,towel,left,cutting mat,right,chopstick,left,bed,down-right,paper tablemat,up-right,tissue paper,down,tissue paper pack,up-left,bed,down-right,napkin,up-left,desk,down,cutting board)
+right hand object:((1050,768,desk),up,towel,down-left,cutting board,left,cutting mat,right,chopstick,none,none,none,linen,down,tissue paper pack,none,none,none,desk,right,napkin)
+two hand object:((1044,767,bed),up,napkin,down-left,cutting board,left,cutting mat,right,chopstick,none,none,none,napkin,down-left,bed,none,none,none,desk,down,cutting board)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-left → still → down-right → left → down-right → up-right → up-right → down-left → right → right → right (object: cutting board → towel → paper tablemat → chopstick → tissue paper → napkin → tissue paper pack → desk → bed → cutting mat)
+Right hand: left → up-right → down-left → down → none → none → none → up → none → none → none → up-left (object: cutting board → towel → chopstick → tissue paper pack → napkin → desk → linen → cutting mat)
+Two-hand object: cutting board → chopstick → napkin → desk → bed → cutting mat

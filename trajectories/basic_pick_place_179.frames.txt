@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((868,810),up,up,up-right,up,up,down,left,down,up,up,down,up)
+right hand:((1380,878),up,up-right,down,down-left,up-right,right,right,right,left,up-left,up-left,up-left)
+left hand object:((806,744,bread),up,dough,up-right,remote control,none,none,none,none,bread,left,bread,down,countertop,up,rolling tray,up-left,rolling tray,down-left,tortilla dough,up,tortilla dough)
+right hand object:((939,800,desk),up,desk,up-right,desk,down,desk,up,desk,still,desk,down,desk,still,desk,still,countertop,still,counter,up,table,up,counter,up-left,desk)
+two hand object:((939,800,desk),up,desk,up,room,none,none,none,none,none,kitchen,down,countertop,still,countertop,up,kitchen,down,table,up-left,table)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → up-right → up → up → down → left → down → up → up → down → up (object: tortilla dough → countertop → rolling tray → remote control → bread → dough)
+Right hand: up → up-right → down → down-left → up-right → right → right → right → left → up-left → up-left → up-left (object: counter → table → desk → countertop)
+Two-hand object: room → countertop → table → kitchen → desk

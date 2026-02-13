@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((829,573),down,still,up,still,up-left,up,down-left)
+right hand:((1335,886),up-left,still,up,up,left,down-right,right)
+left hand object:((959,547,room),down-right,jenga block,up-right,jenga block,up-left,architectural craft manual,down-left,bed,up-right,jenga block,up,toothbrush,down,room)
+right hand object:((959,547,room),down-right,jenga tower,up-right,jenga tower,up-left,remote control,still,soft lego brick,left,jenga tower,up-left,room,still,room)
+two hand object:((959,547,room),down-right,jenga tower,up-right,jenga tower,up-left,jenga block,up-left,jenga tower,left,jenga tower,up-left,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: down → still → up → still → up-left → up → down-left (object: jenga block → room → toothbrush → bed → architectural craft manual)
+Right hand: up-left → still → up → up → left → down-right → right (object: remote control → jenga tower → soft lego brick → room)
+Two-hand object: jenga block → jenga tower → room

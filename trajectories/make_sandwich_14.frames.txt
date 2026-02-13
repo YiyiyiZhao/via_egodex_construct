@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((994,794),still,up-left,down-left,down-right,right,up,up-left,up,up)
+right hand:((1029,570),down-right,down-right,down-right,up-left,down-right,up-left,down-right,up,up)
+left hand object:((None,None),none,none,paint brush,down,paper tablemat,up-left,book,down-right,paper tablemat,still,lace,up-left,paper tablemat,up,seed bead embroidery,up-right,seed bead embroidery)
+right hand object:((543,330,linen),still,linen,down-right,cutting mat,right,cutting pad,up-left,book,down-right,lace,up-left,rubik cube,down-right,seed bead embroidery,up,toothbrush,left,pair of scissors)
+two hand object:((None,None),none,none,pair of scissors,down,cutting pad,up-left,book,down-right,lace,up-left,rubik cube,down,cutting mat,up-right,seed bead embroidery,left,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-left → down-left → down-right → right → up → up-left → up → up (object: book → lace → paper tablemat → seed bead embroidery → paint brush)
+Right hand: down-right → down-right → down-right → up-left → down-right → up-left → down-right → up → up (object: pair of scissors → book → lace → seed bead embroidery → rubik cube → toothbrush → linen → cutting pad → cutting mat)
+Two-hand object: pair of scissors → book → lace → seed bead embroidery → rubik cube → cutting pad → cutting mat

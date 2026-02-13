@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1117,700),up-left,up-left,down-right,up-left,down-right,right,down-right,down,up-left)
+right hand:((1390,710),right,left,right,down,left,right,right,down,left)
+left hand object:((1252,664,sink),down,rolling tray,up-left,rolling tray,down-left,tray,up-left,toothbrush,right,toothbrush,right,spoon,down-right,sink,right,sink,down,sink)
+right hand object:((1252,664,sink),down,rolling tray,up-left,rolling tray,down,rolling tray,down-right,scouring pad,left,sink,right,sink,up-left,sink,right,glove,down-left,sink)
+two hand object:((954,540,kitchen workbench),still,kitchen workbench,left,kitchen workbench,right,kitchen workbench,right,sink,down-left,sink,right,sink,up-left,sink,still,sink,up-left,kitchen workbench)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-left → down-right → up-left → down-right → right → down-right → down → up-left (object: tray → sink → rolling tray → spoon → toothbrush)
+Right hand: right → left → right → down → left → right → right → down → left (object: rolling tray → scouring pad → sink → glove)
+Two-hand object: kitchen workbench → sink

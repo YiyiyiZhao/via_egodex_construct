@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((948,526),right,left,up,left,right,none,none,right,down-left,down-left,up-right,up,down,up-right,down-left,right,left,down)
+right hand:((1787,982),up-left,none,none,up-left,none,none,none,down-left,down,none,none,none,down,none,none,none,none,left)
+left hand object:((1300,290,linen),down,tissue paper,up-right,linen,down-left,towel,down-right,napkin,left,room,none,none,bed,up,room,down,bed,still,bed,right,linen,left,bed,down,bed,up,fidget spinner ring,down,napkin,right,napkin,down-left,desk,down,desk)
+right hand object:((960,676,bed),right,tissue paper,none,none,towel,up-right,linen,none,none,none,bed,up,room,down,bed,none,none,none,bed,down,bed,none,none,napkin,none,none,desk,down,desk)
+two hand object:((960,676,bed),still,desk,none,none,towel,down-right,napkin,none,none,none,bed,up,room,down,bed,none,none,none,bed,down,bed,none,none,bed,none,none,desk,down,desk)
+
+
+## LLM-Friendly Format:
+Left hand: right → left → up → left → right → none → none → right → down-left → down-left → up-right → up → down → up-right → down-left → right → left → down (object: towel → room → tissue paper → napkin → desk → linen → bed → fidget spinner ring)
+Right hand: up-left → none → none → up-left → none → none → none → down-left → down → none → none → none → down → none → none → none → none → left (object: towel → room → tissue paper → napkin → desk → linen → bed)
+Two-hand object: towel → room → napkin → desk → bed

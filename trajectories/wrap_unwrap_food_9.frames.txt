@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((790,579),right,up-left,still,down-right,down,up-left,left,down-right,down-left,right,up-right,up-left,down,down-left)
+right hand:((1512,582),left,down-left,down,right,none,none,down,down-right,down-right,down,up-left,up-left,right,down-right)
+left hand object:((1174,804,chapati),down-right,crepe,left,paper tablemat,still,bed,right,sandwich,up-left,sponge cloth,left,sponge cloth,down,chapati,right,ice cream,right,sponge cloth,up-left,crepe,up,flatbread,still,chapati,down,sponge cloth,up-left,sponge cloth)
+right hand object:((1348,560,rolling tray),up-left,sponge cloth,down-left,sponge cloth,down-left,chapati,left,sandwich,none,none,chapati,up,crepe,right,ice cream,right,crepe,up-left,crepe,up,chapati,still,flatbread,down,sponge cloth,up-left,sponge cloth)
+two hand object:((1176,804,crepe),up,linen,down,sponge cloth,down-left,chapati,left,paper tablemat,none,none,sponge cloth,down-left,paper tablemat,right,ice cream,right,crepe,up-left,crepe,up,sponge cloth,still,sponge cloth,down,sponge cloth,up-left,sponge cloth)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → still → down-right → down → up-left → left → down-right → down-left → right → up-right → up-left → down → down-left (object: crepe → paper tablemat → ice cream → sponge cloth → flatbread → chapati → bed → sandwich)
+Right hand: left → down-left → down → right → none → none → down → down-right → down-right → down → up-left → up-left → right → down-right (object: crepe → ice cream → sponge cloth → rolling tray → flatbread → chapati → sandwich)
+Two-hand object: crepe → paper tablemat → ice cream → sponge cloth → chapati → linen

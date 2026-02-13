@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((814,606),right,down,down-right,down,down-right,left,up-left)
+right hand:((1304,594),right,left,down-right,down-left,up-right,left,down-right)
+left hand object:((None,None),none,linen,down,napkin,down-right,microfiber cloth,down,napkin,down-right,towel,left,microfiber cloth,left,wristwatch)
+right hand object:((None,None),none,bottle,left,bottle,down-right,bottle,still,bottle,still,bottle,up-left,linen,down-right,bottle)
+two hand object:((None,None),none,room,up-right,linen,down-right,linen,still,linen,right,linen,left,linen,down-right,linen)
+
+
+## LLM-Friendly Format:
+Left hand: right → down → down-right → down → down-right → left → up-left (object: towel → napkin → linen → wristwatch → microfiber cloth)
+Right hand: right → left → down-right → down-left → up-right → left → down-right (object: bottle → linen)
+Two-hand object: linen → room

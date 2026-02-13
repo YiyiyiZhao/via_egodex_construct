@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((894,910),up,up-left,up-right,down-right,left,up-left,down-right,right,down-right,still,left,up-left,left,right,down-right,right,left,down-left,down,down,down,still,still,still)
+right hand:((1293,956),up-right,left,down-left,down-left,still,left,down-right,right,down,still,still,still,left,right,down-right,right,up-left,right,down-right,still,up-right,right,right,down-left)
+left hand object:((810,861,toothpaste),up,toothpaste,up-right,room,down,table,right,card,left,card,up-left,card,down-right,desk,up-left,remote control,down-right,remote control,still,remote control,left,pair of scissors,up-left,instruction manual,left,remote control,right,toothbrush,down-right,toothbrush,right,remote control,left,remote control,down-left,remote control,down-right,toothpaste,still,toothpaste,down-left,desk,up-right,toothpaste,up,toothpaste,down-left,desk)
+right hand object:((1318,814,cup),up-right,pair of scissors,left,toothbrush,down-right,cup,down-left,cup,up-left,cup,left,tweezer,down-right,pencil,right,toothbrush,down,pencil,still,toothbrush,still,toothbrush,right,cup,left,pair of scissors,right,cup,left,toothbrush,down,toothbrush,right,cup,up,cup,down-left,toothbrush,down-right,toothbrush,up,toothbrush,down-right,cup,up,cup,up,cup)
+two hand object:((959,868,desk),still,desk,up,room,down,table,still,countertop,up-right,remote control,right,desk,still,desk,left,table,right,pencil,still,toothbrush,still,toothbrush,left,table,right,desk,none,none,countertop,none,none,countertop,up,room,down,table,still,desk,up,room,down,desk,up-left,desk,right,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-left → up-right → down-right → left → up-left → down-right → right → down-right → still → left → up-left → left → right → down-right → right → left → down-left → down → down → down → still → still → still (object: toothpaste → room → pair of scissors → table → card → toothbrush → desk → remote control → instruction manual)
+Right hand: up-right → left → down-left → down-left → still → left → down-right → right → down → still → still → still → left → right → down-right → right → up-left → right → down-right → still → up-right → right → right → down-left (object: pair of scissors → pencil → toothbrush → cup → tweezer)
+Two-hand object: room → countertop → table → pencil → toothbrush → desk → remote control

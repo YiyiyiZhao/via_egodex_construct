@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1030,872),down-right,up-left,down-left,down-left,up,still,down-right,up-left,still)
+right hand:((1326,597),down-left,still,down-left,left,up,up-right,left,still,up-right)
+left hand object:((1085,792,tweezer),still,tweezer,still,scissors,up,paint brush,down,toothbrush,up-left,remote control,down-right,pair of scissors,right,pair of scissors,up-left,hair straightener,left,scissors)
+right hand object:((1085,792,tweezer),still,tweezer,still,scissors,up-left,bed,still,bed,down-right,pair of scissors,down-left,pair of scissors,right,pair of scissors,up-right,pair of scissors,down-left,tongs)
+two hand object:((1083,792,pair of scissors),still,tongs,up-left,bed,still,bed,down-right,paint brush,up-right,pair of scissors,up-left,bed,down-right,pair of scissors,still,pair of scissors,left,pair of scissors)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → down-left → down-left → up → still → down-right → up-left → still (object: pair of scissors → hair straightener → paint brush → scissors → toothbrush → remote control → tweezer)
+Right hand: down-left → still → down-left → left → up → up-right → left → still → up-right (object: pair of scissors → tongs → scissors → bed → tweezer)
+Two-hand object: paint brush → tongs → bed → pair of scissors

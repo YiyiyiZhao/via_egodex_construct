@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((428,779),right,up-left,down-right,up,down,down-left,up-left,right,down,down,down-right,up,up-left,down,down,up-left,right)
+right hand:((None,None),none,down-left,up-right,up,left,up-right,right,down-right,left,up,down,up-left,left,up-right,up-right,down-left,up)
+left hand object:((978,811,desk),up,desk,up,engraving tool,down-left,crayon,up-right,cardboard box,down,scissors,down-left,crayon,up,counter,up,desk,down,counter,down-left,counter,right,pair of scissors,up,cardboard box,down,cardboard box,down,engraving tool,up,box,down-left,countertop,up-right,glove)
+right hand object:((None,None),none,banana,left,desk,down,desk,up-right,toothbrush,left,storage box,up-left,storage box,down-right,banana,left,desk,down,counter,down-left,counter,right,pair of scissors,up,cardboard box,down,cardboard box,up-left,cardboard box,up-right,toothbrush,down-left,countertop,up-right,glove)
+two hand object:((None,None),none,countertop,up,desk,down,desk,still,counter,still,counter,up,desk,down,counter,up,desk,down,counter,down-left,counter,right,countertop,up,cardboard box,down,toothbrush,down-left,counter,none,none,kitchen,down-left,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → down-right → up → down → down-left → up-left → right → down → down → down-right → up → up-left → down → down → up-left → right (object: glove → pair of scissors → engraving tool → countertop → crayon → counter → scissors → desk → cardboard box → box)
+Right hand: none → down-left → up-right → up → left → up-right → right → down-right → left → up → down → up-left → left → up-right → up-right → down-left → up (object: glove → pair of scissors → countertop → counter → storage box → toothbrush → desk → cardboard box → banana)
+Two-hand object: countertop → counter → toothbrush → desk → cardboard box → kitchen

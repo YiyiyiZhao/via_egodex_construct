@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((848,924),up-right,up-right,right,down-left,still,still,still,right,still,still,still,still,up,still,still,up-left,left)
+right hand:((1488,970),up,left,up,down,up,up,still,down,up-right,left,still,still,up-right,right,left,right,up-right)
+left hand object:((960,893,desk),up,desk,up-right,toothbrush,up-left,room,down,fidget spinner ring,down-left,rubik cube,up,fidget spinner ring,still,fidget spinner ring,still,fidget spinner ring,right,remote control,still,remote control,left,desk,right,remote control,up-left,fidget spinner ring,down-right,remote control,left,desk,still,desk,still,desk)
+right hand object:((960,893,desk),up,desk,up-right,toothbrush,up-left,room,still,room,down,desk,right,remote control,left,desk,still,desk,right,phone,still,remote control,left,desk,right,remote control,up-left,room,down-right,remote control,left,desk,still,desk,still,desk)
+two hand object:((960,893,desk),up,desk,up-right,toothbrush,up-left,room,still,room,still,room,down-right,remote control,left,desk,up,room,down-right,remote control,left,desk,up,room,down-right,remote control,up-left,room,down-right,remote control,left,desk,still,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → right → down-left → still → still → still → right → still → still → still → still → up → still → still → up-left → left (object: room → rubik cube → toothbrush → desk → remote control → fidget spinner ring)
+Right hand: up → left → up → down → up → up → still → down → up-right → left → still → still → up-right → right → left → right → up-right (object: room → toothbrush → phone → desk → remote control)
+Two-hand object: remote control → toothbrush → desk → room

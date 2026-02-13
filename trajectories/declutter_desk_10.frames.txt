@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1114,970),left,down-right,up-left,up-right,down-right,down-right,up-left,down,up,up,left,up-left,right,left,up-left)
+right hand:((1556,822),left,up-right,up-right,up-right,down-left,up,down-left,up-right,up,down-left,up-right,down,left,right,right)
+left hand object:((1437,866,cutting mat),left,cardboard box,right,laptop,right,box,still,box,left,bed,right,box,left,bed,left,bed,right,box,left,bed,right,bed,right,box,left,bed,right,box,left,bed)
+right hand object:((1437,866,cutting mat),right,cutting pad,left,laptop,right,box,up-right,fidget spinner ring,down-left,bed,up-right,towel,down-left,bed,left,bed,up-right,architectural craft manual,down-left,bed,none,none,flask,left,bed,right,bottle,left,bed)
+two hand object:((961,810,desk),still,desk,right,box,right,box,none,none,bed,none,none,bed,right,cardboard box,none,none,bed,none,none,bed,up-right,bed,right,bottle,down-right,shopping bucket)
+
+
+## LLM-Friendly Format:
+Left hand: left → down-right → up-left → up-right → down-right → down-right → up-left → down → up → up → left → up-left → right → left → up-left (object: laptop → cardboard box → bed → cutting mat → box)
+Right hand: left → up-right → up-right → up-right → down-left → up → down-left → up-right → up → down-left → up-right → down → left → right → right (object: towel → flask → laptop → bottle → bed → architectural craft manual → cutting mat → cutting pad → fidget spinner ring → box)
+Two-hand object: shopping bucket → bottle → desk → bed → cardboard box → box

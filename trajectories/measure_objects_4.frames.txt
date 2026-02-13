@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((650,714),right,up-left,up,right,up-left,down-right,down,up-left,right,up-left,down-right,left,right,down,left)
+right hand:((1821,849),left,up-right,up,down-left,up-right,left,left,up-right,down-left,down,right,up-right,up,down-left,right)
+left hand object:((None,None),none,instruction manual,left,counter,right,counter,down-left,counter,up-left,fidget spinner ring,down-right,desk,right,instruction manual,left,countertop,right,rolling tray,up-right,rolling tray,right,instruction manual,left,rolling tray,up,rolling tray,up-right,rolling tray,down-left,rolling tray)
+right hand object:((None,None),none,instruction manual,left,counter,right,book,left,counter,right,ruler,down-left,rolling tray,up-left,card,left,countertop,right,instruction manual,left,toothbrush,right,rolling tray,left,instruction manual,up,box,down-right,phone,left,book)
+two hand object:((None,None),none,book,left,counter,right,instruction manual,down-left,instruction manual,none,none,book,up-left,rolling tray,left,countertop,right,instruction manual,up-right,instruction manual,up-right,instruction manual,left,rolling tray,up,rolling tray,up-right,book,down-left,rolling tray)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → up → right → up-left → down-right → down → up-left → right → up-left → down-right → left → right → down → left (object: countertop → counter → rolling tray → desk → instruction manual → fidget spinner ring)
+Right hand: left → up-right → up → down-left → up-right → left → left → up-right → down-left → down → right → up-right → up → down-left → right (object: countertop → book → card → counter → rolling tray → toothbrush → phone → ruler → instruction manual → box)
+Two-hand object: countertop → book → counter → rolling tray → instruction manual

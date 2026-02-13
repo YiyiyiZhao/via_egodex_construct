@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((822,851),up,up-right,right,up-left,right,still,right,left,right,up-right,down,down-right,left,right,down-right,left,up-left,up-left,down,down,down-left,down-right,left,up-left,down-right,up-left)
+right hand:((1530,912),up,up-left,left,up-left,up-right,right,left,left,up-right,left,down-right,up-left,up-left,right,right,left,down-right,down,up,up,up-left,left,right,left,left,right)
+left hand object:((816,692,plate),up,plate,up-left,plate,down-right,desk,up-right,bread,left,desk,up-right,fidget spinner ring,none,none,plate,down-right,countertop,still,countertop,right,flatbread,left,countertop,right,cutting pad,left,countertop,right,paper tablemat,left,countertop,up-left,plate,right,cooking spoon,up-left,fidget spinner ring,left,plate,none,none,countertop,right,table,none,none,countertop,left,table)
+right hand object:((960,796,table),up,desk,up,countertop,still,desk,up-right,bread,up-right,ring,down-left,countertop,none,none,countertop,still,countertop,still,countertop,right,flatbread,left,countertop,right,cutting pad,left,countertop,right,paper tablemat,left,countertop,right,countertop,right,countertop,still,counter,still,countertop,none,none,countertop,right,cutting pad,up-left,dough,left,plate,down-right,table)
+two hand object:((960,796,table),up,desk,up,countertop,still,desk,still,countertop,still,desk,still,countertop,none,none,countertop,still,countertop,still,countertop,still,countertop,still,countertop,still,countertop,left,countertop,right,paper tablemat,left,countertop,right,countertop,right,countertop,still,countertop,still,countertop,none,none,countertop,right,table,none,none,countertop,left,table)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → right → up-left → right → still → right → left → right → up-right → down → down-right → left → right → down-right → left → up-left → up-left → down → down → down-left → down-right → left → up-left → down-right → up-left (object: countertop → table → paper tablemat → cooking spoon → flatbread → desk → plate → bread → cutting pad → fidget spinner ring)
+Right hand: up → up-left → left → up-left → up-right → right → left → left → up-right → left → down-right → up-left → up-left → right → right → left → down-right → down → up → up → up-left → left → right → left → left → right (object: countertop → table → paper tablemat → flatbread → counter → ring → desk → plate → bread → cutting pad → dough)
+Two-hand object: table → paper tablemat → desk → countertop

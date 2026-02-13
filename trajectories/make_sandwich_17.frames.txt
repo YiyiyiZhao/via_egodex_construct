@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((540,702),up,down-right,up,right,right,left,up,down-left,up-right,right,down,left,right,right,up-right)
+right hand:((1340,786),up-left,up-left,down-right,up-right,left,down-right,up-right,down-left,up-right,left,down-left,right,down-right,up-left,down-left)
+left hand object:((499,386,linen),up,linen,still,linen,up,linen,down-right,pair of scissors,left,masking tape,down-right,tablemat,up-left,plate,left,sponge cloth,up-left,linen,right,envelope,still,envelope,left,linen,down-right,sponge,up-right,card sleeve,left,envelope)
+right hand object:((1172,733,sponge cloth),down,sponge cloth,left,bed,right,plate,still,plate,left,plate,up-right,plate,still,plate,still,plate,down-left,plate,none,none,plate,none,none,plate,up-left,bed,down-right,plate)
+two hand object:((842,796,bed),left,bed,left,bed,right,bed,right,plate,left,plate,left,bed,none,none,bed,up,bed,none,none,none,none,bed,up-right,bed,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-right → up → right → right → left → up → down-left → up-right → right → down → left → right → right → up-right (object: pair of scissors → envelope → sponge → masking tape → sponge cloth → tablemat → linen → plate → card sleeve)
+Right hand: up-left → up-left → down-right → up-right → left → down-right → up-right → down-left → up-right → left → down-left → right → down-right → up-left → down-left (object: sponge cloth → plate → bed)
+Two-hand object: plate → bed

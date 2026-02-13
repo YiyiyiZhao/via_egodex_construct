@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((618,1007),up-right,up-left,right,right,left,up-left,right,left,right,right,up,still,up-right,down-left,right,up-left)
+right hand:((1746,990),up-left,right,up,left,up-right,up-right,down-left,right,up,up-left,down-left,right,right,up-right,down-right,up-right)
+left hand object:((1094,884,kitchen countertop),up-right,box,left,countertop,right,counter,up-right,rolling tray,left,kitchen workbench,right,kitchen workbench,up-right,rolling tray,left,desk,up,tablet,up,rolling tray,up-right,rolling tray,still,rolling tray,down,rolling tray,down-left,counter,up,countertop,down,countertop)
+right hand object:((1094,884,kitchen countertop),up-right,box,up,ruler,right,ruler,down-left,rolling tray,up-left,box,down,kitchen workbench,up-right,rolling tray,right,fidget spinner ring,left,counter,up-right,scissors,left,rolling tray,still,rolling tray,down,rolling tray,down-right,paint brush,right,fidget spinner ring,left,toothbrush)
+two hand object:((1094,884,kitchen countertop),up-left,countertop,up,countertop,left,countertop,right,cutting pad,up-left,box,left,countertop,right,rolling tray,left,countertop,up-right,box,up-right,scissors,left,rolling tray,still,rolling tray,down-left,countertop,down-right,counter,still,counter,still,counter)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-left → right → right → left → up-left → right → left → right → right → up → still → up-right → down-left → right → up-left (object: kitchen workbench → countertop → kitchen countertop → counter → rolling tray → desk → tablet → box)
+Right hand: up-left → right → up → left → up-right → up-right → down-left → right → up → up-left → down-left → right → right → up-right → down-right → up-right (object: kitchen workbench → kitchen countertop → paint brush → rolling tray → counter → scissors → toothbrush → ruler → fidget spinner ring → box)
+Two-hand object: countertop → kitchen countertop → rolling tray → scissors → counter → cutting pad → box

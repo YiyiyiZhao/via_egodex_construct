@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1025,694),down-right,up,still,down-left,left,left,left)
+right hand:((1408,982),still,still,still,still,still,still,still)
+left hand object:((1146,732,jenga block),down-right,cutting pad,up-left,cutting pad,left,cutting pad,still,cutting pad,up-left,jenga block,down-left,countertop,up-left,paper towel)
+right hand object:((1058,776,countertop),right,cutting pad,up-left,cutting pad,left,cutting pad,still,cutting pad,still,cutting pad,still,sink,still,sink)
+two hand object:((1058,776,countertop),right,cutting pad,up-left,room,down-right,cutting pad,still,cutting pad,still,cutting pad,left,countertop,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up → still → down-left → left → left → left (object: jenga block → paper towel → cutting pad → countertop)
+Right hand: still → still → still → still → still → still → still (object: sink → cutting pad → countertop)
+Two-hand object: cutting pad → room → countertop

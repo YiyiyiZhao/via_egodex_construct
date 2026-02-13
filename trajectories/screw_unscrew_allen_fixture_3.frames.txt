@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1871,812),up-left,down-left,still,down-right,down-right,up,up-right,down,up-left,down-right,up-left,left,down,up-left,down-right,up,down,down,up-left,up-right)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1346,909,blanket),up,phone,down-left,phone,up-right,measuring tool,right,pair of scissors,down-left,bed,still,bed,down,bed,up-right,paint brush,left,toothbrush,right,pencil,up-left,scissor,left,phone,down-left,bed,up-right,pen,down-left,bed,up-right,toothbrush,down-left,bed,up-right,phone,up-right,hair straightener,up-right,pen)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → down-left → still → down-right → down-right → up → up-right → down → up-left → down-right → up-left → left → down → up-left → down-right → up → down → down → up-left → up-right (object: pair of scissors → measuring tool → pencil → hair straightener → paint brush → toothbrush → phone → bed → pen → blanket → scissor)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

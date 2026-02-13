@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((404,701),still,up,up-right,right,right,left,left)
+right hand:((1671,812),up-left,left,down-left,up-left,left,down-left,right)
+left hand object:((684,670,sink),left,metal rod,up,metal rod,right,container lid,right,sink,right,rolling tray,left,bowl,down-left,rolling tray)
+right hand object:((1086,757,countertop),right,counter,down-right,remote control,right,piece of pepper,up-left,touchpad,left,toothbrush,left,bowl,right,scouring pad)
+two hand object:((1086,757,countertop),up-right,desk,up,desk,left,counter,left,countertop,up-left,rolling tray,down-right,countertop,right,counter)
+
+
+## LLM-Friendly Format:
+Left hand: still → up → up-right → right → right → left → left (object: sink → bowl → container lid → rolling tray → metal rod)
+Right hand: up-left → left → down-left → up-left → left → down-left → right (object: countertop → touchpad → piece of pepper → scouring pad → bowl → counter → toothbrush → remote control)
+Two-hand object: counter → desk → rolling tray → countertop

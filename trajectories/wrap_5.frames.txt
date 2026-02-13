@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1098,660),up-right,up-left,right,right,down-left,up-right,still,left,down)
+right hand:((1320,730),still,up,up,down-right,up-left,down-right,still,down-right,up-left)
+left hand object:((1172,647,remote control),still,remote control,still,remote control,right,remote control,still,board game,down-right,rolling tray,still,rolling tray,left,rolling tray,still,instruction manual,right,toothbrush)
+right hand object:((1172,647,remote control),still,remote control,still,rubik cube,right,rolling tray,still,board game,down-right,remote control,up,rolling tray,still,board game,still,instruction manual,right,toothbrush)
+two hand object:((1172,647,remote control),still,remote control,still,remote control,right,remote control,still,remote control,down-right,remote control,still,remote control,still,rolling tray,still,remote control,right,toothbrush)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-left → right → right → down-left → up-right → still → left → down (object: board game → rolling tray → toothbrush → remote control → instruction manual)
+Right hand: still → up → up → down-right → up-left → down-right → still → down-right → up-left (object: board game → rolling tray → rubik cube → toothbrush → remote control → instruction manual)
+Two-hand object: rolling tray → remote control → toothbrush

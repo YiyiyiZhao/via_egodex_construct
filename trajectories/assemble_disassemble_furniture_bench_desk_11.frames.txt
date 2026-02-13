@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((772,713),up-right,still,still,still,still,down-left,still)
+right hand:((1420,707),left,right,left,right,down-right,right,right)
+left hand object:((1074,774,sewing machine),down-right,rolling tray,up,box,down,rolling tray,up,box,still,sewing machine,down,rolling tray,up-left,rolling tray)
+right hand object:((1074,774,sewing machine),up-right,envelope,down-left,box,down,rolling tray,up,box,still,sewing machine,right,countertop,still,countertop)
+two hand object:((1074,774,sewing machine),down-right,rolling tray,up,box,down,rolling tray,up,box,still,sewing machine,down,rolling tray,right,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → still → still → still → still → down-left → still (object: sewing machine → rolling tray → box)
+Right hand: left → right → left → right → down-right → right → right (object: countertop → sewing machine → envelope → box → rolling tray)
+Two-hand object: sewing machine → rolling tray → countertop → box

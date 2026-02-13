@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((792,828),right,up-left,down-right,down,up,down-left,down-left)
+right hand:((1420,926),left,right,right,none,none,up-left,right)
+left hand object:((806,809,bed),right,rolling tray,left,rolling tray,right,sketchbook,down-left,bed,up-left,bed,right,microfiber cloth,left,rolling tray)
+right hand object:((806,809,bed),right,rolling tray,left,bed,still,bed,none,none,bed,right,microfiber cloth,left,bed)
+two hand object:((1093,858,rolling tray),up-right,rolling tray,left,rolling tray,right,sketchbook,none,none,bed,right,sketchbook,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → down-right → down → up → down-left → down-left (object: rolling tray → sketchbook → microfiber cloth → bed)
+Right hand: left → right → right → none → none → up-left → right (object: rolling tray → microfiber cloth → bed)
+Two-hand object: rolling tray → sketchbook → bed

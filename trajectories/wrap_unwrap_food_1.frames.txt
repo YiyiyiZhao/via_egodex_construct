@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((851,509),right,left,down-left,right,left,left,right,down-right,down-right,up-left,up-right,down,up)
+right hand:((1714,508),left,down-right,none,none,up-left,down-left,up-right,left,right,left,up-left,down-right,up-left)
+left hand object:((1278,765,cutting mat),right,cutting mat,up-left,cutting mat,left,cutting pad,up,sponge cloth,down,cutting pad,left,cutting mat,up,fidget spinner ring,down-left,countertop,still,bed,right,pancake,up-left,plate,up,plate,down-right,toothbrush)
+right hand object:((1278,765,cutting mat),right,cutting mat,up,sponge cloth,none,none,sponge cloth,right,sponge cloth,down-left,cutting pad,up-left,room,down,countertop,still,bed,right,sponge cloth,still,sponge cloth,none,none,toothbrush)
+two hand object:((1278,765,cutting mat),right,cutting mat,up-left,cutting mat,none,none,sponge cloth,down,cutting pad,left,cutting pad,up-left,room,down,countertop,still,bed,down,countertop,right,sponge cloth,none,none,toothbrush)
+
+
+## LLM-Friendly Format:
+Left hand: right → left → down-left → right → left → left → right → down-right → down-right → up-left → up-right → down → up (object: countertop → plate → sponge cloth → pancake → toothbrush → bed → cutting mat → cutting pad → fidget spinner ring)
+Right hand: left → down-right → none → none → up-left → down-left → up-right → left → right → left → up-left → down-right → up-left (object: room → countertop → sponge cloth → toothbrush → bed → cutting pad → cutting mat)
+Two-hand object: room → countertop → sponge cloth → toothbrush → bed → cutting pad → cutting mat

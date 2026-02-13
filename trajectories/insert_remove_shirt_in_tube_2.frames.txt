@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1129,814),down-right,still,still,still,up-left,down-left,up-right,still,up-right,up-left,down,up-right,up,down-left,right,up-left,right,up-left,down-left,down-left,right)
+right hand:((1434,772),up-left,right,up-right,down-left,up-left,up,down-right,right,down-right,none,none,none,none,none,right,down-right,up-left,up,down-right,up-left,down-right)
+left hand object:((818,825,towel),right,bottle,up-right,bottle,left,towel,right,flask,left,towel,still,towel,up-right,towel,still,towel,right,cup,left,bed,up-right,bottle,left,towel,up,bag,up-right,glove,down-right,cup,up-left,cup,down-right,flask,left,bed,right,salt can,down-left,desk,up-right,salt can)
+right hand object:((958,832,bed),right,flask,up-right,bottle,left,bed,right,flask,left,bed,none,none,bed,up-right,linen,down-left,bed,none,none,bottle,none,none,none,glove,down-right,cup,right,tomato,left,flask,left,bed,down,bed,up-right,linen,down,salt can)
+two hand object:((958,832,bed),still,bed,right,bottle,left,bed,right,bottle,left,bed,none,none,bed,still,bed,still,bed,none,none,bottle,none,none,none,bed,still,bed,still,bed,still,bed,still,bed,down,bed,down,desk,up,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → still → still → still → up-left → down-left → up-right → still → up-right → up-left → down → up-right → up → down-left → right → up-left → right → up-left → down-left → down-left → right (object: towel → glove → bag → flask → bottle → cup → bed → desk → salt can)
+Right hand: up-left → right → up-right → down-left → up-left → up → down-right → right → down-right → none → none → none → none → none → right → down-right → up-left → up → down-right → up-left → down-right (object: glove → flask → bottle → linen → bed → cup → salt can → tomato)
+Two-hand object: desk → bottle → bed

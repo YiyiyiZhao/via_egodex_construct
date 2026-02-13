@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1723,739),up,down-left,down-right,left,right,left,up-right,up-right,down-left,right,still,up-right,up-right,down-left,up-right,left,up-left,down-left)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((936,850,bed),up,bed,right,phone,right,pair of scissors,left,instruction manual,up,rolling tray,up-right,laptop,down-left,rolling tray,up,phone,right,remote control,down-left,rolling tray,up-left,rolling tray,left,bed,right,laptop,up,phone,up-right,pair of scissors,down-left,toothbrush,down-left,phone,down-left,phone)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-left → down-right → left → right → left → up-right → up-right → down-left → right → still → up-right → up-right → down-left → up-right → left → up-left → down-left (object: pair of scissors → rolling tray → toothbrush → phone → laptop → bed → remote control → instruction manual)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

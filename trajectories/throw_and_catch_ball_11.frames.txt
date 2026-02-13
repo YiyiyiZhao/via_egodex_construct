@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((918,970),left,up-right,up,down,right,right,up,left,right)
+right hand:((None,None),none,none,none,still,none,none,none,none,none)
+left hand object:((936,937,plastic ball),up,room,left,wall,none,none,plastic ball,down-left,plastic ball,right,plastic ball,up,ball,left,tennis ball,down,floor)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → up-right → up → down → right → right → up → left → right (object: floor → room → plastic ball → tennis ball → ball → wall)
+Right hand: none → none → none → still → none → none → none → none → none (object: none)

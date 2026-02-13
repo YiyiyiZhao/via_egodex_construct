@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1096,988),up,up-left,up-right,down-right,up,left,up-right,down,up-right,down-left,left,right,down-left,down-right)
+right hand:((1418,993),up-left,up-left,none,none,left,down,up-left,down-right,none,none,left,left,down-right,right)
+left hand object:((978,816,table),up-right,countertop,left,countertop,up-right,yoghurt cup,right,cup,up-left,mug,down-left,table,up-right,cup,down-left,plate,up-right,linen,down,mug,left,table,up-left,yoghurt cup,down-right,table,down-right,table)
+right hand object:((978,816,table),up-right,countertop,up-right,yoghurt cup,none,none,mug,up-left,mug,down,plate,up-left,mug,right,cup,none,none,cup,left,cup,left,yoghurt cup,down-right,plate,right,plate)
+two hand object:((978,816,table),up,desk,left,countertop,none,none,countertop,still,counter,up,table,still,counter,up,table,none,none,yoghurt cup,left,table,up-left,yoghurt cup,down-right,table,down-right,table)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-left → up-right → down-right → up → left → up-right → down → up-right → down-left → left → right → down-left → down-right (object: linen → countertop → table → cup → yoghurt cup → mug → plate)
+Right hand: up-left → up-left → none → none → left → down → up-left → down-right → none → none → left → left → down-right → right (object: countertop → table → cup → yoghurt cup → mug → plate)
+Two-hand object: countertop → desk → table → yoghurt cup → counter

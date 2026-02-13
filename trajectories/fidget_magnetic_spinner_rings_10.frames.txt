@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((818,686),right,up,right,still,left,up,still,still,still,up,still,down-right,still,up,left,down-right,up,down-left,still,left,down-right,up,left,right,up-right)
+right hand:((1520,748),left,left,right,left,up-left,still,left,still,up,down-right,still,up-right,right,left,up,still,still,up-left,right,left,still,still,up-right,left,down-right)
+left hand object:((963,822,bed),down,bed,up-right,fidget spinner ring,down-left,bed,still,bed,down,bed,up,bed,still,bed,up-right,fidget spinner ring,right,phone,down-left,bed,up-right,fidget spinner ring,right,phone,down-left,bed,still,bed,still,bed,up-right,phone,down-left,bed,still,bed,still,bed,still,bed,up-right,phone,down-left,bed,still,bed,still,bed,up-right,fidget spinner ring)
+right hand object:((963,822,bed),down,bed,still,bed,still,bed,still,bed,down,bed,up,bed,still,bed,up-right,fidget spinner ring,right,phone,down-left,bed,up-right,fidget spinner ring,right,phone,down-left,bed,still,bed,still,bed,up-right,phone,down-left,bed,still,bed,still,bed,still,bed,up-right,phone,down-left,bed,still,bed,still,bed,up-right,fidget spinner ring)
+two hand object:((963,822,bed),up,room,down,bed,still,bed,still,bed,down,bed,up,bed,still,bed,up-right,fidget spinner ring,down-left,bed,still,bed,up-right,fidget spinner ring,right,phone,down-left,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,up-right,fidget spinner ring)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → right → still → left → up → still → still → still → up → still → down-right → still → up → left → down-right → up → down-left → still → left → down-right → up → left → right → up-right (object: phone → fidget spinner ring → bed)
+Right hand: left → left → right → left → up-left → still → left → still → up → down-right → still → up-right → right → left → up → still → still → up-left → right → left → still → still → up-right → left → down-right (object: phone → fidget spinner ring → bed)
+Two-hand object: fidget spinner ring → phone → room → bed

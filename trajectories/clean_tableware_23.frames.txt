@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((897,812),down-right,up-left,left,down-right,left,down-left,right,right,still)
+right hand:((1196,830),up-right,right,left,up-right,right,down-left,up,left,right)
+left hand object:((970,842,pair of scissors),up,pair of pliers,left,pair of scissors,down-right,pair of scissors,up-left,pair of scissors,down-right,pair of scissors,down,pair of scissors,down-right,pair of scissors,right,pair of scissors,left,pair of scissors)
+right hand object:((970,842,pair of scissors),up-right,scissors,down-left,desk,left,pair of scissors,right,desk,right,tweezer,left,sponge cloth,left,desk,right,pair of scissors,left,desk)
+two hand object:((970,842,pair of scissors),up-right,desk,still,desk,left,pair of scissors,right,desk,still,desk,still,desk,still,desk,right,pair of scissors,left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → left → down-right → left → down-left → right → right → still (object: pair of pliers → pair of scissors)
+Right hand: up-right → right → left → up-right → right → down-left → up → left → right (object: pair of scissors → sponge cloth → scissors → desk → tweezer)
+Two-hand object: desk → pair of scissors

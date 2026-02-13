@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((980,610),down-right,still,up-left,down-left,down,up-right,up,up,right)
+right hand:((1592,720),left,down-right,up-left,up-left,down,down-right,up,right,up-right)
+left hand object:((1287,665,pair of scissors),left,bed,right,scissors,up-left,toothbrush,left,usb drive,down-left,bed,none,none,bottle,right,paint brush,right,toothbrush)
+right hand object:((1286,668,toothbrush),up-right,paint brush,down,toothbrush,up-left,toothbrush,up,toothbrush,down-left,bed,none,none,pair of scissors,left,toothbrush,right,toothbrush)
+two hand object:((1286,668,toothbrush),left,bed,right,toothbrush,up-left,toothbrush,left,bed,down,bed,none,none,bed,up-right,paint brush,right,toothbrush)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → still → up-left → down-left → down → up-right → up → up → right (object: pair of scissors → usb drive → paint brush → scissors → toothbrush → bottle → bed)
+Right hand: left → down-right → up-left → up-left → down → down-right → up → right → up-right (object: paint brush → pair of scissors → toothbrush → bed)
+Two-hand object: paint brush → toothbrush → bed

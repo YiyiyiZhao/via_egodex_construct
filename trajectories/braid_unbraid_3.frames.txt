@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((915,770),up-right,up,left,right,up-left,right,up,left,left,up-right,down-right,left,left,right,left,up-right,up-left)
+right hand:((1656,734),left,up,down-left,right,right,right,down-right,left,none,none,right,down-left,left,up-right,down-right,up,down-left)
+left hand object:((960,786,bed),up,bed,up-right,fidget spinner ring,down-left,bed,up-right,pair of scissors,up-left,paint brush,right,toothbrush,left,tweezer,left,pair of scissors,left,microfiber cloth,right,toothbrush,left,paint brush,down-left,toothbrush,still,toothbrush,up,toothbrush,down-left,bed,up,bed,still,bed)
+right hand object:((960,786,bed),right,ribbon,left,bed,still,bed,up-right,pair of scissors,down-right,fidget spinner ring,left,toothbrush,up-left,scissors,left,desk,none,none,toothbrush,up-left,toothbrush,left,bed,right,pair of scissors,left,bed,right,bed,right,fidget spinner ring,left,bed)
+two hand object:((960,786,bed),up,bed,up,bed,still,bed,right,cutting pad,left,desk,right,toothbrush,left,bed,right,desk,none,none,toothbrush,left,bed,left,bed,right,pair of scissors,left,bed,right,bed,up,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → left → right → up-left → right → up → left → left → up-right → down-right → left → left → right → left → up-right → up-left (object: pair of scissors → paint brush → toothbrush → bed → microfiber cloth → tweezer → fidget spinner ring)
+Right hand: left → up → down-left → right → right → right → down-right → left → none → none → right → down-left → left → up-right → down-right → up → down-left (object: ribbon → pair of scissors → scissors → toothbrush → desk → bed → fidget spinner ring)
+Two-hand object: pair of scissors → toothbrush → desk → bed → cutting pad

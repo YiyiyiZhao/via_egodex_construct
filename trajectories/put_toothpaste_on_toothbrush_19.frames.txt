@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((727,868),right,up-left,down-right,right,up,down-right,left,up,down,down,right,up,up-left,down-right,still,up,down-left)
+right hand:((1486,937),up-left,up-right,down,left,up-right,right,right,up,up-right,down-left,up-left,left,up,up,down-left,up-right,down-right)
+left hand object:((962,832,desk),still,desk,up,remote control,down-right,camera,up-left,architectural craft manual,left,bed,still,bed,up-right,remote control,up-right,sofa,up-right,cardboard box,down-left,remote control,down-right,remote control,still,remote control,left,remote control,right,fidget spinner ring,down-right,desk,still,desk,still,desk)
+right hand object:((962,832,desk),right,cup,up,toothbrush,down,toothbrush,up-right,cup,left,bed,still,bed,right,toothbrush,up,pair of scissors,up,pair of scissors,down,fidget spinner ring,up-left,cup,down,usb drive,up,cup,up,toothbrush,down,cup,still,cup,left,desk)
+two hand object:((962,832,desk),still,desk,none,none,toothbrush,up-right,cup,left,bed,still,bed,up-right,cup,still,cup,still,yoghurt cup,down-left,desk,up-right,cup,up,cup,down-left,bed,right,desk,still,desk,still,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → down-right → right → up → down-right → left → up → down → down → right → up → up-left → down-right → still → up → down-left (object: camera → sofa → desk → cardboard box → bed → architectural craft manual → remote control → fidget spinner ring)
+Right hand: up-left → up-right → down → left → up-right → right → right → up → up-right → down-left → up-left → left → up → up → down-left → up-right → down-right (object: pair of scissors → usb drive → toothbrush → desk → cup → bed → fidget spinner ring)
+Two-hand object: yoghurt cup → toothbrush → desk → cup → bed

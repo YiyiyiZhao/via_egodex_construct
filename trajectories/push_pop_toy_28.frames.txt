@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1000,800),up,left,up-right,down,up,up,still,up-left,down-left,still,down-right,up-left,still,right,down-left,right,up-left)
+right hand:((1362,773),up-left,left,up-right,down-left,up-right,left,left,up,down-right,left,down-right,up-left,up-right,still,up-right,left,down-right)
+left hand object:((992,874,kitchen countertop),up,desk,up,room,down-right,bowl,down-left,floor,up-right,food container,down-left,countertop,up,kitchen,down-right,plastic ball,down-right,plastic ball,down-left,countertop,up-right,plastic ball,up-left,plastic ball,still,plastic ball,still,plastic ball,up-right,sandwich,down-left,bottle,down-left,countertop)
+right hand object:((992,874,kitchen countertop),up,desk,up,room,down-right,bowl,down-left,floor,up-right,food container,down-left,countertop,up,kitchen,down-right,plastic ball,down-right,plastic ball,down-left,countertop,up-right,plastic ball,up-left,plastic ball,still,plastic ball,still,plastic ball,up-right,sandwich,down-left,bottle,down-left,countertop)
+two hand object:((966,546,kitchen),down,desk,up,room,still,kitchen,down,countertop,up,countertop,still,countertop,up,kitchen,down-right,plastic ball,down-right,plastic ball,up-left,kitchen,down-right,plastic ball,down-left,countertop,up-right,plastic ball,still,plastic ball,down-left,countertop,still,countertop,still,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up → left → up-right → down → up → up → still → up-left → down-left → still → down-right → up-left → still → right → down-left → right → up-left (object: floor → room → countertop → plastic ball → kitchen countertop → bowl → kitchen → desk → bottle → food container → sandwich)
+Right hand: up-left → left → up-right → down-left → up-right → left → left → up → down-right → left → down-right → up-left → up-right → still → up-right → left → down-right (object: floor → room → countertop → plastic ball → kitchen countertop → bowl → kitchen → desk → bottle → food container → sandwich)
+Two-hand object: plastic ball → room → countertop → kitchen → desk

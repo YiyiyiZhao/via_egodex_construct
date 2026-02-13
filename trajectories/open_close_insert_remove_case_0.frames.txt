@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((988,753),up-left,left,up,left,left,right,left,right,up-left,down-right,down-right,right,down-right,left,right,up-left)
+right hand:((1720,993),up-left,up,down,up,down,up-left,down-right,up-left,down-right,up-left,down-right,down-right,right,left,up-right,up)
+left hand object:((1024,824,desk),up-left,fidget spinner ring,left,fidget spinner ring,up,fidget spinner ring,down-right,desk,down,desk,up-left,fidget spinner ring,left,fidget spinner ring,right,fidget spinner ring,up-left,fidget spinner ring,down-right,fidget spinner ring,down-right,table,down,desk,down,table,still,table,up,fidget spinner ring,none)
+right hand object:((1024,824,desk),up,laptop,down-left,laptop,up,laptop,up-left,laptop,down-right,towel,up-left,laptop,down-left,desk,up,linen,down,table,up-right,laptop,down,table,up-right,phone,down-right,suitcase,down,rolling tray,up,laptop,up,linen)
+two hand object:((1024,824,desk),up-left,desk,down,desk,up,desk,up,desk,down,desk,still,desk,still,desk,still,desk,up,table,down,desk,down,table,down,desk,down,desk,still,table,up-left,desk,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → left → up → left → left → right → left → right → up-left → down-right → down-right → right → down-right → left → right → up-left (object: table → desk → fidget spinner ring)
+Right hand: up-left → up → down → up → down → up-left → down-right → up-left → down-right → up-left → down-right → down-right → right → left → up-right → up (object: towel → table → rolling tray → desk → linen → laptop → phone → suitcase)
+Two-hand object: table → desk

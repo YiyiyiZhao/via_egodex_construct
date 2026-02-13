@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((605,708),down-right,right,up-right,down,up-left,right,right,up-left,down,up-left,left,left)
+right hand:((1658,839),up-left,left,down-right,up-right,left,down-right,none,none,right,up-left,down-left,down-right)
+left hand object:((960,802,bed),up,bed,up,bed,still,room,down,card sleeve,right,flower,down-left,bed,down,bed,up,countertop,still,bed,up-right,tongs,down-left,bed,up,bed)
+right hand object:((960,802,bed),up,bed,up,bed,down-right,fidget spinner ring,up,linen,down,flower,down-left,bed,none,none,plate,left,bed,up-right,tongs,down-left,bed,right,pair of scissors)
+two hand object:((960,802,bed),up,bed,up,bed,still,room,none,none,flower,down-left,bed,none,none,countertop,still,bed,up-right,banana,down-left,bed,up,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → right → up-right → down → up-left → right → right → up-left → down → up-left → left → left (object: room → countertop → tongs → bed → card sleeve → flower)
+Right hand: up-left → left → down-right → up-right → left → down-right → none → none → right → up-left → down-left → down-right (object: bed → pair of scissors → tongs → linen → plate → fidget spinner ring → flower)
+Two-hand object: room → countertop → bed → banana → flower

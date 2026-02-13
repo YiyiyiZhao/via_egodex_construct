@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((667,908),up-right,right,right,still,left,down,up,right,up-right,still)
+right hand:((1626,962),up-left,left,up-right,up-right,up-right,up-right,down-left,up-right,up-right,up-right)
+left hand object:((960,781,desk),still,table,right,toothbrush,up-left,desk,up,charging cable,down-right,chopstick,right,remote control,up-left,charging cable,down-right,fidget spinner ring,left,desk,right,remote control)
+right hand object:((960,781,desk),right,remote control,left,toothbrush,up-right,paint brush,still,toothbrush,still,chopstick,up-right,toothbrush,left,desk,still,desk,up,desk,right,remote control)
+two hand object:((960,781,desk),still,desk,right,chopstick,up-right,chopstick,up,chopstick,still,chopstick,up-left,room,down,desk,still,desk,up,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → right → right → still → left → down → up → right → up-right → still (object: table → chopstick → charging cable → toothbrush → desk → remote control → fidget spinner ring)
+Right hand: up-left → left → up-right → up-right → up-right → up-right → down-left → up-right → up-right → up-right (object: chopstick → paint brush → toothbrush → desk → remote control)
+Two-hand object: chopstick → desk → room

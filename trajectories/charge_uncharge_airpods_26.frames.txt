@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1180,640),down,left,up-left,right,down-right,down,up-left)
+right hand:((1694,593),down-left,down-right,down-left,up-left,down-right,still,up-right)
+left hand object:((579,846,piece of clothing),down,piece of clothing,left,piece of clothing,left,piece of clothing,still,piece of clothing,still,piece of clothing,still,piece of clothing,right,toothbrush)
+right hand object:((994,260,linen),right,linen,still,linen,down-right,banana,up-left,linen,still,linen,down-right,apple,left,toothbrush)
+two hand object:((None,None),none,none,none,none,none,none,none,toothbrush)
+
+
+## LLM-Friendly Format:
+Left hand: down → left → up-left → right → down-right → down → up-left (object: piece of clothing → toothbrush)
+Right hand: down-left → down-right → down-left → up-left → down-right → still → up-right (object: banana → toothbrush → apple → linen)
+Two-hand object: toothbrush

@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1343,766),down-left,right,left,still,left,up-right,down-right)
+right hand:((None,None),none,none,none,none,none,none,none)
+left hand object:((1162,706,plate),still,plate,right,tweezer,left,plate,left,bed,right,plate,up-left,plate,down-right,plate)
+right hand object:((None,None),none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → right → left → still → left → up-right → down-right (object: tweezer → bed → plate)
+Right hand: none → none → none → none → none → none → none (object: none)

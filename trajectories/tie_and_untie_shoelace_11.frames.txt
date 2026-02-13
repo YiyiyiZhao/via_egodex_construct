@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((978,818),right,up-left,left,right,still,left,up-left)
+right hand:((1545,794),left,up-left,right,left,still,right,right)
+left hand object:((None,None),none,shoe,left,bed,still,bed,right,tie,left,tie,up,pair of scissors,down-left,wristband)
+right hand object:((1254,846,backpack),left,shoe,left,bed,still,bed,right,tie,left,tie,up,pair of scissors,left,bed)
+two hand object:((None,None),none,shoe,left,bed,still,bed,right,tie,left,tie,up,pair of scissors,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → left → right → still → left → up-left (object: wristband → tie → pair of scissors → shoe → bed)
+Right hand: left → up-left → right → left → still → right → right (object: tie → pair of scissors → shoe → backpack → bed)
+Two-hand object: pair of scissors → shoe → tie → bed

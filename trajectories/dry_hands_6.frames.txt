@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1144,374),down-right,up-left,right,left,down-right,left,down-right,right,up)
+right hand:((1211,538),none,none,right,up-left,right,left,right,left,up)
+left hand object:((960,541,room),up-right,linen,still,linen,down-left,room,still,room,right,toothbrush,up-right,linen,down,toothbrush,down-left,bed,up-left,bed)
+right hand object:((960,541,room),none,none,linen,down-left,room,still,room,right,toothbrush,up-right,linen,down,toothbrush,down-left,bed,up-left,bed)
+two hand object:((960,541,room),none,none,room,still,room,still,room,right,toothbrush,left,room,down,bed,still,bed,up-left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → right → left → down-right → left → down-right → right → up (object: linen → toothbrush → room → bed)
+Right hand: none → none → right → up-left → right → left → right → left → up (object: linen → toothbrush → room → bed)
+Two-hand object: toothbrush → room → bed

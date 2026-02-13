@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1079,869),up-left,down-left,up,down,right,right,down-left,down,left)
+right hand:((1280,794),left,right,up,left,up,down-left,down-right,down,right)
+left hand object:((1293,762,remote control),up-left,instruction manual,still,architectural craft manual,up,sketch manual,down-right,remote control,up-left,sketch manual,right,instruction manual,left,instruction manual,down-right,remote control,up-left,sketch manual)
+right hand object:((1293,762,remote control),up-left,instruction manual,down-left,desk,up-right,sketch manual,down-right,remote control,up-right,toothbrush,up-left,usb drive,down,toothbrush,down,remote control,up-right,usb drive)
+two hand object:((1293,762,remote control),up-left,instruction manual,still,architectural craft manual,up,architectural craft manual,down-left,instruction manual,down-right,instruction manual,right,instruction manual,left,instruction manual,down-right,instruction manual,down-left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → down-left → up → down → right → right → down-left → down → left (object: architectural craft manual → remote control → sketch manual → instruction manual)
+Right hand: left → right → up → left → up → down-left → down-right → down → right (object: usb drive → sketch manual → toothbrush → desk → remote control → instruction manual)
+Two-hand object: architectural craft manual → remote control → desk → instruction manual

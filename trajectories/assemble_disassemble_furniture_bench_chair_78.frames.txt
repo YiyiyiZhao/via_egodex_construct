@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((942,808),up-right,up,up-right,still,still,still,left)
+right hand:((1663,874),down,up-left,up-left,down-right,down-right,up-right,left)
+left hand object:((1170,834,masking tape),up,masking tape,up,sponge cloth,up,napkin,still,instruction manual,still,instruction manual,still,instruction manual,down-left,microfiber cloth)
+right hand object:((1476,958,envelope),left,bed,right,architectural craft manual,up,instruction manual,still,instruction manual,still,sponge cloth,still,instruction manual,down-left,architectural craft manual)
+two hand object:((958,814,bed),still,bed,right,architectural craft manual,up,linen,down,instruction manual,up,linen,down,instruction manual,down-left,architectural craft manual)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → up-right → still → still → still → left (object: sponge cloth → napkin → microfiber cloth → instruction manual → masking tape)
+Right hand: down → up-left → up-left → down-right → down-right → up-right → left (object: sponge cloth → instruction manual → envelope → architectural craft manual → bed)
+Two-hand object: linen → instruction manual → architectural craft manual → bed

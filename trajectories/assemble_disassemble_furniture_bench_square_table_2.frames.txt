@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1056,606),down,up,up-left,still,still,up-left,down-left)
+right hand:((1338,982),still,still,right,still,still,still,still)
+left hand object:((1130,713,jenga block),still,paper container,down-right,plastic model piece,still,plastic model piece,up-left,yoghurt cup,down-right,plastic model piece,still,sewing machine,up-left,toothbrush)
+right hand object:((1314,842,wooden model),still,rolling tray,still,plastic model piece,still,plastic model piece,still,wooden model,still,hot plate,still,plastic model piece,none)
+two hand object:((1314,841,plastic model piece),still,rolling tray,still,plastic model piece,still,plastic model piece,still,plastic model piece,still,sewing machine,still,sewing machine,none)
+
+
+## LLM-Friendly Format:
+Left hand: down → up → up-left → still → still → up-left → down-left (object: yoghurt cup → jenga block → sewing machine → paper container → toothbrush → plastic model piece)
+Right hand: still → still → right → still → still → still → still (object: rolling tray → wooden model → hot plate → plastic model piece)
+Two-hand object: rolling tray → sewing machine → plastic model piece

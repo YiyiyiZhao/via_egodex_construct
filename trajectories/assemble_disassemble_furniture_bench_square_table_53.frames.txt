@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1000,834),still,still,still,still,still,still,still)
+right hand:((1523,608),down-left,up-left,left,down-right,down-left,up-right,down-left)
+left hand object:((984,764,countertop),up-left,countertop,right,plastic model,left,countertop,still,countertop,still,kitchen countertop,still,countertop,still,countertop)
+right hand object:((984,764,countertop),up-left,countertop,right,toothbrush,left,countertop,still,countertop,still,kitchen countertop,still,countertop,still,countertop)
+two hand object:((984,764,countertop),up-left,countertop,still,countertop,still,countertop,still,countertop,still,kitchen countertop,still,countertop,still,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still (object: kitchen countertop → plastic model → countertop)
+Right hand: down-left → up-left → left → down-right → down-left → up-right → down-left (object: kitchen countertop → toothbrush → countertop)
+Two-hand object: kitchen countertop → countertop

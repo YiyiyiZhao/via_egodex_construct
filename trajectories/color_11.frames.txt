@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((736,726),right,right,up-left,still,down,up-left,up,down,up-left,up-right,still,still,still,still,still,down)
+right hand:((1794,850),left,up,up,still,down,left,up,right,left,up-right,up,up-left,still,up-left,still,down-right)
+left hand object:((1037,764,desk),up,book,up-left,sketch manual,up,architectural craft manual,right,sketch manual,down,sketch manual,left,architectural craft manual,right,sketch manual,down,sketch manual,left,architectural craft manual,up-right,architectural craft manual,right,sketch manual,still,sketch manual,still,sketch manual,still,sketch manual,still,sketch manual,down,sketch manual)
+right hand object:((1037,764,desk),up-right,sketch manual,up-right,tweezer,up,crayon,still,toothbrush,down,toothbrush,left,pen,still,pencil,right,tweezer,left,tweezer,up-right,pencil,up-right,pencil,left,tweezer,right,pencil,up-left,pen,still,pencil,down-left,sketch manual)
+two hand object:((1037,764,desk),up-right,cutting pad,up-left,architectural craft manual,up,architectural craft manual,right,architectural craft manual,still,architectural craft manual,up-left,architectural craft manual,up-right,architectural craft manual,down,architectural craft manual,up-left,architectural craft manual,up-right,architectural craft manual,still,architectural craft manual,still,architectural craft manual,still,architectural craft manual,still,architectural craft manual,still,architectural craft manual,down,architectural craft manual)
+
+
+## LLM-Friendly Format:
+Left hand: right → right → up-left → still → down → up-left → up → down → up-left → up-right → still → still → still → still → still → down (object: architectural craft manual → book → sketch manual → desk)
+Right hand: left → up → up → still → down → left → up → right → left → up-right → up → up-left → still → up-left → still → down-right (object: crayon → pencil → sketch manual → toothbrush → desk → pen → tweezer)
+Two-hand object: architectural craft manual → cutting pad → desk

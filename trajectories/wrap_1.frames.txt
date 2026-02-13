@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((998,670),up,down-right,up,left,up-left,down-right,left,up-left,right)
+right hand:((1318,650),up,down,still,down,up-left,down-right,down-left,up-right,down-left)
+left hand object:((1128,674,bed),up,instruction manual,down,book,up,rolling tray,down,instruction manual,down-left,sponge cloth,down,magazine,down,magazine,left,fidget spinner ring,up,fidget spinner ring)
+right hand object:((1128,674,bed),up,instruction manual,down,book,up,rolling tray,down,instruction manual,down-left,sponge cloth,down,architectural craft manual,down-left,card,down,bed,up-right,rubik cube)
+two hand object:((1128,674,bed),up-right,fidget spinner ring,down-right,fidget spinner ring,up,rolling tray,down,rubik cube,down-left,sponge cloth,down,architectural craft manual,down-left,card,down,bed,up-right,sketchbook)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-right → up → left → up-left → down-right → left → up-left → right (object: magazine → book → sponge cloth → rolling tray → bed → fidget spinner ring → instruction manual)
+Right hand: up → down → still → down → up-left → down-right → down-left → up-right → down-left (object: book → card → sponge cloth → rolling tray → rubik cube → bed → architectural craft manual → instruction manual)
+Two-hand object: card → sponge cloth → rolling tray → rubik cube → bed → architectural craft manual → sketchbook → fidget spinner ring

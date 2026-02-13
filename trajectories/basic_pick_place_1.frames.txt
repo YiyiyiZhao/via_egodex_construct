@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((581,806),up-left,up-right,up-right,down-left,down-left,down,down-left)
+right hand:((1742,785),up,left,down-left,down,up-right,down,down-right)
+left hand object:((375,732,metal rod),up,ruler,up-right,metal rod,up-right,metal rod,down,metal rod,down,metal rod,down-right,counter,left,metal rod)
+right hand object:((965,785,desk),up,desk,up-right,trowel,down,remote control,down-left,phone,up-right,tweezer,down,rolling tray,left,desk)
+two hand object:((965,785,desk),up,desk,up,counter,up,desk,down,desk,down,desk,down-left,counter,down-right,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → up-right → down-left → down-left → down → down-left (object: metal rod → counter → ruler)
+Right hand: up → left → down-left → down → up-right → down → down-right (object: trowel → rolling tray → phone → desk → remote control → tweezer)
+Two-hand object: counter → desk

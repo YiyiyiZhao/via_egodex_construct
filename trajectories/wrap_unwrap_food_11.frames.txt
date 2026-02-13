@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((748,582),down-right,left,up-left,down-right,right,left,up-right,down,up-left,down,up,up,down-left,right,up-left,down,down-left,down)
+right hand:((1532,581),left,down,right,left,down-left,still,up,down-right,down-right,up,left,down-left,up-right,up-right,still,down-left,down,down)
+left hand object:((None,None),none,none,countertop,right,paper tablemat,left,paper tablemat,still,countertop,down,paper tablemat,none,none,bed,up-right,container lid,down,tongs,left,fidget spinner ring,none,none,bed,left,piece of clothing,right,bed,still,bed,up-right,egg,down-left,bed)
+right hand object:((1140,239,linen),down,sandwich,down-left,countertop,right,paper tablemat,left,paper tablemat,still,countertop,down,paper tablemat,none,none,bed,still,table,up-right,tongs,up,linen,none,none,bread,up-right,fidget spinner ring,down-left,bed,still,bed,up-right,egg,down-left,bed)
+two hand object:((None,None),none,none,countertop,right,paper tablemat,left,paper tablemat,still,countertop,still,countertop,none,none,bed,up-right,container lid,down-left,countertop,none,none,none,bed,up-right,fidget spinner ring,up-left,linen,down,bed,still,paper tablemat,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → left → up-left → down-right → right → left → up-right → down → up-left → down → up → up → down-left → right → up-left → down → down-left → down (object: countertop → tongs → paper tablemat → egg → container lid → bed → piece of clothing → fidget spinner ring)
+Right hand: left → down → right → left → down-left → still → up → down-right → down-right → up → left → down-left → up-right → up-right → still → down-left → down → down (object: countertop → table → paper tablemat → tongs → egg → linen → bed → bread → sandwich → fidget spinner ring)
+Two-hand object: countertop → paper tablemat → container lid → linen → bed → fidget spinner ring

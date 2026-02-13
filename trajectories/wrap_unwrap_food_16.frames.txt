@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((758,541),still,right,still,up-right,down-right,up-left,up-left,up-right,down,up-left,down-right,left,down-left,right,up-left)
+right hand:((1431,522),down-right,left,down,right,left,up-left,down-left,up-right,right,left,down,down-left,down-left,still,up-left)
+left hand object:((960,752,desk),up-right,linen,down-right,linen,down-left,bed,right,cutting mat,left,countertop,left,table,right,bed,still,countertop,up-right,sponge cloth,left,sponge cloth,down-left,bed,left,bed,down-right,bed,still,bed,up,sandwich)
+right hand object:((960,752,desk),up-right,linen,down-left,bed,up-right,sponge cloth,right,plate,left,countertop,up-right,linen,down-left,banana,up-right,sponge cloth,up-right,linen,down-right,plate,down,plate,still,plate,left,bed,still,bed,up,sandwich)
+two hand object:((960,752,desk),up-right,linen,down-left,bed,still,bed,right,cutting mat,left,countertop,right,sponge cloth,left,bed,still,counter,none,none,sponge cloth,down-left,bed,left,bed,down-right,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → right → still → up-right → down-right → up-left → up-left → up-right → down → up-left → down-right → left → down-left → right → up-left (object: countertop → table → sponge cloth → desk → linen → bed → sandwich → cutting mat)
+Right hand: down-right → left → down → right → left → up-left → down-left → up-right → right → left → down → down-left → down-left → still → up-left (object: bed → countertop → sponge cloth → desk → linen → plate → banana → sandwich)
+Two-hand object: countertop → sponge cloth → counter → desk → linen → bed → cutting mat

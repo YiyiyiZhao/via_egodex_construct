@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((679,860),right,up-right,still,still,down,left,up-left)
+right hand:((1496,978),left,up-left,down-right,up,up-left,down-right,up-right)
+left hand object:((960,800,desk),down-right,cellphone,still,cellphone,down-right,phone,down-left,remote control,down-right,remote control,up-left,bed,up,desk)
+right hand object:((960,800,desk),down-right,phone,still,cellphone,down-right,phone,right,charging cable,left,bed,right,charging cable,left,desk)
+two hand object:((960,800,desk),down-right,cellphone,still,phone,down-right,remote control,still,remote control,up-left,bed,down,bed,up,desk)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-right → still → still → down → left → up-left (object: phone → desk → bed → remote control → cellphone)
+Right hand: left → up-left → down-right → up → up-left → down-right → up-right (object: charging cable → phone → desk → bed → cellphone)
+Two-hand object: phone → desk → bed → remote control → cellphone

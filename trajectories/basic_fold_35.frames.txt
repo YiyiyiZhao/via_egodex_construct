@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((814,863),up,none,none,down-right,down-left,up-left,down,down-left,right,down-left,down,right,left,left,up,down,right)
+right hand:((1536,906),left,none,none,none,down-right,none,none,down,down,right,left,right,left,down-right,up,down-right,left)
+left hand object:((960,808,bed),up,bed,none,none,towel,down,towel,down-left,seed bead embroidery,up-right,linen,left,fidget spinner ring,down-right,bed,up-right,cutting pad,left,bed,down,bed,right,linen,left,paper bag,left,paper bag,down,cutting pad,up-right,sponge cloth,left,sketch manual)
+right hand object:((960,808,bed),up-right,towel,none,none,none,towel,down-right,towel,none,none,linen,left,bed,right,remote control,up,blanket,left,bed,right,linen,left,napkin,left,paper bag,down,sketch manual,up-right,instruction manual,left,sketch manual)
+two hand object:((960,808,bed),up,bed,none,none,none,room,down-right,towel,none,none,linen,left,bed,up-right,cutting pad,left,bed,down,bed,up,room,still,bed,right,paper bag,down,cutting pad,up-left,bed,down-right,architectural craft manual)
+
+
+## LLM-Friendly Format:
+Left hand: up → none → none → down-right → down-left → up-left → down → down-left → right → down-left → down → right → left → left → up → down → right (object: towel → seed bead embroidery → sponge cloth → sketch manual → linen → bed → paper bag → cutting pad → fidget spinner ring)
+Right hand: left → none → none → none → down-right → none → none → down → down → right → left → right → left → down-right → up → down-right → left (object: towel → napkin → sketch manual → linen → bed → paper bag → blanket → remote control → instruction manual)
+Two-hand object: towel → room → architectural craft manual → linen → bed → paper bag → cutting pad

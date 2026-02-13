@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((972,718),still,up-left,down,up-left,up-right,still,up,up-left,left)
+right hand:((1294,718),down-right,up-right,down-left,left,down-right,up-left,still,down,up)
+left hand object:((964,646,fidget spinner ring),down,desk,up-right,bottle,down-left,countertop,still,countertop,up-right,rubik cube,down-left,desk,up-right,paint spray gun,left,cup,left,cup)
+right hand object:((1396,602,bottle),still,bottle,left,bottle,right,bottle,left,bottle,down-right,bottle,left,remote control,left,paint spray gun,down,sponge cloth,still,pot holder)
+two hand object:((960,754,desk),up,countertop,down,countertop,down,countertop,still,countertop,up,countertop,down,desk,up-right,paint spray gun,down-left,countertop,up,room)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-left → down → up-left → up-right → still → up → up-left → left (object: countertop → paint spray gun → rubik cube → bottle → desk → cup → fidget spinner ring)
+Right hand: down-right → up-right → down-left → left → down-right → up-left → still → down → up (object: paint spray gun → pot holder → sponge cloth → bottle → remote control)
+Two-hand object: paint spray gun → desk → room → countertop

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((754,611),down-right,right,left,up-left,up-left,down-right,still,up-left,left,still,right,down,still,up,down,up-left,left)
+right hand:((1716,728),left,down-left,up-right,right,up-right,up,up-right,right,left,up-right,down-left,right,right,right,left,right,down)
+left hand object:((968,774,desk),left,watch,up-right,remote control,down,foam block,down-right,notebook,left,wristwatch,down-right,watch,up,watch,up-left,watch,up-left,wristwatch,down-left,wristwatch,right,watch,down,wristwatch,still,wristwatch,up,watch,up-left,fidget spinner ring,left,fidget spinner ring,down,wristwatch)
+right hand object:((968,774,desk),right,tablet,left,desk,up,desk,down,desk,up-right,cardboard box,up,carton,down-left,box,down-left,countertop,up-right,cutting pad,down-left,table,up-right,box,down-left,box,right,box,down-left,desk,up-right,box,down-left,desk,up,desk)
+two hand object:((968,774,desk),down-left,desk,still,desk,up-right,architectural craft manual,down-left,desk,up-right,box,up,carton,down-left,box,down-left,desk,up-right,box,down-left,desk,up,countertop,down,countertop,still,table,still,desk,up,desk,still,desk,up,desk)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → right → left → up-left → up-left → down-right → still → up-left → left → still → right → down → still → up → down → up-left → left (object: foam block → desk → wristwatch → fidget spinner ring → remote control → notebook → watch)
+Right hand: left → down-left → up-right → right → up-right → up → up-right → right → left → up-right → down-left → right → right → right → left → right → down (object: carton → countertop → table → desk → cardboard box → cutting pad → tablet → box)
+Two-hand object: carton → countertop → table → desk → architectural craft manual → box

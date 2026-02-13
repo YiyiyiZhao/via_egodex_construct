@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((971,980),up-left,up,down-right,up-right,still,down-left,down)
+right hand:((1348,980),up-right,up,left,up,up,down-left,down-right)
+left hand object:((None,None),none,plastic model piece,up,plastic model piece,still,toothbrush,up-right,toothbrush,still,toothbrush,down-left,toothbrush,down,desk)
+right hand object:((1468,896,glue stick),up-left,remote control,up,toothbrush,left,toothbrush,up-right,toothbrush,still,toothbrush,down-left,toothbrush,down,desk)
+two hand object:((None,None),none,room,still,room,still,room,down-right,toothbrush,still,toothbrush,down-left,toothbrush,up-left,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up → down-right → up-right → still → down-left → down (object: toothbrush → desk → plastic model piece)
+Right hand: up-right → up → left → up → up → down-left → down-right (object: remote control → toothbrush → desk → glue stick)
+Two-hand object: toothbrush → room

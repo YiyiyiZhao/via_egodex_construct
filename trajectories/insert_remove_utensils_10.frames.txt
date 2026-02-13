@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((884,996),left,up-right,up,down-right,still,still,still,still,still,still,up-right,left,right,up,down-right,right,up-left,down,down-right,down-right,up-left,right)
+right hand:((None,None),none,up-right,left,down-right,up,right,left,down,up-right,down,down-left,up-right,down-left,right,up,down-left,right,down-left,down,up,down-left,up-left)
+left hand object:((1010,773,desk),up-left,desk,down,desk,up,desk,down,desk,up,desk,down,desk,up,desk,still,desk,still,desk,up,desk,down-right,crayon,up-left,desk,still,desk,up-left,remote control,down-right,remote control,down-left,rolling tray,up,table,down-right,banana,down-left,table,right,desk,still,countertop,still,table)
+right hand object:((None,None),none,desk,right,pair of scissors,down-left,pair of scissors,right,scissors,left,toothbrush,up-right,toothbrush,left,pair of scissors,down,toothbrush,up-right,toothbrush,down,toothbrush,down-left,scissors,left,desk,right,toothbrush,up-right,toothbrush,up-right,scissors,down-left,rolling tray,up,table,down-right,toothbrush,down-left,table,up-right,toothbrush,down,countertop,up,basket)
+two hand object:((None,None),none,desk,down,desk,up,desk,down,desk,up,desk,down,desk,up,desk,still,desk,still,desk,up,desk,still,desk,still,desk,still,desk,right,desk,right,remote control,left,desk,still,table,down-right,toothbrush,down-left,table,right,desk,still,countertop,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: left → up-right → up → down-right → still → still → still → still → still → still → up-right → left → right → up → down-right → right → up-left → down → down-right → down-right → up-left → right (object: countertop → table → crayon → rolling tray → desk → banana → remote control)
+Right hand: none → up-right → left → down-right → up → right → left → down → up-right → down → down-left → up-right → down-left → right → up → down-left → right → down-left → down → up → down-left → up-left (object: basket → pair of scissors → countertop → table → rolling tray → scissors → toothbrush → desk)
+Two-hand object: countertop → table → toothbrush → desk → remote control

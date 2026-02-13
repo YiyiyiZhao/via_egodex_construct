@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((904,986),up,up,down-right,up,down-right,up-left,down-right,up-left,down-left,down,up,down,up,up-right,up-left,down,up-left)
+right hand:((1560,1039),up-right,up-right,right,left,right,still,up-right,up-right,up-left,up-right,up-left,still,down,still,up-left,up-left,down-left)
+left hand object:((884,557,cabinet),up,cabinet,up,cupboard,down-right,desk,up,kitchen,left,cupboard,down-right,kitchen workbench,down-right,food container,up-left,kitchen workbench,left,food container,down,rolling tray,none,none,counter,up,rolling tray,down-left,kitchen workbench,up-right,food container,down,counter,left,fidget spinner ring)
+right hand object:((1540,656,stove),up,stove,left,kitchen,down,desk,left,countertop,none,none,counter,right,rolling tray,none,none,none,kitchen workbench,up-left,counter,right,counter,left,counter,still,countertop,right,counter,left,counter,up,kitchen workbench)
+two hand object:((None,None),none,kitchen,right,kitchen,left,kitchen workbench,left,kitchen,none,none,kitchen workbench,right,kitchen workbench,none,none,none,counter,none,none,kitchen workbench,left,kitchen workbench,left,kitchen workbench,left,kitchen,right,kitchen workbench,right,kitchen workbench)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → down-right → up → down-right → up-left → down-right → up-left → down-left → down → up → down → up → up-right → up-left → down → up-left (object: cabinet → kitchen workbench → rolling tray → counter → kitchen → desk → cupboard → food container → fidget spinner ring)
+Right hand: up-right → up-right → right → left → right → still → up-right → up-right → up-left → up-right → up-left → still → down → still → up-left → up-left → down-left (object: kitchen workbench → countertop → stove → counter → rolling tray → kitchen → desk)
+Two-hand object: counter → kitchen workbench → kitchen

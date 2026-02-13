@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1212,966),left,right,right,up,left,up,up-right,still,right,right,up,down-right,right,left,left)
+right hand:((1526,780),left,up,up,none,none,up-right,down-left,right,left,up-right,right,left,down-right,down-right,down-right)
+left hand object:((None,None),none,storage box,right,bed,still,bed,up,bed,right,box,up-right,box,right,box,up-right,bag,right,box,right,box,left,box,left,bed,down,chopstick,up,bed,up-left,storage box)
+right hand object:((1474,608,paper bag),down-left,desk,none,none,towel,none,none,none,none,box,up-right,storage box,right,box,up,fidget spinner ring,right,bottle,none,none,bed,right,box,right,laptop)
+two hand object:((None,None),none,desk,none,none,none,none,none,none,bed,right,bed,left,bed,none,none,none,none,bed,right,box,left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → right → up → left → up → up-right → still → right → right → up → down-right → right → left → left (object: bag → chopstick → storage box → bed → box)
+Right hand: left → up → up → none → none → up-right → down-left → right → left → up-right → right → left → down-right → down-right → down-right (object: towel → storage box → desk → bottle → bed → paper bag → laptop → fidget spinner ring → box)
+Two-hand object: desk → box → bed

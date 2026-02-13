@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((904,834),up,down,up,down,up,down,down,up,up,still)
+right hand:((1652,911),left,up,down,up,down,up,down,down,up,down-left)
+left hand object:((1086,875,mancala board),up-left,bed,left,bed,right,bead necklace,left,bed,right,bead necklace,down,bead necklace,down-left,bead necklace,up,mancala board,left,bed,still,bed)
+right hand object:((996,813,bed),up-left,bed,up,room,right,chair,left,room,right,seat cloth,left,room,right,tablet bag,down-left,bed,up,room,right,tablet bag)
+two hand object:((996,813,bed),up-left,bed,none,none,bed,none,none,bed,none,none,bed,up-right,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up → down → up → down → up → down → down → up → up → still (object: bead necklace → mancala board → bed)
+Right hand: left → up → down → up → down → up → down → down → up → down-left (object: tablet bag → room → chair → seat cloth → bed)
+Two-hand object: bed

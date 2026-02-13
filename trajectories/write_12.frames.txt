@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((967,554),up-left,down-right,left,down,up-right,right,down,up-left,up)
+right hand:((1200,388),down-left,right,down-right,down,down-left,up,right,up,up)
+left hand object:((1094,486,booklet),down-left,desk,up-right,paint brush,up-left,linen,down-right,room,down,desk,up-right,cutting pad,down,instruction manual,up,sketch manual,up,sketch manual)
+right hand object:((1096,486,puzzle card),right,instruction manual,up-left,cutting pad,left,sketch manual,down,architectural craft manual,up,instruction manual,up-right,instruction manual,up-right,paint brush,left,sketch manual,up-right,pen)
+two hand object:((1096,486,sketch manual),right,sketch manual,up,cutting pad,up-left,linen,down-left,linen,down-right,architectural craft manual,down-left,desk,down,desk,up-right,sketch manual,down-left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → down-right → left → down → up-right → right → down → up-left → up (object: room → paint brush → sketch manual → desk → linen → cutting pad → instruction manual → booklet)
+Right hand: down-left → right → down-right → down → down-left → up → right → up → up (object: pen → paint brush → sketch manual → puzzle card → architectural craft manual → cutting pad → instruction manual)
+Two-hand object: sketch manual → desk → linen → architectural craft manual → cutting pad

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1004,927),up-right,up-left,left,down-right,up-left,up,up-right,down-right,up-left,up,down-right,up-left,down-right,up-left,up-left,down-right,up-left,right,up-left,down-right,up-left,up-right,up-left)
+right hand:((1648,924),up-left,up,down-left,up,down-left,right,down,up,down-left,right,right,left,up-right,down-left,right,up,down-left,down-left,right,up,down-left,down-left,down-right)
+left hand object:((936,749,flower),right,pair of scissors,left,flower,right,room,still,room,right,pair of scissors,left,room,still,room,still,room,up-left,flower tray,up-right,flower,down,bed,up,flower,down,bed,up,flower,down-right,room,none,none,room,right,pair of scissors,left,flower,down-right,room,down-right,fidget spinner ring,up-left,flower tray,down-right,room)
+right hand object:((960,808,bed),up-right,toothbrush,up,pair of scissors,left,pair of scissors,down-right,pair of scissors,left,pair of scissors,left,room,right,pair of scissors,down-left,pair of scissors,up-left,pair of scissors,none,none,bed,right,pair of scissors,right,pair of scissors,left,pair of scissors,right,pair of scissors,up,power adapter,down,paint brush,up-left,pair of scissors,left,room,up-right,power adapter,down,paint brush,left,room,still,room)
+two hand object:((960,808,bed),up,bed,up-right,pair of scissors,left,room,right,pair of scissors,left,pair of scissors,left,room,still,room,still,room,still,room,none,none,bed,up,room,right,toothbrush,left,pair of scissors,left,room,none,none,room,still,room,still,room,still,room,right,toothbrush,left,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-left → left → down-right → up-left → up → up-right → down-right → up-left → up → down-right → up-left → down-right → up-left → up-left → down-right → up-left → right → up-left → down-right → up-left → up-right → up-left (object: room → pair of scissors → flower tray → bed → fidget spinner ring → flower)
+Right hand: up-left → up → down-left → up → down-left → right → down → up → down-left → right → right → left → up-right → down-left → right → up → down-left → down-left → right → up → down-left → down-left → down-right (object: power adapter → room → pair of scissors → paint brush → toothbrush → bed)
+Two-hand object: pair of scissors → toothbrush → room → bed

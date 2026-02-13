@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((838,959),up-left,up-right,still,up-right,right,down-right,up-left,left,up,still,right,right)
+right hand:((1782,838),left,left,right,down,none,none,none,none,up-right,down-right,up-right,still)
+left hand object:((944,798,countertop),up-right,table,still,countertop,still,countertop,down,countertop,down,countertop,still,countertop,right,box,down-left,cardboard box,up-right,cardboard box,up-left,architectural craft manual,right,architectural craft manual,right,book)
+right hand object:((944,798,countertop),up-right,table,right,box,left,countertop,down,countertop,none,none,countertop,none,none,cardboard box,up-right,cardboard box,left,bed,still,bed,still,bed)
+two hand object:((944,798,countertop),up-right,countertop,right,box,left,countertop,down,countertop,none,none,bed,none,none,cardboard box,left,bed,right,architectural craft manual,right,book,right,book)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → still → up-right → right → down-right → up-left → left → up → still → right → right (object: countertop → book → table → cardboard box → architectural craft manual → box)
+Right hand: left → left → right → down → none → none → none → none → up-right → down-right → up-right → still (object: countertop → table → cardboard box → bed → box)
+Two-hand object: countertop → book → cardboard box → bed → architectural craft manual → box

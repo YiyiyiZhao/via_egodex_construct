@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1232,646),left,still,up-left,down-right,up-right,down-left,up-right,right,down-left)
+right hand:((None,None),none,none,none,left,none,none,left,right,right)
+left hand object:((1098,604,paper towel),down-left,carpet,still,carpet,still,carpet,still,carpet,still,carpet,down-left,carpet,still,carpet,right,carpet,left,carpet)
+right hand object:((None,None),none,paper towel,none,none,paper towel,down-right,watch,none,none,watch,down-left,watch,up-left,paint spray gun,right,paper towel)
+two hand object:((None,None),none,bed,none,none,none,none,none,none,bed,still,bed,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → still → up-left → down-right → up-right → down-left → up-right → right → down-left (object: paper towel → carpet)
+Right hand: none → none → none → left → none → none → left → right → right (object: paint spray gun → paper towel → watch)
+Two-hand object: bed

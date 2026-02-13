@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((933,966),left,left,still,still,still,right,right,up-right,still,still,still,still,still,still,still,still,still,down-left,down-right,up-right,up,still,still,still,still)
+right hand:((1853,996),up,left,left,up-left,left,down-right,up-left,down-left,up-left,still,still,still,still,still,up-right,down-left,still,right,left,down-left,up,still,still,still,up-right)
+left hand object:((984,776,desk),up,desk,up,desk,still,desk,still,desk,still,desk,still,desk,down-right,cutting pad,up-right,cutting pad,right,cutting pad,left,cutting pad,right,cutting pad,left,cutting pad,right,cutting pad,right,cutting pad,left,cutting pad,right,cutting pad,left,cutting pad,down,cutting pad,still,cutting mat,up-right,cutting pad,up-right,cutting pad,still,cutting pad,still,cutting pad,still,cutting pad,still,cutting pad)
+right hand object:((1868,866,pencil),up-left,pencil,up-left,pen,left,paint brush,up-left,tweezer,left,pen,down-right,pair of scissors,down,keyboard,left,paint brush,left,paint brush,still,paint brush,still,paint brush,still,paint brush,still,paint brush,still,paint brush,up-right,paint brush,down-left,paint brush,still,paint brush,down-left,desk,right,fidget spinner ring,left,pencil,up,paint brush,still,paint brush,still,paint brush,still,paint brush,right,paint brush)
+two hand object:((984,776,desk),up,desk,up,desk,still,desk,still,desk,still,desk,still,desk,down,desk,right,cutting pad,left,cutting pad,still,cutting pad,still,cutting pad,still,cutting pad,still,cutting pad,still,cutting pad,right,cutting pad,left,cutting pad,still,cutting pad,up-left,desk,still,desk,down-right,cutting pad,up-right,cutting pad,still,cutting pad,still,cutting pad,still,cutting pad,up-left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: left → left → still → still → still → right → right → up-right → still → still → still → still → still → still → still → still → still → down-left → down-right → up-right → up → still → still → still → still (object: cutting pad → desk → cutting mat)
+Right hand: up → left → left → up-left → left → down-right → up-left → down-left → up-left → still → still → still → still → still → up-right → down-left → still → right → left → down-left → up → still → still → still → up-right (object: pair of scissors → keyboard → pencil → paint brush → desk → pen → tweezer → fidget spinner ring)
+Two-hand object: cutting pad → desk

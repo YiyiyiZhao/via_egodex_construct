@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((901,745),down-right,still,up,still,still,still,down-left)
+right hand:((1378,802),down-left,down-right,up,up-left,down-right,still,left)
+left hand object:((960,778,desk),right,rubik cube,left,desk,still,desk,right,rubik cube,up-right,rubik cube,down,rubik cube,down-left,rubik cube)
+right hand object:((960,778,desk),still,desk,still,desk,still,desk,still,desk,still,desk,still,desk,still,desk)
+two hand object:((960,778,desk),right,rubik cube,left,desk,still,desk,right,rubik cube,up-right,rubik cube,left,desk,right,rubik cube)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → still → up → still → still → still → down-left (object: rubik cube → desk)
+Right hand: down-left → down-right → up → up-left → down-right → still → left (object: desk)
+Two-hand object: rubik cube → desk

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((810,1016),up-right,up,down-right,still,up-left,still,down,down-right,up-left,up-left,down-left,down,still,left,right,right,down-left,left,right)
+right hand:((1392,1034),left,up-left,up,still,up-right,down,up,right,up-right,down-left,left,up-left,right,down-right,up-right,down-left,down-right,down-right,up-right)
+left hand object:((846,880,floor),right,pair of scissors,up,room,down-right,shoe,up,hair straightener,none,none,shoe,up,shoe,still,shoe,none,none,shoe,up-left,shoe,down,shoe,still,shoe,none,none,shoe,none,none,shoe,none,none,fidget spinner ring)
+right hand object:((846,880,floor),left,desk,up,room,down-right,shoe,up,shoe,none,none,shoe,up,shoe,still,shoe,none,none,shoe,up-left,shoe,down,shoe,still,shoe,left,shoe,up-right,fidget spinner ring,none,none,shoe,none,none,room)
+two hand object:((846,880,floor),up,room,still,room,down-right,shoe,up,shoe,none,none,shoe,up,shoe,still,shoe,none,none,shoe,up-left,shoe,down,shoe,still,shoe,none,none,none,none,shoe,none,none,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → down-right → still → up-left → still → down → down-right → up-left → up-left → down-left → down → still → left → right → right → down-left → left → right (object: floor → room → pair of scissors → shoe → hair straightener → fidget spinner ring)
+Right hand: left → up-left → up → still → up-right → down → up → right → up-right → down-left → left → up-left → right → down-right → up-right → down-left → down-right → down-right → up-right (object: floor → room → shoe → desk → fidget spinner ring)
+Two-hand object: floor → shoe → room

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((956,676),up-right,left,down,up-right,up-left,up-right,down,down-right,up-left,up-left,down-left,down-left,up,up-right,up,left,down,up-right,down-right,up-left,left,down-left,right,left,up-right,right,up-left,down,right,down-left)
+right hand:((1652,581),up-left,down,down,up-left,right,none,none,none,up,none,none,none,none,none,up,down-left,down-right,up-left,right,up,none,none,none,up-right,up-left,left,up-right,none,none,down)
+left hand object:((None,None),none,linen,down-right,piece of clothing,down,piece of clothing,up,remote control,down,bag,left,room,none,none,bed,still,bed,right,tablet bag,left,bed,down-left,fidget spinner ring,right,blanket,left,seed bead embroidery,up-right,seed bead embroidery,up-left,fidget spinner ring,none,none,bed,still,bed,up,fidget spinner ring,down,bed,left,watch,right,bed,still,bed,left,fidget spinner ring,none,none,fidget spinner ring,right,linen,down-left,fidget spinner ring,right,tablet bag)
+right hand object:((1040,290,linen),left,linen,down-right,piece of clothing,down,piece of clothing,up,remote control,up-left,linen,none,none,none,bed,still,bed,none,none,bed,none,none,none,bed,still,bed,still,bed,still,bed,still,bed,still,bed,none,none,none,none,bed,down-right,tablet bag,up-left,bed,none,none,bed,none,none,bed,down-right,tablet bag)
+two hand object:((None,None),none,linen,down-right,piece of clothing,up-left,bed,still,room,right,bag,none,none,none,bed,still,bed,none,none,bed,none,none,none,none,none,bed,none,none,bed,still,bed,none,none,none,none,bed,right,nylon bag,up-left,linen,none,none,bed,none,none,bed,up-right,linen)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → left → down → up-right → up-left → up-right → down → down-right → up-left → up-left → down-left → down-left → up → up-right → up → left → down → up-right → down-right → up-left → left → down-left → right → left → up-right → right → up-left → down → right → down-left (object: tablet bag → room → bag → seed bead embroidery → linen → bed → piece of clothing → blanket → remote control → watch → fidget spinner ring)
+Right hand: up-left → down → down → up-left → right → none → none → none → up → none → none → none → none → none → up → down-left → down-right → up-left → right → up → none → none → none → up-right → up-left → left → up-right → none → none → down (object: tablet bag → linen → bed → piece of clothing → remote control)
+Two-hand object: room → bag → linen → bed → piece of clothing → nylon bag

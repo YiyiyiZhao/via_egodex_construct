@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((910,958),up-right,left,up-left,up-right,down,up-left,right,down-left,none,none,down-left,left,right,down-right,up-left,down,down-left)
+right hand:((1620,983),left,up,up-left,down-right,none,none,down-right,none,none,none,none,none,none,none,none,none,none)
+left hand object:((960,842,bed),right,towel,left,bed,none,none,none,bed,still,bed,still,bed,right,blanket,none,none,bed,up,bed,up,bed,right,blanket,down,linen,left,bed,still,bed,down-right,napkin)
+right hand object:((960,842,bed),still,bed,up-right,bed,still,carpet,up,linen,none,none,bed,still,bed,none,none,none,none,none,none,none,blanket,none,none,none,napkin)
+two hand object:((960,540,room),down,bed,up-right,bed,none,none,none,none,bed,still,bed,none,none,none,none,none,none,none,bed,none,none,none,napkin)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → left → up-left → up-right → down → up-left → right → down-left → none → none → down-left → left → right → down-right → up-left → down → down-left (object: towel → napkin → linen → bed → blanket)
+Right hand: left → up → up-left → down-right → none → none → down-right → none → none → none → none → none → none → none → none → none → none (object: carpet → napkin → linen → bed → blanket)
+Two-hand object: napkin → room → bed

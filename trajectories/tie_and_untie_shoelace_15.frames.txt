@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((872,793),right,down-right,up-left,still,up-left,right,down-left,right,left,up-left)
+right hand:((1476,790),left,left,up,up-right,right,left,up-left,left,up-right,right)
+left hand object:((960,752,bed),down-right,shoe,still,phone,up,remote control,still,shoe,up-left,bed,up,room,down,bed,right,phone,left,shoe,up-right,shoe)
+right hand object:((960,752,bed),down-right,shoe,still,shoe,up,remote control,up-right,pair of scissors,left,bed,right,shoe,down-left,shoe,up-right,bottle,left,shoe,none)
+two hand object:((960,752,bed),still,bed,up,bed,right,phone,up-right,pair of scissors,left,bed,up,room,down,bed,up,bed,down-right,shoe,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → down-right → up-left → still → up-left → right → down-left → right → left → up-left (object: room → shoe → phone → bed → remote control)
+Right hand: left → left → up → up-right → right → left → up-left → left → up-right → right (object: pair of scissors → shoe → bottle → bed → remote control)
+Two-hand object: room → pair of scissors → shoe → phone → bed

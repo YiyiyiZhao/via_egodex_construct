@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1137,948),up-right,left,left,right,right,down-right,up-right,still,up-left)
+right hand:((1389,756),down-left,down,right,right,left,left,up-left,still,up-left)
+left hand object:((973,856,seed bead embroidery),still,lace,up,desk,none,none,seed bead embroidery,left,seed bead embroidery,right,lace,up-left,lace,up,table,down,lace)
+right hand object:((973,856,seed bead embroidery),still,lace,up,desk,down-right,seed bead embroidery,up-left,bed,still,bed,still,table,still,table,still,table,still,table)
+two hand object:((966,726,table),down,lace,up,table,none,none,seed bead embroidery,up-left,bed,still,table,still,table,down-right,toothbrush,up-left,pair of scissors)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → left → left → right → right → down-right → up-right → still → up-left (object: lace → table → seed bead embroidery → desk)
+Right hand: down-left → down → right → right → left → left → up-left → still → up-left (object: lace → table → seed bead embroidery → desk → bed)
+Two-hand object: pair of scissors → table → lace → seed bead embroidery → toothbrush → bed

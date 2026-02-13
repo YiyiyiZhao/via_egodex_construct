@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((944,772),up,up-right,left,up-left,down,down-left,left)
+right hand:((1346,780),right,down-right,down-left,up-right,none,none,still)
+left hand object:((1164,685,sketch manual),up-right,sketch manual,right,sketch manual,left,table,up-left,pair of scissors,down,pen,down-right,desk,still,desk)
+right hand object:((1268,815,cutting pad),up-right,cutting pad,up-right,cutting pad,left,cutting pad,right,keyboard,none,none,mancala board,up-left,mancala board)
+two hand object:((1268,815,cutting pad),up-right,cutting pad,up-right,cutting pad,left,cutting pad,left,desk,none,none,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → left → up-left → down → down-left → left (object: pair of scissors → table → sketch manual → desk → pen)
+Right hand: right → down-right → down-left → up-right → none → none → still (object: keyboard → mancala board → cutting pad)
+Two-hand object: cutting pad → desk

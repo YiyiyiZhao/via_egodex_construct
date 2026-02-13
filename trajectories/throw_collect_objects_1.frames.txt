@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((686,650),right,down,up-left,right,down,right,down,left,left,down-right,up-right,up-left,down-left,up)
+right hand:((1770,788),up-left,up-right,right,up-left,down-right,left,right,down-left,up-left,up,up-left,down-right,down-left,none)
+left hand object:((960,772,desk),up,pair of scissors,down-left,pipe wrench,up,countertop,up-left,countertop,right,countertop,down,countertop,down,countertop,still,countertop,still,countertop,down,crayon,up,storage box,right,storage box,down-left,pipe wrench,up,toothbrush)
+right hand object:((960,772,desk),up-right,toothbrush,left,countertop,left,countertop,up-left,countertop,right,countertop,down,countertop,down,countertop,still,countertop,still,countertop,up-right,storage box,up-right,storage box,right,storage box,down-left,storage box,none)
+two hand object:((960,772,desk),up,countertop,up,floor,left,countertop,up-left,countertop,right,desk,down,countertop,down,countertop,still,countertop,still,countertop,down-left,countertop,up-right,counter,right,countertop,left,countertop,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → down → up-left → right → down → right → down → left → left → down-right → up-right → up-left → down-left → up (object: countertop → pair of scissors → crayon → storage box → toothbrush → desk → pipe wrench)
+Right hand: up-left → up-right → right → up-left → down-right → left → right → down-left → up-left → up → up-left → down-right → down-left → none (object: storage box → toothbrush → desk → countertop)
+Two-hand object: floor → counter → desk → countertop

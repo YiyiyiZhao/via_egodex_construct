@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((616,853),right,up,down-left,up-left,down-left,up-right,down-left,right,right,down-left,up-right,down-right,right,up-right,down-left,up,up-right,down-right,left)
+right hand:((1713,939),up-left,right,down-left,down-right,none,none,down,left,up-left,down-right,up,down,left,up-right,down-right,up-right,left,down-right,up-left)
+left hand object:((962,795,floor),up-right,tablet bag,down-left,floor,still,floor,up,floor,down-right,blanket,up-right,box,down-left,bed,right,cutting mat,none,none,desk,up-right,blanket,left,towel,right,cutting mat,up-right,cutting mat,down-left,bed,left,towel,up-right,drawer,down,microfiber cloth,still,microfiber cloth)
+right hand object:((962,795,floor),up-right,tablet bag,down-left,floor,still,floor,up,floor,none,none,briefcase,down,blanket,left,cutting mat,up-left,room,down,desk,up-right,blanket,down,cutting mat,left,cutting mat,up-right,cutting mat,down-left,bed,up,room,up-right,drawer,down,microfiber cloth,still,microfiber cloth)
+two hand object:((962,795,floor),up,floor,up,floor,still,floor,up,floor,none,none,box,down-left,bed,right,cutting mat,none,none,desk,up,room,down-right,cutting mat,left,cutting mat,up-right,cutting mat,down-left,bed,none,none,room,down-right,microfiber cloth,still,microfiber cloth)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → down-left → up-left → down-left → up-right → down-left → right → right → down-left → up-right → down-right → right → up-right → down-left → up → up-right → down-right → left (object: floor → tablet bag → drawer → towel → microfiber cloth → desk → bed → blanket → cutting mat → box)
+Right hand: up-left → right → down-left → down-right → none → none → down → left → up-left → down-right → up → down → left → up-right → down-right → up-right → left → down-right → up-left (object: floor → tablet bag → drawer → microfiber cloth → room → briefcase → desk → bed → blanket → cutting mat)
+Two-hand object: floor → room → desk → bed → microfiber cloth → cutting mat → box

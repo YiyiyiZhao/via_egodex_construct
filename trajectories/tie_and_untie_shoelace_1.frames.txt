@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((945,814),still,right,up-right,up,left,left,right,up,still,still,up-right,right,right,left,left,still,left)
+right hand:((1488,770),left,up-left,down-right,up,right,up-right,down-left,up-right,up-right,down-left,down-right,left,up-right,up-right,right,up-left,down-right)
+left hand object:((960,754,bed),still,fidget spinner ring,none,none,phone,up,phone,right,shoe,none,none,remote control,still,shoe,up,shoe,still,shoe,down-right,shoe,up,shoe,up-right,shoe,still,shoe,up-left,bed,down-right,shoe,none)
+right hand object:((960,754,bed),right,shoe,none,none,phone,up,phone,right,shoe,none,none,remote control,still,shoe,up-left,bed,down-right,shoe,down-right,shoe,up,shoe,up-right,shoe,still,shoe,still,shoe,still,shoe,none)
+two hand object:((960,754,bed),right,shoe,none,none,bed,down-right,phone,right,shoe,none,none,phone,still,shoe,up-left,bed,down-right,shoe,down-right,shoe,up,shoe,up-right,shoe,still,shoe,up-left,bed,down-right,shoe,none)
+
+
+## LLM-Friendly Format:
+Left hand: still → right → up-right → up → left → left → right → up → still → still → up-right → right → right → left → left → still → left (object: shoe → phone → bed → remote control → fidget spinner ring)
+Right hand: left → up-left → down-right → up → right → up-right → down-left → up-right → up-right → down-left → down-right → left → up-right → up-right → right → up-left → down-right (object: remote control → phone → shoe → bed)
+Two-hand object: phone → shoe → bed

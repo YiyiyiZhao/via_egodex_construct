@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((756,730),up,up,down-right,down-right,still,left,down)
+right hand:((None,None),none,up,up-left,down-left,down-left,down-right,down-right)
+left hand object:((1180,856,instruction manual),up-right,architectural craft manual,up,book,left,fidget spinner ring,down-right,book,still,book,left,book,down-left,book)
+right hand object:((None,None),none,crayon,up,pencil,none,none,paint brush,down-left,shopping bucket,down,instruction manual,left,desk)
+two hand object:((None,None),none,desk,up,desk,none,none,none,desk,right,instruction manual,left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → down-right → down-right → still → left → down (object: architectural craft manual → book → fidget spinner ring → instruction manual)
+Right hand: none → up → up-left → down-left → down-left → down-right → down-right (object: shopping bucket → crayon → pencil → paint brush → desk → instruction manual)
+Two-hand object: desk → instruction manual

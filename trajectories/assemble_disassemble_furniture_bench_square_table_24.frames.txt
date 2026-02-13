@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((894,791),still,still,up-left,still,still,still,still)
+right hand:((1460,836),left,left,up-left,down-right,right,down-left,down-right)
+left hand object:((1124,904,rolling tray),up-left,countertop,down-right,sink,left,rolling tray,right,rolling tray,still,sink,still,rolling tray,still,sink)
+right hand object:((998,796,countertop),still,countertop,right,carton,down-left,rolling tray,right,rolling tray,up-right,soft lego brick,down-left,rolling tray,up-right,carton)
+two hand object:((998,796,countertop),still,countertop,still,kitchen countertop,down-right,rolling tray,right,rolling tray,up-left,kitchen countertop,left,countertop,down-right,sink)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → up-left → still → still → still → still (object: rolling tray → sink → countertop)
+Right hand: left → left → up-left → down-right → right → down-left → down-right (object: rolling tray → carton → soft lego brick → countertop)
+Two-hand object: kitchen countertop → sink → rolling tray → countertop

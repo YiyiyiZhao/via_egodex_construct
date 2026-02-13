@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1701,636),left,down-left,left,right,left,up-right,down-left,right,still)
+right hand:((None,None),none,none,none,none,none,none,none,none,none)
+left hand object:((957,539,room),right,toothbrush,down-left,remote control,left,engraving tool,left,countertop,up,countertop,up-right,toothbrush,down-left,countertop,right,tweezer,left,toothbrush)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → down-left → left → right → left → up-right → down-left → right → still (object: room → countertop → engraving tool → toothbrush → remote control → tweezer)
+Right hand: none → none → none → none → none → none → none → none → none (object: none)

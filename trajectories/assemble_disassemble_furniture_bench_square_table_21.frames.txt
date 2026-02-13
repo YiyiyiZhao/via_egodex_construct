@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((928,661),still,still,still,still,still,still,still)
+right hand:((1606,628),down-left,up-left,right,up-right,still,down-left,left)
+left hand object:((740,840,towel),still,towel,still,towel,still,towel,still,towel,still,towel,still,towel,still,towel)
+right hand object:((1041,752,floor),still,floor,still,floor,right,sponge cloth,left,floor,right,mallet,left,floor,still,floor)
+two hand object:((1041,752,floor),still,floor,still,floor,still,floor,still,floor,still,floor,still,floor,still,floor)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still (object: towel)
+Right hand: down-left → up-left → right → up-right → still → down-left → left (object: floor → mallet → sponge cloth)
+Two-hand object: floor

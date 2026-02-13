@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((914,628),still,still,still,still,still,still,still)
+right hand:((1266,609),left,up,still,still,right,still,up-right)
+left hand object:((1034,498,wooden stand),still,stapler,still,phone,still,phone,still,phone,still,phone,right,scissors,still,plastic model)
+right hand object:((960,725,bed),up,stapler,still,stapler,still,phone,still,phone,still,phone,right,scissors,down-right,rubik cube)
+two hand object:((960,725,bed),still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still (object: stapler → wooden stand → plastic model → scissors → phone)
+Right hand: left → up → still → still → right → still → up-right (object: stapler → rubik cube → scissors → phone → bed)
+Two-hand object: bed

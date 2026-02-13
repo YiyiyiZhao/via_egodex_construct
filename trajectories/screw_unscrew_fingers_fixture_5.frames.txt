@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1140,964),down,down-left,right,up-left,down-right,up-right,still,still,right,still,still,down-right,right,left,still,still,still,still,still)
+right hand:((1744,942),up,up-left,down-left,down-right,up-left,down,right,down,up,left,right,right,right,up,down,left,up-right,left,up-right)
+left hand object:((960,809,desk),still,desk,down,desk,still,bed,up,desk,down,desk,up,desk,still,desk,still,desk,still,desk,still,desk,still,desk,still,bed,still,desk,still,bed,still,bed,still,bed,still,desk,still,bed,still,desk)
+right hand object:((960,809,desk),right,phone,left,phone,down-left,phone,down-left,desk,up-right,cellphone,up-right,phone,up,phone,down,phone,still,cellphone,still,phone,still,phone,still,mobile phone,down,keyboard,up,phone,still,phone,left,phone,still,phone,still,phone,still,phone)
+two hand object:((960,809,desk),still,desk,none,none,none,desk,none,none,desk,still,desk,still,desk,still,desk,still,desk,none,none,none,desk,none,none,bed,still,bed,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: down → down-left → right → up-left → down-right → up-right → still → still → right → still → still → down-right → right → left → still → still → still → still → still (object: desk → bed)
+Right hand: up → up-left → down-left → down-right → up-left → down → right → down → up → left → right → right → right → up → down → left → up-right → left → up-right (object: mobile phone → keyboard → phone → desk → cellphone)
+Two-hand object: desk → bed

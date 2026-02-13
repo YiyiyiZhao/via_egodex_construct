@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((972,534),down-right,left,right,up-left,right,left,left,down,right)
+right hand:((1428,516),right,down,up,down-left,left,up-right,down,down,up)
+left hand object:((1076,546,toothbrush),down-right,toothbrush,left,pair of scissors,right,toothbrush,up-left,pencil,down-right,toothbrush,up-left,pair of scissors,down-left,fidget spinner ring,down-right,pair of scissors,right,pair of scissors)
+right hand object:((958,723,countertop),up-right,bottle,down,paint spray gun,left,toothbrush,up-right,paint spray gun,left,toothbrush,right,toothbrush,down,paint spray gun,down,paint spray gun,left,scissors)
+two hand object:((958,723,countertop),still,countertop,still,table,up-right,toothbrush,down-left,desk,still,desk,down,countertop,down,desk,up,room,right,toothbrush)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → left → right → up-left → right → left → left → down → right (object: pencil → toothbrush → fidget spinner ring → pair of scissors)
+Right hand: right → down → up → down-left → left → up-right → down → down → up (object: countertop → paint spray gun → scissors → toothbrush → bottle)
+Two-hand object: room → countertop → table → toothbrush → desk

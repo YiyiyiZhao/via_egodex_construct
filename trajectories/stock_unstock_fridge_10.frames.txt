@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((616,816),up-right,up,down,right,left,right,up-left,left,down,still,right,still,down-right,up)
+right hand:((1249,738),up,none,none,up-left,down-right,up-left,down-right,down,up,down,up,down,up,down-left)
+left hand object:((956,829,countertop),up,counter,up-right,kitchen workbench,down-left,countertop,left,floor,right,floor,left,floor,right,countertop,left,floor,down-right,floor,left,floor,right,floor,up-left,plastering trowel,down-right,floor,none)
+right hand object:((956,829,countertop),none,none,none,countertop,left,floor,right,banana,up-left,toothbrush,still,banana,down,floor,up-right,refrigerator,down-left,apple,up-right,refrigerator shelf,left,plastering trowel,right,refrigerator,none)
+two hand object:((956,829,countertop),none,none,none,floor,left,floor,right,floor,up-right,refrigerator shelf,down-left,countertop,up-right,cupboard,left,refrigerator,down-left,floor,up-right,refrigerator shelf,down-right,fridge,left,refrigerator,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → down → right → left → right → up-left → left → down → still → right → still → down-right → up (object: floor → kitchen workbench → countertop → counter → plastering trowel)
+Right hand: up → none → none → up-left → down-right → up-left → down-right → down → up → down → up → down → up → down-left (object: floor → countertop → apple → plastering trowel → toothbrush → refrigerator shelf → banana → refrigerator)
+Two-hand object: floor → countertop → fridge → cupboard → refrigerator shelf → refrigerator

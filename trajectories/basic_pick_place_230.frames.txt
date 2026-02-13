@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((608,599),up,up,up-left,right,up,up-left,down)
+right hand:((1781,766),up-left,left,down-left,up,down-left,right,down-right)
+left hand object:((1091,680,storage box),down-right,countertop,up-left,kitchen workbench,still,kitchen workbench,left,rolling tray,down,countertop,up-right,kitchen workbench,still,kitchen workbench)
+right hand object:((None,None),none,countertop,up-left,box,left,kitchen workbench,right,rolling tray,up-left,toothbrush,left,kitchen workbench,still,kitchen workbench)
+two hand object:((None,None),none,kitchen workbench,right,box,left,kitchen workbench,down,countertop,left,countertop,up-right,kitchen workbench,still,kitchen workbench)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → up-left → right → up → up-left → down (object: rolling tray → storage box → kitchen workbench → countertop)
+Right hand: up-left → left → down-left → up → down-left → right → down-right (object: kitchen workbench → countertop → rolling tray → toothbrush → box)
+Two-hand object: kitchen workbench → countertop → box

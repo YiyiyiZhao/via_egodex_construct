@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((852,628),up-right,up-right,down-right,up-left,still,down-right,up-left,left,up-right)
+right hand:((1268,598),down-left,up-right,left,still,up,down-left,right,up-left,left)
+left hand object:((1050,654,stack of paper),up,book,down-right,book,up,rubik cube,still,rubik cube,still,rubik cube,up-left,room,down-right,rubik cube,left,card,still,instruction manual)
+right hand object:((960,540,room),down-right,book,down-right,book,up-right,remote control,still,rubik cube,still,rolling tray,right,fidget spinner ring,left,rubik cube,left,card,still,instruction manual)
+two hand object:((960,540,room),still,room,down-right,book,up-right,remote control,still,rubik cube,still,rolling tray,up-left,room,down-right,rubik cube,left,instruction manual,still,remote control)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → down-right → up-left → still → down-right → up-left → left → up-right (object: room → stack of paper → book → card → rubik cube → instruction manual)
+Right hand: down-left → up-right → left → still → up → down-left → right → up-left → left (object: room → book → card → rolling tray → rubik cube → instruction manual → remote control → fidget spinner ring)
+Two-hand object: room → book → rolling tray → rubik cube → remote control → instruction manual

@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1180,838),right,up-left,right,up,left,down-right,still,left,down-left,down,up,up-right,up-left,left,down,down-left,still,right,up-left,right,up,down-left,up,down-right,up-left,down-left,right,up-left,up-right,down-right,up,down-left,left)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1284,607,microwave),down,towel,up-left,microfiber cloth,right,glove,up,glove,left,microfiber cloth,down-right,microfiber cloth,up-left,microfiber cloth,left,microfiber cloth,down-left,microfiber cloth,down,glove,up-left,microwave,right,microfiber cloth,up,microfiber cloth,left,microwave,down,microfiber cloth,left,glove,still,microfiber cloth,right,glove,up-left,glove,right,microfiber cloth,up-left,microwave,down-right,cleaning cloth,up,microwave,down-right,glove,down-left,cleaning cloth,left,glove,right,microfiber cloth,left,glove,up-right,toothbrush,down,cleaning cloth,up-left,microwave,down,microfiber cloth,left,remote control)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → right → up → left → down-right → still → left → down-left → down → up → up-right → up-left → left → down → down-left → still → right → up-left → right → up → down-left → up → down-right → up-left → down-left → right → up-left → up-right → down-right → up → down-left → left (object: towel → cleaning cloth → glove → microwave → toothbrush → microfiber cloth → remote control)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

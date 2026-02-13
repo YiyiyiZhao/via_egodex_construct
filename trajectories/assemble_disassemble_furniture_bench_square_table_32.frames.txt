@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1108,669),down-right,down,left,down-left,left,left,right)
+right hand:((1397,910),still,still,still,still,still,still,still)
+left hand object:((1310,748,plastic model piece),up-right,plastic model piece,still,plastic model piece,left,countertop,right,plastic model piece,left,piece of paper,down-left,foam block,still,glue stick)
+right hand object:((1310,748,plastic model piece),up-right,plastic model piece,still,plastic model piece,left,countertop,right,plastic model piece,left,countertop,none,none)
+two hand object:((1310,748,plastic model piece),left,countertop,still,countertop,still,countertop,right,plastic model piece,left,countertop,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → down → left → down-left → left → left → right (object: foam block → countertop → piece of paper → glue stick → plastic model piece)
+Right hand: still → still → still → still → still → still → still (object: countertop → plastic model piece)
+Two-hand object: countertop → plastic model piece

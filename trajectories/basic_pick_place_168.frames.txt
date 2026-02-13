@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((809,618),right,right,still,up-left,down-left,left,up-left)
+right hand:((1758,836),up,none,none,none,down,down,left)
+left hand object:((912,704,pair of scissors),none,none,bed,still,bed,up-right,banana,down-left,bowl,down-left,bed,up-left,pair of scissors)
+right hand object:((962,716,bed),none,none,none,none,table,still,bed,down,bed,still,bed)
+two hand object:((962,716,bed),none,none,none,none,table,still,bed,down,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → right → still → up-left → down-left → left → up-left (object: banana → bowl → bed → pair of scissors)
+Right hand: up → none → none → none → down → down → left (object: table → bed)
+Two-hand object: table → bed

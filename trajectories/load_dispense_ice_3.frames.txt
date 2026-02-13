@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1212,972),up,down,down,down-left,up-right,up-right,down-left,down-left,right,up-right,up,down,down,up-right,down,left,right)
+right hand:((None,None),none,none,none,none,none,none,none,up,left,down,down,still,up-right,none,none,none,none)
+left hand object:((1035,534,refrigerator),right,cup,down-left,refrigerator,down-right,stove,none,none,kitchen,left,kitchen,down,bowl,down-right,pot lid,right,pot lid,up-left,bowl,up,microwave,right,microwave,down,bowl,up-right,microwave,down,bowl,left,kitchen,left,kitchen)
+right hand object:((None,None),none,none,none,none,none,none,none,bowl,up,microwave,down-left,paper container,down,bowl,down-right,pot lid,still,pot lid,up-left,bowl,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,bowl,none,none,none,kitchen,none,none,none,bowl,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up → down → down → down-left → up-right → up-right → down-left → down-left → right → up-right → up → down → down → up-right → down → left → right (object: pot lid → bowl → microwave → stove → kitchen → cup → refrigerator)
+Right hand: none → none → none → none → none → none → none → up → left → down → down → still → up-right → none → none → none → none (object: pot lid → bowl → microwave → paper container)
+Two-hand object: bowl → kitchen

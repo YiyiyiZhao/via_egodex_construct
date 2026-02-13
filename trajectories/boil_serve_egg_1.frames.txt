@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((None,None),none,down,up-right,left,right,up-left,down,right,up-left,down-right,up-left,up-left)
+right hand:((None,None),none,none,none,still,none,none,down-right,none,none,none,none,none)
+left hand object:((None,None),none,bowl,left,plate,right,countertop,down-left,scouring pad,up-left,countertop,up-right,stove,down-left,cutting mat,right,sink,up-left,spoon,down-right,sink,up-left,pot lid,up-left,pot lid)
+right hand object:((None,None),none,none,none,countertop,up,kitchen workbench,none,none,stove,down-left,stove,none,none,none,none,none)
+two hand object:((None,None),none,none,none,kitchen workbench,still,kitchen workbench,none,none,stove,up,kitchen workbench,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: none → down → up-right → left → right → up-left → down → right → up-left → down-right → up-left → up-left (object: pot lid → countertop → scouring pad → sink → bowl → stove → spoon → plate → cutting mat)
+Right hand: none → none → none → still → none → none → down-right → none → none → none → none → none (object: kitchen workbench → stove → countertop)
+Two-hand object: kitchen workbench → stove

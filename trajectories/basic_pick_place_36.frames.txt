@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((608,654),up,up,down-right,down-right,down,up,down-left)
+right hand:((1611,765),up-left,down-left,down-left,up,down-left,up-right,right)
+left hand object:((756,703,rolling pin),up,rolling pin,up-right,kitchen workbench,left,rolling pin,none,none,refrigerator,none,none)
+right hand object:((1167,754,counter),up-left,kitchen,down-right,glass cup,up,salt can,up,bowl,down-right,bowl,up-right,bowl,none)
+two hand object:((1167,754,counter),up-left,kitchen,still,kitchen workbench,still,kitchen workbench,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → down-right → down-right → down → up → down-left (object: refrigerator → kitchen workbench → rolling pin)
+Right hand: up-left → down-left → down-left → up → down-left → up-right → right (object: bowl → glass cup → counter → kitchen → salt can)
+Two-hand object: counter → kitchen workbench → kitchen

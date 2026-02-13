@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1095,687),up-right,up,up-left,left,up-right,right,up,up,left,down,up-left,up-right,up-right,left,down-right,up-left,down-right,still,down)
+right hand:((1514,807),left,right,up-left,up,up-left,down-right,up,up-right,left,down-right,down-left,up,up,down-right,up-right,right,left,left,down)
+left hand object:((None,None),none,none,countertop,left,sweatshirt,right,cutting mat,up,laptop,left,kitchen,up,fidget spinner ring,down-right,laptop,down,laptop,none,none,cutting mat,none,none,fork,none,none,kitchen,up,fork,right,fork,left,fork,none)
+right hand object:((None,None),none,remote control,up-left,countertop,up-right,remote control,down,cutting mat,up,laptop,left,kitchen,none,none,laptop,down,laptop,none,none,toothbrush,none,none,fork,up-left,utensil rack,down,kitchen,none,none,fork,left,fork,none)
+two hand object:((None,None),none,none,countertop,none,none,cutting mat,up,laptop,left,kitchen,none,none,laptop,down,laptop,none,none,cutting mat,none,none,fork,none,none,kitchen,none,none,fork,left,fork,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → up-left → left → up-right → right → up → up → left → down → up-left → up-right → up-right → left → down-right → up-left → down-right → still → down (object: countertop → sweatshirt → fidget spinner ring → kitchen → laptop → fork → cutting mat)
+Right hand: left → right → up-left → up → up-left → down-right → up → up-right → left → down-right → down-left → up → up → down-right → up-right → right → left → left → down (object: countertop → kitchen → laptop → fork → utensil rack → cutting mat → toothbrush → remote control)
+Two-hand object: countertop → fork → laptop → kitchen → cutting mat

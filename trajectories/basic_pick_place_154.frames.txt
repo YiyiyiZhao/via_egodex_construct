@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((420,698),up,up,up-left,right,down-right,still,down)
+right hand:((1813,975),up,up,up-left,down-left,up-left,right,down-right)
+left hand object:((436,620,paint brush),right,packet cap,up,package,up-left,carton,up-right,box,down-left,paint brush,right,toothpaste,down-left,paper container)
+right hand object:((1084,768,desk),up,desk,up,desk,left,desk,left,desk,up-left,shoe,right,pair of pliers,down-right,desk)
+two hand object:((1084,768,desk),up,desk,up,desk,left,desk,left,desk,none,none,kitchen workbench,still,kitchen workbench)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → up-left → right → down-right → still → down (object: carton → toothpaste → paper container → paint brush → packet cap → package → box)
+Right hand: up → up → up-left → down-left → up-left → right → down-right (object: shoe → desk → pair of pliers)
+Two-hand object: kitchen workbench → desk

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((748,980),up,up-right,left,up-right,left,down-left,down-right,up,still,down-right,still,up-left,up-left,down-right,right,up-left,still,right,right,up-left,still)
+right hand:((1457,958),up-left,still,down-right,up-left,down-right,up,up-left,down-right,down-left,up-left,left,down-right,down-right,up-left,up-left,down-right,left,up-left,down-right,down-right,down)
+left hand object:((583,952,cutting pad),up,cutting pad,up-right,cutting pad,left,cutting mat,right,cutting pad,left,cutting pad,down-left,cutting mat,down-right,cutting pad,up,cutting mat,still,cutting mat,right,cutting pad,still,cutting pad,up-left,cutting mat,left,cutting mat,still,cutting mat,right,cutting pad,left,cutting pad,still,cutting pad,right,cutting pad,right,cutting pad,up-left,cutting pad,left,cutting pad)
+right hand object:((1067,540,kitchen),left,cupboard,down-right,chemical tin,right,mug,up-left,kitchen workbench,down-right,glass cup,up-left,kitchen workbench,up,pot lid,down-right,lemonade,down,container lid,up-left,kitchen,none,none,kitchen,down,countertop,right,phone,up-left,food container,down-right,container lid,up,rolling tray,up-left,cupboard,down,fridge,right,refrigerator shelf,down-left,rolling tray)
+two hand object:((1067,540,kitchen),left,kitchen,still,kitchen,still,kitchen workbench,left,kitchen,right,kitchen workbench,left,kitchen,still,kitchen workbench,right,kitchen workbench,left,cupboard,right,kitchen,none,none,kitchen,right,kitchen workbench,left,kitchen workbench,right,kitchen workbench,down,countertop,still,countertop,up-left,cupboard,right,kitchen workbench,down-left,kitchen workbench,right,kitchen workbench)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → left → up-right → left → down-left → down-right → up → still → down-right → still → up-left → up-left → down-right → right → up-left → still → right → right → up-left → still (object: cutting pad → cutting mat)
+Right hand: up-left → still → down-right → up-left → down-right → up → up-left → down-right → down-left → up-left → left → down-right → down-right → up-left → up-left → down-right → left → up-left → down-right → down-right → down (object: mug → kitchen workbench → pot lid → countertop → glass cup → chemical tin → container lid → rolling tray → kitchen → phone → fridge → cupboard → refrigerator shelf → food container → lemonade)
+Two-hand object: cupboard → kitchen workbench → kitchen → countertop

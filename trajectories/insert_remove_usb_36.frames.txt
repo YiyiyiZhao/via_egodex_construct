@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((932,901),up-right,right,up-left,right,up,still,still,up,up-left,left,down-right,down,down-left,still,left,down-left,down,down-right)
+right hand:((1374,898),up-right,up-left,up-right,left,left,right,left,up-left,down-left,none,none,down,right,left,down-right,down,down-right,down-right)
+left hand object:((956,897,desk),up,desk,up,desk,up-left,pair of glasses,right,keyboard,up-left,keyboard,up-left,pair of glasses,right,remote control,left,pair of glasses,right,sock,left,sock,down,desk,left,desk,left,desk,right,remote control,left,remote control,down-left,desk,down,desk,left,desk)
+right hand object:((956,897,desk),up,desk,right,sock,up-left,cellphone,down-left,keyboard,up,pair of scissors,right,remote control,left,remote control,up-right,sock,left,sock,none,none,desk,up-right,charging cable,down-left,desk,right,remote control,down-left,desk,right,charging cable,down-right,charging cable,still,charging cable)
+two hand object:((956,897,desk),up,desk,up,desk,left,desk,left,desk,right,desk,right,remote control,left,desk,right,desk,right,desk,none,none,room,down,desk,left,desk,right,remote control,down-left,desk,down,desk,down,desk,left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → right → up-left → right → up → still → still → up → up-left → left → down-right → down → down-left → still → left → down-left → down → down-right (object: pair of glasses → keyboard → sock → desk → remote control)
+Right hand: up-right → up-left → up-right → left → left → right → left → up-left → down-left → none → none → down → right → left → down-right → down → down-right → down-right (object: pair of scissors → keyboard → charging cable → sock → desk → remote control → cellphone)
+Two-hand object: remote control → desk → room

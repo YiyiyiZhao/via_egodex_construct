@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((858,632),down-right,up-right,left,down-left,left,down-right,right,down,up-left,left,right,down,left,up-right,up-left,down-right,up-left,up,down-left)
+right hand:((1624,612),up-left,left,right,down,right,left,left,up-left,down,up-right,up,right,down-left,up,down,right,up-left,down-right,down-right)
+left hand object:((960,740,bed),still,bed,left,bed,none,none,none,sponge cloth,up-left,plate,down-right,mustard,none,none,toothbrush,none,none,none,tongs,left,table,right,pancake,left,fidget spinner ring,down-left,bed,up-left,bed,still,bed,up,plate)
+right hand object:((960,740,bed),still,bed,up-right,plate,right,sandwich,down,sandwich,down,sponge cloth,up,sandwich,right,mustard,up-left,linen,down,toothbrush,right,mustard,none,none,linen,down,table,right,pancake,none,none,bed,up-left,bed,still,bed,right,pancake)
+two hand object:((960,740,bed),still,bed,left,bed,none,none,none,sponge cloth,none,none,mustard,none,none,toothbrush,none,none,none,none,table,right,pancake,none,none,bed,up-left,bed,still,bed,right,pancake)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-right → left → down-left → left → down-right → right → down → up-left → left → right → down → left → up-right → up-left → down-right → up-left → up → down-left (object: bed → tongs → table → sponge cloth → pancake → toothbrush → plate → mustard → fidget spinner ring)
+Right hand: up-left → left → right → down → right → left → left → up-left → down → up-right → up → right → down-left → up → down → right → up-left → down-right → down-right (object: bed → table → sponge cloth → pancake → toothbrush → linen → plate → mustard → sandwich)
+Two-hand object: table → sponge cloth → pancake → toothbrush → bed → mustard

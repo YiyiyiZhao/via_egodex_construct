@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((996,454),down,right,still,left,left,right,up-left,up-left,down-right)
+right hand:((1110,522),none,none,none,none,up,none,none,up-left,down)
+left hand object:((902,756,bed),right,bed,up-right,cardboard box,still,cardboard box,down-left,bed,left,bed,up-right,toothbrush,down-left,wristband,left,seed bead embroidery,right,tweezer)
+right hand object:((902,756,bed),none,none,none,none,bed,up-right,wristband,none,none,wristband,up,cardboard box,down,tweezer)
+two hand object:((902,756,bed),none,none,none,none,bed,left,bed,none,none,bed,up,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: down → right → still → left → left → right → up-left → up-left → down-right (object: wristband → seed bead embroidery → toothbrush → cardboard box → bed → tweezer)
+Right hand: none → none → none → none → up → none → none → up-left → down (object: tweezer → wristband → cardboard box → bed)
+Two-hand object: room → bed

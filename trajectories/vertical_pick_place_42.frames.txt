@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((852,732),still,still,right,up,down-right,up,down-left)
+right hand:((1618,744),up-left,left,up,up-left,up-left,down-right,down-right)
+left hand object:((1179,575,storage box),still,storage box,still,storage box,right,storage box,still,box,down-right,storage box,right,storage box,left,rolling tray)
+right hand object:((1179,575,storage box),still,storage box,still,storage box,right,storage box,still,box,none,none,none,box)
+two hand object:((1178,574,box),still,storage box,still,storage box,right,storage box,still,box,none,none,none,box)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → right → up → down-right → up → down-left (object: rolling tray → storage box → box)
+Right hand: up-left → left → up → up-left → up-left → down-right → down-right (object: storage box → box)
+Two-hand object: storage box → box

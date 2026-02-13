@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((970,884),right,down-right,up-right,up-left,down-right,down-left,down-right,up-left,down-right,down-left,down-right,down-right,down-right,up-left,down,up)
+right hand:((1520,922),up-left,up-right,down,still,down-left,up-left,up-right,right,left,right,left,down-left,down-right,up-right,up,down-left)
+left hand object:((960,842,desk),none,none,desk,right,remote control,up,card,down-left,card,down-right,toothbrush,up-left,cup,up-right,carton,down-left,cup,right,mug,down,cup,down-right,card,down,card,right,toothpaste,down,toothpaste,up-left,cup)
+right hand object:((960,842,desk),none,none,room,down-right,toothbrush,up-right,pair of scissors,down-left,bed,right,toothbrush,none,none,scissors,left,pair of scissors,up-right,tweezer,down-left,pair of scissors,down,spoon,none,none,toothbrush,up,toothbrush,down,tag)
+two hand object:((960,842,desk),none,none,desk,right,pair of scissors,left,instruction manual,left,instruction manual,down-right,toothbrush,none,none,none,pair of scissors,none,none,pair of scissors,down,spoon,none,none,rubik cube,up-left,room,down-right,cup)
+
+
+## LLM-Friendly Format:
+Left hand: right → down-right → up-right → up-left → down-right → down-left → down-right → up-left → down-right → down-left → down-right → down-right → down-right → up-left → down → up (object: carton → mug → toothpaste → card → toothbrush → desk → cup → remote control)
+Right hand: up-left → up-right → down → still → down-left → up-left → up-right → right → left → right → left → down-left → down-right → up-right → up → down-left (object: room → pair of scissors → tag → spoon → scissors → toothbrush → desk → bed → tweezer)
+Two-hand object: room → pair of scissors → spoon → rubik cube → toothbrush → desk → cup → instruction manual

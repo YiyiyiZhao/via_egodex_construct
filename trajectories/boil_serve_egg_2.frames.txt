@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((None,None),none,down-right,left,down-right,up-left,down-left,up-left,down-left,down-right,none,none,none,none,up,down,down-right,none,none,none,none,right,left,up,right,down-right,left,up-left,down-right,up-left,left,up-left,right,down-left)
+right hand:((None,None),none,none,none,down-right,up,up,none,none,none,none,none,none,none,none,down-right,up,none,none,none,none,none,none,none,none,right,down-left,up-right,left,down-right,down-right,none,none,none)
+left hand object:((None,None),none,saucepan,down-right,pot lid,down-left,kitchen,right,saucepan,up,saucepan,left,bowl,left,pot lid,down-left,stove,down,stove,none,none,none,none,foam block,up-right,stove,down-left,stove,down,sponge cloth,none,none,none,none,stove,down-right,stove,none,none,bowl,down-right,stove,right,stove,up,hot plate,up,kitchen,up-left,bowl,right,kitchen,left,bowl,down-right,kitchen,up,bowl,down-left,bowl)
+right hand object:((None,None),none,none,none,bowl,down-right,frying pan,up,tap pipe,down-left,faucet,none,none,stove,none,none,none,none,none,none,towel,right,apple,up,bowl,none,none,none,none,none,none,none,none,kitchen,up-right,spoon,down-left,kitchen,up-right,tongs,left,bowl,right,cooking pot,left,pot,none,none,none)
+two hand object:((None,None),none,none,none,kitchen,left,kitchen,left,kitchen,still,kitchen,none,none,kitchen,none,none,none,none,none,none,stove,up,kitchen workbench,right,kitchen,none,none,none,none,none,none,none,none,kitchen,none,none,kitchen,still,kitchen,left,kitchen,right,kitchen,left,kitchen,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: none → down-right → left → down-right → up-left → down-left → up-left → down-left → down-right → none → none → none → none → up → down → down-right → none → none → none → none → right → left → up → right → down-right → left → up-left → down-right → up-left → left → up-left → right → down-left (object: foam block → pot lid → bowl → saucepan → stove → sponge cloth → kitchen → hot plate)
+Right hand: none → none → none → down-right → up → up → none → none → none → none → none → none → none → none → down-right → up → none → none → none → none → none → none → none → none → right → down-left → up-right → left → down-right → down-right → none → none → none (object: faucet → towel → tongs → bowl → stove → cooking pot → spoon → apple → frying pan → kitchen → tap pipe → pot)
+Two-hand object: kitchen workbench → kitchen → stove

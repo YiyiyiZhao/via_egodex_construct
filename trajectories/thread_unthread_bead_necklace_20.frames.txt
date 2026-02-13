@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((574,497),down-right,down,down,down,up-right,up-right,down-left,down-left,right)
+right hand:((1449,942),up-left,down-right,none,none,none,up-right,left,right,left)
+left hand object:((786,810,necklace string),up,cup,down-right,cup,down-right,bed,left,table,up-right,table,up,table,down,table,still,table,down,table)
+right hand object:((1452,932,towel),up-right,box,down-left,watch,none,none,none,table,right,bead necklace,left,table,still,table,down,table)
+two hand object:((None,None),none,bed,none,none,none,none,table,up,table,down,table,still,table,down,table)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → down → down → down → up-right → up-right → down-left → down-left → right (object: table → bed → necklace string → cup)
+Right hand: up-left → down-right → none → none → none → up-right → left → right → left (object: towel → table → bead necklace → watch → box)
+Two-hand object: table → bed

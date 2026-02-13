@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1293,768),left,right,left,right,left,right,down)
+right hand:((None,None),none,none,none,none,none,none,none)
+left hand object:((958,798,bed),up-right,book,right,book,left,book,right,book,left,remote control,right,book,down-left,architectural craft manual)
+right hand object:((None,None),none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → left → right → left → right → down (object: architectural craft manual → book → remote control → bed)
+Right hand: none → none → none → none → none → none → none (object: none)

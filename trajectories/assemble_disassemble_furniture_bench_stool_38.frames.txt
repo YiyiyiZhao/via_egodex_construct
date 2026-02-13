@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((925,745),up-right,down-right,up,still,up-left,still,left)
+right hand:((1524,774),up-left,left,up-right,up-left,left,up-right,down-left)
+left hand object:((814,788,seed bead embroidery),up-right,seed bead embroidery,right,phone,up-left,room,down-right,cup,left,remote control,up,cup,left,watch)
+right hand object:((962,840,desk),up,room,down-right,phone,up-left,room,down-right,mug,left,remote control,up,mug,down-right,plastic model piece)
+two hand object:((962,840,desk),up,room,down-right,phone,up-left,room,down-right,mug,left,remote control,up,cup,up-left,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down-right → up → still → up-left → still → left (object: room → seed bead embroidery → phone → cup → remote control → watch)
+Right hand: up-left → left → up-right → up-left → left → up-right → down-left (object: mug → room → phone → desk → plastic model piece → remote control)
+Two-hand object: mug → room → phone → desk → cup → remote control

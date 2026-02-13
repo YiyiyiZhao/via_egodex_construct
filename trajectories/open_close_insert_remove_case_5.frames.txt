@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((763,810),right,up-right,left,up,up-right,down-left,left,left,right,up-right,up,down,left,right,left,up-left,right,left,up-right,down-left,down,right,down-left,left,up-right,right)
+right hand:((1327,692),down-left,up,down-left,down-left,up-right,down-right,up,down-right,down-left,up-right,up,down,up,down-right,left,left,right,up-right,still,left,down-left,left,up-left,right,down-right,up)
+left hand object:((751,856,desk),right,desk,up-right,suitcase,down-left,desk,up,desk,up,desk,down,desk,left,desk,right,desk,down-left,desk,up,desk,up-left,desk,down-right,desk,left,desk,down-right,desk,down,desk,up,desk,still,desk,left,desk,right,desk,still,desk,down-left,desk,up,desk,down,desk,up-left,table,up,room,still,room)
+right hand object:((1088,800,iron box),left,desk,up-right,tablet,down,suitcase,still,laptop,up-right,laptop,down-left,laptop,up-right,phone,down-left,desk,up,briefcase,up-right,phone,up,laptop,down,laptop,up-left,briefcase,down,desk,down,desk,up-right,laptop,right,laptop,left,briefcase,up,laptop,down,pair of scissors,left,suitcase,right,laptop,up-left,linen,down-right,suitcase,right,laptop,right,briefcase)
+two hand object:((751,856,desk),right,desk,up,room,still,room,down,desk,up,room,down,desk,left,desk,up-right,room,down,desk,up,room,down,desk,down-right,desk,left,desk,down-right,desk,down,desk,up,room,still,room,still,room,down,desk,up,room,down,desk,up,room,down,desk,up,room,still,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-right → left → up → up-right → down-left → left → left → right → up-right → up → down → left → right → left → up-left → right → left → up-right → down-left → down → right → down-left → left → up-right → right (object: table → desk → room → suitcase)
+Right hand: down-left → up → down-left → down-left → up-right → down-right → up → down-right → down-left → up-right → up → down → up → down-right → left → left → right → up-right → still → left → down-left → left → up-left → right → down-right → up (object: pair of scissors → briefcase → suitcase → laptop → desk → iron box → phone → linen → tablet)
+Two-hand object: desk → room

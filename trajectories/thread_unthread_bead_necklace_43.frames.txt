@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1280,749),up,up-left,right,down-left,down,up-right,up-right,down-left,up)
+right hand:((None,None),none,none,none,none,none,none,none,none,none)
+left hand object:((802,703,seed bead embroidery),down-right,seed bead embroidery,up,bed,still,bed,up-right,glass cup,none,none,none,bed,up,bed,still,bed)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-left → right → down-left → down → up-right → up-right → down-left → up (object: seed bead embroidery → glass cup → bed)
+Right hand: none → none → none → none → none → none → none → none → none (object: none)

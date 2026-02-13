@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1037,744),down-left,up-right,down-left,up-right,up,left,left)
+right hand:((1427,806),left,right,left,up-right,still,left,up-right)
+left hand object:((1070,637,remote control),right,remote control,up,phone,left,bed,right,remote control,right,phone,left,remote control,left,remote control)
+right hand object:((1235,614,engraving tool),left,remote control,left,bed,still,bed,still,bed,right,phone,left,bed,up,bed)
+two hand object:((1235,614,engraving tool),left,remote control,left,bed,still,bed,right,remote control,right,phone,left,bed,up,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → up-right → down-left → up-right → up → left → left (object: remote control → phone → bed)
+Right hand: left → right → left → up-right → still → left → up-right (object: engraving tool → remote control → phone → bed)
+Two-hand object: engraving tool → remote control → phone → bed

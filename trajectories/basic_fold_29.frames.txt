@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((994,1040),up,up-left,down-left,up,down-right,right,right,left,left,up-right,down-left,up,none,none,up)
+right hand:((1511,1028),up-left,up-right,none,none,none,none,none,none,up-left,left,up,down-left,none,none,up)
+left hand object:((None,None),none,napkin,up-left,linen,down-left,bed,up,linen,down,fidget spinner ring,up-right,linen,down-left,bed,right,blanket,left,bed,down,bed,right,linen,up-left,bed,none,none,napkin,up,sponge cloth)
+right hand object:((1286,840,towel),left,microfiber cloth,up-left,kitchen,none,none,napkin,none,none,bed,none,none,bed,still,bed,down,bed,right,linen,up-left,bed,none,none,paper bag,up,paper bag)
+two hand object:((None,None),none,bed,up,kitchen,none,none,bed,none,none,bed,none,none,bed,still,bed,down,bed,still,bed,up,bed,none,none,sponge cloth,up-left,linen)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-left → down-left → up → down-right → right → right → left → left → up-right → down-left → up → none → none → up (object: napkin → sponge cloth → linen → bed → blanket → fidget spinner ring)
+Right hand: up-left → up-right → none → none → none → none → none → none → up-left → left → up → down-left → none → none → up (object: towel → napkin → kitchen → linen → bed → paper bag → microfiber cloth)
+Two-hand object: sponge cloth → kitchen → linen → bed

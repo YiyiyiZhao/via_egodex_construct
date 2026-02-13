@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((893,890),up-right,still,up,right,left,down-right,up-left,down-left,right,down-left,right,still,left,up-right,left,up-right,left,left,down-right,down-right,up-left)
+right hand:((1268,921),up,up,down,up-left,up-left,up-right,still,left,right,still,up-right,still,up-left,right,down,down,left,still,up-right,right,down-right)
+left hand object:((963,824,bed),up,bed,still,bed,up,fidget spinner ring,right,book,right,book,left,architectural craft manual,down-left,bed,up-right,book,up,fidget spinner ring,down,book,right,remote control,still,remote control,up-left,remote control,right,remote control,left,book,right,book,left,sketchbook,right,book,up-right,phone,down-left,bed,up-right,linen)
+right hand object:((963,824,bed),up-right,phone,up-left,phone,down,phone,up-left,sketch manual,right,book,left,instruction manual,down-left,bed,up-right,book,down-left,bed,up-right,phone,right,remote control,still,remote control,up-left,phone,right,remote control,down-left,instruction manual,left,book,still,instruction manual,still,book,up-right,remote control,down-left,bed,right,remote control)
+two hand object:((963,824,bed),up,bed,still,bed,still,bed,up-right,book,down-left,bed,up-right,architectural craft manual,down-left,bed,still,bed,still,bed,still,bed,up-right,remote control,still,remote control,up-left,remote control,right,remote control,down-left,bed,still,bed,still,bed,up-right,instruction manual,down-left,bed,still,bed,down,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → still → up → right → left → down-right → up-left → down-left → right → down-left → right → still → left → up-right → left → up-right → left → left → down-right → down-right → up-left (object: book → phone → linen → bed → architectural craft manual → remote control → sketchbook → fidget spinner ring)
+Right hand: up → up → down → up-left → up-left → up-right → still → left → right → still → up-right → still → up-left → right → down → down → left → still → up-right → right → down-right (object: book → sketch manual → phone → bed → remote control → instruction manual)
+Two-hand object: book → bed → architectural craft manual → remote control → instruction manual

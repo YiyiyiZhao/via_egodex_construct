@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((520,767),up-right,up-right,up-right,up,left,down-left,down-left)
+right hand:((1811,904),up,up-left,up-left,right,down-left,right,down-right)
+left hand object:((360,804,measuring tool),up,metal rod,right,ball,up-right,ball,none,none,none,metal rod,right,plastic ball)
+right hand object:((1135,775,desk),none,none,none,jug,up-right,lemonade,down-left,lemonade,down-left,countertop,none)
+two hand object:((1135,775,desk),none,none,none,none,none,none,countertop,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → up-right → up → left → down-left → down-left (object: metal rod → ball → plastic ball → measuring tool)
+Right hand: up → up-left → up-left → right → down-left → right → down-right (object: jug → countertop → desk → lemonade)
+Two-hand object: desk → countertop

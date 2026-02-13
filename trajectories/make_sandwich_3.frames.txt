@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((744,882),down-right,up-left,up,still,up-left,right,up-left,down-right,up-left,up-left,right,up-left,down-right,up,down-right,left)
+right hand:((1510,830),up-left,down,up,down-left,up,still,right,down,left,down-right,left,down,up-left,down,up,down-left)
+left hand object:((865,820,sand disc),up-left,sand disc,up,sand disc,down-left,towel,right,towel,up-right,sand disc,down-left,towel,up-right,sand disc,down-right,sand disc,up-left,sand disc,right,bed,up-left,masking tape,down-right,bed,still,bed,up,rubik cube,down,bed,up,bed)
+right hand object:((878,808,bed),left,bed,right,pancake,left,bed,down-right,plate,up-left,plate,right,plate,up-right,yoghurt cup,down-left,plate,up-left,bed,right,bed,right,pancake,down,pancake,up-left,mustard,down-left,sand disc,up-left,bed,up,bed)
+two hand object:((878,808,bed),left,bed,right,bed,left,bed,down-right,plate,up-left,plate,right,plate,up-left,plate,up-left,bed,left,bed,right,bed,still,bed,still,bed,still,bed,still,bed,up,bed,up,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → up → still → up-left → right → up-left → down-right → up-left → up-left → right → up-left → down-right → up → down-right → left (object: sand disc → towel → masking tape → rubik cube → bed)
+Right hand: up-left → down → up → down-left → up → still → right → down → left → down-right → left → down → up-left → down → up → down-left (object: yoghurt cup → sand disc → bed → pancake → plate → mustard)
+Two-hand object: plate → bed

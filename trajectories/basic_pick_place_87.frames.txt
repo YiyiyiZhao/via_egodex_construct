@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1016,952),still,left,right,still,down-right,still,still)
+right hand:((1527,803),still,up-right,down-left,up-left,left,up-right,down-right)
+left hand object:((1224,979,crayon),still,crayon,up-left,desk,down-right,pair of scissors,still,crayon,up-left,countertop,down-right,fidget spinner ring,right,pair of scissors)
+right hand object:((1574,725,pair of scissors),still,toothbrush,down-left,measuring tool,still,pair of scissors,up-left,spoon,left,spoon,down-right,bowl,down-left,desk)
+two hand object:((958,804,desk),still,desk,still,desk,still,desk,up,room,down,counter,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → left → right → still → down-right → still → still (object: countertop → pair of scissors → crayon → desk → fidget spinner ring)
+Right hand: still → up-right → down-left → up-left → left → up-right → down-right (object: measuring tool → pair of scissors → bowl → spoon → toothbrush → desk)
+Two-hand object: counter → desk → room → bed

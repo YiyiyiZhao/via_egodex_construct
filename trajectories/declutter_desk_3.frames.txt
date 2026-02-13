@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((696,894),left,up-right,down-left,up-left,down-right,still,down-right,left,right,up-left,up-left,up-right,right,down-right,left,up-right,down-left,up,down,left)
+right hand:((1336,891),right,down-left,up-left,down,up-right,down-left,right,up,left,up,right,down-left,up-left,none,none,down,up-left,down-right,right,down-left)
+left hand object:((550,732,notebook),left,architectural craft manual,right,box,left,notebook,up-right,cutting pad,down-left,cutting pad,right,carton,right,carton,left,cutting pad,right,cutting pad,up,cutting pad,up-left,cutting pad,right,cutting pad,right,cutting pad,up,laptop,left,cutting pad,right,cutting pad,down-left,notebook,up,notebook,down,notebook,left,cutting pad)
+right hand object:((1572,714,cardboard box),left,cardboard box,left,box,down-right,carton,left,bottle,right,carton,up-left,foam block,right,towel,left,desk,right,desk,up,towel,none,none,towel,left,cutting pad,none,none,none,desk,right,blanket,down,box,right,linen,left,desk)
+two hand object:((959,810,desk),still,desk,left,desk,still,desk,left,desk,right,carton,left,carton,right,carton,left,carton,left,desk,none,none,none,desk,left,cutting pad,none,none,none,desk,right,blanket,left,desk,down-left,desk,right,desk)
+
+
+## LLM-Friendly Format:
+Left hand: left → up-right → down-left → up-left → down-right → still → down-right → left → right → up-left → up-left → up-right → right → down-right → left → up-right → down-left → up → down → left (object: carton → cutting pad → laptop → architectural craft manual → notebook → box)
+Right hand: right → down-left → up-left → down → up-right → down-left → right → up → left → up → right → down-left → up-left → none → none → down → up-left → down-right → right → down-left (object: foam block → carton → towel → bottle → cardboard box → desk → linen → blanket → cutting pad → box)
+Two-hand object: blanket → carton → cutting pad → desk

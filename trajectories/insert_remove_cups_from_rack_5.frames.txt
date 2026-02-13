@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1544,732),left,up-left,down-left,down,up,right,down-right)
+right hand:((None,None),none,none,none,none,none,none,none)
+left hand object:((955,750,floor),right,sauce container,up-left,sauce container,still,salt can,down,basket,up,fidget spinner ring,right,bottle,down-right,sauce container)
+right hand object:((None,None),none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → up-left → down-left → down → up → right → down-right (object: floor → basket → sauce container → bottle → salt can → fidget spinner ring)
+Right hand: none → none → none → none → none → none → none (object: none)

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((961,500),down-right,up-right,up-right,up-right,down-left,still,up-right,up-left,down-right)
+right hand:((1128,636),none,none,none,none,none,none,none,none,none)
+left hand object:((955,623,seed bead embroidery),down,bed,up,room,up-right,seed bead embroidery,up,seed bead embroidery,down-left,seed bead embroidery,still,seed bead embroidery,down-right,seed bead embroidery,up-left,seed bead embroidery,down-left,room)
+right hand object:((960,760,bed),none,none,none,none,none,none,none,none,none)
+two hand object:((1236,290,cardboard box),none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-right → up-right → up-right → down-left → still → up-right → up-left → down-right (object: seed bead embroidery → room → bed)
+Right hand: none → none → none → none → none → none → none → none → none (object: bed)
+Two-hand object: cardboard box

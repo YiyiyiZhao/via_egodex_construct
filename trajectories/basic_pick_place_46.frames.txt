@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((414,836),up-right,up-right,up-right,up-right,down-right,down-left,down-left)
+right hand:((1779,1048),up,left,left,up-right,right,down,down-right)
+left hand object:((587,883,card sleeve),up-right,instruction manual,up-right,instruction manual,still,phone,up-right,card,still,instruction manual,down-left,tablet,down-left,instruction manual)
+right hand object:((981,812,desk),right,desk,up,room,down-left,cellphone,up-right,kitchen,right,cutting pad,left,book,down-left,desk)
+two hand object:((981,812,desk),right,desk,up,room,down-left,cellphone,up-right,card,none,none,kitchen workbench,down,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → up-right → up-right → down-right → down-left → down-left (object: card → phone → card sleeve → instruction manual → tablet)
+Right hand: up → left → left → up-right → right → down → down-right (object: room → book → kitchen → desk → cutting pad → cellphone)
+Two-hand object: kitchen workbench → room → card → desk → cellphone

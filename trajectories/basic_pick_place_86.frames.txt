@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((908,932),up,up,up,up-right,up-right,up,up-left,up-right,down-right,down,up-left,up,left,down-left,up-right)
+right hand:((1402,977),up,still,left,down,down-left,left,up-left,right,up-right,up,down-right,down,still,up-right,still)
+left hand object:((890,806,remote control),up,remote control,down-right,desk,up-left,remote control,down-right,desk,up,spoon,up,toothbrush,up,toothbrush,right,sponge cloth,down,sponge cloth,down-right,plate,left,countertop,right,pancake,up-left,bowl,down-left,remote control,down-right,remote control)
+right hand object:((958,828,desk),up,desk,right,plate,down-left,plate,left,desk,right,pot lid,up,sink,up-left,sink,right,pot lid,up,plate,up,sponge cloth,down,sponge cloth,left,countertop,still,countertop,right,plate,down,plate)
+two hand object:((958,828,desk),up,desk,still,desk,still,desk,still,desk,none,none,none,none,none,none,countertop,right,countertop,left,countertop,still,countertop,still,desk,down,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → up → up-right → up-right → up → up-left → up-right → down-right → down → up-left → up → left → down-left → up-right (object: countertop → bowl → sponge cloth → spoon → pancake → toothbrush → desk → plate → remote control)
+Right hand: up → still → left → down → down-left → left → up-left → right → up-right → up → down-right → down → still → up-right → still (object: pot lid → countertop → sink → sponge cloth → desk → plate)
+Two-hand object: desk → countertop

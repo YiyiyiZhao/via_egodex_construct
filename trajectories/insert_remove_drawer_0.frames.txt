@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1037,796),up,up-left,down-right,up-right,left,down-right,up)
+right hand:((1268,697),left,up-left,right,left,up-right,right,down-left)
+left hand object:((1100,562,storage box),still,box,left,box,down-right,box,left,box,down-left,countertop,still,desk,up-right,storage box)
+right hand object:((1100,562,storage box),still,box,left,box,down-right,box,left,box,right,jenga tower,right,jenga tower,left,box)
+two hand object:((961,540,room),still,room,right,box,down-right,box,left,box,down-left,countertop,up-right,jenga tower,left,room)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-left → down-right → up-right → left → down-right → up (object: storage box → desk → countertop → box)
+Right hand: left → up-left → right → left → up-right → right → down-left (object: jenga tower → storage box → box)
+Two-hand object: jenga tower → countertop → room → box

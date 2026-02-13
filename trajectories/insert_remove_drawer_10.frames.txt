@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((872,649),up-left,up-right,up-right,down-left,up,still,still)
+right hand:((1370,655),left,still,right,up,right,left,up-right)
+left hand object:((962,757,desk),still,desk,still,desk,still,countertop,up-right,box,up,jenga tower,down-left,countertop,still,desk)
+right hand object:((1338,601,fidget spinner ring),left,jenga block,right,box,down-right,box,down-left,box,down-left,countertop,up-right,jenga tower,right,fidget spinner ring)
+two hand object:((960,540,room),right,box,right,box,down-right,box,down-left,desk,up,countertop,up-right,jenga tower,up,jenga tower)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → up-right → down-left → up → still → still (object: jenga tower → desk → box → countertop)
+Right hand: left → still → right → up → right → left → up-right (object: jenga block → jenga tower → countertop → fidget spinner ring → box)
+Two-hand object: jenga tower → room → countertop → desk → box

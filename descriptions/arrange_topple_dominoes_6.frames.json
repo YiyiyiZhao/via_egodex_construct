@@ -1,0 +1,6 @@
+{
+  "video_name": "arrange_topple_dominoes_6.frames",
+  "action_label": "arrange_topple_dominoes",
+  "description": "A small pile of white domino tiles is spread out on the tabletop in front of the hands. The left hand gathers tiles inward and sets the first domino upright, then both hands alternately pick up individual tiles from the pile and stand them on edge in a row, nudging and sliding each one closer so the spacing is even and they’re aligned for toppling.",
+  "model": "gpt-5.2-2025-12-11"
+}

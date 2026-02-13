@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((652,1040),up-right,left,none,none,down-right,up,right,left,still,down-right,up-right,left,down-right,down-right,up-left,down-right,up-left)
+right hand:((None,None),none,none,none,none,none,none,none,none,right,down-right,none,none,down-left,right,up-left,down-right,up-left)
+left hand object:((960,740,bed),up,bed,down,bed,none,none,kitchen,down-right,blanket,none,none,none,tablet bag,still,tablet bag,down,blanket,none,none,bed,down,bed,right,blanket,left,microfiber cloth,up-left,microfiber cloth,down-left,microfiber cloth)
+right hand object:((None,None),none,bed,none,none,none,none,bed,none,none,none,tablet bag,still,tablet bag,down,blanket,none,none,bed,down,bed,right,blanket,left,tie,left,bed,down-right,microfiber cloth)
+two hand object:((None,None),none,bed,none,none,none,none,blanket,none,none,none,tablet bag,still,tablet bag,left,bed,none,none,bed,down,bed,right,blanket,left,microfiber cloth,up-left,microfiber cloth,down-left,microfiber cloth)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → left → none → none → down-right → up → right → left → still → down-right → up-right → left → down-right → down-right → up-left → down-right → up-left (object: tablet bag → microfiber cloth → kitchen → bed → blanket)
+Right hand: none → none → none → none → none → none → none → none → right → down-right → none → none → down-left → right → up-left → down-right → up-left (object: tablet bag → microfiber cloth → tie → bed → blanket)
+Two-hand object: blanket → tablet bag → microfiber cloth → bed

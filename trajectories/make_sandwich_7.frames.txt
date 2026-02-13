@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((771,905),up-right,left,right,down-left,up-right,down-left,up-right,up-left,down-left,still,left,right,left,up-right,left,right,left,right,still,up-right)
+right hand:((1402,726),left,down-right,down-left,up-right,up-right,left,up-left,down-left,up,right,down-right,left,up-left,down-right,right,left,right,left,up-right,down-right)
+left hand object:((1008,954,plate),up-right,plate,left,plate,up,bed,down,plate,up-right,plate,still,plate,right,plate,up-left,bed,down,plate,still,plate,left,plate,up,bed,down,plate,up,bed,down-left,plate,up,bed,down,plate,up,bed,down,plate,up,bed)
+right hand object:((1454,892,cutting pad),up-left,sponge cloth,right,cutting pad,left,bed,left,tablemat,right,pair of scissors,left,bed,down-left,tablemat,right,bed,up-right,sponge cloth,down-left,bed,left,bed,up,bed,down-right,sponge cloth,down,bed,right,sandal,left,bed,down,bed,up-right,sponge cloth,still,sponge cloth,down,plate)
+two hand object:((960,851,bed),up,sponge cloth,down,bed,down,bed,left,bed,right,tablemat,left,bed,down-left,tablemat,right,bed,still,bed,still,bed,left,bed,up,bed,down,plate,up,bed,left,bed,up-right,bed,down,bed,right,bed,down,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → left → right → down-left → up-right → down-left → up-right → up-left → down-left → still → left → right → left → up-right → left → right → left → right → still → up-right (object: bed → plate)
+Right hand: left → down-right → down-left → up-right → up-right → left → up-left → down-left → up → right → down-right → left → up-left → down-right → right → left → right → left → up-right → down-right (object: sandal → pair of scissors → plate → sponge cloth → tablemat → bed → cutting pad)
+Two-hand object: sponge cloth → plate → tablemat → bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((972,582),still,still,down-left,down-left,down-right,up-right,up-left,down-right,down-left)
+right hand:((1160,519),up-right,up-right,right,down-right,down-right,up-left,up-right,left,left)
+left hand object:((1316,589,cutting pad),left,cutting pad,right,cutting pad,left,cutting pad,down,cutting pad,down-right,cutting pad,up-left,cutting pad,up-left,cutting pad,up-right,cutting pad,right,cutting pad)
+right hand object:((1316,589,cutting pad),up-left,paint brush,up-right,paint brush,down-right,fidget spinner ring,down-right,pair of scissors,down-left,cutting pad,up-left,cutting pad,right,tweezer,left,cutting pad,up-right,sand disc)
+two hand object:((1316,589,cutting pad),right,cutting pad,still,cutting pad,left,cutting pad,down,cutting pad,down-right,cutting pad,up-left,cutting pad,up-left,cutting pad,right,sand disc,right,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → down-left → down-left → down-right → up-right → up-left → down-right → down-left (object: cutting pad)
+Right hand: up-right → up-right → right → down-right → down-right → up-left → up-right → left → left (object: sand disc → pair of scissors → paint brush → tweezer → cutting pad → fidget spinner ring)
+Two-hand object: sand disc → cutting pad

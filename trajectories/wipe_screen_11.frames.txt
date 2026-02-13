@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((943,870),up,up,down-right,right,left,right,down-left,up-right,up,up,still,still,up,still,still,right,left,down-right,up-left,left,still)
+right hand:((1268,848),up,left,up-left,up-right,down-left,up-right,down,down-left,up-right,up-right,right,left,right,left,right,left,up-right,right,down-left,left,right)
+left hand object:((986,816,bed),up,phone,left,remote control,up-right,remote control,down-right,remote control,up-left,phone,right,phone,down,remote control,up-left,phone,up,phone,up,phone,right,remote control,left,phone,up,remote control,up-right,remote control,still,remote control,still,phone,still,remote control,down-right,phone,left,phone,left,remote control,right,remote control)
+right hand object:((986,816,bed),up-left,bed,still,bed,up,remote control,up-right,fidget spinner ring,down-left,phone,right,remote control,down,remote control,up-left,phone,up,phone,up-right,remote control,right,phone,left,remote control,down-right,fidget spinner ring,up-left,remote control,still,remote control,still,remote control,still,book,down-right,remote control,left,remote control,left,phone,down-left,bed)
+two hand object:((986,816,bed),up-left,bed,still,bed,up,remote control,down,bed,up-right,phone,down-left,bed,up-right,remote control,up-left,phone,up,remote control,up-right,remote control,down-left,bed,up-right,remote control,up,remote control,up-right,remote control,still,remote control,still,remote control,still,remote control,down-left,bed,up-right,remote control,left,remote control,down-left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → down-right → right → left → right → down-left → up-right → up → up → still → still → up → still → still → right → left → down-right → up-left → left → still (object: remote control → phone → bed)
+Right hand: up → left → up-left → up-right → down-left → up-right → down → down-left → up-right → up-right → right → left → right → left → right → left → up-right → right → down-left → left → right (object: book → phone → bed → remote control → fidget spinner ring)
+Two-hand object: remote control → phone → bed

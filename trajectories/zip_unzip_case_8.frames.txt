@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((918,712),right,up,up-left,down,up-left,down-left,left)
+right hand:((1445,638),left,up-right,down,up,up-left,down,right)
+left hand object:((961,810,desk),left,piece of clothing,right,desk,up,pot lid,down-right,pot lid,up,linen,down-left,pot lid,right,desk)
+right hand object:((961,810,desk),up,linen,down,room,down,room,down-right,pot lid,up-right,scissors,up,linen,down,desk)
+two hand object:((960,540,room),none,none,room,up-right,pot lid,down-right,pot lid,up,linen,none,none,room)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → up-left → down → up-left → down-left → left (object: piece of clothing → pot lid → desk → linen)
+Right hand: left → up-right → down → up → up-left → down → right (object: pot lid → room → scissors → desk → linen)
+Two-hand object: linen → pot lid → room

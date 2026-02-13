@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1000,760),right,down-left,down-right,up-left,down-left,right,down-left,up-right,down-right,left,up-right,right,up-left)
+right hand:((1422,815),down-right,up-left,right,up-left,up-right,none,none,none,none,none,still,up-right,left)
+left hand object:((1133,710,phone),right,phone,left,phone,right,phone,up-left,phone,left,bed,right,phone,right,phone,left,remote control,down,remote control,up,device,up,phone,right,remote control,up-left,phone)
+right hand object:((960,700,bed),down-right,seed bead embroidery,up-left,phone,right,phone,up-left,phone,left,bed,none,none,none,none,none,device,up,remote control,right,phone,up-left,phone)
+two hand object:((960,700,bed),none,none,phone,right,phone,up-left,phone,left,bed,none,none,none,none,none,bed,still,bed,right,remote control,up-left,remote control)
+
+
+## LLM-Friendly Format:
+Left hand: right → down-left → down-right → up-left → down-left → right → down-left → up-right → down-right → left → up-right → right → up-left (object: remote control → device → phone → bed)
+Right hand: down-right → up-left → right → up-left → up-right → none → none → none → none → none → still → up-right → left (object: seed bead embroidery → device → phone → bed → remote control)
+Two-hand object: remote control → phone → bed

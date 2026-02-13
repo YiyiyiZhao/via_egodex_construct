@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((950,786),still,still,still,up-left,down,down-right,up-left,down-right,up-left)
+right hand:((1554,605),still,still,up,down-left,right,down,still,down-left,left)
+left hand object:((1104,720,sponge cloth),left,sponge cloth,right,sponge cloth,up-left,sponge cloth,up-left,remote control,down-right,microfiber cloth,down-right,sponge cloth,up-left,sponge cloth,down-right,instruction manual,up-left,flatbread)
+right hand object:((1454,576,bottle),still,bottle,still,bottle,still,bottle,left,room,right,bottle,still,bottle,still,bottle,down-left,bottle,none)
+two hand object:((960,538,room),still,room,none,none,room,still,room,still,room,still,room,none,none,room,none)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → up-left → down → down-right → up-left → down-right → up-left (object: sponge cloth → flatbread → microfiber cloth → remote control → instruction manual)
+Right hand: still → still → up → down-left → right → down → still → down-left → left (object: bottle → room)
+Two-hand object: room

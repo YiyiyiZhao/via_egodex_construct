@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((844,962),up-left,down-right,down-left,up-right,up,down,right,left,up)
+right hand:((1316,974),up,up,up-left,up,down,right,right,left,left)
+left hand object:((902,866,desk),up-right,desk,up,room,none,none,none,scissors,down,cardboard box,right,box,left,box,up-right,pair of scissors)
+right hand object:((902,866,desk),up-right,desk,up-right,tweezer,up-left,tweezer,up,paint brush,down-left,box,right,desk,right,desk,left,desk,left,cardboard box)
+two hand object:((902,866,desk),up-right,desk,up,room,none,none,none,box,right,desk,right,desk,left,desk,left,box)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → down-right → down-left → up-right → up → down → right → left → up (object: room → pair of scissors → scissors → desk → cardboard box → box)
+Right hand: up → up → up-left → up → down → right → right → left → left (object: paint brush → desk → cardboard box → tweezer → box)
+Two-hand object: desk → room → box

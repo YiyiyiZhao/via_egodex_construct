@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((869,653),still,still,still,still,left,still,still,still,still)
+right hand:((1236,635),still,up-right,up,still,still,still,still,right,up-right)
+left hand object:((844,775,cutting pad),still,cutting pad,right,cutting pad,right,sponge cloth,up-left,sponge cloth,still,sponge cloth,still,sponge cloth,still,sponge cloth,still,sponge cloth,still,cutting pad)
+right hand object:((844,775,cutting pad),still,cutting pad,right,seed bead embroidery,left,sponge cloth,up-left,sponge cloth,still,sponge cloth,still,sponge cloth,still,sponge cloth,still,sponge cloth,up-right,paint brush)
+two hand object:((834,776,instruction manual),right,instruction manual,right,instruction manual,right,instruction manual,still,instruction manual,left,instruction manual,still,instruction manual,still,instruction manual,still,instruction manual,still,instruction manual)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → left → still → still → still → still (object: sponge cloth → cutting pad)
+Right hand: still → up-right → up → still → still → still → still → right → up-right (object: sponge cloth → seed bead embroidery → cutting pad → paint brush)
+Two-hand object: instruction manual

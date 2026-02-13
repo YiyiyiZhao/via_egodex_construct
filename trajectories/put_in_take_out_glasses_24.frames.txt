@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((720,898),up-right,up,down,up-left,down,down-right,up-left,down,down-left)
+right hand:((1635,924),up-left,up,right,up-right,right,down-right,up,right,down-right)
+left hand object:((None,None),none,bed,up-right,remote control,left,book,right,cutting pad,still,book,right,toothbrush,down-left,desk,up-right,pair of scissors,down-left,desk)
+right hand object:((None,None),none,bed,up-right,book,left,book,right,book,still,paper bag,right,toothbrush,up-right,pencil,down-left,desk,still,desk)
+two hand object:((None,None),none,bed,up-right,book,left,book,right,cutting pad,still,paper bag,right,remote control,down-left,desk,up,room,down,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → down → up-left → down → down-right → up-left → down → down-left (object: pair of scissors → book → toothbrush → desk → bed → remote control → cutting pad)
+Right hand: up-left → up → right → up-right → right → down-right → up → right → down-right (object: book → pencil → toothbrush → desk → bed → paper bag)
+Two-hand object: room → book → desk → bed → paper bag → remote control → cutting pad

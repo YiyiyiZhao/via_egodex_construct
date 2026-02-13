@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((None,None),none,up,up-right,left,right,up-left,down,left,up-left,left,down-left,up-left,left,right,up-right,down-left)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((None,None),none,spoon,up,crayon,left,table,right,crayon,left,table,still,desk,right,pair of scissors,left,toothbrush,down-left,toothbrush,up-left,toothbrush,down,remote control,up-left,basket,down-right,remote control,down-right,remote control,up-left,basket,down,bed)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: none → up → up-right → left → right → up-left → down → left → up-left → left → down-left → up-left → left → right → up-right → down-left (object: basket → pair of scissors → table → crayon → spoon → toothbrush → desk → bed → remote control)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

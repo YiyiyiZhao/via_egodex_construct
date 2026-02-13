@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((920,518),up-right,down-left,down-left,up-right,up-right,down-right,up)
+right hand:((1664,568),still,up-right,down,up,still,left,right)
+left hand object:((962,542,bed),left,watch,right,cutting pad,left,bed,right,notebook,left,bed,still,bed,down-left,seed bead embroidery)
+right hand object:((1314,668,notebook),up,book,down-right,notebook,down-left,laptop,up-left,sketch manual,left,bed,still,bed,right,laptop)
+two hand object:((1313,668,cutting pad),up,cutting pad,down,cutting pad,left,bed,still,bed,still,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down-left → down-left → up-right → up-right → down-right → up (object: seed bead embroidery → notebook → bed → cutting pad → watch)
+Right hand: still → up-right → down → up → still → left → right (object: book → sketch manual → laptop → bed → notebook)
+Two-hand object: cutting pad → bed

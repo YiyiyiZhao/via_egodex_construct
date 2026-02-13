@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((711,376),up-right,up-right,down-left,up-left,right,down,down-right,up-left,left)
+right hand:((1545,474),up,up,down-right,down,right,down-left,down-left,up-right,up)
+left hand object:((None,None),none,none,none,none,none,none,none,paint brush,none,none)
+right hand object:((1144,592,clay bowl),up-right,toothbrush,left,toothbrush,none,none,none,none,paint brush,left,paint brush,right,paint brush,still,toothbrush)
+two hand object:((None,None),none,none,none,none,none,none,none,paint brush,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → down-left → up-left → right → down → down-right → up-left → left (object: paint brush)
+Right hand: up → up → down-right → down → right → down-left → down-left → up-right → up (object: paint brush → toothbrush → clay bowl)
+Two-hand object: paint brush

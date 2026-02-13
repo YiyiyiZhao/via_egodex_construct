@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((922,857),down-left,right,up-left,up-right,up,up,down-left,left,up)
+right hand:((1044,516),down-right,up-left,down-right,right,up,up-right,right,still,up-right)
+left hand object:((830,891,cutting pad),right,seed bead embroidery,left,lace,up-left,box,down,cutting pad,up,box,down-left,cutting pad,right,cutting pad,still,cutting pad,left,cutting pad)
+right hand object:((1045,572,rolling tray),left,rolling tray,down,book,up,box,down,cutting pad,up,box,down-left,cutting pad,right,cutting pad,still,cutting pad,right,sketch manual)
+two hand object:((1045,572,rolling tray),left,rolling tray,left,room,right,box,down,cutting pad,up,rubik cube,down-left,cutting pad,up-right,rubik cube,still,box,down-left,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → right → up-left → up-right → up → up → down-left → left → up (object: lace → seed bead embroidery → cutting pad → box)
+Right hand: down-right → up-left → down-right → right → up → up-right → right → still → up-right (object: book → rolling tray → sketch manual → cutting pad → box)
+Two-hand object: room → rolling tray → rubik cube → cutting pad → box

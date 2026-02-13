@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1094,908),up,left,down-left,down-left,left,left,left)
+right hand:((1285,842),right,left,left,down,right,down-right,right)
+left hand object:((1042,794,table),right,toothbrush,left,table,down-right,toothbrush,up-left,table,down,toothbrush,up,desk,down-left,crayon)
+right hand object:((1202,668,toothbrush),down-right,clay lump,up-right,pair of scissors,left,desk,up-right,pair of scissors,down-right,sand disc,down-left,desk,right,crayon)
+two hand object:((1202,668,toothbrush),down,toothbrush,down-left,desk,still,desk,left,desk,down-right,desk,right,desk,none)
+
+
+## LLM-Friendly Format:
+Left hand: up → left → down-left → down-left → left → left → left (object: table → crayon → toothbrush → desk)
+Right hand: right → left → left → down → right → down-right → right (object: sand disc → pair of scissors → clay lump → crayon → toothbrush → desk)
+Two-hand object: toothbrush → desk

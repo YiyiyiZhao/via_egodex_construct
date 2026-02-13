@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((882,922),still,still,still,still,still,still,still,still,still)
+right hand:((1350,776),left,down-left,down,up-left,down-left,up-right,up-right,right,still)
+left hand object:((826,892,pair of pliers),right,pot lid,left,pair of pliers,still,pair of pliers,still,pair of pliers,still,pair of pliers,still,pair of pliers,still,pair of pliers,still,pair of pliers,right,pot lid)
+right hand object:((1300,728,masking tape),left,desk,right,banana,down,mustard,up,banana,down,banana,up-right,banana,left,table,right,mustard,down-left,mustard)
+two hand object:((993,769,desk),down-right,pot lid,up-left,desk,up-left,desk,down-right,desk,down-right,plate,up-left,desk,down-right,pot lid,up-left,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still → still → still (object: pot lid → pair of pliers)
+Right hand: left → down-left → down → up-left → down-left → up-right → up-right → right → still (object: table → masking tape → desk → mustard → banana)
+Two-hand object: pot lid → desk → plate

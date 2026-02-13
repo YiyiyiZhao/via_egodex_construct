@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((705,766),left,down,right,down-left,right,down-left,left,up-right,down-left,down-right,down-left,up-left,up-right,up-left)
+right hand:((1119,624),down,up-left,up-right,down,right,left,up-left,up-right,left,left,down,up-right,up-left,up-right)
+left hand object:((964,819,desk),down,desk,up,room,left,room,still,room,down,countertop,none,none,sewing machine,up,countertop,right,countertop,up,room,down,desk,up,countertop,left,remote control,right,desk)
+right hand object:((964,819,desk),down,desk,up,room,left,room,still,room,down,countertop,none,none,sewing machine,up,countertop,right,countertop,up,room,down,card,up-right,paper container,left,remote control,right,power adapter)
+two hand object:((964,819,desk),up,linen,down-left,room,left,room,still,room,down,countertop,none,none,sewing machine,up,countertop,right,countertop,up,room,down,desk,up,countertop,up,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: left → down → right → down-left → right → down-left → left → up-right → down-left → down-right → down-left → up-left → up-right → up-left (object: sewing machine → room → countertop → desk → remote control)
+Right hand: down → up-left → up-right → down → right → left → up-left → up-right → left → left → down → up-right → up-left → up-right (object: sewing machine → power adapter → room → countertop → paper container → card → desk → remote control)
+Two-hand object: sewing machine → room → countertop → desk → linen

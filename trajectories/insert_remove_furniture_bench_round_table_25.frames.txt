@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((886,932),right,still,still,up-left,still,down,down-left)
+right hand:((1589,892),left,left,up-left,right,left,down-left,right)
+left hand object:((1044,786,desk),up,desk,down-right,cutting pad,up-left,desk,down-right,plate,up-left,table,down-right,countertop,still,table)
+right hand object:((1044,786,desk),up,desk,down-right,cutting pad,up-left,desk,none,none,plastic model piece,down-left,paint spray gun,left,table)
+two hand object:((1044,786,desk),up,desk,right,desk,left,desk,none,none,table,down-right,countertop,still,table)
+
+
+## LLM-Friendly Format:
+Left hand: right → still → still → up-left → still → down → down-left (object: countertop → table → desk → plate → cutting pad)
+Right hand: left → left → up-left → right → left → down-left → right (object: paint spray gun → table → desk → plastic model piece → cutting pad)
+Two-hand object: table → desk → countertop

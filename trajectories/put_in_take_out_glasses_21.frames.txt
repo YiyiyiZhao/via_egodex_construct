@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((838,858),up-right,up,up-left,up-left,down-right,down-left,right,left,up-left,left,right,up-left,left)
+right hand:((1650,946),up-left,up-right,up-left,still,down-left,up,down-left,still,down-left,down,still,down-left,up-right)
+left hand object:((None,None),none,bed,up-right,pair of pliers,left,tongs,down-left,pair of pliers,down-left,bed,up-right,instruction manual,right,sketch manual,up,architectural craft manual,up-left,book,down-right,phone,still,phone,down-left,phone,left,remote control)
+right hand object:((None,None),none,bed,up-right,pair of glasses,down-left,bed,up-right,paint brush,up-right,remote control,left,pair of scissors,down-left,instruction manual,up,book,up-left,book,down-right,phone,still,phone,down-left,phone,down-left,bed)
+two hand object:((None,None),none,bed,up-right,pair of pliers,left,tongs,down-left,bed,up-right,phone,none,none,instruction manual,up,architectural craft manual,left,bed,up-right,phone,still,phone,down-left,phone,down-left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → up-left → up-left → down-right → down-left → right → left → up-left → left → right → up-left → left (object: book → tongs → pair of pliers → sketch manual → phone → bed → architectural craft manual → remote control → instruction manual)
+Right hand: up-left → up-right → up-left → still → down-left → up → down-left → still → down-left → down → still → down-left → up-right (object: pair of glasses → pair of scissors → book → paint brush → phone → bed → remote control → instruction manual)
+Two-hand object: tongs → pair of pliers → phone → bed → architectural craft manual → instruction manual

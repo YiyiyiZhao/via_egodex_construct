@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((627,728),right,up-left,down,right,down-right,down-left,up-left,up-left,down-left,right,down-right,left,left)
+right hand:((1607,889),up-left,right,down-left,left,up-right,up,left,down-right,up,up-left,up-left,down-left,up-right)
+left hand object:((None,None),none,book,down-left,counter,down,counter,right,instruction manual,right,book,still,book,up-left,architectural craft manual,down-right,book,left,counter,down-right,instruction manual,up-right,book,up,book,left,fidget spinner ring)
+right hand object:((1166,860,instruction manual),up-left,cutting pad,right,fidget spinner ring,left,counter,right,cutting pad,up-right,tweezer,down,tweezer,up-left,architectural craft manual,down,counter,down,counter,right,toothbrush,up-left,banana,left,instruction manual,down-left,book)
+two hand object:((None,None),none,rolling tray,up-left,rolling tray,down-left,rolling tray,still,instruction manual,right,instruction manual,still,book,right,rolling tray,up,book,left,counter,down-right,book,up-right,book,up,book,down-left,rolling tray)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → down → right → down-right → down-left → up-left → up-left → down-left → right → down-right → left → left (object: book → counter → instruction manual → architectural craft manual → fidget spinner ring)
+Right hand: up-left → right → down-left → left → up-right → up → left → down-right → up → up-left → up-left → down-left → up-right (object: book → counter → toothbrush → instruction manual → architectural craft manual → banana → tweezer → cutting pad → fidget spinner ring)
+Two-hand object: counter → rolling tray → instruction manual → book

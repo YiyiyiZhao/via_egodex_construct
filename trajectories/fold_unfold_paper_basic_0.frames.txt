@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((850,820),down-right,right,up-left,left,up,up-left,left,right,still,up,down-right,up-left,down-right,up-right,left,left,up-left,left)
+right hand:((1483,836),left,left,still,up-right,up-right,down-left,right,left,right,down,up,down-left,up-left,right,down-left,right,right,down-left)
+left hand object:((900,788,fidget spinner ring),down-right,desk,right,sketch manual,up-right,remote control,up-right,cutting pad,up,instruction manual,left,desk,still,desk,right,cutting pad,right,cutting pad,left,instruction manual,up-right,cutting pad,down-left,cutting pad,down,cutting pad,right,cutting pad,down,cutting pad,left,cutting pad,right,cutting pad,left,desk)
+right hand object:((910,872,desk),right,instruction manual,left,sketch manual,up-right,instruction manual,up-right,instruction manual,up,instruction manual,left,instruction manual,left,cutting pad,right,cutting pad,right,cutting pad,left,cutting pad,up-right,cutting pad,down-left,cutting pad,up,cutting pad,down-right,cutting pad,down,cutting pad,left,cutting pad,right,fidget spinner ring,left,cutting pad)
+two hand object:((910,872,desk),right,instruction manual,left,desk,right,remote control,up-right,instruction manual,up,instruction manual,left,instruction manual,left,desk,right,cutting pad,right,cutting pad,left,cutting pad,up-right,cutting pad,down-left,cutting pad,up,cutting pad,down-right,cutting pad,down,cutting pad,left,cutting pad,right,cutting pad,left,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → right → up-left → left → up → up-left → left → right → still → up → down-right → up-left → down-right → up-right → left → left → up-left → left (object: sketch manual → desk → instruction manual → remote control → cutting pad → fidget spinner ring)
+Right hand: left → left → still → up-right → up-right → down-left → right → left → right → down → up → down-left → up-left → right → down-left → right → right → down-left (object: sketch manual → desk → instruction manual → cutting pad → fidget spinner ring)
+Two-hand object: remote control → cutting pad → desk → instruction manual

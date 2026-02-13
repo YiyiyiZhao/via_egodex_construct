@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((926,677),up-right,down-left,right,still,still,still,up,still,up-right,still,down,still,left,up-right,up)
+right hand:((1312,648),down-left,down-right,still,left,still,still,still,still,up-left,up-left,still,still,down,up,up)
+left hand object:((816,796,wristwatch),up-right,rubik cube,down-left,wristwatch,up-right,wristwatch,still,watch,still,watch,up-right,room,down-right,soft lego brick,still,soft lego brick,still,rubik cube,still,soft lego brick,left,watch,right,watch,down-right,watch,still,watch,up-right,room)
+right hand object:((960,688,countertop),right,rubik cube,up-left,room,still,room,still,room,still,room,still,room,down-right,soft lego brick,still,soft lego brick,still,soft lego brick,still,rubik cube,up-left,room,still,room,still,room,still,room,still,room)
+two hand object:((960,539,room),still,room,still,room,still,room,still,room,still,room,still,room,down-right,soft lego brick,still,soft lego brick,up-left,room,down-right,soft lego brick,up-left,room,still,room,still,room,still,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down-left → right → still → still → still → up → still → up-right → still → down → still → left → up-right → up (object: room → rubik cube → soft lego brick → wristwatch → watch)
+Right hand: down-left → down-right → still → left → still → still → still → still → up-left → up-left → still → still → down → up → up (object: rubik cube → soft lego brick → room → countertop)
+Two-hand object: soft lego brick → room

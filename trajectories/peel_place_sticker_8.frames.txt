@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((778,612),up-right,down,up-left,right,up-left,down-left,right,up,down,up,up-right,down-left,down-left,down-right,still)
+right hand:((1877,776),left,down-left,still,up,still,right,up-left,up-right,still,still,up,down-left,right,down-left,down-left)
+left hand object:((1304,817,instruction manual),up-left,instruction manual,up,instruction manual,still,instruction manual,up,instruction manual,still,instruction manual,still,instruction manual,up,instruction manual,up,instruction manual,up,instruction manual,still,instruction manual,down-left,instruction manual,up-left,magazine,still,instruction manual,up-right,cutting pad,still,mat craft board)
+right hand object:((1306,818,magazine),up-left,instruction manual,up-right,book,still,book,up-left,book,up,book,down,book,up,instruction manual,still,book,left,bed,right,book,down-left,instruction manual,up-left,magazine,still,instruction manual,up-right,cutting pad,still,mat craft board)
+two hand object:((1304,817,instruction manual),up-left,instruction manual,up,instruction manual,still,instruction manual,up,instruction manual,still,instruction manual,still,instruction manual,up,instruction manual,up,instruction manual,up,instruction manual,still,instruction manual,down-left,paper tablemat,up-left,instruction manual,up,instruction manual,up,instruction manual,still,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down → up-left → right → up-left → down-left → right → up → down → up → up-right → down-left → down-left → down-right → still (object: mat craft board → cutting pad → magazine → instruction manual)
+Right hand: left → down-left → still → up → still → right → up-left → up-right → still → still → up → down-left → right → down-left → down-left (object: magazine → book → mat craft board → bed → cutting pad → instruction manual)
+Two-hand object: paper tablemat → cutting pad → instruction manual

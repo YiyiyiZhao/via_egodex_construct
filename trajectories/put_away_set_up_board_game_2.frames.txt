@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((966,894),up,up-right,down-left,down,up-right,up-right,left,up,left)
+right hand:((1471,877),up-left,right,down-left,right,left,up,right,left,right)
+left hand object:((1238,790,book),up,hot plate,left,rolling tray,up-left,linen,down-right,box,left,desk,right,cutting pad,left,laptop,up,linen,down-left,paper bag)
+right hand object:((1238,790,book),up,hot plate,right,rolling tray,down-left,rolling tray,down-left,box,right,box,up-left,cutting pad,left,notebook,down-right,sink,left,paper bag)
+two hand object:((1236,790,architectural craft manual),up,trowel,down-left,desk,still,countertop,right,box,left,desk,left,desk,up-right,laptop,up,linen,left,linen)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → down-left → down → up-right → up-right → left → up → left (object: book → rolling tray → desk → linen → laptop → paper bag → cutting pad → hot plate → box)
+Right hand: up-left → right → down-left → right → left → up → right → left → right (object: book → sink → notebook → rolling tray → paper bag → cutting pad → hot plate → box)
+Two-hand object: countertop → trowel → desk → laptop → linen → architectural craft manual → box

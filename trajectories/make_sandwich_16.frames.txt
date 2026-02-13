@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((582,748),up-right,down,down-right,up-left,left,up-right,up,up-right,down-left,still,up-right,still,still,up,left,up,down-right,left)
+right hand:((1340,940),up,up-left,down-left,up-right,left,down,up-right,still,down-left,right,down-left,up,down,down-left,up-right,down-left,up-left,down-left)
+left hand object:((966,792,bed),up-left,linen,down-right,plate,down-right,plate,left,plate,up-left,bed,down-right,plate,up,bed,left,bed,right,bed,up-left,orange,down-right,bed,up,orange,still,orange,down,bed,up-left,orange,up-left,linen,down-right,bed,still,bed)
+right hand object:((966,792,bed),up,bed,still,bed,down,plate,up-left,bed,up-right,sand disc,down-left,plate,up,bed,left,bed,right,bed,left,bed,still,bed,up-right,sand disc,down-left,bed,down-right,yoghurt cup,up-left,bed,up,bed,down,bed,still,bed)
+two hand object:((966,792,bed),up,bed,still,bed,down,plate,up-left,bed,left,bed,down-right,plate,up,bed,left,bed,right,bed,left,bed,still,bed,up,bed,down,bed,up,bed,down,bed,up,bed,down,bed,down,yoghurt cup)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down → down-right → up-left → left → up-right → up → up-right → down-left → still → up-right → still → still → up → left → up → down-right → left (object: plate → orange → linen → bed)
+Right hand: up → up-left → down-left → up-right → left → down → up-right → still → down-left → right → down-left → up → down → down-left → up-right → down-left → up-left → down-left (object: plate → sand disc → yoghurt cup → bed)
+Two-hand object: plate → yoghurt cup → bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((846,730),up-left,left,down-right,right,left,up-right,up-left,down-left,left)
+right hand:((1188,788),up-left,right,left,down-left,left,up-right,up-left,right,left)
+left hand object:((964,760,fidget spinner ring),up,pair of scissors,down-left,pair of scissors,right,pair of scissors,up-left,cellphone,down-right,pair of scissors,up-left,lighter,down-right,scissors,down-left,pair of scissors,down-left,pair of pliers)
+right hand object:((1433,732,seed bead embroidery),up-left,seed bead embroidery,left,bed,right,seed bead embroidery,left,bed,right,seed bead embroidery,left,bed,down-right,phone,up-left,bed,down,bed)
+two hand object:((960,552,bed),still,bed,down-left,bed,down-right,pair of scissors,up-left,bed,down-right,pair of scissors,up-left,bed,down-right,phone,up-left,bed,down,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → left → down-right → right → left → up-right → up-left → down-left → left (object: pair of scissors → lighter → pair of pliers → scissors → fidget spinner ring → cellphone)
+Right hand: up-left → right → left → down-left → left → up-right → up-left → right → left (object: seed bead embroidery → phone → bed)
+Two-hand object: pair of scissors → phone → bed

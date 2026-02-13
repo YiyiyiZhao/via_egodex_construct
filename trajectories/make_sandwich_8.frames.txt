@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((700,757),up-right,down,up-right,down-left,right,down-right,still,down-left,up,down-left,down,up-left,down-right,up-left,left,up-left,down-right,down-right,down-right,up-left,right,down-right,still)
+right hand:((1782,879),up-left,up-left,up-left,down-left,right,right,up-left,down,up,left,down-right,up-left,up-left,down,up-right,up-left,right,up-right,none,none,down-left,up-right,still)
+left hand object:((962,791,bed),up,bed,still,bed,right,sponge cloth,none,none,bed,left,blanket,right,blanket,right,bed,left,towel,right,remote control,still,rolling tray,left,blanket,right,bed,left,blanket,still,towel,left,blanket,none,none,none,bed,none,none,remote control,right,rolling tray,none)
+right hand object:((962,791,bed),up,bed,still,bed,right,cutting pad,down-left,bed,still,bed,right,towel,left,blanket,right,bed,none,none,remote control,down-left,desk,still,bed,still,bed,still,bed,up,bed,up,room,none,none,none,none,towel,left,phone,right,rolling tray,none)
+two hand object:((962,791,bed),up,bed,still,bed,up-right,sponge cloth,none,none,bed,still,bed,left,blanket,right,bed,none,none,remote control,down-left,bed,still,bed,still,bed,still,bed,none,none,none,none,none,none,none,rolling tray,right,rolling tray,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down → up-right → down-left → right → down-right → still → down-left → up → down-left → down → up-left → down-right → up-left → left → up-left → down-right → down-right → down-right → up-left → right → down-right → still (object: towel → sponge cloth → rolling tray → bed → blanket → remote control)
+Right hand: up-left → up-left → up-left → down-left → right → right → up-left → down → up → left → down-right → up-left → up-left → down → up-right → up-left → right → up-right → none → none → down-left → up-right → still (object: towel → room → rolling tray → desk → phone → bed → blanket → remote control → cutting pad)
+Two-hand object: sponge cloth → rolling tray → bed → blanket → remote control

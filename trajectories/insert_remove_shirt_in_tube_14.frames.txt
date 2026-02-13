@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1090,727),up-right,down-left,down-right,down-right,up,down,up,up-left,right,right)
+right hand:((1477,760),up-left,down,up-right,down,up-left,up-right,down,down,up-left,up)
+left hand object:((1156,678,salt can),still,salt can,down-left,salt can,down-left,countertop,down,bed,left,bed,right,bed,up-right,cup,left,bed,left,bed,right,flask)
+right hand object:((960,794,countertop),up-right,salt can,down-left,chemical tin,up,linen,down-left,bed,left,bed,none,none,bed,still,bed,left,bed,right,flask)
+two hand object:((960,792,bed),up-right,salt can,down-left,salt can,down-left,countertop,down,bed,left,bed,none,none,bed,still,bed,left,bed,right,flask)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down-left → down-right → down-right → up → down → up → up-left → right → right (object: countertop → flask → cup → bed → salt can)
+Right hand: up-left → down → up-right → down → up-left → up-right → down → down → up-left → up (object: countertop → flask → chemical tin → linen → bed → salt can)
+Two-hand object: salt can → countertop → flask → bed

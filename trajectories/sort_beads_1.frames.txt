@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((181,738),up-right,up-right,down-left,down-left,still,up-right,up-right,left,down-left)
+right hand:((1465,501),down-left,up,right,left,left,right,none,none,up-right)
+left hand object:((960,734,cutting mat),still,cutting mat,left,fidget spinner ring,right,bed,still,cutting mat,still,cutting mat,still,cutting mat,up,floor,none,none,cutting mat)
+right hand object:((1228,492,seed bead embroidery),up-left,seed bead embroidery,none,none,bed,up-right,seed bead embroidery,up-left,seed bead embroidery,right,seed bead embroidery,none,none,seed bead embroidery,left,seed bead embroidery)
+two hand object:((960,734,cutting mat),still,cutting mat,none,none,bed,still,cutting mat,still,cutting mat,still,cutting mat,none,none,none,cutting mat)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → down-left → down-left → still → up-right → up-right → left → down-left (object: floor → fidget spinner ring → cutting mat → bed)
+Right hand: down-left → up → right → left → left → right → none → none → up-right (object: seed bead embroidery → bed)
+Two-hand object: cutting mat → bed

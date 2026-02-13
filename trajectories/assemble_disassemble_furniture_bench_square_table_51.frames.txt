@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((960,737),right,down-right,right,up,down-left,left,down)
+right hand:((1348,951),right,up-left,still,still,still,still,down-left)
+left hand object:((864,686,pair of scissors),right,plastic model piece,none,none,box,still,box,still,box,left,countertop,none)
+right hand object:((1323,806,architectural craft manual),up-right,architectural craft manual,none,none,box,still,box,still,box,still,box,down,architectural craft manual)
+two hand object:((864,686,pair of scissors),right,plastic model piece,none,none,box,still,box,still,box,left,countertop,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → down-right → right → up → down-left → left → down (object: countertop → plastic model piece → box → pair of scissors)
+Right hand: right → up-left → still → still → still → still → down-left (object: architectural craft manual → box)
+Two-hand object: countertop → plastic model piece → box → pair of scissors

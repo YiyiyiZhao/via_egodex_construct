@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1020,687),up-left,down,down,up,up,down-right,down-right)
+right hand:((1700,611),left,down,still,down-left,up-right,left,down-right)
+left hand object:((1212,638,plastic model piece),left,yoghurt cup,up-left,jenga block,down,desk,up,fidget spinner ring,down,desk,up-right,mug,down-right,cutting pad)
+right hand object:((1550,696,glue stick),up-left,sofa,down-right,fidget spinner ring,down-left,desk,up,fidget spinner ring,down,table,up-right,foam block,down-right,cutting pad)
+two hand object:((961,804,desk),up,desk,down-right,desk,down-right,desk,up,room,down,desk,up-right,mug,down-right,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → down → down → up → up → down-right → down-right (object: yoghurt cup → jenga block → mug → desk → plastic model piece → cutting pad → fidget spinner ring)
+Right hand: left → down → still → down-left → up-right → left → down-right (object: foam block → table → glue stick → sofa → desk → cutting pad → fidget spinner ring)
+Two-hand object: mug → cutting pad → desk → room

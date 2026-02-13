@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((675,875),right,up-right,up-left,down-right,down,up-left,up-left,down-right,right,left)
+right hand:((1532,962),up-left,left,up-left,up-right,down,down-left,down-right,up-right,down,down-right)
+left hand object:((961,766,desk),right,cutting pad,left,fidget spinner ring,up,remote control,left,instruction manual,right,cutting pad,down-right,instruction manual,up-left,notebook,down,cutting pad,up-right,book,down-left,architectural craft manual)
+right hand object:((961,766,desk),right,cutting pad,none,none,phone,right,pair of pliers,down-left,cutting pad,down-right,instruction manual,up-left,notebook,down,book,up-right,book,left,bed)
+two hand object:((961,766,desk),right,cutting pad,none,none,phone,right,pair of pliers,down-left,cutting pad,up,architectural craft manual,left,bed,right,cutting pad,up-right,book,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-right → up-left → down-right → down → up-left → up-left → down-right → right → left (object: book → notebook → desk → architectural craft manual → fidget spinner ring → remote control → cutting pad → instruction manual)
+Right hand: up-left → left → up-left → up-right → down → down-left → down-right → up-right → down → down-right (object: book → notebook → pair of pliers → phone → desk → bed → cutting pad → instruction manual)
+Two-hand object: book → pair of pliers → phone → desk → bed → architectural craft manual → cutting pad

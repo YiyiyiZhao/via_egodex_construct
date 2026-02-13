@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((988,971),left,up-right,left,up,up,down,up-right,left,down,right,left,down-left,down-left,right)
+right hand:((1254,822),up-right,up,down-left,none,none,up-left,up,up-right,none,none,right,up-left,none,none)
+left hand object:((None,None),none,room,down-right,piece of clothing,left,fidget spinner ring,up-right,napkin,down-left,bag,down-right,chopping board,none,none,paper bag,down,bag,down,bag,up,bag,right,tablet bag,left,crayon,right,bag)
+right hand object:((None,None),none,bag,none,none,room,none,none,paper bag,down-right,chopping board,none,none,none,none,bag,up,bag,right,bag,none,none)
+two hand object:((None,None),none,room,none,none,room,none,none,paper bag,down-right,rolling tray,none,none,none,none,bag,up,bag,right,bag,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → up-right → left → up → up → down → up-right → left → down → right → left → down-left → down-left → right (object: tablet bag → room → bag → crayon → paper bag → napkin → chopping board → piece of clothing → fidget spinner ring)
+Right hand: up-right → up → down-left → none → none → up-left → up → up-right → none → none → right → up-left → none → none (object: bag → chopping board → paper bag → room)
+Two-hand object: paper bag → rolling tray → bag → room

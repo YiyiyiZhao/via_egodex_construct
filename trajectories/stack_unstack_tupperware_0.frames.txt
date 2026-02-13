@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((866,1000),up-right,up-left,up-left,down-right,up-left,still,right,up-left,up-left,up,down-right,down-right,up-right,up,up-left,down-right,up-right,up-left,up)
+right hand:((1414,992),up,up,down-right,up-left,down,down-right,up-left,down-right,down-right,up-right,up-left,up-left,none,none,down,up-left,up,down,left)
+left hand object:((868,575,cupboard),down-left,cutting pad,left,cutting pad,up-left,cutting pad,down-right,cutting pad,left,cutting pad,still,cutting pad,right,cutting pad,up-right,cutting pad,right,desk,up,desk,down,kitchen workbench,up,kitchen,still,kitchen workbench,right,kitchen,left,kitchen workbench,down-left,cutting pad,up-right,kitchen workbench,down,cutting board,still,cutting board)
+right hand object:((1552,628,refrigerator),left,cupboard,right,device,right,microwave,left,kitchen workbench,down-right,countertop,right,rolling tray,up-left,kitchen workbench,right,washer,down,rolling tray,up,rolling tray,down-right,rolling tray,up-left,kitchen,none,none,microwave,down-right,salt can,up,kitchen,up-left,microwave,down-right,rolling tray,left,cutting board)
+two hand object:((1034,538,kitchen),right,kitchen,none,none,kitchen workbench,down-left,kitchen workbench,down-left,kitchen workbench,right,kitchen workbench,still,kitchen,right,refrigerator,left,kitchen workbench,right,kitchen workbench,right,kitchen workbench,still,kitchen,none,none,kitchen,left,kitchen workbench,left,kitchen,right,kitchen workbench,left,kitchen workbench,still,kitchen workbench)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-left → up-left → down-right → up-left → still → right → up-left → up-left → up → down-right → down-right → up-right → up → up-left → down-right → up-right → up-left → up (object: kitchen workbench → cutting board → kitchen → desk → cupboard → cutting pad)
+Right hand: up → up → down-right → up-left → down → down-right → up-left → down-right → down-right → up-right → up-left → up-left → none → none → down → up-left → up → down → left (object: kitchen workbench → cutting board → countertop → microwave → device → washer → rolling tray → kitchen → cupboard → salt can → refrigerator)
+Two-hand object: kitchen workbench → kitchen → refrigerator

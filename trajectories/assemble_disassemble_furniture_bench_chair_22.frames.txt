@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((956,686),down,still,still,still,still,down,still)
+right hand:((1271,707),left,still,down-left,right,up-right,down-left,down)
+left hand object:((1059,605,phone),down-right,phone,still,phone,still,phone,still,phone,still,phone,down-left,phone,still,phone)
+right hand object:((1177,750,usb drive),up-left,phone,still,phone,still,phone,still,phone,still,phone,down-left,phone,still,phone)
+two hand object:((952,770,bed),still,bed,still,bed,up-right,phone,still,phone,still,phone,down-left,phone,still,phone)
+
+
+## LLM-Friendly Format:
+Left hand: down → still → still → still → still → down → still (object: phone)
+Right hand: left → still → down-left → right → up-right → down-left → down (object: usb drive → phone)
+Two-hand object: phone → bed

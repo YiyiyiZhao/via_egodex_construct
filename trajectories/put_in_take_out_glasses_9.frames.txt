@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((900,822),right,up,up,up-left,down-left,right,still,up-left,down-right,down-right,left)
+right hand:((1648,968),up,up,up-left,left,up,down-right,down-left,up-right,down-left,down-right,down-right)
+left hand object:((959,773,desk),still,desk,right,scissors,up,linen,down,phone,down-left,instruction manual,right,instruction manual,right,book,up,instruction manual,down-left,book,down,book,down-left,cutting pad)
+right hand object:((959,773,desk),still,desk,right,scissors,left,bed,right,phone,down-left,phone,down,tongs,down,cutting pad,up,instruction manual,down-left,book,down,book,down-right,fidget spinner ring)
+two hand object:((959,773,desk),right,pair of glasses,left,pair of scissors,up-left,bed,right,phone,none,none,cutting pad,right,cutting pad,up,instruction manual,left,room,down-right,book,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → up → up-left → down-left → right → still → up-left → down-right → down-right → left (object: book → scissors → phone → desk → linen → cutting pad → instruction manual)
+Right hand: up → up → up-left → left → up → down-right → down-left → up-right → down-left → down-right → down-right (object: book → tongs → scissors → phone → desk → bed → fidget spinner ring → cutting pad → instruction manual)
+Two-hand object: pair of glasses → room → pair of scissors → book → phone → desk → bed → cutting pad → instruction manual

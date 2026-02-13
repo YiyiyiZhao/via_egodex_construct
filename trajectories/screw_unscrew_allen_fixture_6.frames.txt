@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1604,582),down-left,up,down,down-right,up-left,left,right,right,up-left,down,right,left,still,up-left,down-right,left,up-right,up-left,down-left,up-right,up-right,down,up-left,down,still,right,still,right,up)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1164,656,laptop),down-left,phone,up,phone,down,camera,down-left,keyboard,up-right,phone,up-right,phone,down,phone,down,laptop,up,remote control,still,phone,up-right,phone,still,cellphone,still,phone,left,fidget spinner ring,down,keyboard,up-left,bed,right,phone,still,phone,down-left,laptop,right,laptop,up,camera,up-right,phone,still,camera,still,phone,still,camera,still,camera,still,camera,still,camera,still,camera)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,phone,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,bed,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → up → down → down-right → up-left → left → right → right → up-left → down → right → left → still → up-left → down-right → left → up-right → up-left → down-left → up-right → up-right → down → up-left → down → still → right → still → right → up (object: keyboard → camera → phone → laptop → bed → remote control → fidget spinner ring → cellphone)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: phone)
+Two-hand object: bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((860,820),up-right,up,left,none,none,down,down-right,left,up-left,up,up,down-left,up-right)
+right hand:((1550,851),up-left,up-left,none,none,none,down-right,up,left,left,down-right,up,down-right,up-left)
+left hand object:((1096,794,bed),up-right,towel,up-left,towel,up-right,linen,none,none,linen,down-left,bed,down-right,linen,down-left,linen,up,room,right,paper bag,down,notebook,up-left,napkin,down-left,cutting pad)
+right hand object:((1096,794,bed),up-left,bed,up,towel,none,none,none,bed,up,bed,down-right,blanket,up-right,linen,none,none,bed,down-right,cutting pad,up-left,cutting pad,down-left,cutting pad)
+two hand object:((1096,794,bed),up-left,bed,up,towel,none,none,none,linen,down-left,bed,down-right,linen,down-left,linen,none,none,paper bag,down,cutting pad,up-left,bed,down-left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → left → none → none → down → down-right → left → up-left → up → up → down-left → up-right (object: towel → room → cutting pad → napkin → linen → bed → paper bag → notebook)
+Right hand: up-left → up-left → none → none → none → down-right → up → left → left → down-right → up → down-right → up-left (object: towel → linen → bed → blanket → cutting pad)
+Two-hand object: towel → linen → bed → paper bag → cutting pad

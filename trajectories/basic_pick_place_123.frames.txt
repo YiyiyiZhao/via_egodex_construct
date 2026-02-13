@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1291,439),left,down-left,down-left,up-right,right,down-right,up-left)
+right hand:((None,None),none,none,none,none,none,none,none)
+left hand object:((1228,536,pair of scissors),down-left,cutting mat,right,pair of scissors,left,remote control,down-left,cutting mat,right,cutting mat,right,scissors,down-left,scissors)
+right hand object:((None,None),none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → down-left → down-left → up-right → right → down-right → up-left (object: remote control → scissors → cutting mat → pair of scissors)
+Right hand: none → none → none → none → none → none → none (object: none)

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((None,None),none,up,still,still,up-right,left,right,still,right,still,still,right,left,still,down-right,still,left,still,right,still,left)
+right hand:((None,None),none,left,right,up-left,still,down-right,up-left,left,down-right,right,up-left,up-left,down-right,down,up-left,down-right,right,left,up-left,down-right,down-right)
+left hand object:((None,None),none,cutting mat,up,cutting pad,still,cutting pad,still,cutting pad,up-right,kitchen workbench,down,cutting mat,left,cutting pad,right,desk,down-right,desk,up,kitchen workbench,still,kitchen workbench,none,none,kitchen workbench,right,kitchen workbench,right,kitchen workbench,still,kitchen workbench,left,kitchen workbench,left,kitchen workbench,right,kitchen workbench,left,kitchen,left,kitchen workbench)
+right hand object:((None,None),none,tongs,up-left,kitchen workbench,down-right,tongs,up-left,rolling tray,up-left,cabinet,down-right,cutting mat,up,rolling tray,still,rolling tray,down-right,desk,up,kitchen workbench,down-left,device,up-right,storage box,down-right,rolling tray,up-left,kitchen workbench,down-left,rolling tray,still,rolling tray,down-right,plastic container,up-left,phone,up-left,rolling tray,down,rolling tray,up-right,kitchen workbench)
+two hand object:((None,None),none,kitchen workbench,still,kitchen workbench,up,kitchen workbench,down-left,kitchen workbench,still,kitchen workbench,still,kitchen workbench,still,kitchen workbench,right,kitchen workbench,right,kitchen workbench,left,kitchen workbench,still,kitchen workbench,none,none,kitchen workbench,right,kitchen workbench,right,kitchen workbench,still,kitchen workbench,left,kitchen workbench,left,kitchen workbench,right,kitchen workbench,left,kitchen workbench,still,kitchen workbench)
+
+
+## LLM-Friendly Format:
+Left hand: none → up → still → still → up-right → left → right → still → right → still → still → right → left → still → down-right → still → left → still → right → still → left (object: kitchen workbench → kitchen → desk → cutting pad → cutting mat)
+Right hand: none → left → right → up-left → still → down-right → up-left → left → down-right → right → up-left → up-left → down-right → down → up-left → down-right → right → left → up-left → down-right → down-right (object: cabinet → kitchen workbench → tongs → device → rolling tray → storage box → desk → phone → cutting mat → plastic container)
+Two-hand object: kitchen workbench

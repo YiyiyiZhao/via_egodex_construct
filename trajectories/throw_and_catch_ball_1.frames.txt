@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((768,866),still,up,right,left,right,up-right,left,left,still)
+right hand:((1194,587),down,down-left,down-left,right,left,right,up,down,up)
+left hand object:((None,None),none,bed,left,bed,left,bed,none,none,none,bed,down,bed,up,room,none)
+right hand object:((None,None),none,apple,down-left,tennis ball,down-left,apple,right,tennis ball,left,apple,right,apple,up,tennis ball,down,apple,up,tennis ball)
+two hand object:((None,None),none,bed,left,bed,left,bed,none,none,none,bed,down,bed,up,room,none)
+
+
+## LLM-Friendly Format:
+Left hand: still → up → right → left → right → up-right → left → left → still (object: room → bed)
+Right hand: down → down-left → down-left → right → left → right → up → down → up (object: tennis ball → apple)
+Two-hand object: room → bed

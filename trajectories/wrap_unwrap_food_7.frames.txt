@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((794,626),down-right,right,up-left,up-left,down-right,up,down-right,up-left,down-left,up,down-left,up,down,down-left,up-left)
+right hand:((1354,654),down-left,down-right,still,up-left,still,up-right,right,down,down,up-left,down,down-left,up-right,down-right,up)
+left hand object:((962,751,countertop),still,bed,still,bed,up-right,glass,none,none,bread,still,ice cream,down,fruit,up,banana,still,apple,left,bed,still,countertop,still,countertop,right,banana,left,bed,up-right,linen)
+right hand object:((962,751,countertop),still,bed,still,bed,up-right,glass,down,pancake,up-right,bread,still,ice cream,down-left,bed,still,bed,still,bed,still,bed,still,countertop,still,countertop,still,bed,still,bed,right,pear)
+two hand object:((962,751,countertop),still,bed,still,bed,still,bed,none,none,bread,left,bed,still,bed,right,banana,left,bed,still,bed,still,countertop,still,countertop,still,bed,still,bed,up-right,linen)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → right → up-left → up-left → down-right → up → down-right → up-left → down-left → up → down-left → up → down → down-left → up-left (object: fruit → glass → countertop → ice cream → apple → linen → bed → banana → bread)
+Right hand: down-left → down-right → still → up-left → still → up-right → right → down → down → up-left → down → down-left → up-right → down-right → up (object: glass → countertop → ice cream → pancake → bed → bread → pear)
+Two-hand object: countertop → linen → bed → banana → bread

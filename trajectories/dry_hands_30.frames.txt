@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((870,675),down-right,down-right,up-left,down-left,left,right,left,right,up)
+right hand:((1210,684),still,still,down-right,left,left,up-right,down-left,down-left,up-right)
+left hand object:((960,748,bed),left,seed bead embroidery,right,microfiber cloth,up,microfiber cloth,down-left,bed,up-left,fidget spinner ring,down-left,seed bead embroidery,right,bed,still,bed,left,seed bead embroidery)
+right hand object:((960,748,bed),still,bed,right,microfiber cloth,up,microfiber cloth,down-left,bed,still,bed,still,bed,still,bed,still,bed,still,carpet)
+two hand object:((960,748,bed),still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → down-right → up-left → down-left → left → right → left → right → up (object: microfiber cloth → seed bead embroidery → fidget spinner ring → bed)
+Right hand: still → still → down-right → left → left → up-right → down-left → down-left → up-right (object: microfiber cloth → carpet → bed)
+Two-hand object: bed

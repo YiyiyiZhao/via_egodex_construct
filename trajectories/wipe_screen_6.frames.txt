@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((959,842),left,up,right,right,up-right,up-left,up-left,down,up,left,down)
+right hand:((1370,844),up-left,down,down-left,up-right,up-right,down,up-left,right,down,up-right,up)
+left hand object:((960,786,bed),still,bed,up,sponge cloth,right,napkin,right,fidget spinner ring,left,bed,right,book,up-left,book,right,remote control,down-left,book,up-left,sock,down-left,bed)
+right hand object:((960,786,bed),still,bed,up-right,remote control,left,sketch manual,right,fidget spinner ring,none,none,instruction manual,up-left,sketch manual,right,remote control,down-left,instruction manual,right,touchpad,up,phone)
+two hand object:((960,786,bed),still,bed,still,bed,up-right,napkin,right,fidget spinner ring,none,none,instruction manual,up-left,sketch manual,right,remote control,down-left,instruction manual,down-left,bed,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → up → right → right → up-right → up-left → up-left → down → up → left → down (object: book → sponge cloth → napkin → sock → bed → remote control → fidget spinner ring)
+Right hand: up-left → down → down-left → up-right → up-right → down → up-left → right → down → up-right → up (object: touchpad → sketch manual → phone → bed → fidget spinner ring → remote control → instruction manual)
+Two-hand object: napkin → sketch manual → bed → fidget spinner ring → remote control → instruction manual

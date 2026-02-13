@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((746,768),right,up-left,down-right,down-right,down-right,up-left,up-left,right,right,left,down-right,up,left,up-left,up-left)
+right hand:((None,None),none,down-left,right,left,up-right,down-left,up-left,up-left,down,up,left,right,down-right,right,right)
+left hand object:((1062,800,desk),up-left,desk,down,desk,down,cutting pad,up-right,board game,down,puzzle card,up-left,desk,up,scouring pad,down,scouring pad,up-right,scouring pad,left,card,down,card sleeve,up-left,card sleeve,down,envelope,left,desk,up-right,desk)
+right hand object:((None,None),none,crayon,left,desk,left,desk,right,board game,left,desk,up-left,desk,down,desk,right,cutting pad,left,desk,up,desk,still,desk,right,pair of scissors,down,puzzle card,left,desk,right,paper bag)
+two hand object:((None,None),none,desk,down,desk,left,desk,up,desk,left,desk,up-left,desk,down,desk,still,desk,down,desk,up,desk,still,desk,down,desk,up,desk,still,desk,up-right,desk)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → down-right → down-right → down-right → up-left → up-left → right → right → left → down-right → up → left → up-left → up-left (object: envelope → scouring pad → card → board game → desk → puzzle card → cutting pad → card sleeve)
+Right hand: none → down-left → right → left → up-right → down-left → up-left → up-left → down → up → left → right → down-right → right → right (object: pair of scissors → crayon → board game → desk → puzzle card → paper bag → cutting pad)
+Two-hand object: desk

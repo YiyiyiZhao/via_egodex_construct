@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((970,676),right,right,down-right,down-right,still,up-left,down)
+right hand:((1546,1014),left,still,right,still,still,still,down-left)
+left hand object:((959,543,room),none,none,mallet,left,toothpaste,down-right,remote control,down-right,box,left,countertop,right,box)
+right hand object:((959,543,room),none,none,box,still,sewing machine,still,box,right,box,left,countertop,right,box)
+two hand object:((959,543,room),none,none,countertop,left,countertop,right,countertop,still,countertop,still,countertop,still,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: right → right → down-right → down-right → still → up-left → down (object: countertop → room → mallet → toothpaste → box → remote control)
+Right hand: left → still → right → still → still → still → down-left (object: sewing machine → countertop → room → box)
+Two-hand object: countertop → room

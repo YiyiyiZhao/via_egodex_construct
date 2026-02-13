@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1588,920),right,left,up-right,down-left,up-right,up-right,right,down-left,right,up,right,none,none,down-left,up)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1428,932,cutting pad),up-right,blanket,left,microfiber cloth,up-right,box,down,towel,up-left,floor,up-right,cardboard box,right,microfiber cloth,down-left,floor,down-right,towel,up-left,microfiber cloth,down-right,towel,none,none,sponge cloth,left,floor,right,banana)
+right hand object:((None,None),none,none,none,none,microfiber cloth,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,room,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → left → up-right → down-left → up-right → up-right → right → down-left → right → up → right → none → none → down-left → up (object: floor → towel → microfiber cloth → sponge cloth → cardboard box → blanket → banana → cutting pad → box)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: microfiber cloth)
+Two-hand object: room

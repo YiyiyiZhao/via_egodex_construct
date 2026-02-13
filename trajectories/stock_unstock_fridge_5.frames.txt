@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((548,794),still,left,up-left,right,left,right,up,still,right,down-left,right,left,right,right,right,down-left)
+right hand:((968,842),up,left,down-right,left,down-right,left,right,left,up-left,down-right,up,down,up,down,up-left,up)
+left hand object:((448,879,wristwatch),right,countertop,left,fidget spinner ring,right,countertop,left,fidget spinner ring,left,rolling pin,right,rolling pin,up-right,fidget spinner ring,still,fidget spinner ring,right,fidget spinner ring,down-left,fidget spinner ring,right,floor,left,fidget spinner ring,right,kitchen countertop,up-right,refrigerator shelf,right,refrigerator shelf,down-left,fidget spinner ring)
+right hand object:((960,842,countertop),up,refrigerator,left,plastering trowel,right,banana,up-left,refrigerator,down-right,banana,left,toothbrush,right,banana,up-left,banana,down-left,kitchen countertop,right,knot,up,refrigerator,down,pair of scissors,up,fridge,right,refrigerator shelf,down-left,banana,up,wall outlet)
+two hand object:((960,842,countertop),up,kitchen,right,kitchen workbench,down-left,kitchen countertop,up-right,refrigerator,left,kitchen,down,kitchen countertop,up-right,kitchen countertop,down-right,countertop,up-left,kitchen countertop,up,kitchen workbench,right,fridge,down-right,kitchen,left,fridge,right,kitchen,right,refrigerator shelf,none)
+
+
+## LLM-Friendly Format:
+Left hand: still → left → up-left → right → left → right → up → still → right → down-left → right → left → right → right → right → down-left (object: floor → countertop → kitchen countertop → rolling pin → wristwatch → refrigerator shelf → fidget spinner ring)
+Right hand: up → left → down-right → left → down-right → left → right → left → up-left → down-right → up → down → up → down → up-left → up (object: wall outlet → countertop → pair of scissors → kitchen countertop → knot → plastering trowel → toothbrush → fridge → refrigerator shelf → banana → refrigerator)
+Two-hand object: kitchen workbench → countertop → kitchen countertop → kitchen → fridge → refrigerator shelf → refrigerator

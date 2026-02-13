@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((784,962),up,up-right,left,none,none,up,down,up-right,up-left,right,down-left,down-left,down-right,up-right,down-left,up,down-left,left,down-left,down-right)
+right hand:((None,None),none,up-right,right,none,none,up,down,none,none,none,none,right,left,none,none,up-right,left,up,down,right)
+left hand object:((959,744,bed),up,bed,up,bed,down,bed,none,none,bed,up,room,down,bed,none,none,blanket,left,bed,right,blanket,left,tablet bag,left,piece of clothing,down-right,towel,up-right,blanket,left,book,right,tablet bag,left,bed,still,bed,still,bed)
+right hand object:((None,None),none,bed,up,bed,down,bed,none,none,blanket,up-left,kitchen workbench,down,bed,none,none,none,none,tablet bag,left,bed,right,piece of clothing,none,none,blanket,left,book,right,tablet bag,up-right,tablet bag,left,microfiber cloth,left,bed)
+two hand object:((None,None),none,bed,up,bed,down,bed,none,none,bed,up,kitchen workbench,down,bed,none,none,none,none,bed,down-right,tablet bag,up-left,bed,none,none,blanket,up-left,bed,down-right,seat cloth,left,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → left → none → none → up → down → up-right → up-left → right → down-left → down-left → down-right → up-right → down-left → up → down-left → left → down-left → down-right (object: tablet bag → towel → room → book → bed → piece of clothing → blanket)
+Right hand: none → up-right → right → none → none → up → down → none → none → none → none → right → left → none → none → up-right → left → up → down → right (object: tablet bag → kitchen workbench → microfiber cloth → book → bed → piece of clothing → blanket)
+Two-hand object: tablet bag → kitchen workbench → seat cloth → bed → blanket

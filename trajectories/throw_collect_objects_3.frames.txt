@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((582,1002),right,up-right,left,left,right,up-left,up-left)
+right hand:((1632,562),left,down,down-left,right,up-left,none,none)
+left hand object:((960,817,desk),left,metal rod,right,cleaning cloth,left,cleaning cloth,down,countertop,up-left,watch,up-right,flower,down-right,room)
+right hand object:((961,560,kitchen workbench),right,box,down-left,countertop,none,none,desk,left,storage box,none,none,room)
+two hand object:((961,560,kitchen workbench),up,room,down-right,kitchen,none,none,desk,left,seed bead embroidery,none,none,room)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-right → left → left → right → up-left → up-left (object: cleaning cloth → countertop → room → desk → metal rod → watch → flower)
+Right hand: left → down → down-left → right → up-left → none → none (object: kitchen workbench → room → countertop → storage box → desk → box)
+Two-hand object: kitchen workbench → room → seed bead embroidery → kitchen → desk

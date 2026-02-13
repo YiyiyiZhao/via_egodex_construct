@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((902,722),up,up,still,still,still,still,still)
+right hand:((1426,611),left,left,right,up-left,right,right,down-right)
+left hand object:((806,796,wristwatch),right,cutting pad,up,rolling tray,still,rolling tray,still,rolling tray,still,rolling tray,still,rolling tray,left,watch)
+right hand object:((1008,744,countertop),down-right,hot plate,up,rolling tray,still,rolling tray,still,rolling tray,still,rolling tray,still,rolling tray,up-left,countertop)
+two hand object:((1008,744,countertop),down-right,rolling tray,up,rolling tray,still,rolling tray,still,rolling tray,still,rolling tray,up-left,countertop,down-right,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → still → still → still → still → still (object: rolling tray → cutting pad → watch → wristwatch)
+Right hand: left → left → right → up-left → right → right → down-right (object: rolling tray → hot plate → countertop)
+Two-hand object: rolling tray → countertop

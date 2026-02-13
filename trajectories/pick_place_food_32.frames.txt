@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1112,547),left,down-left,down-right,up-left,up-right,down-right,up-left)
+right hand:((None,None),none,none,none,none,none,none,none)
+left hand object:((1033,699,plate),left,egg,right,bowl,still,bowl,still,bowl,down,basket,right,banana,left,tongs)
+right hand object:((None,None),none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → down-left → down-right → up-left → up-right → down-right → up-left (object: basket → tongs → egg → bowl → plate → banana)
+Right hand: none → none → none → none → none → none → none (object: none)

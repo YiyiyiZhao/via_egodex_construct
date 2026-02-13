@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1030,526),up-left,left,still,left,down,left,down-right,up,down-left)
+right hand:((1424,595),up-left,down,up-left,still,right,down-left,up,up,down-right)
+left hand object:((1218,514,sketch manual),down-left,desk,down-right,bed,still,bed,left,desk,down-left,desk,still,table,right,rolling tray,up,rolling tray,down,rubik cube)
+right hand object:((1218,514,sketch manual),down-left,desk,right,sponge cloth,up-left,sketch manual,still,sponge cloth,right,rolling tray,down,rubik cube,down,rolling tray,up,rolling tray,down,rubik cube)
+two hand object:((1052,603,bed),down,desk,down-right,bed,still,bed,left,desk,down-left,desk,still,table,right,rolling tray,up,rolling tray,down,rolling tray)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → left → still → left → down → left → down-right → up → down-left (object: table → rolling tray → rubik cube → sketch manual → desk → bed)
+Right hand: up-left → down → up-left → still → right → down-left → up → up → down-right (object: sponge cloth → rolling tray → rubik cube → sketch manual → desk)
+Two-hand object: rolling tray → table → desk → bed

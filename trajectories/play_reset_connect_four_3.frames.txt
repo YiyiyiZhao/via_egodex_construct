@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((948,804),up-left,down-left,up,down-left,up,down,up,up-left,down,up-left,down-right,up,down,up,down)
+right hand:((1791,892),left,up,down,up,down,up,down,down-right,up,down-right,up-left,down-right,up-left,down-right,up-left)
+left hand object:((991,818,bed),up-left,bed,right,seed bead embroidery,left,bed,right,seed bead embroidery,left,bed,right,seed bead embroidery,left,bed,still,bed,right,seed bead embroidery,left,bed,up-left,fidget spinner ring,down-right,bed,down,bed,up,bed,right,seed bead embroidery)
+right hand object:((991,818,bed),right,mancala board,up-left,basket,up,chair,up,fidget spinner ring,down,pot holder,left,room,right,pot holder,up-left,tablet bag,left,room,right,pot holder,left,room,down,bed,up-right,wooden rack,up,pot holder,down,wooden rack)
+two hand object:((991,818,bed),up-left,bed,none,none,bed,none,none,bed,none,none,bed,still,bed,none,none,bed,none,none,bed,none,none,bed,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → down-left → up → down-left → up → down → up → up-left → down → up-left → down-right → up → down → up → down (object: seed bead embroidery → fidget spinner ring → bed)
+Right hand: left → up → down → up → down → up → down → down-right → up → down-right → up-left → down-right → up-left → down-right → up-left (object: tablet bag → basket → room → mancala board → chair → wooden rack → pot holder → bed → fidget spinner ring)
+Two-hand object: bed

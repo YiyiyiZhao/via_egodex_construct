@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((809,922),up-right,up-right,up-left,right,left,down-right,down-right)
+right hand:((1442,980),up-left,up,down-left,up-right,right,down-right,right)
+left hand object:((960,811,bed),right,remote control,down-left,seed bead embroidery,up-right,remote control,right,architectural craft manual,down-left,seed bead embroidery,down-right,seed bead embroidery,up,bed)
+right hand object:((960,811,bed),right,remote control,up-right,remote control,left,remote control,right,book,down-right,pair of scissors,right,phone,left,bed)
+two hand object:((960,811,bed),right,remote control,up-right,remote control,left,book,right,architectural craft manual,left,architectural craft manual,right,pair of pliers,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → up-left → right → left → down-right → down-right (object: architectural craft manual → remote control → seed bead embroidery → bed)
+Right hand: up-left → up → down-left → up-right → right → down-right → right (object: pair of scissors → book → phone → bed → remote control)
+Two-hand object: book → pair of pliers → bed → architectural craft manual → remote control

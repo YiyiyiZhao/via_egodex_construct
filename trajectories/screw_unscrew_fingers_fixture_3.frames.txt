@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1316,682),left,up,up,down,up-right,still,left,right,left,still,down-right,up-left,left,right,left,right,down-right,right)
+right hand:((1378,987),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((948,788,bed),up,phone,down,bed,up,phone,down,bed,still,bed,still,bed,up,power adapter,down,laptop,up,phone,still,phone,down,laptop,up,camera,down,laptop,right,laptop,up-left,camera,down-left,phone,down-right,cutting mat,up-left,cutting mat)
+right hand object:((948,788,bed),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((948,788,bed),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → up → up → down → up-right → still → left → right → left → still → down-right → up-left → left → right → left → right → down-right → right (object: power adapter → camera → phone → laptop → bed → cutting mat)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: bed)
+Two-hand object: bed

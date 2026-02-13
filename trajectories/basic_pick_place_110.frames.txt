@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((833,614),right,right,down-right,none,none,left,down-left)
+right hand:((None,None),none,none,none,none,none,none,none)
+left hand object:((582,348,linen),still,linen,down-right,lego brick,down-left,towel,none,none,towel,left,linen,down,towel)
+right hand object:((None,None),none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → right → down-right → none → none → left → down-left (object: lego brick → towel → linen)
+Right hand: none → none → none → none → none → none → none (object: none)

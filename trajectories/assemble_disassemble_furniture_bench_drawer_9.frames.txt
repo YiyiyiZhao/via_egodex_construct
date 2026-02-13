@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((950,698),right,left,up-right,down-right,still,left,down-left)
+right hand:((1628,906),left,left,up-right,left,up,up,right)
+left hand object:((958,815,desk),up,room,down,bed,right,jenga block,up-right,box,up,box,still,box,left,bed)
+right hand object:((958,815,desk),down-right,plastic container,left,foam block,up-right,carton,up-right,box,up,box,still,food container,down-right,box)
+two hand object:((958,815,desk),up,room,down,foam block,up-right,jenga block,up-right,box,up,box,still,food container,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → left → up-right → down-right → still → left → down-left (object: jenga block → room → desk → bed → box)
+Right hand: left → left → up-right → left → up → up → right (object: foam block → carton → desk → plastic container → food container → box)
+Two-hand object: foam block → jenga block → room → desk → bed → food container → box

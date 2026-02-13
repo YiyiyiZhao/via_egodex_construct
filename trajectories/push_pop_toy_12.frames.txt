@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((976,708),up,right,up-left,right,up-left,down-right,down-right)
+right hand:((1328,640),down-left,up,still,right,up-right,down-left,down-left)
+left hand object:((1126,726,plastic ball),up-left,rolling tray,up-left,fidget spinner ring,down-right,chemical tin,still,chemical tin,still,container lid,still,plastic container,down-right,food container)
+right hand object:((1126,726,plastic ball),up-left,rolling tray,up-right,fidget spinner ring,down-left,rolling tray,still,chemical tin,still,chemical tin,still,plastic container,right,rolling tray)
+two hand object:((1126,726,plastic ball),up-left,room,still,room,still,room,down-right,plastic container,still,container lid,up-left,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: up → right → up-left → right → up-left → down-right → down-right (object: plastic ball → container lid → chemical tin → rolling tray → food container → fidget spinner ring → plastic container)
+Right hand: down-left → up → still → right → up-right → down-left → down-left (object: plastic ball → chemical tin → rolling tray → fidget spinner ring → plastic container)
+Two-hand object: container lid → room → plastic ball → plastic container

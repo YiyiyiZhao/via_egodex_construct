@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1005,734),still,still,still,still,still,still,still)
+right hand:((1520,724),left,up-left,down,still,still,left,down)
+left hand object:((1214,839,sink),still,rolling tray,none,none,countertop,down-left,rolling tray,still,rolling tray,still,rolling tray,still,rolling tray)
+right hand object:((1386,792,countertop),up-left,remote control,none,none,countertop,up,foam block,still,foam block,down,rolling tray,up,carton)
+two hand object:((1386,792,countertop),left,rolling tray,none,none,countertop,still,countertop,still,countertop,down-left,rolling tray,still,rolling tray)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still (object: rolling tray → sink → countertop)
+Right hand: left → up-left → down → still → still → left → down (object: foam block → carton → countertop → rolling tray → remote control)
+Two-hand object: rolling tray → countertop

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((826,758),up,right,up-right,still,up,right,left,up-right,down,up-left,up-right,up-left,up-left,down,left,down-right,left,up-right,down-left,still,down,up)
+right hand:((1470,828),up,left,up-left,up,right,down-left,up-left,up-left,down,up-right,up-left,up-right,right,still,right,down-left,right,left,left,left,up,down-right)
+left hand object:((956,794,table),still,table,up,countertop,still,desk,none,none,countertop,still,desk,still,desk,still,countertop,right,yoghurt cup,none,none,plate,down-left,countertop,left,counter,still,countertop,up,room,down,countertop,right,paper tablemat,still,sponge cloth,none,none,none,room,down-right,paper tablemat)
+right hand object:((956,794,table),still,table,up,countertop,still,desk,up-right,plate,down-left,countertop,still,desk,still,desk,still,countertop,right,yoghurt cup,none,none,fidget spinner ring,down-left,countertop,left,counter,still,countertop,up,room,down,countertop,right,countertop,right,cutting pad,none,none,none,room,down-right,cutting pad)
+two hand object:((956,794,table),still,table,up,countertop,still,desk,none,none,countertop,still,desk,still,desk,still,countertop,right,yoghurt cup,none,none,countertop,still,countertop,left,counter,still,countertop,up,room,down,counter,right,cutting mat,still,cutting pad,none,none,none,room,down-right,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: up → right → up-right → still → up → right → left → up-right → down → up-left → up-right → up-left → up-left → down → left → down-right → left → up-right → down-left → still → down → up (object: yoghurt cup → room → countertop → table → paper tablemat → sponge cloth → counter → desk → plate)
+Right hand: up → left → up-left → up → right → down-left → up-left → up-left → down → up-right → up-left → up-right → right → still → right → down-left → right → left → left → left → up → down-right (object: yoghurt cup → room → countertop → table → counter → desk → plate → cutting pad → fidget spinner ring)
+Two-hand object: yoghurt cup → room → countertop → table → counter → desk → cutting pad → cutting mat

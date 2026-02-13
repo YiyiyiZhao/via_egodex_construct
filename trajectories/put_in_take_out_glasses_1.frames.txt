@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((762,672),right,down-right,up-left,right,right,down,up-left,down-left,still,up-left,down-right,up-left)
+right hand:((1574,747),left,up-left,up-left,down,up-right,still,up-right,left,down,down,still,up-right)
+left hand object:((960,808,bed),still,bed,up-right,remote control,down-left,bed,up-right,phone,right,cellphone,still,remote control,down-right,clutch,down-left,phone,down-left,remote control,left,remote control,still,cellphone,up-left,cellphone)
+right hand object:((960,808,bed),still,bed,up-right,remote control,up-left,pair of scissors,down-left,phone,right,fidget spinner ring,up-left,cellphone,down-right,tablet bag,down-left,phone,down-left,phone,left,phone,still,cellphone,up-left,remote control)
+two hand object:((960,808,bed),still,bed,up-right,remote control,down-left,bed,up-right,phone,right,phone,still,phone,down-right,clutch,down-left,phone,down-left,phone,left,phone,still,phone,up-left,remote control)
+
+
+## LLM-Friendly Format:
+Left hand: right → down-right → up-left → right → right → down → up-left → down-left → still → up-left → down-right → up-left (object: clutch → phone → bed → remote control → cellphone)
+Right hand: left → up-left → up-left → down → up-right → still → up-right → left → down → down → still → up-right (object: tablet bag → pair of scissors → phone → bed → remote control → fidget spinner ring → cellphone)
+Two-hand object: remote control → phone → clutch → bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1125,634),down,up,down,up,up,down,up,down,up-left)
+right hand:((1347,640),up,left,up-right,down-right,still,up,down-left,up-right,down-right)
+left hand object:((1164,606,fidget spinner ring),down,fidget spinner ring,left,bed,down,bed,up,seed bead embroidery,up,seed bead embroidery,down,bed,still,bed,right,fidget spinner ring,up-left,seed bead embroidery)
+right hand object:((1296,542,pair of pliers),down,pen,left,bed,up-right,power adapter,down-left,toothbrush,up-left,toothbrush,still,toothbrush,down-right,piece of clothing,up-left,fidget spinner ring,right,toothbrush)
+two hand object:((1296,542,toothbrush),down,toothbrush,left,bed,down,bed,up,bed,up-right,toothbrush,still,toothbrush,down-left,bed,down,bed,up,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down → up → down → up → up → down → up → down → up-left (object: seed bead embroidery → fidget spinner ring → bed)
+Right hand: up → left → up-right → down-right → still → up → down-left → up-right → down-right (object: piece of clothing → power adapter → pair of pliers → toothbrush → bed → pen → fidget spinner ring)
+Two-hand object: toothbrush → bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((908,972),still,up-right,up,up,right,down,down)
+right hand:((1386,978),up,left,up,up,down,down,down)
+left hand object:((1012,874,glass cup),still,glass cup,up-right,cup,up,cup,up-right,card sleeve,down-left,glass cup,down-left,cup,still,cup)
+right hand object:((1263,810,bottle),still,bottle,up-right,bottle,up,bottle,up-right,remote control,down,bottle,down,bottle,down,bottle)
+two hand object:((959,855,bed),still,bed,still,bed,up,bed,left,bed,right,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-right → up → up → right → down → down (object: card sleeve → cup → glass cup)
+Right hand: up → left → up → up → down → down → down (object: remote control → bottle)
+Two-hand object: bed

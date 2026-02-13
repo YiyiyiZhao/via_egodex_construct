@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((829,820),right,right,up-right,right,down,up-left,up-left,up-left,right,up-right,down-right,still,up-left,down-right,down,up-right,left,down-right,down-right,down-right)
+right hand:((1444,878),up,down-left,up-right,down-left,down,up,up-left,down-left,still,right,up,still,up-right,up-left,down,down-right,up-right,up-right,up-right,down-left)
+left hand object:((None,None),none,desk,still,desk,still,desk,up-right,fidget spinner ring,down-left,desk,still,desk,still,bed,left,bed,up-right,toothbrush,up-left,card,down-right,pair of scissors,left,desk,up,card,down-right,instruction manual,down-right,remote control,down-right,card,down-right,remote control,down,remote control,down,remote control,down-right,remote control)
+right hand object:((1397,599,glass cup),up-left,linen,down-right,cup,up,toothbrush,down-left,scissors,up-right,glass cup,up,cup,up-left,cup,down-left,toothbrush,down-left,toothbrush,up-right,cup,down-left,desk,still,desk,up-right,glass cup,right,cup,left,toothbrush,right,cup,still,glass cup,up,bottle,up-right,toothbrush,left,linen)
+two hand object:((None,None),none,room,none,none,none,toothbrush,left,pair of scissors,up,toothbrush,left,pair of scissors,down-left,bed,up-right,pair of scissors,down-right,pair of scissors,left,bed,right,pair of scissors,left,desk,up-right,pair of scissors,down,toothbrush,up-right,tweezer,down-left,remote control,up-left,room,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → right → up-right → right → down → up-left → up-left → up-left → right → up-right → down-right → still → up-left → down-right → down → up-right → left → down-right → down-right → down-right (object: pair of scissors → card → toothbrush → desk → instruction manual → bed → remote control → fidget spinner ring)
+Right hand: up → down-left → up-right → down-left → down → up → up-left → down-left → still → right → up → still → up-right → up-left → down → down-right → up-right → up-right → up-right → down-left (object: glass cup → scissors → toothbrush → desk → linen → cup → bottle)
+Two-hand object: room → pair of scissors → toothbrush → desk → bed → remote control → tweezer

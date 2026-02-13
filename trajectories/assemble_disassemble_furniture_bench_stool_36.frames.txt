@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((942,760),down-right,up-left,down,up,down,up-left,left)
+right hand:((1720,896),left,up-left,down,up-left,down-right,up,right)
+left hand object:((988,754,fidget spinner ring),down-left,countertop,none,none,countertop,up,countertop,right,remote control,up,architectural craft manual,left,countertop)
+right hand object:((1686,854,fidget spinner ring),left,countertop,none,none,countertop,up,countertop,right,remote control,up,architectural craft manual,right,device)
+two hand object:((907,808,countertop),right,countertop,none,none,desk,up,countertop,still,desk,up,countertop,down-left,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → down → up → down → up-left → left (object: architectural craft manual → remote control → fidget spinner ring → countertop)
+Right hand: left → up-left → down → up-left → down-right → up → right (object: countertop → device → architectural craft manual → remote control → fidget spinner ring)
+Two-hand object: desk → countertop

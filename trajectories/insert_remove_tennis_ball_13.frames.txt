@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((848,1016),up-right,down-left,left,still,up,down-left,right,up-left,down-right,up,still,down-right,right,right,up-left,right,left,down,up-left,down-right,still,up-right,still,down-right,down-left,up,down)
+right hand:((1292,1042),left,up,left,down-right,up-right,down-left,down-right,up-right,down-left,right,up-right,up-left,down-left,down-left,up-right,down,up-left,right,left,right,left,right,down,down-right,left,down-right,up-left)
+left hand object:((825,868,countertop),right,bottle,down,phone,left,phone,down-right,remote control,up,cup,down-left,phone,right,remote control,up-right,phone,down-left,remote control,up-left,desk,left,desk,none,none,phone,up-right,phone,up-left,camera,down,phone,up-left,phone,none,none,none,phone,down-right,phone,up-right,phone,left,phone,down-right,phone,up-left,remote control,up-left,bottle,down-left,countertop)
+right hand object:((825,868,countertop),none,none,remote control,left,countertop,right,phone,right,apple,left,countertop,down-right,remote control,up-right,tennis ball,left,desk,down-right,apple,up-left,desk,down-right,yoghurt cup,up-left,phone,up-right,phone,up-left,cellphone,down,phone,up-left,phone,none,none,none,phone,down-right,phone,up-right,phone,left,phone,down-right,phone,up-left,remote control,left,desk,right,countertop)
+two hand object:((825,868,countertop),none,none,remote control,left,phone,down-right,bottle,none,none,countertop,right,countertop,none,none,remote control,up-left,desk,left,desk,none,none,phone,up-right,phone,up-left,phone,down-right,lemonade,up-left,phone,none,none,none,phone,down-right,phone,up-right,phone,left,phone,down-right,phone,up-left,remote control,left,desk,right,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down-left → left → still → up → down-left → right → up-left → down-right → up → still → down-right → right → right → up-left → right → left → down → up-left → down-right → still → up-right → still → down-right → down-left → up → down (object: countertop → camera → phone → bottle → cup → desk → remote control)
+Right hand: left → up → left → down-right → up-right → down-left → down-right → up-right → down-left → right → up-right → up-left → down-left → down-left → up-right → down → up-left → right → left → right → left → right → down → down-right → left → down-right → up-left (object: yoghurt cup → countertop → tennis ball → apple → phone → desk → remote control → cellphone)
+Two-hand object: countertop → bottle → desk → phone → remote control → lemonade

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((859,750),right,right,right,up,up,down,down-left)
+right hand:((1424,923),still,up-left,still,down-right,still,down-right,left)
+left hand object:((967,818,foam block),up-right,countertop,right,wooden model,still,plastic model piece,down-right,architectural craft manual,still,rolling tray,down-right,architectural craft manual,left,rolling tray)
+right hand object:((1219,757,plastic model piece),still,wooden model,up,wooden model,still,plastic model,down-right,rolling tray,still,architectural craft manual,down-right,rolling tray,left,cutting pad)
+two hand object:((None,None),none,kitchen countertop,right,wooden model,still,plastic model,down-right,rolling tray,still,rolling tray,down-right,rolling tray,left,rolling tray)
+
+
+## LLM-Friendly Format:
+Left hand: right → right → right → up → up → down → down-left (object: foam block → countertop → rolling tray → plastic model piece → architectural craft manual → wooden model)
+Right hand: still → up-left → still → down-right → still → down-right → left (object: cutting pad → rolling tray → plastic model piece → architectural craft manual → plastic model → wooden model)
+Two-hand object: kitchen countertop → plastic model → wooden model → rolling tray

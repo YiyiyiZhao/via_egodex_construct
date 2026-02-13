@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1555,904),left,left,right,up-left,up-right,down-right,up-right,down-left,up-right,down,up,down,up-right,down,up-right,down,down-left,right,right,still,down-right,up,down,up,down,up-right,right,up,right,none)
+right hand:((None,None),none,left,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1428,886,plier),left,bowl,left,bowl,right,chopstick,up-left,paintbrush,right,cooking spoon,down-left,chopsticks,left,bed,still,paper tablemat,still,bed,right,spoon,up-right,fork,down-left,chopstick,left,paper tablemat,right,chopstick,right,chopstick,left,paper tablemat,still,paper tablemat,up,bed,still,bed,right,chopstick,down-right,chopstick,down-right,chopstick,up-left,chopstick,left,spoon,left,paper tablemat,still,paper tablemat,right,chopstick,up-right,spoon,up-right,spoon,none)
+right hand object:((None,None),none,paint brush,down-left,paint brush,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,paint brush,left,bed,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → left → right → up-left → up-right → down-right → up-right → down-left → up-right → down → up → down → up-right → down → up-right → down → down-left → right → right → still → down-right → up → down → up → down → up-right → right → up → right → none (object: paintbrush → chopsticks → paper tablemat → chopstick → bowl → plier → cooking spoon → spoon → fork → bed)
+Right hand: none → left → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: paint brush)
+Two-hand object: paint brush → bed

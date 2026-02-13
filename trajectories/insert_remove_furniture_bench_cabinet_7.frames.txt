@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((882,966),still,up-right,still,still,still,still,up-left,still)
+right hand:((1484,888),left,left,up-left,still,down-right,up-right,down,still)
+left hand object:((872,888,floor),down-left,watch,still,watch,still,watch,still,watch,still,watch,still,watch,up-right,desk,down-left,watch)
+right hand object:((872,888,floor),right,floor,up-right,foam block,up,foam block,still,box,down,rubik cube,left,floor,right,desk,still,desk)
+two hand object:((960,544,room),still,room,still,room,still,room,down,floor,up,room,still,room,down,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-right → still → still → still → still → up-left → still (object: floor → desk → watch)
+Right hand: left → left → up-left → still → down-right → up-right → down → still (object: floor → foam block → rubik cube → desk → box)
+Two-hand object: floor → desk → room

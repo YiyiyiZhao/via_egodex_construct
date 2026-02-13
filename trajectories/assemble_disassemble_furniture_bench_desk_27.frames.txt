@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((950,963),still,up,up,up-right,down-left,down,left)
+right hand:((1398,946),up,up-left,up-right,up-right,up,up,down)
+left hand object:((968,840,desk),still,desk,up,bed,right,piece of clothing,up-left,paper towel,up-left,towel,down-right,cutting pad,down-left,desk)
+right hand object:((968,840,desk),still,desk,up,bed,right,piece of clothing,up-left,paper towel,down-right,piece of clothing,up-left,instruction manual,down-left,remote control)
+two hand object:((961,542,room),still,room,still,room,down-right,piece of clothing,up-left,paper towel,down-right,piece of clothing,up-left,instruction manual,down-left,remote control)
+
+
+## LLM-Friendly Format:
+Left hand: still → up → up → up-right → down-left → down → left (object: towel → desk → bed → piece of clothing → paper towel → cutting pad)
+Right hand: up → up-left → up-right → up-right → up → up → down (object: desk → bed → piece of clothing → remote control → paper towel → instruction manual)
+Two-hand object: room → piece of clothing → remote control → paper towel → instruction manual

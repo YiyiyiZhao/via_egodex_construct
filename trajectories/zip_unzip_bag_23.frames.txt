@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((699,744),right,up,down-left,right,up-left,down,left)
+right hand:((1291,858),up,left,left,left,right,left,right)
+left hand object:((960,544,room),still,room,down,cutting pad,down-left,toothbrush,up-right,toothbrush,right,rolling tray,down-left,floor,right,toothbrush)
+right hand object:((1064,740,cutting pad),right,fidget spinner ring,left,cutting pad,down,kitchen countertop,up,room,down-right,rolling tray,right,cutting mat,down-left,toothbrush)
+two hand object:((960,544,room),still,room,still,room,still,room,still,room,down,countertop,still,floor,right,toothbrush)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → down-left → right → up-left → down → left (object: floor → room → rolling tray → toothbrush → cutting pad)
+Right hand: up → left → left → left → right → left → right (object: room → kitchen countertop → rolling tray → toothbrush → cutting mat → cutting pad → fidget spinner ring)
+Two-hand object: floor → toothbrush → room → countertop

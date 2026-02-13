@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((707,816),up,right,down,up-left,down,up-left,down-left)
+right hand:((1730,925),up-left,up-left,left,still,down-right,still,right)
+left hand object:((960,766,bed),up-right,linen,down,bowl,up-right,cheese,down-left,countertop,down-left,bowl,up,linen,down-left,bed)
+right hand object:((960,766,bed),right,tape measure,up-left,foam block,left,scouring pad,up-left,countertop,down-right,tape,down,tape,down-right,scouring pad)
+two hand object:((960,766,bed),none,none,none,none,countertop,none,none,none,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up → right → down → up-left → down → up-left → down-left (object: cheese → countertop → bowl → linen → bed)
+Right hand: up-left → up-left → left → still → down-right → still → right (object: foam block → tape → countertop → scouring pad → bed → tape measure)
+Two-hand object: countertop → bed

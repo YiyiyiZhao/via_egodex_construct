@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((996,642),left,down-left,up,up-right,down-right,down,up)
+right hand:((1315,923),down-right,none,none,left,up,down,down)
+left hand object:((946,814,desk),up-left,cup,right,mug,up,mug,up-right,mug,down,desk,down-right,desk,up-right,cup)
+right hand object:((946,814,desk),right,desk,none,none,desk,left,table,up-right,plastic model piece,down,plastic model piece,down-left,desk)
+two hand object:((966,544,room),still,room,none,none,room,none,none,room,left,room,down,desk)
+
+
+## LLM-Friendly Format:
+Left hand: left → down-left → up → up-right → down-right → down → up (object: mug → desk → cup)
+Right hand: down-right → none → none → left → up → down → down (object: table → desk → plastic model piece)
+Two-hand object: desk → room

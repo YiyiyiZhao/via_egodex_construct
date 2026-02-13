@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((746,992),up-right,still,right,still,left,down-left,right,up-right,still)
+right hand:((1476,984),none,none,up,left,down,right,up-left,up-right,left)
+left hand object:((751,855,desk),right,desk,right,desk,up-right,desk,left,desk,right,desk,left,desk,up-left,desk,right,desk,right,desk)
+right hand object:((751,855,desk),none,none,architectural craft manual,up,architectural craft manual,up-left,box,down-left,desk,right,foam block,up-left,architectural craft manual,up-right,architectural craft manual,up-left,paper container)
+two hand object:((751,855,desk),none,none,desk,up-right,desk,left,desk,right,desk,left,desk,up-left,desk,right,desk,right,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → still → right → still → left → down-left → right → up-right → still (object: desk)
+Right hand: none → none → up → left → down → right → up-left → up-right → left (object: foam block → paper container → desk → architectural craft manual → box)
+Two-hand object: desk

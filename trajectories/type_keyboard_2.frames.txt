@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((794,904),up-right,still,still,still,still,right,left,up-right,down-left,still,right,left,right,right,down-left,up-left,still,still,right,left,still,still,still,still,down-left,right)
+right hand:((1650,938),up-left,still,still,left,up-right,down-right,left,right,up-left,down-right,left,up-left,right,down-left,right,still,still,still,left,left,right,still,left,right,up-left,down-right)
+left hand object:((1321,792,keyboard),up-right,keyboard,left,keyboard,still,keyboard,left,keyboard,right,keyboard,down-left,keyboard,up-right,keyboard,still,keyboard,right,keyboard,still,keyboard,left,keyboard,right,keyboard,left,keyboard,right,keyboard,left,keyboard,up-right,keyboard,still,keyboard,still,keyboard,left,keyboard,still,keyboard,right,keyboard,left,keyboard,down-right,keyboard,up-left,keyboard,left,keyboard,right,keyboard)
+right hand object:((1321,792,keyboard),up-right,keyboard,left,keyboard,still,keyboard,left,keyboard,right,keyboard,down-left,keyboard,up-right,keyboard,still,keyboard,right,keyboard,still,keyboard,left,keyboard,right,keyboard,left,keyboard,right,keyboard,left,keyboard,up-right,keyboard,still,keyboard,still,keyboard,left,keyboard,still,keyboard,right,keyboard,left,keyboard,down-right,keyboard,up-left,keyboard,left,keyboard,right,keyboard)
+two hand object:((1321,792,keyboard),up-right,keyboard,left,keyboard,still,keyboard,left,keyboard,right,keyboard,down-left,keyboard,up-right,keyboard,still,keyboard,right,keyboard,still,keyboard,left,keyboard,right,keyboard,left,keyboard,right,keyboard,left,keyboard,up-right,keyboard,still,keyboard,left,desk,right,keyboard,still,keyboard,right,keyboard,left,keyboard,down-right,keyboard,up-left,keyboard,left,keyboard,right,keyboard)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → still → still → still → still → right → left → up-right → down-left → still → right → left → right → right → down-left → up-left → still → still → right → left → still → still → still → still → down-left → right (object: keyboard)
+Right hand: up-left → still → still → left → up-right → down-right → left → right → up-left → down-right → left → up-left → right → down-left → right → still → still → still → left → left → right → still → left → right → up-left → down-right (object: keyboard)
+Two-hand object: keyboard → desk

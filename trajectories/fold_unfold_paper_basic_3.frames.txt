@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((982,652),down-right,up,up,down,down-left,up-right,up,still,right,left,up-right)
+right hand:((1699,710),up-left,left,right,down-right,down-left,still,up,down-left,up-left,left,right)
+left hand object:((None,None),none,bed,right,cutting pad,still,cutting pad,down-left,cutting pad,left,cutting pad,up,laptop,up-left,room,down-right,cutting pad,down-right,cutting pad,up-left,bed,down-right,notebook)
+right hand object:((1361,772,cutting pad),down,cutting pad,up-right,cutting pad,still,cutting pad,down-left,cutting pad,up-left,bed,still,bed,still,room,down-right,cutting pad,down-right,cutting pad,up-left,bed,down-right,cutting pad)
+two hand object:((None,None),none,cutting pad,up-right,cutting pad,still,cutting pad,down-left,cutting pad,left,cutting pad,up-left,bed,still,bed,still,bed,down-right,cutting pad,up-left,bed,down-right,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up → up → down → down-left → up-right → up → still → right → left → up-right (object: room → cutting pad → laptop → bed → notebook)
+Right hand: up-left → left → right → down-right → down-left → still → up → down-left → up-left → left → right (object: cutting pad → room → bed)
+Two-hand object: cutting pad → bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((690,816),right,up-left,right,down-right,up-left,up,up,down-right,down-left,down,down-right,up,up-left,down-right,still)
+right hand:((1463,894),up-left,down-right,down-left,left,up-right,down-right,up,up,down,down-left,left,still,up-right,left,down)
+left hand object:((962,802,desk),up,bed,down,remote control,right,rubik cube,up-right,toothbrush,down-left,toothbrush,down,desk,up,carton,down-right,spoon,left,sandwich,down,book,down-right,remote control,up-right,card,left,card,down-right,remote control,still,toothpaste)
+right hand object:((962,802,desk),right,cup,up,toothbrush,up-left,toothbrush,down-left,toothbrush,down,pair of scissors,right,tweezer,up,pair of scissors,up,pair of scissors,down-right,toothbrush,down-left,fidget spinner ring,down-left,spoon,up,cup,up-right,toothbrush,down,cup,still,cup)
+two hand object:((962,802,desk),up,bed,right,room,down,bed,up-right,toothbrush,down,toothbrush,left,desk,up-right,pair of scissors,still,spoon,up,cardboard box,down-left,bed,down-right,spoon,up-left,card,left,desk,none,none,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → right → down-right → up-left → up → up → down-right → down-left → down → down-right → up → up-left → down-right → still (object: carton → toothpaste → book → card → spoon → rubik cube → toothbrush → desk → bed → remote control → sandwich)
+Right hand: up-left → down-right → down-left → left → up-right → down-right → up → up → down → down-left → left → still → up-right → left → down (object: pair of scissors → spoon → toothbrush → desk → cup → tweezer → fidget spinner ring)
+Two-hand object: room → pair of scissors → card → spoon → toothbrush → desk → cardboard box → bed

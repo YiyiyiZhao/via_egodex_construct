@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((786,824),up,right,still,down-left,up-left,right,right,still,still,up,still,still,up,right,down,down)
+right hand:((1474,442),down,left,down,up-right,left,down,right,still,up-left,up,up,still,down,down-right,down-left,up)
+left hand object:((None,None),none,linen,down-right,jenga block,left,bed,left,bed,up-left,linen,still,linen,still,linen,still,linen,down-right,fidget spinner ring,up-left,linen,still,linen,down-right,fidget spinner ring,up-right,fidget spinner ring,none,none,fidget spinner ring,down,fidget spinner ring)
+right hand object:((None,None),none,jenga tower,still,jenga tower,left,bed,left,bed,up-right,jenga tower,right,jenga tower,right,jenga tower,still,jenga tower,up,jenga block,down-right,jenga tower,left,jenga tower,down-right,jenga tower,up,jenga block,right,jenga tower,down-left,bed,up-right,toothbrush)
+two hand object:((None,None),none,none,jenga tower,left,jenga block,up,jenga tower,up-left,bed,none,none,none,none,none,bed,still,bed,none,none,none,none,bed,none)
+
+
+## LLM-Friendly Format:
+Left hand: up → right → still → down-left → up-left → right → right → still → still → up → still → still → up → right → down → down (object: jenga block → fidget spinner ring → linen → bed)
+Right hand: down → left → down → up-right → left → down → right → still → up-left → up → up → still → down → down-right → down-left → up (object: jenga block → jenga tower → toothbrush → bed)
+Two-hand object: jenga block → jenga tower → bed

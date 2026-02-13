@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((922,930),up-left,still,down-right,up-left,right,still,down,up-left,still)
+right hand:((1202,914),left,right,left,still,right,down-left,up,still,left)
+left hand object:((1064,882,scouring pad),up-left,table,down-left,pair of scissors,still,pair of scissors,still,pair of scissors,still,pair of scissors,still,pair of scissors,right,countertop,down-left,plate,still,plate)
+right hand object:((1064,882,scouring pad),up-left,table,right,remote control,left,counter,right,bottle,still,bottle,left,countertop,still,countertop,down-left,plate,still,plate)
+two hand object:((1041,842,countertop),still,countertop,still,countertop,still,countertop,still,countertop,still,countertop,still,countertop,still,countertop,still,countertop,still,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → still → down-right → up-left → right → still → down → up-left → still (object: countertop → pair of scissors → scouring pad → table → plate)
+Right hand: left → right → left → still → right → down-left → up → still → left (object: countertop → scouring pad → table → counter → bottle → plate → remote control)
+Two-hand object: countertop

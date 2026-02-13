@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((858,658),up,up-right,up-right,down,up-right,right,up-right,down-right,up-left,still,still,left,up-left,up-left,down-right,down,down,up-right)
+right hand:((1424,630),left,up-right,up-left,down,left,up-right,up-right,still,up,still,still,still,down-left,still,still,down-right,still,right)
+left hand object:((820,626,fidget spinner ring),up,fidget spinner ring,down-right,desk,none,none,fidget spinner ring,right,room,right,fidget spinner ring,up-left,room,right,fidget spinner ring,right,fidget spinner ring,down-left,bed,up,fidget spinner ring,down,bed,up,room,still,room,still,room,still,room,still,room,up-right,fidget spinner ring)
+right hand object:((1414,562,fidget spinner ring),left,fidget spinner ring,down-left,desk,up-right,fidget spinner ring,down-right,glove,up-left,fidget spinner ring,down-left,cellphone,up-right,fidget spinner ring,right,fidget spinner ring,up,fidget spinner ring,still,fidget spinner ring,still,fidget spinner ring,still,fidget spinner ring,down-right,sock,up-left,fidget spinner ring,right,fidget spinner ring,down-right,sock,still,sock,right,sock)
+two hand object:((None,None),none,room,still,room,none,none,room,still,room,right,fidget spinner ring,up-left,room,still,room,still,room,still,room,down-right,fidget spinner ring,down-left,bed,up,room,still,room,still,room,still,room,still,room,none)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → up-right → down → up-right → right → up-right → down-right → up-left → still → still → left → up-left → up-left → down-right → down → down → up-right (object: room → desk → fidget spinner ring → bed)
+Right hand: left → up-right → up-left → down → left → up-right → up-right → still → up → still → still → still → down-left → still → still → down-right → still → right (object: glove → sock → desk → fidget spinner ring → cellphone)
+Two-hand object: fidget spinner ring → room → bed

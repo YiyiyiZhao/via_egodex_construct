@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1032,882),up-right,still,still,still,right,down-left,still)
+right hand:((1526,630),left,up-left,down-right,left,still,down-left,right)
+left hand object:((964,768,countertop),still,countertop,still,countertop,still,countertop,still,countertop,still,countertop,still,countertop,right,wooden model)
+right hand object:((1384,755,foam block),up,toothbrush,left,countertop,still,countertop,right,mallet,left,countertop,still,countertop,still,countertop)
+two hand object:((964,768,countertop),still,countertop,still,countertop,still,countertop,still,countertop,still,countertop,still,countertop,still,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → still → still → still → right → down-left → still (object: wooden model → countertop)
+Right hand: left → up-left → down-right → left → still → down-left → right (object: foam block → mallet → toothbrush → countertop)
+Two-hand object: countertop

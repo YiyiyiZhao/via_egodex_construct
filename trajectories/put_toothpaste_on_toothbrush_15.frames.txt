@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((678,751),right,up-left,right,left,up-left,up,down-right,down-left,down,down-right,still,up-right,left,down-right)
+right hand:((1453,852),up-left,up-right,down-left,up,right,up,up-right,down-left,down,left,up-left,right,up,up-left)
+left hand object:((962,798,desk),right,remote control,up,remote control,up-left,card,right,remote control,left,card,up-right,carton,down-right,glass cup,left,sponge cloth,down,toothbrush,down-right,remote control,up-left,card,right,remote control,left,tag,down-right,remote control)
+right hand object:((962,798,desk),right,cup,up,toothbrush,down,cup,up,cup,down,pair of scissors,up,spoon,up-right,toothbrush,down,cup,down-left,pair of scissors,up-left,toothbrush,up-right,cup,down,remote control,up,mug,down-right,mug)
+two hand object:((962,798,desk),none,none,room,down-right,tweezer,down-left,remote control,down-left,desk,none,none,pair of scissors,down-left,desk,right,pair of scissors,left,bed,right,cup,down-left,remote control,left,bed,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → right → left → up-left → up → down-right → down-left → down → down-right → still → up-right → left → down-right (object: carton → card → tag → glass cup → sponge cloth → toothbrush → desk → remote control)
+Right hand: up-left → up-right → down-left → up → right → up → up-right → down-left → down → left → up-left → right → up → up-left (object: mug → pair of scissors → spoon → toothbrush → desk → cup → remote control)
+Two-hand object: room → pair of scissors → desk → cup → bed → remote control → tweezer

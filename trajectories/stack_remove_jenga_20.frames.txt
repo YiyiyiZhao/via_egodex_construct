@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((840,810),right,up,left,up,up,down-right,down)
+right hand:((1330,861),up,up,up,up-left,down-right,up-right,up)
+left hand object:((960,812,bed),up-right,architectural craft manual,up,instruction manual,down-left,bed,up-right,architectural craft manual,up-left,linen,down-right,architectural craft manual,down-right,instruction manual)
+right hand object:((960,812,bed),up-right,architectural craft manual,up,instruction manual,up,remote control,still,remote control,still,architectural craft manual,down-left,bed,up,bed)
+two hand object:((960,812,bed),up-right,architectural craft manual,up,architectural craft manual,up,architectural craft manual,still,remote control,still,architectural craft manual,down,architectural craft manual,down-right,architectural craft manual)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → left → up → up → down-right → down (object: architectural craft manual → linen → instruction manual → bed)
+Right hand: up → up → up → up-left → down-right → up-right → up (object: architectural craft manual → remote control → instruction manual → bed)
+Two-hand object: architectural craft manual → remote control → bed

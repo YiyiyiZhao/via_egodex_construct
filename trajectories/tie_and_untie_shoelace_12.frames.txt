@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((None,None),none,up,down-right,left,down-right,down-left,still,still,up-right,up-right,up,left,up-left,left,down,down)
+right hand:((None,None),none,up,still,up-right,down,down,right,left,up-right,left,down-left,right,right,still,down,down)
+left hand object:((None,None),none,floor,right,tie,up,tie,up-left,shoe,down,shoe,still,shoe,still,shoe,still,shoe,still,tie,up,fidget spinner ring,none,none,none,none,none,floor,right,floor)
+right hand object:((None,None),none,floor,right,tie,up,tie,up-left,shoe,down,shoe,up-right,fidget spinner ring,left,floor,right,shoe,still,tie,none,none,none,none,none,none,floor,right,floor)
+two hand object:((None,None),none,room,down-right,tie,up,tie,up-left,shoe,down,shoe,still,shoe,left,floor,right,shoe,still,tie,none,none,none,none,none,none,floor,right,floor)
+
+
+## LLM-Friendly Format:
+Left hand: none → up → down-right → left → down-right → down-left → still → still → up-right → up-right → up → left → up-left → left → down → down (object: floor → fidget spinner ring → shoe → tie)
+Right hand: none → up → still → up-right → down → down → right → left → up-right → left → down-left → right → right → still → down → down (object: floor → fidget spinner ring → shoe → tie)
+Two-hand object: floor → shoe → room → tie

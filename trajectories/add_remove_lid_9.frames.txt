@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((None,None),none,right,up-right,left,down,up-right,right,down-left,up-right,left,left,up-right)
+right hand:((None,None),none,left,up-right,left,down,up,up,none,none,down-left,left,right)
+left hand object:((None,None),none,cutting mat,left,cutting pad,right,countertop,up-left,desk,down,table,up-right,rolling tray,right,rolling tray,down-left,countertop,up-right,instruction manual,left,seed bead embroidery,down-left,instruction manual,right,instruction manual)
+right hand object:((None,None),none,paper bag,up-left,desk,up,kitchen,right,box,down-right,chapati,up-left,rolling tray,right,toast,none,none,architectural craft manual,left,instruction manual,left,desk,right,instruction manual)
+two hand object:((None,None),none,cutting mat,left,cutting pad,right,countertop,right,box,down-right,box,up-right,box,up-left,linen,none,none,desk,right,instruction manual,left,instruction manual,right,instruction manual)
+
+
+## LLM-Friendly Format:
+Left hand: none → right → up-right → left → down → up-right → right → down-left → up-right → left → left → up-right (object: desk → countertop → table → instruction manual → cutting pad → rolling tray → cutting mat → seed bead embroidery)
+Right hand: none → left → up-right → left → down → up → up → none → none → down-left → left → right (object: desk → kitchen → toast → instruction manual → chapati → paper bag → box → architectural craft manual → rolling tray)
+Two-hand object: linen → countertop → desk → instruction manual → cutting pad → box → cutting mat

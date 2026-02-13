@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((832,146),left,right,right,left,up-right,up-right,still,down-right,left)
+right hand:((1640,674),left,left,right,up-right,up-left,right,up-right,down-right,down-left)
+left hand object:((None,None),none,sand disc,up-right,clay bowl,none,none,clay bowl,up-right,sand disc,up-right,pot lid,still,sand disc,down,clay bowl,still,sand disc)
+right hand object:((None,None),none,sand disc,up-right,clay bowl,none,none,spoon,left,sand disc,up-right,pot lid,up-right,stick,right,chopstick,down-left,stick)
+two hand object:((None,None),none,sand disc,up-right,clay bowl,none,none,none,sand disc,right,sand disc,still,sand disc,down-left,sink,up-right,sand disc)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → right → left → up-right → up-right → still → down-right → left (object: sand disc → pot lid → clay bowl)
+Right hand: left → left → right → up-right → up-left → right → up-right → down-right → down-left (object: sand disc → pot lid → chopstick → clay bowl → spoon → stick)
+Two-hand object: sand disc → sink → clay bowl

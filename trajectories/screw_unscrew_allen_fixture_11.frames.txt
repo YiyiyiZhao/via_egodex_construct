@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1729,914),up-right,up-left,right,down,up,left,up,still,up,down-left,down,up,down,still,still,down-right,up,up,still,down-right,up)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((948,814,bed),right,pen,up-left,phone,left,bed,down,bed,right,toothbrush,left,phone,down-left,cutting mat,up-left,bed,down-right,cutting mat,up-left,bed,right,phone,up-right,toothbrush,down-left,pen,right,pen,left,pencil,down-right,pen,up-right,pencil,down-left,cutting mat,up-right,tweezer,down-right,pen,left,bed)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-left → right → down → up → left → up → still → up → down-left → down → up → down → still → still → down-right → up → up → still → down-right → up (object: pencil → toothbrush → phone → bed → pen → tweezer → cutting mat)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((584,786),still,up-left,left,left,right,left,right,left,right,left,right,left,right,left,up-right,down)
+right hand:((964,852),up-right,left,down,right,up-left,down-right,up-left,right,up-left,down-right,up-left,down-right,up-left,down,up-left,left)
+left hand object:((490,863,fidget spinner ring),right,countertop,up-left,knife,down-left,fidget spinner ring,right,floor,left,fidget spinner ring,left,rolling pin,right,fidget spinner ring,up-right,refrigerator,down-left,fidget spinner ring,up-right,refrigerator,down-left,fidget spinner ring,left,rolling pin,right,fidget spinner ring,up-left,fidget spinner ring,right,fidget spinner ring,down,fidget spinner ring)
+right hand object:((960,838,countertop),up-right,storage box,down-left,microwave,down,countertop,right,banana,up-left,apple,down-right,banana,up-left,toothbrush,up-right,refrigerator,down-left,banana,down-right,apple,up-left,banana,down,floor,up,scouring pad,down-right,apple,up-left,jug,down,kitchen)
+two hand object:((960,838,countertop),up,kitchen,left,knife,down-right,countertop,right,floor,up,refrigerator,left,refrigerator,right,fridge,left,refrigerator,none,none,refrigerator,right,refrigerator shelf,left,kitchen,right,refrigerator,left,kitchen,right,refrigerator,down-left,fidget spinner ring)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-left → left → left → right → left → right → left → right → left → right → left → right → left → up-right → down (object: floor → countertop → knife → rolling pin → refrigerator → fidget spinner ring)
+Right hand: up-right → left → down → right → up-left → down-right → up-left → right → up-left → down-right → up-left → down-right → up-left → down → up-left → left (object: floor → countertop → scouring pad → microwave → apple → storage box → toothbrush → jug → kitchen → banana → refrigerator)
+Two-hand object: floor → countertop → knife → kitchen → fridge → fidget spinner ring → refrigerator shelf → refrigerator

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((883,696),down-right,up-left,down-right,down-left,right,up,down-right)
+right hand:((1389,719),left,up,up,down,up-right,down-right,up-right)
+left hand object:((960,545,room),still,room,right,sand disc,down-left,piece of clothing,right,pot lid,up-right,pair of scissors,down-left,pot lid,up,pot lid)
+right hand object:((1202,726,sand disc),up,sand disc,down-left,sand disc,none,none,sand disc,up-right,pair of scissors,down-right,sand disc,up-left,sand disc)
+two hand object:((960,545,room),right,sand disc,left,room,none,none,sand disc,up-right,pair of scissors,none,none,room)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → down-right → down-left → right → up → down-right (object: sand disc → pot lid → room → pair of scissors → piece of clothing)
+Right hand: left → up → up → down → up-right → down-right → up-right (object: sand disc → pair of scissors)
+Two-hand object: sand disc → room → pair of scissors

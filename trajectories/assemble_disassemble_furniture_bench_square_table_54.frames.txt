@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((897,668),still,still,still,still,still,still,still)
+right hand:((1422,630),down-left,up-right,right,left,right,up-right,down-right)
+left hand object:((1086,707,plastic model piece),none,none,room,still,room,down-right,countertop,up-left,countertop,none,none,rolling tray)
+right hand object:((1343,772,countertop),none,none,room,still,room,down-right,countertop,up-left,countertop,up-right,fidget spinner ring,down-right,toothbrush)
+two hand object:((1343,772,countertop),none,none,room,still,room,down-right,countertop,up-left,countertop,none,none,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still (object: rolling tray → countertop → room → plastic model piece)
+Right hand: down-left → up-right → right → left → right → up-right → down-right (object: fidget spinner ring → toothbrush → room → countertop)
+Two-hand object: room → countertop

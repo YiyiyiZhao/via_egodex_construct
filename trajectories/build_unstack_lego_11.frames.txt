@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((823,826),left,right,left,up-right,down-right,still,up-left,right,down-right,up-left,down-right)
+right hand:((1192,881),up-right,down-left,up,down,right,up-left,down,up-left,down-right,up,down)
+left hand object:((957,542,room),down,bed,right,remote control,up,room,down-left,remote control,up-right,room,down-right,plastic model piece,none,none,lego figure,down-right,board game,up-left,linen,down-right,wooden model)
+right hand object:((957,542,room),down,bed,up-right,box,up-left,room,down-right,instruction manual,up-left,room,down-right,plastic model piece,down,plastic model,up,plastic model,down-right,board game,up,wooden model,down-left,wooden model)
+two hand object:((957,542,room),still,room,still,room,still,room,down,bed,up,room,down-right,plastic model piece,none,none,plastic model,left,bed,right,wooden model,down-left,wooden model)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → left → up-right → down-right → still → up-left → right → down-right → up-left → down-right (object: lego figure → bed → room → board game → linen → plastic model piece → remote control → wooden model)
+Right hand: up-right → down-left → up → down → right → up-left → down → up-left → down-right → up → down (object: bed → room → board game → plastic model piece → plastic model → wooden model → instruction manual → box)
+Two-hand object: bed → room → plastic model piece → plastic model → wooden model

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((938,748),up,right,left,up-left,down-right,up-left,left)
+right hand:((1248,594),down-left,up-right,left,right,up-right,up-left,down-right)
+left hand object:((1048,690,marker),left,cellphone,up-left,room,down-right,remote control,up,crayon,down-right,remote control,up-left,cellphone,left,cellphone)
+right hand object:((956,540,room),down-right,cellphone,up-left,room,down-right,toothbrush,up,tweezer,up-left,room,still,room,down,bed)
+two hand object:((956,540,room),still,room,still,room,still,room,down-right,toothbrush,up-left,room,still,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: up → right → left → up-left → down-right → up-left → left (object: room → marker → crayon → remote control → cellphone)
+Right hand: down-left → up-right → left → right → up-right → up-left → down-right (object: room → toothbrush → bed → tweezer → cellphone)
+Two-hand object: toothbrush → room

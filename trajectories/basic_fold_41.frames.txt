@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1000,929),up-left,none,none,down,up-left,right,up-left,down-left,down-left,right,up-right,down-left,down-left,down-left,left,down-left)
+right hand:((1825,987),up,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1048,898,microfiber cloth),up,piece of clothing,none,none,watch,down-right,bed,up,bed,right,microfiber cloth,left,bed,right,towel,left,towel,right,towel,right,fidget spinner ring,down-left,towel,up-left,towel,right,towel,left,bed,left,countertop)
+right hand object:((958,788,bed),up,piece of clothing,none,none,necklace string,none,none,bed,none,none,none,towel,none,none,bed,none,none,none,none,none,none,microfiber cloth)
+two hand object:((958,788,bed),up,piece of clothing,none,none,none,none,bed,none,none,none,bed,none,none,bed,none,none,none,none,none,none,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → none → none → down → up-left → right → up-left → down-left → down-left → right → up-right → down-left → down-left → down-left → left → down-left (object: towel → countertop → fidget spinner ring → bed → piece of clothing → microfiber cloth → watch)
+Right hand: up → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: towel → bed → piece of clothing → microfiber cloth → necklace string)
+Two-hand object: piece of clothing → countertop → bed

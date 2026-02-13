@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1020,874),still,up-left,down,down-left,still,left,still)
+right hand:((1524,911),still,left,up-right,up-right,down,down-left,down-left)
+left hand object:((1118,762,cup),still,cup,up-left,glass cup,down-right,cup,right,sauce bottle,still,glue gun,left,cup,down-left,cup)
+right hand object:((959,812,countertop),still,countertop,right,sauce bottle,up-right,bottle,right,bottle,down-right,bottle,down-left,bottle,down-left,bottle)
+two hand object:((959,812,countertop),still,countertop,still,countertop,none,none,sauce bottle,still,glue gun,none,none,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-left → down → down-left → still → left → still (object: glue gun → sauce bottle → glass cup → cup)
+Right hand: still → left → up-right → up-right → down → down-left → down-left (object: sauce bottle → bottle → countertop)
+Two-hand object: glue gun → sauce bottle → countertop

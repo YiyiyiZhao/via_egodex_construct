@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((821,754),down-right,up-left,up,down-right,up-right,up-left,left)
+right hand:((1758,866),left,right,up,left,down-left,right,down)
+left hand object:((764,837,watch),right,box,left,seed bead embroidery,down,seed bead embroidery,down-right,seed bead embroidery,up-right,wristwatch,up-left,seed bead embroidery,left,watch)
+right hand object:((962,813,desk),still,desk,still,desk,up-right,storage box,up,box,up-left,box,right,remote control,down,remote control)
+two hand object:((962,813,desk),still,desk,right,architectural craft manual,up,storage box,up,box,down-left,desk,still,desk,right,desk)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → up → down-right → up-right → up-left → left (object: wristwatch → seed bead embroidery → watch → box)
+Right hand: left → right → up → left → down-left → right → down (object: remote control → storage box → desk → box)
+Two-hand object: architectural craft manual → storage box → desk → box

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((809,962),up-left,right,down-right,up-left,up-left,right,down-left)
+right hand:((1503,990),up-left,up,up-left,right,down-left,down-left,down-right)
+left hand object:((960,791,table),left,bowl,right,bowl,up-right,bowl,up,bowl,left,yoghurt cup,right,bowl,down-left,countertop)
+right hand object:((960,791,table),right,bowl,left,countertop,up-right,seed bead embroidery,down,bowl,still,bowl,up-left,bowl,down-left,countertop)
+two hand object:((961,548,room),down,table,right,bowl,up-right,bowl,up,bowl,up-left,room,down-right,bowl,up-left,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → right → down-right → up-left → up-left → right → down-left (object: yoghurt cup → table → bowl → countertop)
+Right hand: up-left → up → up-left → right → down-left → down-left → down-right (object: table → seed bead embroidery → bowl → countertop)
+Two-hand object: table → bowl → room

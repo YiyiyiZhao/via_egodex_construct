@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((931,1025),up,right,up-left,down-right,right,left,right,down-left,still)
+right hand:((1564,966),left,up-left,down-right,up-left,down,down-right,up-left,up-left,down-right)
+left hand object:((1068,567,kitchen workbench),down,countertop,up,kitchen,down-left,cutting pad,up-right,kitchen workbench,right,kitchen workbench,down,countertop,left,cutting pad,up-right,kitchen workbench,down-left,cutting pad)
+right hand object:((1068,567,kitchen workbench),down-right,tongs,up-left,microwave,down-right,fidget spinner ring,up-left,measuring cup,down,phone,down,countertop,up-left,cupboard,down-left,atm machine,still,cabinet)
+two hand object:((1068,567,kitchen workbench),up-left,kitchen workbench,left,kitchen,right,kitchen workbench,left,kitchen workbench,down,kitchen,right,kitchen workbench,left,kitchen,up-right,kitchen workbench,right,kitchen)
+
+
+## LLM-Friendly Format:
+Left hand: up → right → up-left → down-right → right → left → right → down-left → still (object: kitchen workbench → kitchen → cutting pad → countertop)
+Right hand: left → up-left → down-right → up-left → down → down-right → up-left → up-left → down-right (object: cabinet → kitchen workbench → countertop → tongs → microwave → atm machine → measuring cup → phone → cupboard → fidget spinner ring)
+Two-hand object: kitchen workbench → kitchen

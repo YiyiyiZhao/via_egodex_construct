@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((656,668),up-left,up-left,right,up-left,left,right,left,down,up,left,right,down,up-left,right,down-left,left,up-left,right,down-left)
+right hand:((1366,754),down-left,up-right,up-left,right,still,right,left,up-left,right,right,up-left,still,down,up,up,still,still,up,up-left)
+left hand object:((829,806,sand disc),up-left,linen,still,linen,down-right,room,left,linen,down-right,sand disc,up-right,fidget spinner ring,up-right,sand disc,down,carpet,up,masking tape,down-left,masking tape,down-right,sandwich,down,plate,up-left,linen,down-right,countertop,up-right,sponge cloth,left,mustard,up-left,linen,right,sponge cloth,down,sandwich)
+right hand object:((1269,698,sponge cloth),down-left,plate,up-right,sponge cloth,up-left,room,down-right,plate,still,plate,down,plate,up,sand disc,up,sponge cloth,left,masking tape,down-right,plate,up,sandwich,down,plate,up-left,bed,up-right,countertop,down-right,plate,up,plate,still,plate,up-left,countertop,up-right,sponge cloth)
+two hand object:((958,759,bed),up,bed,still,carpet,up,room,down,bed,still,bed,down-right,plate,up-left,countertop,still,floor,up,masking tape,up,room,down,countertop,down-right,plate,none,none,countertop,up,countertop,down-right,plate,none,none,countertop,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-left → right → up-left → left → right → left → down → up → left → right → down → up-left → right → down-left → left → up-left → right → down-left (object: sand disc → carpet → room → countertop → masking tape → sponge cloth → linen → plate → mustard → sandwich → fidget spinner ring)
+Right hand: down-left → up-right → up-left → right → still → right → left → up-left → right → right → up-left → still → down → up → up → still → still → up → up-left (object: sand disc → bed → room → countertop → masking tape → sponge cloth → plate → sandwich)
+Two-hand object: floor → carpet → bed → room → countertop → masking tape → plate

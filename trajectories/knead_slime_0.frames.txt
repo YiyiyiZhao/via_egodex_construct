@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((975,626),up,up-left,up,still,still,still,still,still,up-right,still,up-right)
+right hand:((1300,584),left,up-left,up-right,left,still,up-right,down-left,up-right,down,up-left,left)
+left hand object:((969,570,fidget spinner ring),up,room,down,fidget spinner ring,still,fidget spinner ring,down-right,fidget spinner ring,still,fidget spinner ring,still,fidget spinner ring,up-left,fidget spinner ring,up-left,fidget spinner ring,down-right,fidget spinner ring,up-left,fidget spinner ring,up-right,fidget spinner ring)
+right hand object:((1300,519,fidget spinner ring),down-left,bottle cap,up-right,fidget spinner ring,right,fidget spinner ring,down-left,fidget spinner ring,still,fidget spinner ring,still,fidget spinner ring,left,room,right,fidget spinner ring,up,fidget spinner ring,down-left,slime,up,fidget spinner ring)
+two hand object:((957,539,room),still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-left → up → still → still → still → still → still → up-right → still → up-right (object: room → fidget spinner ring)
+Right hand: left → up-left → up-right → left → still → up-right → down-left → up-right → down → up-left → left (object: bottle cap → room → fidget spinner ring → slime)
+Two-hand object: room

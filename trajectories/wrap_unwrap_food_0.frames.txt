@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((823,566),right,left,down,right,left,right,down,up,up,down-left)
+right hand:((1658,568),left,down,right,left,left,right,up-right,up-left,up-left,down-right)
+left hand object:((1269,784,cutting mat),left,bed,right,cutting mat,left,bed,down,countertop,still,desk,up-left,bed,right,sponge cloth,down,crepe,up,tupperware,down,pancake)
+right hand object:((1269,784,cutting mat),up,sponge cloth,down,sponge cloth,left,bed,down,countertop,still,desk,still,countertop,up,bed,right,crepe,up,tupperware,down,pancake)
+two hand object:((960,751,bed),still,bed,still,bed,still,bed,down,bed,still,bed,still,countertop,up,bed,still,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → left → down → right → left → right → down → up → up → down-left (object: countertop → crepe → sponge cloth → tupperware → pancake → desk → bed → cutting mat)
+Right hand: left → down → right → left → left → right → up-right → up-left → up-left → down-right (object: countertop → crepe → sponge cloth → tupperware → pancake → desk → bed → cutting mat)
+Two-hand object: countertop → bed

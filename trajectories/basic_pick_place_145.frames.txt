@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((860,891),up,up,up,down-right,right,down-right,up,down-left)
+right hand:((1478,952),up,up,right,up-right,down-right,left,down-right,up-right)
+left hand object:((946,813,table),up,table,up,plate,none,none,piece of clothing,right,bread,down-right,chapati,left,counter,up,bowl)
+right hand object:((946,813,table),up,table,up,table,right,tablet,left,counter,still,desk,still,counter,right,counter,up-left,counter)
+two hand object:((946,813,table),up,desk,still,table,none,none,counter,still,desk,still,countertop,still,countertop,still,counter)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → up → down-right → right → down-right → up → down-left (object: table → bowl → counter → chapati → plate → piece of clothing → bread)
+Right hand: up → up → right → up-right → down-right → left → down-right → up-right (object: counter → table → desk → tablet)
+Two-hand object: counter → table → desk → countertop

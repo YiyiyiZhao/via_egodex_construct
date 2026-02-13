@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1068,573),left,still,still,down,down-left,down-left,still,up-right,up)
+right hand:((1491,548),left,down-left,down-left,up-right,right,right,down,left,down-left)
+left hand object:((1243,718,cutting pad),left,cutting pad,down-left,cutting pad,up,cutting pad,up,architectural craft manual,down-left,architectural craft manual,down-right,sketch manual,up-right,sketch manual,down,cutting pad,up,cutting pad)
+right hand object:((1243,718,cutting pad),left,cutting pad,down-left,cutting pad,up,cutting pad,down-right,cutting pad,down,cutting pad,down-right,cutting pad,right,cutting pad,up-left,cutting pad,up,cutting pad)
+two hand object:((1243,718,cutting pad),left,cutting pad,down-left,cutting pad,up,cutting pad,down-right,cutting pad,down,cutting pad,down-right,cutting pad,right,cutting pad,left,nail,up,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: left → still → still → down → down-left → down-left → still → up-right → up (object: architectural craft manual → sketch manual → cutting pad)
+Right hand: left → down-left → down-left → up-right → right → right → down → left → down-left (object: cutting pad)
+Two-hand object: cutting pad → nail

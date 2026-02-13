@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((816,976),up-right,up-left,left,down,down-right,left,down,right,left,right,left,down,up,down-right,up-left,right,up-left,up,up-right,right,down-left)
+right hand:((1532,998),left,up-right,right,left,up,right,left,up-left,down,up,down-right,up-left,down-right,up-left,down-right,up-left,down-right,down-right,down-left,left,up-right)
+left hand object:((936,894,floor),up,cellphone,down-right,kitchen,left,kitchen,down-left,kitchen countertop,up-right,refrigerator,down-left,floor,up,kitchen,right,kitchen,left,floor,right,kitchen,left,refrigerator,still,kitchen,none,none,kitchen,left,kitchen,none,none,plastering trowel,right,cupboard,right,kitchen,left,kitchen,down,floor)
+right hand object:((936,894,floor),right,countertop,up-left,plum,down-right,countertop,left,banana,up,refrigerator,down,cutting mat,left,cutting pad,up,chapati,down,cutting mat,up-right,kitchen,down,apple,left,mustard,down-right,toothbrush,up-left,pear,up,kitchen,down-left,banana,down-left,floor,up-right,cupboard,right,kitchen,left,kitchen,down,floor)
+two hand object:((960,542,kitchen),none,none,kitchen,left,kitchen,left,kitchen workbench,right,refrigerator,left,cupboard,left,kitchen,right,kitchen,still,refrigerator shelf,right,kitchen,left,refrigerator,still,kitchen,none,none,kitchen,left,kitchen,none,none,floor,up-right,kitchen,left,kitchen,up-right,kitchen,down,floor)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-left → left → down → down-right → left → down → right → left → right → left → down → up → down-right → up-left → right → up-left → up → up-right → right → down-left (object: floor → kitchen countertop → plastering trowel → kitchen → cupboard → refrigerator → cellphone)
+Right hand: left → up-right → right → left → up → right → left → up-left → down → up → down-right → up-left → down-right → up-left → down-right → up-left → down-right → down-right → down-left → left → up-right (object: floor → countertop → apple → chapati → kitchen → toothbrush → banana → mustard → plum → cutting mat → cutting pad → pear → refrigerator → cupboard)
+Two-hand object: floor → kitchen workbench → kitchen → cupboard → refrigerator shelf → refrigerator

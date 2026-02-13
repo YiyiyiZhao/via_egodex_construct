@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1000,674),down-right,down-right,down-right,up-left,up,still,up-left)
+right hand:((1430,863),down-left,still,right,right,up-right,down-left,still)
+left hand object:((None,None),none,room,none,none,none,cutting mat,left,countertop,up-right,fidget spinner ring,down-right,pencil)
+right hand object:((1270,841,remote control),up-left,room,none,none,none,remote control,left,countertop,right,countertop,up,room)
+two hand object:((None,None),none,room,none,none,none,cutting mat,left,countertop,right,countertop,up,room)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → down-right → down-right → up-left → up → still → up-left (object: room → countertop → pencil → cutting mat → fidget spinner ring)
+Right hand: down-left → still → right → right → up-right → down-left → still (object: remote control → room → countertop)
+Two-hand object: cutting mat → room → countertop

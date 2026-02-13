@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1242,586),left,down-left,down-left,up-right,right,down-left,up-right,right,up-right,down-left,right,up-right,left,right,down,up,down-right,down-left,up-right,down-left,still,up-left,down-right,down-right,up-left,up-right,down-left)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1230,518,fidget spinner ring),left,fidget spinner ring,down-left,fidget spinner ring,down-left,bed,up-right,remote control,down-right,fidget spinner ring,up,seed bead embroidery,down,fidget spinner ring,up,remote control,down-left,bed,up-right,fidget spinner ring,none,none,fidget spinner ring,left,fidget spinner ring,down-right,fidget spinner ring,down,fidget spinner ring,down-left,bed,up-right,fidget spinner ring,left,fidget spinner ring,up-right,fidget spinner ring,down-left,fidget spinner ring,none,none,fidget spinner ring,none,none,fidget spinner ring,up,fidget spinner ring,none,none,bed)
+right hand object:((None,None),none,none,none,fidget spinner ring,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,fidget spinner ring,none,none,none,none,none)
+two hand object:((None,None),none,none,none,bed,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,fidget spinner ring,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → down-left → down-left → up-right → right → down-left → up-right → right → up-right → down-left → right → up-right → left → right → down → up → down-right → down-left → up-right → down-left → still → up-left → down-right → down-right → up-left → up-right → down-left (object: remote control → seed bead embroidery → fidget spinner ring → bed)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: fidget spinner ring)
+Two-hand object: fidget spinner ring → bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((958,409),down-left,down-left,up,up-right,down-left,still,down-right,right,still)
+right hand:((1278,350),still,down-left,up,up-right,down-left,still,still,down-right,still)
+left hand object:((960,408,cutting pad),down-left,cutting pad,down-left,cutting pad,up,cutting pad,up,cutting pad,down-left,cutting pad,still,cutting pad,down-right,cutting pad,right,cutting pad,still,cutting pad)
+right hand object:((1264,304,remote control),still,remote control,down-left,remote control,up-right,remote control,up-right,pencil,down-left,remote control,still,remote control,right,remote control,down-right,pen,still,remote control)
+two hand object:((961,408,instruction manual),down-left,cutting pad,down-left,instruction manual,down-right,desk,up,instruction manual,down-left,instruction manual,down,desk,down,desk,still,desk,up,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → down-left → up → up-right → down-left → still → down-right → right → still (object: cutting pad)
+Right hand: still → down-left → up → up-right → down-left → still → still → down-right → still (object: pen → remote control → pencil)
+Two-hand object: cutting pad → desk → instruction manual

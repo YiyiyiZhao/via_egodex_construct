@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((877,707),right,right,up,up,down-right,left,left,left,up-right)
+right hand:((1621,821),up-left,up,left,right,up-left,up-right,down-left,up-right,down)
+left hand object:((960,728,bed),still,bed,still,bed,up-right,rubik cube,right,toothbrush,up-right,toothbrush,down-left,bed,still,bed,still,bed,up,bed)
+right hand object:((960,728,bed),right,toothbrush,left,bed,up,bed,up-right,toothbrush,up-right,remote control,down-left,bed,right,remote control,left,bed,up,bed)
+two hand object:((960,728,bed),still,bed,still,bed,up,bed,up-right,toothbrush,up-right,toothbrush,down-left,bed,still,bed,still,bed,up,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → right → up → up → down-right → left → left → left → up-right (object: rubik cube → toothbrush → bed)
+Right hand: up-left → up → left → right → up-left → up-right → down-left → up-right → down (object: remote control → toothbrush → bed)
+Two-hand object: toothbrush → bed

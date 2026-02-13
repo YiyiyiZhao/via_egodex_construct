@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((708,673),up-left,up-right,up-right,down-right,up-left,left,right,down-right,up-left,down-right,up-left,down-right,up,left,still,up,left,right,up-left,down,down,up-left)
+right hand:((1490,734),up-left,left,up,down,up-right,left,down,left,right,down-left,right,still,left,up-left,right,down-left,up-right,down-right,up,left,right,up-left)
+left hand object:((948,755,carpet),up-left,linen,down-right,sponge cloth,right,strawberry,none,none,none,paper tablemat,up-left,bed,right,yoghurt cup,up-left,scouring pad,down-right,sand disc,up-left,mustard,down-right,plate,up,foam block,down-left,countertop,none,none,carpet,still,countertop,down,floor,up-right,sponge cloth,down,plate,down-right,plate,up-left,plate)
+right hand object:((1318,736,sponge cloth),up-left,foam block,down,sponge cloth,down-left,plate,none,none,none,paper tablemat,down-right,plate,up-left,yoghurt cup,down-right,sand disc,down-left,sand disc,up-left,sponge cloth,down,plate,up-left,room,down,countertop,right,masking tape,left,carpet,down-right,pancake,left,floor,down-right,pancake,down,plate,down-right,plate,up,sponge cloth)
+two hand object:((960,540,room),none,none,sponge cloth,right,strawberry,none,none,none,bed,still,bed,right,yoghurt cup,down-right,tablemat,down,sand disc,up-left,sponge cloth,down,plate,up-left,room,down,countertop,none,none,room,down,countertop,up,room,right,sponge cloth,down-left,countertop,down-right,plate,up-left,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → up-right → down-right → up-left → left → right → down-right → up-left → down-right → up-left → down-right → up → left → still → up → left → right → up-left → down → down → up-left (object: yoghurt cup → foam block → strawberry → carpet → sand disc → floor → countertop → plate → scouring pad → paper tablemat → sponge cloth → linen → bed → mustard)
+Right hand: up-left → left → up → down → up-right → left → down → left → right → down-left → right → still → left → up-left → right → down-left → up-right → down-right → up → left → right → up-left (object: foam block → yoghurt cup → floor → sand disc → carpet → room → countertop → paper tablemat → masking tape → sponge cloth → pancake → plate)
+Two-hand object: yoghurt cup → strawberry → sand disc → room → countertop → plate → sponge cloth → tablemat → bed

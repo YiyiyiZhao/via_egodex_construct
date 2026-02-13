@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((770,768),right,down-left,down,up,down,left,down,up,up-right,right,left,down-left,left)
+right hand:((1388,654),left,up-left,right,up,down-left,right,down-left,up,right,right,down-left,left,up-left)
+left hand object:((961,782,desk),up,countertop,still,desk,still,countertop,still,countertop,still,countertop,down,countertop,still,countertop,still,desk,up,countertop,up-left,countertop,down-right,countertop,up,room,down,countertop)
+right hand object:((961,782,desk),up,countertop,still,desk,still,countertop,up-left,linen,down-right,countertop,down,countertop,still,countertop,still,desk,up,countertop,up-left,countertop,down-right,countertop,right,fidget spinner ring,left,countertop)
+two hand object:((963,540,room),down,countertop,still,desk,still,desk,still,countertop,still,countertop,up,room,down,countertop,still,countertop,still,countertop,up-left,countertop,down-right,countertop,right,fidget spinner ring,left,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: right → down-left → down → up → down → left → down → up → up-right → right → left → down-left → left (object: desk → room → countertop)
+Right hand: left → up-left → right → up → down-left → right → down-left → up → right → right → down-left → left → up-left (object: fidget spinner ring → desk → linen → countertop)
+Two-hand object: fidget spinner ring → desk → room → countertop

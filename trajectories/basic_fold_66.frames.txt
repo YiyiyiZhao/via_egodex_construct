@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((781,898),up,down-right,up-left,up-right,down-left,down-left,down-left,right,left,left,right,up-right)
+right hand:((1432,848),up,left,up,up-right,up-left,down,up-left,right,up-left,left,down-right,up-right)
+left hand object:((820,855,fidget spinner ring),up-left,box,down-right,watch,up-left,watch,up-right,linen,none,none,blanket,none,none,blanket,left,bed,down-left,fidget spinner ring,right,bed,up-right,towel)
+right hand object:((1104,886,towel),none,none,towel,right,watch,up-left,linen,up-right,fidget spinner ring,down-left,bed,right,watch,none,none,bed,right,wristwatch,left,bed,up-right,towel)
+two hand object:((1104,886,towel),none,none,towel,none,none,linen,none,none,bed,none,none,none,bed,none,none,bed,up-right,towel)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-right → up-left → up-right → down-left → down-left → down-left → right → left → left → right → up-right (object: bed → towel → linen → fidget spinner ring → blanket → watch → box)
+Right hand: up → left → up → up-right → up-left → down → up-left → right → up-left → left → down-right → up-right (object: bed → towel → wristwatch → linen → watch → fidget spinner ring)
+Two-hand object: towel → linen → bed

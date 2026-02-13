@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((918,602),down-right,down,up,still,down-left,up-right,left,down,right)
+right hand:((1256,622),right,up-left,down-left,up-right,left,down,up-right,down-left,up-left)
+left hand object:((1158,530,toothbrush),left,cup,down-right,cup,up-left,cup,left,cup,left,cup,right,cup,left,glass cup,up-right,cup,right,cup)
+right hand object:((1158,530,toothbrush),right,toothbrush,down,cup,left,desk,up-right,desk,up-right,bottle,down,microfiber cloth,up-left,desk,up-right,bottle,left,room)
+two hand object:((1158,530,toothbrush),right,toothbrush,left,room,still,room,down,desk,still,desk,down,countertop,still,desk,up,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → down → up → still → down-left → up-right → left → down → right (object: toothbrush → glass cup → cup)
+Right hand: right → up-left → down-left → up-right → left → down → up-right → down-left → up-left (object: room → toothbrush → bottle → desk → cup → microfiber cloth)
+Two-hand object: toothbrush → desk → room → countertop

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((836,950),up-right,up-right,up,still,up-right,down-left,still,still,still)
+right hand:((1324,957),up-right,up,up-left,up-right,up-right,down,up-left,down-right,up-left)
+left hand object:((960,812,bed),up,apple,right,scissors,up-left,pair of scissors,up-right,scissors,up,toothbrush,down-right,pair of scissors,up-left,scissors,down-right,toothbrush,up-left,toothbrush)
+right hand object:((960,812,bed),right,toothbrush,up-left,pair of scissors,up-left,pair of scissors,up-right,pair of scissors,up-left,scissors,down-right,pair of scissors,up-left,scissors,down-right,toothbrush,up-right,toothbrush)
+two hand object:((960,812,bed),up,bed,up-right,pair of scissors,up-left,toothbrush,up-right,toothbrush,up-left,pair of scissors,down-right,toothbrush,up-left,toothbrush,down-right,toothbrush,up-left,toothbrush)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → up → still → up-right → down-left → still → still → still (object: pair of scissors → apple → scissors → toothbrush → bed)
+Right hand: up-right → up → up-left → up-right → up-right → down → up-left → down-right → up-left (object: pair of scissors → scissors → toothbrush → bed)
+Two-hand object: pair of scissors → toothbrush → bed

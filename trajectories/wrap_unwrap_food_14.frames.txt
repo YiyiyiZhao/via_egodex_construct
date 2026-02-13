@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((874,694),down-right,up-left,still,up,down-left,down-right,still,up-left,up-right)
+right hand:((1382,623),down-left,up,down-right,up-left,down-right,down-left,up-right,right,down-left)
+left hand object:((1096,749,sponge cloth),up-left,bread,right,sponge cloth,up-right,flatbread,left,rubber band,down-left,wristwatch,right,sponge cloth,down,chapati,left,watch,right,sponge cloth)
+right hand object:((1188,606,plate),down-left,toast,down-right,sponge cloth,up-right,pancake,down-left,sponge cloth,left,chapati,down,sponge cloth,down,chapati,left,bed,right,sponge cloth)
+two hand object:((1062,310,linen),down,toast,down-right,sponge cloth,up-right,flatbread,up,linen,down,chapati,up-left,fidget spinner ring,down-right,chapati,left,bed,right,sponge cloth)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → still → up → down-left → down-right → still → up-left → up-right (object: sponge cloth → flatbread → chapati → watch → wristwatch → bread → rubber band)
+Right hand: down-left → up → down-right → up-left → down-right → down-left → up-right → right → down-left (object: bed → toast → sponge cloth → chapati → pancake → plate)
+Two-hand object: toast → sponge cloth → flatbread → chapati → linen → bed → fidget spinner ring

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1628,880),left,left,up,up-left,up-right,up,down-left)
+right hand:((None,None),none,none,left,up-left,still,up-right,down)
+left hand object:((951,818,carpet),up-right,bed,up-left,bed,right,remote control,left,bed,up-left,bed,right,sponge cloth,left,bed)
+right hand object:((None,None),none,none,bed,right,remote control,left,bed,up-left,bed,right,sponge cloth,left,bed)
+two hand object:((None,None),none,none,bed,right,remote control,left,bed,up,room,right,sponge cloth,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: left → left → up → up-left → up-right → up → down-left (object: sponge cloth → remote control → bed → carpet)
+Right hand: none → none → left → up-left → still → up-right → down (object: sponge cloth → remote control → bed)
+Two-hand object: sponge cloth → room → remote control → bed

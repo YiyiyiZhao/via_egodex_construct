@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1104,954),up-left,right,up-left,still,right,down-right,up,still,still,up-left,left,left,still,up-left,down-right,down-right,down-right,left,up-left,up-left,left,up-right)
+right hand:((1772,968),up-left,left,up,up-right,up-left,down-left,still,down-left,right,up-right,left,up-right,right,down-right,still,left,up-right,left,up-right,down-left,right,right)
+left hand object:((988,820,desk),up-left,rolling tray,down,desk,up-right,book,left,desk,still,desk,still,desk,still,desk,still,desk,down,desk,right,phone,up-left,remote control,up-left,marker,down-right,mobile phone,left,dish rack,down-left,remote control,right,pair of scissors,down,pair of scissors,still,measuring tool,up-left,toothbrush,up-left,toothbrush,down-left,measuring tool,up,toothbrush)
+right hand object:((988,820,desk),up-left,desk,up-left,desk,up-right,architectural craft manual,left,desk,still,desk,still,desk,still,desk,still,desk,down-right,wristband,up-left,phone,right,pair of scissors,right,crayon,left,desk,down,desk,right,pair of scissors,left,pen,right,pair of scissors,still,pair of scissors,left,crayon,down,wristband,up,pair of scissors,right,pair of scissors)
+two hand object:((988,820,desk),up-left,desk,up-left,desk,up,desk,still,desk,still,desk,still,desk,still,desk,still,desk,down,desk,up,desk,still,desk,up,desk,down,desk,down,desk,still,desk,up,desk,still,desk,still,desk,still,desk,up-right,toothbrush,down-left,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → right → up-left → still → right → down-right → up → still → still → up-left → left → left → still → up-left → down-right → down-right → down-right → left → up-left → up-left → left → up-right (object: dish rack → mobile phone → pair of scissors → measuring tool → book → rolling tray → toothbrush → phone → desk → remote control → marker)
+Right hand: up-left → left → up → up-right → up-left → down-left → still → down-left → right → up-right → left → up-right → right → down-right → still → left → up-right → left → up-right → down-left → right → right (object: wristband → pair of scissors → crayon → phone → desk → architectural craft manual → pen)
+Two-hand object: toothbrush → desk

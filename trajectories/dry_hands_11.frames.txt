@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1110,668),still,still,still,still,still,still,still,still,still)
+right hand:((1375,336),still,up,down,up-right,down-left,up-right,down-left,down-right,still)
+left hand object:((1184,670,bottle cap),still,bottle cap,up,bottle,down,bottle cap,still,bottle cap,still,bottle cap,still,bottle cap,still,bottle cap,still,bottle cap,still,bottle cap)
+right hand object:((1234,476,paint brush),down-left,bed,still,bed,up-right,toothbrush,down-left,room,up-right,toothbrush,down-left,bed,up-right,toothbrush,down,toothbrush,down-left,bed)
+two hand object:((958,726,bed),still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still → still → still (object: bottle → bottle cap)
+Right hand: still → up → down → up-right → down-left → up-right → down-left → down-right → still (object: paint brush → toothbrush → room → bed)
+Two-hand object: bed

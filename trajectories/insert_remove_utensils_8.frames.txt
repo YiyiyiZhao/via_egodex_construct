@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1232,1050),up-left,right,left,left,right,down-left,left,up-right,up,down-right,up-left,still)
+right hand:((None,None),none,left,still,down-left,right,up-left,left,down,down,down-right,up,still)
+left hand object:((1002,797,desk),right,crayon,up,scissors,left,desk,still,desk,up-right,phone,down-left,desk,up-right,plastic container,down-left,desk,up-right,plastic container,down,desk,up-right,toothbrush,up-left,phone)
+right hand object:((None,None),none,wristband,left,toothbrush,up-right,toothbrush,still,toothbrush,right,scissors,up-left,pair of scissors,left,plastic container,down-right,wristband,down-left,wristband,down-right,wristband,up-left,toothbrush,up,remote control)
+two hand object:((None,None),none,desk,right,toothbrush,up-right,toothbrush,left,desk,down-left,desk,up-right,desk,still,desk,down,desk,down-right,desk,up-right,desk,up-right,toothbrush,left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → right → left → left → right → down-left → left → up-right → up → down-right → up-left → still (object: crayon → scissors → toothbrush → phone → desk → plastic container)
+Right hand: none → left → still → down-left → right → up-left → left → down → down → down-right → up → still (object: wristband → pair of scissors → scissors → toothbrush → remote control → plastic container)
+Two-hand object: toothbrush → desk

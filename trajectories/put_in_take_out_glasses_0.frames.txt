@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((583,923),up-right,up-right,right,up-left,up,down-right,up-left,up-left,down-right,down-right,down-left)
+right hand:((1672,973),left,up-right,up-right,up,left,right,up-right,right,up-left,down,down-right)
+left hand object:((964,810,desk),up-right,remote control,up-right,remote control,right,remote control,up,book,up,book,down-right,remote control,down,architectural craft manual,left,cutting pad,none,none,tablet,down,desk)
+right hand object:((1532,1036,fidget spinner ring),up-left,phone,up-right,remote control,right,remote control,up,phone,up,book,down-right,remote control,right,pair of scissors,down-right,pair of scissors,none,none,pair of glasses,left,desk)
+two hand object:((964,810,desk),still,bed,up-right,remote control,right,remote control,up,remote control,up,book,down-left,bed,up-right,architectural craft manual,left,bed,none,none,pair of glasses,left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → right → up-left → up → down-right → up-left → up-left → down-right → down-right → down-left (object: book → desk → architectural craft manual → remote control → cutting pad → tablet)
+Right hand: left → up-right → up-right → up → left → right → up-right → right → up-left → down → down-right (object: pair of glasses → pair of scissors → book → phone → desk → remote control → fidget spinner ring)
+Two-hand object: pair of glasses → book → desk → bed → architectural craft manual → remote control

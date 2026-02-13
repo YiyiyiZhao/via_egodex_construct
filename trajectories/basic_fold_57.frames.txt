@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((734,688),up-right,left,down-right,left,none,none,down-left,right,left,down-right,up-right,left,right,up-left,down-left,down-right,down,up-right,left,right)
+right hand:((1692,756),up-left,none,none,up-right,none,none,none,none,right,none,none,down-right,up-left,right,down-right,left,right,up-left,down-left,right)
+left hand object:((961,540,room),down,floor,up,room,down,bed,still,bed,none,none,fidget spinner ring,left,towel,up-right,cardboard box,down-left,bed,right,blanket,left,fidget spinner ring,down-left,fidget spinner ring,down-left,blanket,up-right,cardboard box,down-left,room,down,bed,left,blanket,up-right,room,down-right,microfiber cloth,right,tablet bag)
+right hand object:((961,540,room),down,floor,none,none,bed,right,wall outlet,none,none,blanket,none,none,room,right,bed,none,none,cutting mat,right,blanket,down,cutting mat,up,cardboard box,down-left,room,down,bed,up,room,left,room,down-right,microfiber cloth,right,tablet bag)
+two hand object:((961,540,room),down,floor,none,none,bed,still,bed,none,none,blanket,none,none,room,right,bed,none,none,cutting mat,down-left,bed,none,none,room,still,room,down,bed,up,room,left,room,down-right,microfiber cloth,right,microfiber cloth)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → left → down-right → left → none → none → down-left → right → left → down-right → up-right → left → right → up-left → down-left → down-right → down → up-right → left → right (object: floor → tablet bag → towel → room → microfiber cloth → cardboard box → bed → blanket → fidget spinner ring)
+Right hand: up-left → none → none → up-right → none → none → none → none → right → none → none → down-right → up-left → right → down-right → left → right → up-left → down-left → right (object: floor → tablet bag → microfiber cloth → room → blanket → cardboard box → bed → wall outlet → cutting mat)
+Two-hand object: floor → microfiber cloth → room → bed → blanket → cutting mat

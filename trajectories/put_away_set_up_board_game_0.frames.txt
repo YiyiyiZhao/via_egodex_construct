@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1548,901),up-left,left,right,up-left,right,left,right,down-right,none,none,left,left,up)
+right hand:((None,None),none,none,right,up-left,up,down-right,none,none,none,none,up,up-left,down)
+left hand object:((956,544,room),right,rolling tray,left,desk,up,notebook,up,laptop,up-right,sandwich,down-left,glass cup,right,paper bag,right,tweezer,none,none,architectural craft manual,right,book,left,desk,down-right,desk)
+right hand object:((None,None),none,none,desk,left,desk,up-right,laptop,up-right,sandwich,down-left,desk,none,none,none,none,instruction manual,up,book,up-left,architectural craft manual,down-left,architectural craft manual)
+two hand object:((None,None),none,none,desk,left,desk,up-right,tablet,up-left,linen,down-right,desk,none,none,none,none,desk,up-right,book,up-left,architectural craft manual,down-left,architectural craft manual)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → left → right → up-left → right → left → right → down-right → none → none → left → left → up (object: room → book → architectural craft manual → glass cup → rolling tray → desk → laptop → paper bag → tweezer → notebook → sandwich)
+Right hand: none → none → right → up-left → up → down-right → none → none → none → none → up → up-left → down (object: book → desk → laptop → architectural craft manual → sandwich → instruction manual)
+Two-hand object: book → desk → linen → architectural craft manual → tablet

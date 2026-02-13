@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((997,693),up-left,left,down-right,right,left,still,right,up-left,down,down-left,up-right,down-left,down-left,up,right,right,up-left,left,down,left,right,up,down,right,up,down,right,left,right)
+right hand:((1534,629),up,left,left,down-right,left,up-left,down,right,right,down-right,up-left,up-left,down-right,up,up-left,left,down-left,right,down-right,up-right,down-left,up,up-left,left,down-right,down-right,left,left,up-right)
+left hand object:((None,None),none,towel,up,towel,down-left,towel,down-left,bed,up,fidget spinner ring,up-right,fidget spinner ring,up,bed,still,bed,still,bed,still,bed,down-right,blanket,still,blanket,left,bed,right,blanket,none,none,bed,none,none,fidget spinner ring,down,fidget spinner ring,down-right,bed,up,bed,still,bed,left,fidget spinner ring,up,fidget spinner ring,right,bed,still,bed,still,bed,still,bed,down-right,towel)
+right hand object:((1041,318,linen),down-right,towel,up,towel,down-left,towel,down-left,bed,up,bed,still,bed,still,bed,still,bed,still,bed,still,bed,down-right,blanket,still,blanket,left,blanket,down-left,blanket,up-left,bed,right,fidget spinner ring,left,bed,still,bed,down-right,blanket,left,bed,up,bed,still,bed,still,bed,still,bed,still,bed,still,bed,right,fidget spinner ring,left,bed,down-right,towel)
+two hand object:((None,None),none,linen,down-right,towel,up-left,linen,down,bed,none,none,bed,still,bed,still,bed,still,bed,still,bed,down-right,blanket,still,blanket,left,blanket,down-left,blanket,none,none,bed,none,none,none,blanket,left,bed,up,bed,still,bed,still,bed,still,bed,still,bed,still,bed,right,fidget spinner ring,left,bed,down-right,towel)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → left → down-right → right → left → still → right → up-left → down → down-left → up-right → down-left → down-left → up → right → right → up-left → left → down → left → right → up → down → right → up → down → right → left → right (object: blanket → towel → fidget spinner ring → bed)
+Right hand: up → left → left → down-right → left → up-left → down → right → right → down-right → up-left → up-left → down-right → up → up-left → left → down-left → right → down-right → up-right → down-left → up → up-left → left → down-right → down-right → left → left → up-right (object: towel → linen → bed → blanket → fidget spinner ring)
+Two-hand object: towel → linen → bed → blanket → fidget spinner ring

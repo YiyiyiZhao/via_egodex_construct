@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1230,976),up-left,up-right,right,up,up,right,right,down-left)
+right hand:((1713,734),left,up,none,none,none,none,none,none)
+left hand object:((1077,810,desk),up,basket,down,basket,down,countertop,right,measuring tool,up,paint brush,up,crayon,left,mat craft board,down-right,crayon)
+right hand object:((1077,810,desk),up,basket,down-left,dish rack,none,none,none,none,none,none)
+two hand object:((1077,810,desk),up,rolling tray,down,basket,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → right → up → up → right → right → down-left (object: basket → measuring tool → countertop → crayon → paint brush → mat craft board → desk)
+Right hand: left → up → none → none → none → none → none → none (object: dish rack → basket → desk)
+Two-hand object: rolling tray → basket → desk

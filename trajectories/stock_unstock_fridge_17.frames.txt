@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((503,920),up-right,still,right,left,down,right,left)
+right hand:((1402,912),up,down-left,up,down-right,left,up-right,down)
+left hand object:((951,542,kitchen),down,floor,none,none,kitchen,right,refrigerator,none,none,room,down,floor)
+right hand object:((951,542,kitchen),right,fridge,up-left,napkin,down-right,chef,down,towel,none,none,room,down,floor)
+two hand object:((951,542,kitchen),still,kitchen,none,none,refrigerator,left,refrigerator,none,none,room,down,floor)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → still → right → left → down → right → left (object: floor → room → kitchen → refrigerator)
+Right hand: up → down-left → up → down-right → left → up-right → down (object: floor → chef → towel → room → napkin → fridge → kitchen)
+Two-hand object: floor → room → kitchen → refrigerator

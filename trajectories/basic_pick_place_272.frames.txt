@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((366,624),up-left,up,right,down-right,up-right,left,down)
+right hand:((1882,893),up-left,up-left,down,up-left,down-left,right,down-right)
+left hand object:((1040,758,desk),up-left,clutch,up,clutch,right,clutch,down-right,desk,up-left,clutch,left,tablet bag,down,tablet bag)
+right hand object:((None,None),none,desk,right,fidget spinner ring,down-left,trowel,up-left,pair of scissors,left,tablet bag,right,kitchen workbench,down,desk)
+two hand object:((None,None),none,desk,up,desk,still,desk,down-right,desk,up-left,tablet bag,right,kitchen workbench,down,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up → right → down-right → up-right → left → down (object: tablet bag → clutch → desk)
+Right hand: up-left → up-left → down → up-left → down-left → right → down-right (object: tablet bag → kitchen workbench → pair of scissors → trowel → desk → fidget spinner ring)
+Two-hand object: tablet bag → kitchen workbench → desk

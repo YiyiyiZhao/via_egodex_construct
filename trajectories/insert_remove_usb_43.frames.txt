@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((764,964),up-right,down,left,left,right,up,down-left)
+right hand:((1470,1006),up-left,left,up-left,right,up-right,up,down-right)
+left hand object:((962,798,desk),still,desk,still,usb cable,right,usb cable,left,bed,still,bed,up,fidget spinner ring,down,desk)
+right hand object:((962,798,desk),down-right,toothbrush,up-left,usb cable,right,usb cable,down-right,toothbrush,still,tweezer,left,desk,still,desk)
+two hand object:((962,798,desk),down-right,toothbrush,up-left,usb cable,right,usb cable,left,bed,right,tweezer,left,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down → left → left → right → up → down-left (object: usb cable → desk → fidget spinner ring → bed)
+Right hand: up-left → left → up-left → right → up-right → up → down-right (object: tweezer → toothbrush → desk → usb cable)
+Two-hand object: toothbrush → desk → usb cable → bed → tweezer

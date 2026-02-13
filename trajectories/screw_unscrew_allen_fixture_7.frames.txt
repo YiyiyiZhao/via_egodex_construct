@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1722,881),up-left,down-right,up-left,left,down-right,up-left,right,down-left,left,right,up,left,down-right,up-right,still,right,left)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((958,814,bed),up,linen,down-right,phone,up-left,linen,down-left,linen,down,bed,up-right,phone,down-left,instruction manual,up-right,phone,still,phone,right,tweezer,up-right,tweezer,down,phone,up-left,phone,right,phone,up-right,phone,up-right,phone,left,phone)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → down-right → up-left → left → down-right → up-left → right → down-left → left → right → up → left → down-right → up-right → still → right → left (object: phone → linen → bed → tweezer → instruction manual)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

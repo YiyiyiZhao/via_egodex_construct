@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((896,886),left,right,up-right,up-right,left,still,still,still,right)
+right hand:((1538,689),right,down,down-left,left,down,right,up-right,right,down-left)
+left hand object:((1034,874,sponge cloth),left,sponge cloth,up-right,microfiber cloth,up-right,microfiber cloth,up,pair of scissors,down-left,pair of scissors,down-right,microfiber cloth,still,sponge cloth,up,microfiber cloth,down,microfiber cloth)
+right hand object:((1369,740,plate),right,mustard,down-left,pot holder,left,plate,down-left,banana,still,banana,up,banana,up-right,banana,right,banana,down-left,mustard)
+two hand object:((1037,746,table),left,table,up-right,table,right,table,up-right,table,still,table,still,table,still,table,still,table,still,table)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → up-right → up-right → left → still → still → still → right (object: sponge cloth → microfiber cloth → pair of scissors)
+Right hand: right → down → down-left → left → down → right → up-right → right → down-left (object: mustard → banana → pot holder → plate)
+Two-hand object: table

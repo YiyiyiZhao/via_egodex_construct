@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1088,642),down-right,still,up-right,down-left,down,up-left,left)
+right hand:((1468,886),still,still,still,still,still,still,still)
+left hand object:((1286,738,architectural craft manual),right,rolling tray,still,rolling tray,still,rolling tray,still,rolling tray,still,cutting pad,left,cutting pad,none)
+right hand object:((1288,737,rolling tray),right,architectural craft manual,still,plastic model piece,still,rolling tray,still,rolling tray,still,architectural craft manual,left,cutting pad,still,plastic model piece)
+two hand object:((1288,737,rolling tray),still,rolling tray,still,rolling tray,still,rolling tray,still,rolling tray,still,cutting pad,up-left,rolling tray,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → still → up-right → down-left → down → up-left → left (object: architectural craft manual → rolling tray → cutting pad)
+Right hand: still → still → still → still → still → still → still (object: architectural craft manual → rolling tray → cutting pad → plastic model piece)
+Two-hand object: rolling tray → cutting pad

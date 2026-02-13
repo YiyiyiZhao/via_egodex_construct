@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((782,584),down-right,still,still,still,left,down-right,down-right,up-left,up-right,down-left,down,up-right,up-left,left,down,up-right,up-right)
+right hand:((1317,601),down-left,up,down-left,still,down-left,up-right,up,down-right,left,up,still,up-right,left,down-right,down,up-right,up)
+left hand object:((964,772,desk),up,room,down-right,mustard,right,tweezer,left,lemonade,up,linen,down-left,fidget spinner ring,up-right,room,down,bed,still,bed,still,bed,none,none,none,bed,none,none,none,fidget spinner ring,none)
+right hand object:((964,772,desk),up-right,plate,down-left,toothbrush,right,tweezer,up-right,plate,down-left,lemonade,up-right,plate,left,room,right,plate,down-left,bed,still,bed,up-right,plate,still,plate,down-left,bed,up-right,pear,down-left,pear,right,plate,up-left,fruit)
+two hand object:((1127,276,linen),still,linen,still,linen,still,linen,still,linen,none,none,linen,down-left,room,down,bed,still,bed,up,room,none,none,none,bed,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → still → still → still → left → down-right → down-right → up-left → up-right → down-left → down → up-right → up-left → left → down → up-right → up-right (object: room → desk → linen → bed → mustard → tweezer → fidget spinner ring → lemonade)
+Right hand: down-left → up → down-left → still → down-left → up-right → up → down-right → left → up → still → up-right → left → down-right → down → up-right → up (object: fruit → bed → room → toothbrush → desk → plate → tweezer → pear → lemonade)
+Two-hand object: room → linen → bed

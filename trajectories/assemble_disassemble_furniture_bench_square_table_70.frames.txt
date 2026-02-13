@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((838,661),left,still,up,still,up,still,down)
+right hand:((1345,731),left,left,up-left,right,right,right,down-right)
+left hand object:((1016,752,rolling tray),left,countertop,still,floor,still,floor,right,rolling tray,left,kitchen countertop,still,kitchen countertop,right,sink)
+right hand object:((None,None),none,countertop,still,floor,up-right,remote control,down,cutting pad,left,kitchen countertop,right,toothbrush,up-right,toothbrush)
+two hand object:((None,None),none,countertop,still,floor,still,floor,still,countertop,still,kitchen countertop,still,kitchen countertop,still,floor)
+
+
+## LLM-Friendly Format:
+Left hand: left → still → up → still → up → still → down (object: floor → countertop → kitchen countertop → sink → rolling tray)
+Right hand: left → left → up-left → right → right → right → down-right (object: floor → countertop → kitchen countertop → toothbrush → remote control → cutting pad)
+Two-hand object: floor → kitchen countertop → countertop

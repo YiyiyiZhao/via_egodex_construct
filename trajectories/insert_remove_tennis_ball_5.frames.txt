@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((852,984),up-right,right,still,up-left,down,left,up-left,down-left,up,left,up-right,down,up-left,up-left,down-right,down-right,right,left,up-left,up-left,down-left,down-left)
+right hand:((1446,1003),up-right,up,up-left,down,left,right,up,down-left,down,up,right,left,left,left,right,up-left,up,down-left,up-left,right,down-left,down)
+left hand object:((942,838,countertop),up,countertop,up-right,phone,up-left,flask,left,cup,down,bottle,up-left,flask,up-left,glass cup,down-left,water bottle,up-right,phone,up-left,phone,up,cup,down,phone,up-left,bottle,up,glass cup,down-right,cup,down-left,plastic ball,right,tennis ball,right,cup,left,desk,up-right,cup,left,apple,down-right,desk)
+right hand object:((942,838,countertop),up,countertop,up-right,camera,up-left,flask,down-left,desk,right,bottle,right,apple,left,desk,up,remote control,up-right,phone,up-left,remote control,right,chi ball,left,phone,up-left,bottle,down,apple,down,countertop,none,none,none,cup,left,desk,down-left,countertop,right,countertop,still,desk)
+two hand object:((942,838,countertop),up,countertop,up-right,flask,up-left,flask,down-left,desk,right,bottle,none,none,desk,up,remote control,up-right,remote control,up-left,bottle,down,countertop,up-right,phone,up-left,bottle,none,none,countertop,none,none,none,cup,left,desk,down-left,countertop,right,countertop,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → right → still → up-left → down → left → up-left → down-left → up → left → up-right → down → up-left → up-left → down-right → down-right → right → left → up-left → up-left → down-left → down-left (object: plastic ball → countertop → flask → tennis ball → glass cup → apple → bottle → phone → cup → desk → water bottle)
+Right hand: up-right → up → up-left → down → left → right → up → down-left → down → up → right → left → left → left → right → up-left → up → down-left → up-left → right → down-left → down (object: countertop → flask → camera → apple → chi ball → bottle → desk → phone → cup → remote control)
+Two-hand object: countertop → flask → bottle → desk → phone → cup → remote control

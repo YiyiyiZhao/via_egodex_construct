@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1157,821),down-right,up,up,down,right,up-right,down-left,up-right,down-right,left,up,down,up,up-left,right,down,down,still,down-left,up-right,up-right,down-left,right,down,up)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((868,874,bed),right,fidget spinner ring,up-right,fidget spinner ring,up-right,fidget spinner ring,down-left,bed,up-right,fidget spinner ring,right,pair of glasses,left,fidget spinner ring,right,camera,up-right,pair of glasses,down-left,sandal,up,fidget spinner ring,down-left,fidget spinner ring,up,pair of glasses,up-left,room,down-right,fidget spinner ring,down,pair of glasses,right,fidget spinner ring,down-left,bed,up-right,fidget spinner ring,down-right,fidget spinner ring,down-left,bed,up-right,fidget spinner ring,down-left,fidget spinner ring,up,fidget spinner ring,down-right,fidget spinner ring)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up → up → down → right → up-right → down-left → up-right → down-right → left → up → down → up → up-left → right → down → down → still → down-left → up-right → up-right → down-left → right → down → up (object: pair of glasses → sandal → room → camera → bed → fidget spinner ring)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

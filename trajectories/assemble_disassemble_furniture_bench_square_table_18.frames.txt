@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((918,670),up-right,up-right,up-right,left,still,left,left)
+right hand:((1365,668),left,up-left,up,up-left,down,up,down-right)
+left hand object:((1100,828,sink),right,countertop,left,sink,left,towel,still,towel,still,towel,right,rolling tray,left,cutting pad)
+right hand object:((1100,828,sink),up,foam block,down,sink,none,none,none,sink,up-left,kitchen workbench,down-right,countertop)
+two hand object:((1100,828,sink),right,countertop,left,sink,none,none,none,sink,up-left,kitchen workbench,down,rolling tray)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → up-right → left → still → left → left (object: towel → countertop → sink → rolling tray → cutting pad)
+Right hand: left → up-left → up → up-left → down → up → down-right (object: foam block → sink → kitchen workbench → countertop)
+Two-hand object: rolling tray → sink → kitchen workbench → countertop

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((837,797),up,down-right,still,down-left,down-right,up-right,up-left,up,up-right)
+right hand:((1706,757),right,down,up-left,down-right,up-left,left,up,down-right,right)
+left hand object:((840,613,instruction manual),up,instruction manual,down-right,piece of paper,still,piece of paper,down-right,piece of paper,down-right,instruction manual,up-right,instruction manual,up-left,piece of paper,up-left,piece of paper,up,instruction manual)
+right hand object:((1738,728,plier),up,tweezer,down,tweezer,up,tweezer,down,tweezer,up-left,paint brush,left,paint brush,up,toothbrush,right,paint brush,up-right,paint brush)
+two hand object:((960,654,desk),still,desk,down,desk,up,desk,down-right,desk,down-right,table,up-right,desk,still,desk,up-left,desk,up-left,table)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-right → still → down-left → down-right → up-right → up-left → up → up-right (object: piece of paper → instruction manual)
+Right hand: right → down → up-left → down-right → up-left → left → up → down-right → right (object: paint brush → tweezer → toothbrush → plier)
+Two-hand object: table → desk

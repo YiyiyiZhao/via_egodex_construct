@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((946,664),still,still,still,still,still,still,still,still,up-left)
+right hand:((1275,672),still,up-right,still,still,still,still,down-left,still,still)
+left hand object:((1020,530,keyboard),still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard)
+right hand object:((1020,530,keyboard),still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard)
+two hand object:((1020,530,keyboard),still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard,still,keyboard)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still → still → up-left (object: keyboard)
+Right hand: still → up-right → still → still → still → still → down-left → still → still (object: keyboard)
+Two-hand object: keyboard

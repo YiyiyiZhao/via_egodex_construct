@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((829,766),still,still,still,still,down,up-right,left,down-right,left)
+right hand:((1636,811),down-left,down,up-left,up-right,still,down-left,up-right,up-right,left)
+left hand object:((714,793,wristwatch),right,watch,still,watch,still,watch,still,watch,down,watch,up,wristwatch,down-right,watch,down-right,watch,up-left,wristwatch)
+right hand object:((949,815,bed),right,hammer,down-left,toothbrush,left,bed,left,bed,right,toothbrush,down-left,paper towel,left,bed,right,toothbrush,left,toothbrush)
+two hand object:((960,540,room),still,room,still,room,still,room,still,room,down,bed,up,bed,still,bed,still,bed,up,room)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → down → up-right → left → down-right → left (object: watch → wristwatch)
+Right hand: down-left → down → up-left → up-right → still → down-left → up-right → up-right → left (object: paper towel → toothbrush → hammer → bed)
+Two-hand object: room → bed

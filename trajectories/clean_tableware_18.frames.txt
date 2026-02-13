@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((902,840),right,left,left,still,up,still,down-left,down-left,right)
+right hand:((1172,846),up-right,down-left,up-right,down-left,still,still,still,down-left,still)
+left hand object:((1106,806,countertop),still,desk,still,desk,up-left,pot lid,left,container lid,down-right,container lid,down-left,crayon,right,desk,up-left,container lid,down-right,desk)
+right hand object:((1106,806,countertop),still,desk,still,desk,up-right,remote control,down-left,remote control,left,tape measure,right,remote control,still,remote control,left,container lid,down-right,desk)
+two hand object:((1102,806,table),still,desk,still,desk,still,counter,up-left,container lid,down-right,desk,still,desk,still,desk,up-left,container lid,down-right,desk)
+
+
+## LLM-Friendly Format:
+Left hand: right → left → left → still → up → still → down-left → down-left → right (object: pot lid → countertop → crayon → container lid → desk)
+Right hand: up-right → down-left → up-right → down-left → still → still → still → down-left → still (object: countertop → container lid → desk → remote control → tape measure)
+Two-hand object: counter → table → desk → container lid

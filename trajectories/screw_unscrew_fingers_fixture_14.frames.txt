@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1398,1053),up-right,up-left,down-left,down-left,up-right,still,still,down-right,up-left,left,still,still,right,up-right,down-left,up,right,left,down-left,down-right,down,up-right,down-left,still,up,down,still,right)
+right hand:((1560,830),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((966,850,desk),right,phone,left,camera,down-left,phone,left,camera,up-right,phone,down-left,camera,still,phone,down-left,desk,up,desk,up-right,phone,still,phone,still,phone,still,phone,right,phone,up,phone,still,phone,down-left,desk,up-right,phone,up,phone,still,phone,up,phone,down,phone,up,phone,down,phone,left,phone,up-right,phone,down,phone,still,phone)
+right hand object:((966,850,desk),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((966,850,desk),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-left → down-left → down-left → up-right → still → still → down-right → up-left → left → still → still → right → up-right → down-left → up → right → left → down-left → down-right → down → up-right → down-left → still → up → down → still → right (object: camera → phone → desk)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: desk)
+Two-hand object: desk

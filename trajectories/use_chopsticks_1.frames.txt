@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1534,790),up,up-left,down,right,up-right,down-left,up-right,down,still,up-right,down-left,right,up,left,right,left,down-left,left,up-right,still,down-left,up-right,down-left,down-right,up,down,up,right,up,up,down,down-left,up,down-left,up-right)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1420,696,chopstick),up-right,wood file,left,paint brush,down,bowl,up-left,bed,right,paint brush,left,paper tablemat,right,chopstick,down,chopstick,right,chopstick,left,bed,still,bed,right,paint brush,left,chopstick,down-right,chopstick,up-right,paint brush,left,paper tablemat,right,chopstick,left,paper tablemat,up,bed,right,tweezer,down-left,chopstick,up-right,paintbrush,left,spoon,down-right,paint brush,left,bed,right,chopstick,up,paint brush,down-right,chopsticks,down,chopstick,up,chopstick,up,fork,up-left,paintbrush,down,tweezer,up-left,chopstick,right,paint brush)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-left → down → right → up-right → down-left → up-right → down → still → up-right → down-left → right → up → left → right → left → down-left → left → up-right → still → down-left → up-right → down-left → down-right → up → down → up → right → up → up → down → down-left → up → down-left → up-right (object: paintbrush → chopsticks → paper tablemat → chopstick → bowl → paint brush → spoon → fork → bed → tweezer → wood file)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

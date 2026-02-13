@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((964,880),up-right,up,still,still,up-right,still,still)
+right hand:((1462,603),down-left,up,left,down-left,up-right,down-left,still)
+left hand object:((1027,716,rolling tray),still,rolling tray,up,architectural craft manual,still,instruction manual,still,cutting pad,still,instruction manual,still,architectural craft manual,still,cutting pad)
+right hand object:((1276,760,foam block),left,countertop,down-left,countertop,up-right,architectural craft manual,still,architectural craft manual,still,architectural craft manual,still,architectural craft manual,still,architectural craft manual)
+two hand object:((None,None),none,room,down,countertop,up,rolling tray,still,architectural craft manual,still,instruction manual,still,instruction manual,still,instruction manual)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → still → still → up-right → still → still (object: architectural craft manual → rolling tray → cutting pad → instruction manual)
+Right hand: down-left → up → left → down-left → up-right → down-left → still (object: foam block → architectural craft manual → countertop)
+Two-hand object: room → countertop → rolling tray → architectural craft manual → instruction manual

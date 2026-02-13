@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((860,1010),up-right,up-right,up-right,up-left,left,up-right,down-left,right,still,right,down-right,up-left,up-left,down-right,down-right,up-right,left,up,up,down-right,up)
+right hand:((1445,1014),left,up-right,up-left,down-right,left,right,left,down,up,down,right,left,left,up-right,up-left,down-left,left,up,up-right,right,down)
+left hand object:((874,866,desk),still,countertop,right,phone,none,none,glass cup,left,bottle,none,none,flask,down-right,bottle,up,flask,down-right,bottle,down,fidget spinner ring,right,bottle,up-left,bottle,down-right,cup,down,fidget spinner ring,up,phone,none,none,none,none,salt can,down-left,countertop)
+right hand object:((874,866,desk),still,countertop,none,none,none,nail,left,remote control,right,apple,left,camera,right,bottle,left,bottle,down-right,bottle,right,remote control,left,flask,right,ball,left,countertop,right,tennis ball,up,phone,none,none,none,none,salt can,down-left,counter)
+two hand object:((874,866,desk),still,countertop,none,none,none,none,remote control,none,none,flask,right,bottle,left,bottle,down-right,bottle,none,none,bottle,none,none,countertop,right,tennis ball,right,tennis ball,none,none,none,none,salt can,down-left,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → up-right → up-left → left → up-right → down-left → right → still → right → down-right → up-left → up-left → down-right → down-right → up-right → left → up → up → down-right → up (object: countertop → flask → glass cup → bottle → phone → desk → cup → salt can → fidget spinner ring)
+Right hand: left → up-right → up-left → down-right → left → right → left → down → up → down → right → left → left → up-right → up-left → down-left → left → up → up-right → right → down (object: countertop → flask → tennis ball → ball → counter → apple → camera → nail → desk → bottle → phone → salt can → remote control)
+Two-hand object: countertop → flask → tennis ball → bottle → desk → salt can → remote control

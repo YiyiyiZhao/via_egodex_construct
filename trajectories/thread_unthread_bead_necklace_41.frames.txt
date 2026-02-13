@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1164,972),down-left,left,up-left,up,up-left,still,still,still,up-right)
+right hand:((None,None),none,right,up-right,up,up,still,left,down,right)
+left hand object:((960,682,tablecloth),right,scissors,left,bed,left,bed,down-right,paint brush,up,toothbrush,up-left,tablecloth,down-right,paint brush,right,toothbrush,up-left,bed)
+right hand object:((None,None),none,scissors,left,bed,right,toothbrush,up-left,tweezer,up-left,tweezer,right,tweezer,left,tweezer,down-left,toothbrush,up-left,bed)
+two hand object:((None,None),none,sweeping brush,left,bed,right,tweezer,down-left,paint brush,up,paint brush,up-right,tweezer,down-left,paint brush,right,toothbrush,up-left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → left → up-left → up → up-left → still → still → still → up-right (object: tablecloth → paint brush → scissors → toothbrush → bed)
+Right hand: none → right → up-right → up → up → still → left → down → right (object: scissors → tweezer → toothbrush → bed)
+Two-hand object: sweeping brush → paint brush → toothbrush → bed → tweezer

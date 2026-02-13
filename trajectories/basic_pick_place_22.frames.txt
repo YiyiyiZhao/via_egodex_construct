@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((564,651),down-right,down,up-right,up-left,right,left,left)
+right hand:((1386,697),up,up-left,down,up-left,down-left,up-right,down-right)
+left hand object:((1170,808,cutting pad),left,cutting pad,down,cutting pad,up-right,cutting pad,down-right,cutting mat,still,cutting mat,left,desk,up-left,cutting pad)
+right hand object:((1616,662,scissors),left,desk,up-right,cellphone,down-left,bed,up,instruction manual,down-left,rolling tray,down-right,bed,still,desk)
+two hand object:((1170,808,cutting pad),left,desk,still,desk,up,desk,up,bed,down-left,desk,right,desk,up,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → down → up-right → up-left → right → left → left (object: cutting pad → desk → cutting mat)
+Right hand: up → up-left → down → up-left → down-left → up-right → down-right (object: rolling tray → scissors → desk → bed → instruction manual → cellphone)
+Two-hand object: cutting pad → desk → bed

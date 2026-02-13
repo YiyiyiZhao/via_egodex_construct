@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((764,684),still,up-right,right,left,down-left,none,none,up,down-left,right)
+right hand:((1722,754),left,left,none,none,none,none,none,up,none,none)
+left hand object:((980,763,bed),left,bed,up,desk,up-right,napkin,down-left,bed,right,bed,none,none,desk,up-left,room,down,bed,left,bed)
+right hand object:((980,763,bed),up-right,napkin,down-left,napkin,none,none,none,bed,none,none,polythene paper,up-left,room,none,none,towel)
+two hand object:((980,763,bed),left,bed,up,desk,none,none,none,bed,none,none,desk,up-left,room,none,none,towel)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-right → right → left → down-left → none → none → up → down-left → right (object: napkin → desk → room → bed)
+Right hand: left → left → none → none → none → none → none → up → none → none (object: towel → room → polythene paper → napkin → bed)
+Two-hand object: towel → desk → room → bed

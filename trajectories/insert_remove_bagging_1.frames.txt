@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((966,798),up-left,up-left,down-right,down,right,down-right,up-left,down-left,up-left,down-left,down,down-right)
+right hand:((1370,812),left,up,up-left,up-left,down,up,none,none,none,none,down-right,up-left)
+left hand object:((1022,846,fidget spinner ring),up-left,fidget spinner ring,up-right,shopping bag,down-right,nylon bag,left,paper bag,none,none,fidget spinner ring,none,none,none,none,none,none)
+right hand object:((None,None),none,bed,up,tie,down-right,nylon bag,left,bag,none,none,none,none,none,none,none,fidget spinner ring,up,fidget spinner ring)
+two hand object:((None,None),none,bed,up,shopping bag,down-right,nylon bag,left,bag,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-left → down-right → down → right → down-right → up-left → down-left → up-left → down-left → down → down-right (object: shopping bag → paper bag → nylon bag → fidget spinner ring)
+Right hand: left → up → up-left → up-left → down → up → none → none → none → none → down-right → up-left (object: tie → bag → nylon bag → bed → fidget spinner ring)
+Two-hand object: shopping bag → bag → nylon bag → bed

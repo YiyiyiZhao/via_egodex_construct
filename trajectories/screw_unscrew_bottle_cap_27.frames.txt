@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((701,872),up-right,up,up,right,down-left,left,down)
+right hand:((1640,951),up-left,up-right,up-right,up,down,down-right,down-right)
+left hand object:((960,822,floor),up-right,toothbrush,up-right,water bottle,up,cutting mat,down-right,fidget spinner ring,down-left,floor,left,floor,still,floor)
+right hand object:((960,822,floor),up-right,bottle,up-right,water bottle,up-right,toothbrush,up,toothbrush,down,bottle,down-left,floor,still,floor)
+two hand object:((960,822,floor),up,cutting mat,up-right,cutting mat,right,cutting mat,up-right,cutting mat,down-left,floor,left,floor,still,floor)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → up → right → down-left → left → down (object: floor → toothbrush → water bottle → cutting mat → fidget spinner ring)
+Right hand: up-left → up-right → up-right → up → down → down-right → down-right (object: floor → water bottle → toothbrush → bottle)
+Two-hand object: floor → cutting mat

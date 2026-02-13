@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((890,838),up,up-right,up-right,right,still,up-left,still,up-left,up,down,up-left,up-left,down-right,down-right,right,right,left,left,down-left,still,down-right,down)
+right hand:((1342,878),up,up-right,down-left,left,up,right,right,left,up-left,still,still,still,down-right,up-left,still,left,down-left,right,down,still,up-right,down)
+left hand object:((960,825,desk),left,desk,up-right,desk,up-right,remote control,up,card,up-left,card,left,remote control,still,remote control,down,countertop,up,remote control,down,remote control,still,remote control,up-left,cellphone,down-left,toothbrush,right,remote control,down-left,countertop,up-right,card,right,tweezer,left,toothbrush,right,toothpaste,still,toothpaste,down-right,toothpaste,down-left,desk)
+right hand object:((1348,716,cup),up-right,cup,up,toothbrush,down,cup,down-left,toothbrush,up,remote control,right,cup,up,cup,down-right,cup,left,pencil,still,toothbrush,still,toothbrush,still,pencil,up-right,cup,still,cup,still,cup,down,cup,up-left,cup,up-right,cup,down,cup,still,cup,up,toothbrush,down,cup)
+two hand object:((960,825,desk),up,room,none,none,countertop,still,countertop,still,countertop,still,countertop,still,table,still,countertop,up-right,toothbrush,still,toothbrush,still,toothbrush,still,toothbrush,up-left,room,down-right,remote control,up-right,toothbrush,still,toothbrush,down-left,pencil,down-left,desk,still,desk,still,desk,none,none,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → up-right → right → still → up-left → still → up-left → up → down → up-left → up-left → down-right → down-right → right → right → left → left → down-left → still → down-right → down (object: toothpaste → countertop → card → toothbrush → desk → remote control → tweezer → cellphone)
+Right hand: up → up-right → down-left → left → up → right → right → left → up-left → still → still → still → down-right → up-left → still → left → down-left → right → down → still → up-right → down (object: remote control → pencil → toothbrush → cup)
+Two-hand object: room → countertop → table → pencil → toothbrush → desk → remote control

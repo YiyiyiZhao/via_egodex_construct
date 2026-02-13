@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((759,600),right,down,up-right,up-left,up,up-right,up-right,left,down-left,up,up-right,up,up-left,left,left,up,down,left)
+right hand:((1516,603),left,down-right,right,up-left,up-left,up,still,right,down-right,up-left,left,up,up,down-right,left,up,down,down-right)
+left hand object:((716,635,fidget spinner ring),right,remote control,down-right,remote control,left,seed bead embroidery,up-left,seed bead embroidery,up,seed bead embroidery,right,fidget spinner ring,down-right,desk,up-left,watch,left,fidget spinner ring,up,seed bead embroidery,up-right,watch,up,seed bead embroidery,up,watch,left,seed bead embroidery,left,seed bead embroidery,up,seed bead embroidery,down,seed bead embroidery,down-left,wristwatch)
+right hand object:((1262,750,desk),up-left,remote control,down,desk,still,desk,right,desk,right,desk,up-right,desk,up-right,desk,still,desk,down-left,desk,up,desk,up-left,desk,up,desk,still,desk,left,desk,right,desk,up,desk,still,desk,left,desk)
+two hand object:((1262,750,desk),up-left,remote control,down,desk,still,desk,right,desk,right,desk,up-right,desk,up-right,desk,still,desk,down-left,desk,up,desk,up-left,desk,up,desk,still,desk,left,desk,right,desk,up,desk,still,desk,left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: right → down → up-right → up-left → up → up-right → up-right → left → down-left → up → up-right → up → up-left → left → left → up → down → left (object: desk → fidget spinner ring → watch → wristwatch → remote control → seed bead embroidery)
+Right hand: left → down-right → right → up-left → up-left → up → still → right → down-right → up-left → left → up → up → down-right → left → up → down → down-right (object: desk → remote control)
+Two-hand object: desk → remote control

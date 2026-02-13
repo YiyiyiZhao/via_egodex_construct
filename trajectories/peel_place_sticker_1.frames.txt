@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((775,872),up-left,up-right,down-right,up,down,left,down-left)
+right hand:((1493,984),up,up-right,left,down-left,down,up-left,right)
+left hand object:((860,931,scissors),up-right,magazine,right,paper tablemat,up-right,rolling tray,right,rolling tray,right,rolling tray,up-left,paper tablemat,down-left,magazine)
+right hand object:((952,546,room),down-right,seat cloth,up-left,fidget spinner ring,down-left,rolling tray,right,rolling tray,right,magazine,left,paper tablemat,down-left,rolling tray)
+two hand object:((952,546,room),down,magazine,right,paper tablemat,up-right,rolling tray,right,magazine,up,magazine,left,magazine,down-left,magazine)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → down-right → up → down → left → down-left (object: rolling tray → scissors → paper tablemat → magazine)
+Right hand: up → up-right → left → down-left → down → up-left → right (object: magazine → room → paper tablemat → seat cloth → rolling tray → fidget spinner ring)
+Two-hand object: rolling tray → paper tablemat → magazine → room

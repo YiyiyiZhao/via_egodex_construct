@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1464,796),up-left,down-left,down,right,left,still,still,down,down-right,up-right,down-left,up-right,still,still,still,still,still,still,still,still,left)
+right hand:((None,None),none,none,down-left,up-right,down-left,left,down-left,left,up-right,none,none,up,up-right,left,down,down-right,left,down-right,still,left,left)
+left hand object:((958,792,bed),up-right,phone,none,none,bed,up-right,bed,none,none,bed,still,bed,still,bed,down-right,tablet bag,up-right,phone,left,laptop,none,none,sketchbook,down-right,rolling tray,right,cutting pad,left,cutting pad,still,cutting pad,still,cutting pad,still,book,left,book,left,book)
+right hand object:((None,None),none,none,phone,down,phone,up,linen,down,phone,down-left,phone,down-left,phone,down,phone,down,tablet bag,none,none,laptop,none,none,phone,down-left,book,down,sketchbook,down,cutting pad,still,cutting pad,still,cutting pad,still,book,left,book,left,notebook)
+two hand object:((None,None),none,none,none,bed,up-right,bed,none,none,bed,still,bed,still,bed,down-right,tablet bag,none,none,laptop,none,none,sketchbook,down-right,cutting pad,right,cutting mat,left,cutting pad,still,cutting pad,still,cutting pad,still,book,left,instruction manual,left,notebook)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → down-left → down → right → left → still → still → down → down-right → up-right → down-left → up-right → still → still → still → still → still → still → still → still → left (object: tablet bag → book → rolling tray → phone → laptop → bed → cutting pad → sketchbook)
+Right hand: none → none → down-left → up-right → down-left → left → down-left → left → up-right → none → none → up → up-right → left → down → down-right → left → down-right → still → left → left (object: tablet bag → book → notebook → laptop → phone → linen → cutting pad → sketchbook)
+Two-hand object: tablet bag → book → notebook → laptop → instruction manual → bed → cutting pad → sketchbook → cutting mat

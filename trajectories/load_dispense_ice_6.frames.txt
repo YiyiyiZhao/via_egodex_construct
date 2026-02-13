@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((774,973),up-right,left,right,down-left,up-right,down-right,right,left,down,still,up,still,down-left,up-right,up-left,still,left,down,right,left,right,right,down-left,down-left)
+right hand:((1562,954),left,right,none,none,up-right,still,down-left,up-right,up,left,down,down-left,up,down-right,down,right,still,up-right,none,none,left,left,right,down-left)
+left hand object:((959,540,kitchen),up,switch,down-right,cupboard,up-right,clay bowl,down-left,clay bowl,left,clay bowl,still,bowl,down-right,bowl,up-left,bowl,down,clay bowl,right,clay bowl,up,bowl,none,none,bowl,up,container lid,up-left,bowl,down-left,fidget spinner ring,none,none,none,room,none,none,phone,down-left,kitchen,still,kitchen,still,kitchen)
+right hand object:((1438,694,stove),left,stove,down-right,microwave,none,none,clay bowl,left,bowl,up-right,microwave,down-left,bowl,up,clay bowl,none,none,paint spray gun,down-right,bowl,none,none,paint spray gun,up-right,cup,down-left,container lid,none,none,none,bowl,none,none,microwave,none,none,kitchen,still,kitchen,still,kitchen)
+two hand object:((959,540,kitchen),left,kitchen,right,cupboard,none,none,bowl,left,clay bowl,still,bowl,down-right,bowl,up,pot lid,none,none,paint spray gun,down-right,bowl,none,none,paint spray gun,none,none,container lid,none,none,none,none,none,none,none,kitchen,still,kitchen,still,kitchen)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → left → right → down-left → up-right → down-right → right → left → down → still → up → still → down-left → up-right → up-left → still → left → down → right → left → right → right → down-left → down-left (object: switch → room → bowl → clay bowl → container lid → kitchen → phone → cupboard → fidget spinner ring)
+Right hand: left → right → none → none → up-right → still → down-left → up-right → up → left → down → down-left → up → down-right → down → right → still → up-right → none → none → left → left → right → down-left (object: paint spray gun → bowl → microwave → clay bowl → stove → container lid → kitchen → cup)
+Two-hand object: pot lid → paint spray gun → bowl → clay bowl → container lid → kitchen → cupboard

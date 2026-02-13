@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((645,852),up-right,up,up-left,left,right,down-left,right,up-left,up-left,down-right,down-left,down-left)
+right hand:((1528,928),up-left,up-left,still,up-left,right,right,left,left,right,right,down-right,down-right)
+left hand object:((960,773,bed),up,fidget spinner ring,down-left,seed bead embroidery,left,seed bead embroidery,none,none,seed bead embroidery,down,seed bead embroidery,up-right,pair of scissors,down,tweezer,left,seed bead embroidery,down-right,seed bead embroidery,down,seed bead embroidery,down-left,desk)
+right hand object:((960,773,bed),still,bed,up,phone,down-left,remote control,down-right,seed bead embroidery,up-left,book,up-right,pair of scissors,left,pair of scissors,down-left,tweezer,down,pair of scissors,left,room,right,seed bead embroidery,left,desk)
+two hand object:((960,773,bed),still,bed,up,bed,still,bed,none,none,book,down-left,bed,up-right,linen,down-left,remote control,down,pair of scissors,left,room,down-right,pair of glasses,down-left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → up-left → left → right → down-left → right → up-left → up-left → down-right → down-left → down-left (object: pair of scissors → seed bead embroidery → desk → bed → tweezer → fidget spinner ring)
+Right hand: up-left → up-left → still → up-left → right → right → left → left → right → right → down-right → down-right (object: room → pair of scissors → book → seed bead embroidery → phone → desk → bed → remote control → tweezer)
+Two-hand object: pair of glasses → room → pair of scissors → book → desk → linen → bed → remote control

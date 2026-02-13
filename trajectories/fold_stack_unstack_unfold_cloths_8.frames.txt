@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((954,680),right,right,left,still,down-right,up,left,up-right,down-right)
+right hand:((1334,727),up-left,up-right,down-right,down-left,down-left,none,none,none,up)
+left hand object:((959,798,bed),right,tie,down-left,wristwatch,up-right,microfiber cloth,right,toothbrush,down,instruction manual,up,microfiber cloth,left,seat cloth,right,bed,none)
+right hand object:((959,798,bed),right,tie,none,none,bed,down-left,bed,down-right,wristband,none,none,none,bed,none)
+two hand object:((959,798,bed),right,tie,none,none,bed,up-right,toothbrush,down-left,bed,none,none,none,bed,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → right → left → still → down-right → up → left → up-right → down-right (object: bed → tie → seat cloth → toothbrush → wristwatch → microfiber cloth → instruction manual)
+Right hand: up-left → up-right → down-right → down-left → down-left → none → none → none → up (object: wristband → tie → bed)
+Two-hand object: toothbrush → tie → bed

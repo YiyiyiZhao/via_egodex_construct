@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((None,None),none,left,none,none,up-left,up,right)
+right hand:((None,None),none,none,none,none,none,right,right)
+left hand object:((None,None),none,cloth,right,cloth,none,none,wall,none,none,dress,up-right,piece of clothing)
+right hand object:((None,None),none,cloth,none,none,none,none,paint brush,up-right,plate,up-right,plate)
+two hand object:((None,None),none,cloth,none,none,none,none,none,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: none → left → none → none → up-left → up → right (object: cloth → piece of clothing → dress → wall)
+Right hand: none → none → none → none → none → right → right (object: cloth → paint brush → plate)
+Two-hand object: cloth → room

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((899,736),still,up,right,down,still,still,right,still,down-left)
+right hand:((1276,723),down-left,down-left,up-right,down-left,up,down-right,down-right,left,down)
+left hand object:((398,928,piece of clothing),up-right,toothbrush,up-left,cup,down-right,cup,up-left,cup,still,cup,still,yoghurt cup,down-right,cup,up,cup,left,cup)
+right hand object:((1350,501,bottle),down-left,toothbrush,down,sponge cloth,up-right,bottle,still,bottle,left,crayon,up-right,banana,left,room,right,remote control,down-left,bed)
+two hand object:((None,None),none,toothbrush,down-left,countertop,up,room,still,room,right,crayon,left,room,still,room,right,remote control,left,room)
+
+
+## LLM-Friendly Format:
+Left hand: still → up → right → down → still → still → right → still → down-left (object: piece of clothing → toothbrush → yoghurt cup → cup)
+Right hand: down-left → down-left → up-right → down-left → up → down-right → down-right → left → down (object: room → crayon → sponge cloth → remote control → toothbrush → bottle → bed → banana)
+Two-hand object: room → countertop → crayon → toothbrush → remote control

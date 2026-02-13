@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1471,832),right,left,left,up-right,right,still,down-right,down-right,still,up,down-right,left,up-right)
+right hand:((None,None),none,none,none,up-left,up-right,up-left,down,left,up-left,down-right,up,down,down)
+left hand object:((922,542,bed),down,bed,down-right,wine glass,down-left,wristband,up-right,wristband,right,plastic container,up-left,phone,down-right,phone,down,phone,left,phone,up-right,phone,up-right,phone,up-left,phone,down-left,phone)
+right hand object:((None,None),none,none,none,bed,right,rolling tray,down-left,plastic container,up-left,phone,down-right,phone,down,phone,left,phone,up-right,phone,up-right,phone,up-left,phone,down-left,phone)
+two hand object:((None,None),none,none,none,bed,up,bed,down-right,plastic container,up-left,bed,up,bed,down-right,phone,left,phone,up-right,phone,up-left,bed,down-right,phone,up-left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → left → left → up-right → right → still → down-right → down-right → still → up → down-right → left → up-right (object: wristband → phone → bed → wine glass → plastic container)
+Right hand: none → none → none → up-left → up-right → up-left → down → left → up-left → down-right → up → down → down (object: rolling tray → phone → plastic container → bed)
+Two-hand object: phone → plastic container → bed

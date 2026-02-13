@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((738,754),up-left,up,down,up,right,up-left,left,right,still,left,up,still,up-left,left)
+right hand:((1562,848),up-left,left,down-right,up,left,up-right,right,left,down-right,left,down-right,up,right,right)
+left hand object:((954,780,desk),right,paper tablemat,left,countertop,left,counter,none,none,counter,down-right,countertop,still,counter,none,none,countertop,up-right,sandwich,right,bread,down-left,desk,up-right,bread,down-left,desk)
+right hand object:((954,780,desk),up-right,chapati,left,bread,down-left,counter,right,fidget spinner ring,left,counter,down-right,countertop,still,counter,up-right,plate,down-left,countertop,up-right,sandwich,down-left,countertop,still,desk,up-right,bread,down-left,desk)
+two hand object:((954,780,desk),right,paper tablemat,left,countertop,left,counter,none,none,countertop,right,countertop,still,counter,none,none,countertop,still,countertop,left,countertop,still,desk,up-right,bread,down-left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up → down → up → right → up-left → left → right → still → left → up → still → up-left → left (object: countertop → paper tablemat → counter → desk → bread → sandwich)
+Right hand: up-left → left → down-right → up → left → up-right → right → left → down-right → left → down-right → up → right → right (object: countertop → counter → chapati → desk → plate → bread → sandwich → fidget spinner ring)
+Two-hand object: countertop → paper tablemat → counter → desk → bread

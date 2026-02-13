@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((935,698),down-right,up-left,up-left,down-right,right,left,up)
+right hand:((1412,642),left,up-right,down-left,right,up-left,down,up)
+left hand object:((1040,589,sand disc),up-right,shoe,left,room,up-left,pot lid,down-right,room,still,room,down-left,pot lid,right,pot lid)
+right hand object:((968,541,room),right,shoe,left,room,down-left,fidget spinner ring,up-right,room,still,room,down,phone,left,pair of glasses)
+two hand object:((968,541,room),right,shoe,left,room,up-left,pot lid,down-right,room,up-right,linen,right,linen,right,linen)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → up-left → down-right → right → left → up (object: sand disc → pot lid → shoe → room)
+Right hand: left → up-right → down-left → right → up-left → down → up (object: pair of glasses → room → shoe → phone → fidget spinner ring)
+Two-hand object: linen → pot lid → shoe → room

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1044,656),still,still,still,still,still,still,still,up-right,left)
+right hand:((1334,714),down,right,right,up,down-right,right,up-right,left,down-right)
+left hand object:((1176,668,remote control),still,architectural craft manual,right,architectural craft manual,still,instruction manual,right,rubik cube,still,sketch manual,still,architectural craft manual,still,architectural craft manual,up-left,charging dock,down-right,bed)
+right hand object:((1183,666,board game),still,puzzle card,still,architectural craft manual,still,remote control,right,architectural craft manual,still,architectural craft manual,still,architectural craft manual,still,instruction manual,down-left,bed,up-right,architectural craft manual)
+two hand object:((1176,668,remote control),still,architectural craft manual,right,architectural craft manual,still,instruction manual,right,architectural craft manual,still,architectural craft manual,still,architectural craft manual,still,architectural craft manual,up,linen,right,linen)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still → up-right → left (object: charging dock → rubik cube → sketch manual → bed → architectural craft manual → remote control → instruction manual)
+Right hand: down → right → right → up → down-right → right → up-right → left → down-right (object: bed → board game → puzzle card → architectural craft manual → remote control → instruction manual)
+Two-hand object: architectural craft manual → remote control → linen → instruction manual

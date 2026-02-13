@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((802,770),up-right,down,up,still,left,still,right,still,up-right,down-left,up,down-left,still)
+right hand:((1640,738),down-left,up,left,right,left,down-left,left,right,up,left,left,right,up-left)
+left hand object:((1017,802,desk),right,architectural craft manual,up-right,box,up,box,still,box,up-left,box,down-left,box,down-left,box,right,box,right,box,still,box,left,cutting pad,right,box,still,box)
+right hand object:((1017,802,desk),right,architectural craft manual,left,desk,up-right,box,still,box,up-left,box,down-left,box,down-left,box,right,fidget spinner ring,left,desk,up-right,box,left,cutting pad,none,none,table)
+two hand object:((1017,802,desk),right,architectural craft manual,up-right,box,up,box,still,box,up-left,box,down-left,box,down-left,box,none,none,desk,up-right,box,down-left,desk,none,none,box)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down → up → still → left → still → right → still → up-right → down-left → up → down-left → still (object: architectural craft manual → cutting pad → desk → box)
+Right hand: down-left → up → left → right → left → down-left → left → right → up → left → left → right → up-left (object: table → desk → architectural craft manual → cutting pad → fidget spinner ring → box)
+Two-hand object: architectural craft manual → desk → box

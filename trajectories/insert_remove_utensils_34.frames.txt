@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1105,951),up,down,up-right,down,up-left,left,left,up-left,left,up-right,down,up-left,up-left,still)
+right hand:((1664,656),down-left,up,up-right,up-right,down-right,right,right,right,none,none,none,down,right,up-right)
+left hand object:((1026,784,desk),up,dish rack,up-right,dish rack,still,basket,down,table,left,desk,still,desk,left,desk,up,desk,down,desk,up,cellphone,down,table,left,desk,right,pair of scissors,up-left,pair of scissors)
+right hand object:((1026,784,desk),down-right,fidget spinner ring,up-left,desk,down-right,fidget spinner ring,up-right,pair of scissors,down,pair of scissors,right,pair of scissors,right,toothbrush,left,desk,none,none,none,toothbrush,down,crayon,right,crayon,up-right,measuring tape)
+two hand object:((1026,784,desk),up-left,desk,up-left,desk,still,desk,still,desk,left,desk,still,desk,left,desk,up,desk,none,none,none,table,right,crayon,down-left,pair of scissors,left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up → down → up-right → down → up-left → left → left → up-left → left → up-right → down → up-left → up-left → still (object: basket → pair of scissors → table → desk → dish rack → cellphone)
+Right hand: down-left → up → up-right → up-right → down-right → right → right → right → none → none → none → down → right → up-right (object: pair of scissors → crayon → measuring tape → toothbrush → desk → fidget spinner ring)
+Two-hand object: table → crayon → desk → pair of scissors

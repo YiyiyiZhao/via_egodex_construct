@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((684,952),down-right,up-left,up-right,up-left,down-left,up-right,left,still,down,up-right,up-right,right,left)
+right hand:((1282,770),up,up,down-right,up,left,down-right,right,up-left,down,down-left,right,left,left)
+left hand object:((958,544,room),down,paper tablemat,up-right,magazine,up-right,magazine,up,paper tablemat,still,magazine,down-left,cutting pad,up-right,paper tablemat,up-left,paper tablemat,down-left,cutting pad,up-right,book,right,book,still,magazine,left,sponge cloth)
+right hand object:((958,544,room),down,paper tablemat,up-right,fidget spinner ring,down,magazine,up,paper tablemat,down-left,cutting pad,up-right,paper tablemat,down-left,cutting pad,left,cutting pad,down-left,cutting pad,up-right,book,right,book,down-left,cutting pad,up-right,cutting pad)
+two hand object:((958,544,room),down,paper tablemat,up-right,book,up-right,magazine,up-right,magazine,down-left,cutting pad,up-right,paper tablemat,still,paper tablemat,down-left,cutting pad,up-right,magazine,left,magazine,right,magazine,still,magazine,left,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → up-right → up-left → down-left → up-right → left → still → down → up-right → up-right → right → left (object: magazine → room → book → paper tablemat → sponge cloth → cutting pad)
+Right hand: up → up → down-right → up → left → down-right → right → up-left → down → down-left → right → left → left (object: magazine → room → book → paper tablemat → cutting pad → fidget spinner ring)
+Two-hand object: magazine → room → book → paper tablemat → cutting pad

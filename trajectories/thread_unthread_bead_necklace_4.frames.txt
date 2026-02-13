@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((963,922),still,still,up-left,right,down-right,still,still,right,left)
+right hand:((1338,790),left,still,up-right,up-right,left,left,left,right,down-left)
+left hand object:((958,612,table),still,table,still,table,still,table,left,sponge cloth,right,stick,still,toothbrush,none,none,toothbrush,left,toothbrush)
+right hand object:((1159,687,pair of scissors),left,toothbrush,up-left,table,still,table,still,paper tablemat,down-right,stick,still,toothbrush,none,none,toothbrush,left,toothbrush)
+two hand object:((1159,687,pair of scissors),left,toothbrush,up-left,table,still,table,down,table,down-right,stick,still,toothbrush,none,none,toothbrush,up-left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → up-left → right → down-right → still → still → right → left (object: sponge cloth → table → toothbrush → stick)
+Right hand: left → still → up-right → up-right → left → left → left → right → down-left (object: pair of scissors → table → paper tablemat → toothbrush → stick)
+Two-hand object: pair of scissors → table → toothbrush → bed → stick

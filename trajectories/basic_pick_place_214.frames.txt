@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((556,642),up,up,up-right,up-right,down-right,still,down-left)
+right hand:((1780,778),up-left,up-left,left,up-left,left,up-right,right)
+left hand object:((634,748,pair of scissors),up,pair of scissors,up,pair of scissors,up-right,pair of scissors,up-left,refrigerator,right,pair of scissors,still,pair of scissors,down-left,pair of scissors)
+right hand object:((1158,742,counter),none,none,none,countertop,up,mustard,down-left,bowl,right,bowl,none)
+two hand object:((1158,742,counter),none,none,none,counter,none,none,kitchen,still,kitchen,none)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → up-right → up-right → down-right → still → down-left (object: refrigerator → pair of scissors)
+Right hand: up-left → up-left → left → up-left → left → up-right → right (object: mustard → counter → bowl → countertop)
+Two-hand object: counter → kitchen

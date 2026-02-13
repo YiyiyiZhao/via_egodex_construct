@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((700,592),down,up-right,up-right,right,down-right,left,right,left,up)
+right hand:((1641,516),down,up-left,left,right,down-left,left,right,up-right,left)
+left hand object:((338,833,piece of clothing),up-right,fidget spinner ring,up-right,linen,down-left,wrap,up-right,bed,down-right,toothbrush,up-left,room,still,room,down,bed,up,bed)
+right hand object:((1470,478,bottle),down-left,bottle,down,remote control,left,toothbrush,right,bottle,left,bottle,left,bottle,right,bottle,up-left,linen,down,remote control)
+two hand object:((961,541,room),up-right,linen,down-left,bed,still,bed,up-right,linen,down-left,linen,down-left,room,still,room,up,linen,down,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down → up-right → up-right → right → down-right → left → right → left → up (object: bed → room → toothbrush → wrap → linen → piece of clothing → fidget spinner ring)
+Right hand: down → up-left → left → right → down-left → left → right → up-right → left (object: remote control → toothbrush → bottle → linen)
+Two-hand object: linen → room → bed

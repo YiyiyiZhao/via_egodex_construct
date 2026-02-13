@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((825,998),up-right,up,left,down,down,right,left,right,up,up-right,still,down-right,up-left,down,up,left,right,right,left,down-left,right,left,up-left,up-right,down)
+right hand:((1478,1014),left,up-left,right,up-left,up-left,none,none,left,down-right,up-left,down,up,down,up,up,down,up-left,up,down,up-right,none,none,down-right,down-right,left)
+left hand object:((954,540,kitchen),right,kitchen,none,none,refrigerator shelf,left,refrigerator shelf,right,refrigerator shelf,down-left,bread,up,refrigerator shelf,right,refrigerator,down-left,floor,up,floor,up-right,fridge,down-right,refrigerator,left,fridge,left,fridge,down-left,floor,right,floor,left,floor,up-right,floor,right,floor,down-right,kitchen countertop,right,bread,up-left,kitchen,right,kitchen,none,none,kitchen)
+right hand object:((954,540,kitchen),right,kitchen,down-right,fidget spinner ring,up,refrigerator shelf,left,refrigerator shelf,down,cutting mat,none,none,chapati,left,apple,down-left,floor,up-right,apple,right,fridge,down-right,refrigerator,left,fridge,left,fridge,up-right,refrigerator,down-left,floor,left,floor,up,kitchen,down-right,banana,up-right,bread,none,none,banana,right,apple,up,bread,down,plum)
+two hand object:((954,540,kitchen),right,kitchen,none,none,refrigerator shelf,left,refrigerator shelf,right,refrigerator shelf,none,none,refrigerator shelf,right,fridge,left,refrigerator shelf,right,fridge,left,fridge,down-right,refrigerator,left,fridge,down-left,refrigerator,up-right,refrigerator,left,kitchen,down-left,floor,up,kitchen,still,kitchen workbench,down,kitchen countertop,none,none,kitchen,left,kitchen workbench,none,none,kitchen)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → left → down → down → right → left → right → up → up-right → still → down-right → up-left → down → up → left → right → right → left → down-left → right → left → up-left → up-right → down (object: floor → kitchen countertop → kitchen → fridge → refrigerator shelf → bread → refrigerator)
+Right hand: left → up-left → right → up-left → up-left → none → none → left → down-right → up-left → down → up → down → up → up → down → up-left → up → down → up-right → none → none → down-right → down-right → left (object: floor → plum → apple → chapati → kitchen → fridge → fidget spinner ring → refrigerator → refrigerator shelf → banana → bread → cutting mat)
+Two-hand object: floor → kitchen workbench → kitchen countertop → fridge → kitchen → refrigerator shelf → refrigerator

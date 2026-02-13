@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1402,790),left,up-right,down,up,down,up,still,down,up-right,down,down-left,up,down-left,up-right,down,up,still,still,still,down-right,down-left,up-right,down-right)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,down,still,none,none,none,none,none,none)
+left hand object:((1327,715,laptop),none,none,phone,none,none,phone,none,none,phone,still,phone,right,phone,up-right,pair of pliers,down-left,phone,up,camera,down-left,phone,up-right,phone,still,remote control,left,couch,right,cellphone,still,remote control,still,cellphone,up,cellphone,up,camera,down-left,couch,up-right,phone,down-right,phone)
+right hand object:((None,None),none,none,none,phone,none,none,phone,none,none,none,none,none,none,none,none,bed,none,none,remote control,left,couch,still,couch,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,couch,none,none,couch,still,couch,still,couch,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → up-right → down → up → down → up → still → down → up-right → down → down-left → up → down-left → up-right → down → up → still → still → still → down-right → down-left → up-right → down-right (object: couch → pair of pliers → camera → phone → laptop → remote control → cellphone)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → down → still → none → none → none → none → none → none (object: couch → remote control → phone → bed)
+Two-hand object: couch

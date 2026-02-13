@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((700,915),up-right,down,down-right,up,down-left,down,down)
+right hand:((1766,988),up-left,left,down,down-right,right,left,up)
+left hand object:((960,772,bed),none,none,bed,still,bed,none,none,bowl,down-left,bowl,none)
+right hand object:((960,772,bed),none,none,bed,still,bed,right,desk,up-left,room,still,room,none)
+two hand object:((960,772,bed),none,none,bed,still,bed,none,none,room,still,room,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down → down-right → up → down-left → down → down (object: bowl → bed)
+Right hand: up-left → left → down → down-right → right → left → up (object: desk → room → bed)
+Two-hand object: room → bed

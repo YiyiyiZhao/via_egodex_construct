@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((911,698),down-right,left,left,right,left,still,right,left,down-left)
+right hand:((1246,608),up-right,up-right,right,left,right,none,none,none,none)
+left hand object:((None,None),none,crayon,down-left,fidget spinner ring,none,none,spoon,down-left,crayon,none,none,paint brush,up-left,seed bead embroidery,down-right,lace)
+right hand object:((1172,565,fidget spinner ring),left,toothbrush,up-right,toothbrush,none,none,spoon,none,none,none,none,none,charging cable)
+two hand object:((None,None),none,crayon,up-right,tweezer,none,none,spoon,none,none,none,none,none,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → left → left → right → left → still → right → left → down-left (object: lace → crayon → seed bead embroidery → paint brush → spoon → fidget spinner ring)
+Right hand: up-right → up-right → right → left → right → none → none → none → none (object: spoon → toothbrush → fidget spinner ring → charging cable)
+Two-hand object: spoon → tweezer → crayon → bed

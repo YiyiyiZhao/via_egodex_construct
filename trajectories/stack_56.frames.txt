@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((884,966),still,still,still,down-right,still,left,still)
+right hand:((1362,934),left,still,up,left,up,down-left,right)
+left hand object:((958,824,bed),still,bed,still,bed,up,room,down,bed,up,bed,still,bed,still,bed)
+right hand object:((958,824,bed),still,bed,still,bed,up,linen,down-right,fidget spinner ring,up-left,linen,down,instruction manual,up-left,puzzle card)
+two hand object:((958,824,bed),still,bed,still,bed,up,room,down,bed,up,bed,still,bed,right,puzzle card)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → down-right → still → left → still (object: room → bed)
+Right hand: left → still → up → left → up → down-left → right (object: bed → instruction manual → puzzle card → linen → fidget spinner ring)
+Two-hand object: puzzle card → room → bed

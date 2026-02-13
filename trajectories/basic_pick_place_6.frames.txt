@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1561,866),up-left,up-left,up-left,right,down,down-right,left)
+right hand:((None,None),none,none,none,none,none,none,none)
+left hand object:((1390,868,plate),left,desk,up,table,left,counter,right,card sleeve,down,sponge cloth,left,countertop,down,countertop)
+right hand object:((None,None),none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-left → up-left → right → down → down-right → left (object: countertop → table → sponge cloth → counter → desk → plate → card sleeve)
+Right hand: none → none → none → none → none → none → none (object: none)

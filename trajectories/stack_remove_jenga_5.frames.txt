@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((961,888),up-left,up,up-right,right,up,still,down-left)
+right hand:((1476,920),left,left,up,up-left,still,down-right,down)
+left hand object:((1087,956,engraving tool),up,engraving tool,up,bed,up-left,desk,still,desk,still,desk,still,desk,still,bed)
+right hand object:((1047,808,desk),still,desk,still,bed,up-right,architectural craft manual,down-right,architectural craft manual,still,architectural craft manual,still,jenga block,down-left,bed)
+two hand object:((1047,808,desk),still,desk,still,bed,up,room,still,room,down,desk,up,room,down,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up → up-right → right → up → still → down-left (object: engraving tool → desk → bed)
+Right hand: left → left → up → up-left → still → down-right → down (object: architectural craft manual → jenga block → desk → bed)
+Two-hand object: desk → room → bed

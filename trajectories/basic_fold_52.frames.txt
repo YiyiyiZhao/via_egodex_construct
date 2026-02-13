@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((551,760),up-left,right,down-right,up,up-left,down-left,up,none,none,down,right,up,right,down-left,up-left,left,down-right,up,down-left,down-right,left,left,down-right)
+right hand:((1775,958),left,up,up,down-left,right,none,none,none,none,none,none,none,none,none,left,right,up-left,none,none,right,up,down-left,up)
+left hand object:((959,810,bed),up,bed,up,bed,down-left,wristband,up-right,cellphone,down-left,bed,none,none,wristwatch,none,none,kitchen workbench,down,bed,right,tablet bag,left,bed,right,microfiber cloth,up,tablet bag,up-right,tablet bag,up-left,tablet bag,down-left,piece of clothing,up-right,fidget spinner ring,left,tablet bag,up-right,book,up,microfiber cloth,down-left,bed,down,bed)
+right hand object:((959,810,bed),right,microfiber cloth,up,towel,up-right,towel,right,watch,left,bed,none,none,none,none,kitchen workbench,none,none,none,none,none,tablet bag,up-right,tablet bag,left,bed,down-right,tablet bag,none,none,pair of scissors,up,tablet bag,down-right,fidget spinner ring,up-left,seat cloth,up,sponge cloth)
+two hand object:((959,810,bed),up,bed,up,bed,right,towel,none,none,bed,none,none,none,none,kitchen workbench,none,none,none,none,none,bed,right,tablet bag,up-left,tablet bag,down-left,tablet bag,none,none,bed,right,tablet bag,up,tablet bag,none,none,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → right → down-right → up → up-left → down-left → up → none → none → down → right → up → right → down-left → up-left → left → down-right → up → down-left → down-right → left → left → down-right (object: tablet bag → kitchen workbench → wristband → bed → book → wristwatch → piece of clothing → microfiber cloth → fidget spinner ring → cellphone)
+Right hand: left → up → up → down-left → right → none → none → none → none → none → none → none → none → none → left → right → up-left → none → none → right → up → down-left → up (object: tablet bag → kitchen workbench → towel → pair of scissors → sponge cloth → seat cloth → fidget spinner ring → bed → microfiber cloth → watch)
+Two-hand object: tablet bag → kitchen workbench → towel → bed

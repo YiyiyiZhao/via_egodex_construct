@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((838,670),up,left,right,none,none,down,up,down-right,left,down-right,right)
+right hand:((1436,643),left,right,none,none,none,none,none,left,none,none,none)
+left hand object:((980,543,room),down-right,towel,down-left,bed,up,linen,none,none,bed,down,bed,up,bed,left,blanket,right,desk,up,cutting pad,right,microfiber cloth)
+right hand object:((1156,674,towel),up-left,towel,down,towel,none,none,none,bed,none,none,bed,down,bed,none,none,cutting pad,none)
+two hand object:((980,543,room),down-right,towel,down-left,bed,none,none,none,bed,none,none,bed,down,bed,none,none,cutting pad,none)
+
+
+## LLM-Friendly Format:
+Left hand: up → left → right → none → none → down → up → down-right → left → down-right → right (object: towel → room → microfiber cloth → desk → linen → bed → blanket → cutting pad)
+Right hand: left → right → none → none → none → none → none → left → none → none → none (object: cutting pad → towel → bed)
+Two-hand object: cutting pad → towel → room → bed

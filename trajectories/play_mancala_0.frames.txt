@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1466,571),left,up-right,left,down,up,left,right,right,down-left,up-right,down-right,left,up-right,left,right,still,up-right)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1452,508,fidget spinner ring),left,fidget spinner ring,right,fidget spinner ring,left,board game,up-right,board game,up-right,fidget spinner ring,down-left,board game,right,board game,right,rolling tray,left,remote control,right,instruction manual,down-right,rolling tray,still,board game,up,board game,up-left,board game,up-right,board game,still,board game,right,instruction manual)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → up-right → left → down → up → left → right → right → down-left → up-right → down-right → left → up-right → left → right → still → up-right (object: board game → rolling tray → fidget spinner ring → remote control → instruction manual)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

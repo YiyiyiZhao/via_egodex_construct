@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((935,776),still,right,up,still,up-right,left,right,up-left,right)
+right hand:((1326,613),left,still,up-left,down-right,up-right,up-right,up-right,down-left,down-left)
+left hand object:((None,None),none,toothbrush,none,none,none,none,none,seed bead embroidery,none,none,fidget spinner ring,none)
+right hand object:((1281,621,glass cup),up-left,glass cup,up,glass cup,up,cup,down,glass cup,up,glass cup,right,cup,up-right,glass cup,none,none,cup)
+two hand object:((None,None),none,pair of scissors,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: still → right → up → still → up-right → left → right → up-left → right (object: seed bead embroidery → toothbrush → fidget spinner ring)
+Right hand: left → still → up-left → down-right → up-right → up-right → up-right → down-left → down-left (object: cup → glass cup)
+Two-hand object: pair of scissors

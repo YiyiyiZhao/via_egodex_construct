@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1109,834),down,up-right,down-left,up-right,down-right,up-right,down-left,up-right,up)
+right hand:((None,None),none,none,none,none,none,none,none,none,none)
+left hand object:((960,692,bed),down-left,cutting mat,right,seed bead embroidery,left,linen,right,towel,down-right,napkin,up-right,blanket,down-left,sponge cloth,left,sponge cloth,up,sponge cloth)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: down → up-right → down-left → up-right → down-right → up-right → down-left → up-right → up (object: towel → seed bead embroidery → napkin → sponge cloth → linen → bed → blanket → cutting mat)
+Right hand: none → none → none → none → none → none → none → none → none (object: none)

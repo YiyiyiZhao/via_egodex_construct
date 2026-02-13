@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1121,772),down,up-left,up-right,up-left,down,right,up-left,still,left,up,right)
+right hand:((1500,778),up-left,down-right,up,down,up-left,up-right,up,up-left,down,down-right,up-left)
+left hand object:((1184,640,mug),down,bottle,down-left,bed,up-right,glove,down-left,bed,left,bed,up-right,bottle,down-left,bed,still,bed,still,bed,still,bed,left,bed)
+right hand object:((960,817,bed),up-right,sauce bottle,right,microfiber cloth,up,sock,down-left,bed,up-right,microfiber cloth,down,bottle,down-left,bed,none,none,none,bed,left,bed)
+two hand object:((960,817,bed),left,bed,right,bed,up-right,glove,down-left,bed,left,bed,right,countertop,right,bed,none,none,none,bed,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down → up-left → up-right → up-left → down → right → up-left → still → left → up → right (object: mug → bottle → glove → bed)
+Right hand: up-left → down-right → up → down → up-left → up-right → up → up-left → down → down-right → up-left (object: sauce bottle → sock → bottle → bed → microfiber cloth)
+Two-hand object: countertop → glove → bed

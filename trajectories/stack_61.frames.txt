@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((970,986),still,right,still,still,still,still,still)
+right hand:((1326,1032),up,left,down-left,up-right,right,down,right)
+left hand object:((960,830,carpet),still,bed,still,bed,still,bed,left,bed,right,bed,still,bed,still,bed)
+right hand object:((960,830,carpet),still,bed,down-right,pair of scissors,up-left,bed,left,bed,right,bed,right,rolling tray,still,box)
+two hand object:((960,831,bed),still,bed,down-right,pair of scissors,up-left,bed,left,bed,right,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → right → still → still → still → still → still (object: carpet → bed)
+Right hand: up → left → down-left → up-right → right → down → right (object: carpet → pair of scissors → rolling tray → bed → box)
+Two-hand object: pair of scissors → bed

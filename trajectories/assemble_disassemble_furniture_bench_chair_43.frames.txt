@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((864,586),still,still,still,still,still,still,still)
+right hand:((1223,584),down-left,up,down,up,down-left,up-right,right)
+left hand object:((956,568,wooden stand),still,wooden stand,up-right,linen,down-left,wooden stand,still,wooden stand,up-right,linen,still,linen,right,linen)
+right hand object:((1291,350,linen),down-left,wooden stand,down,bed,up,wooden stand,still,wooden stand,down,bed,up-right,linen,right,linen)
+two hand object:((960,774,bed),up,room,still,room,down,bed,up,room,down,bed,up-right,linen,down-left,room)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still (object: linen → wooden stand)
+Right hand: down-left → up → down → up → down-left → up-right → right (object: linen → bed → wooden stand)
+Two-hand object: linen → room → bed

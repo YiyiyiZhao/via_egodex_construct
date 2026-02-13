@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((863,768),down-right,up-left,up,up,up,up-right,left,up-right,up-left,left,still,up-left,up-left,still,still,down-left,down,up-right,up-left,still,down,down)
+right hand:((1288,696),up-left,down-right,down-right,up,up,up-right,up-left,up,left,up-right,still,up,up,left,right,down-left,up-right,down-left,left,right,down,still)
+left hand object:((1074,858,tablet),up-left,rubik cube,down-right,rolling tray,down-right,notebook,up,sketch manual,up,sketch manual,up,sketch manual,still,sketch manual,up-right,sketch manual,left,book,left,instruction manual,right,sketch manual,up,sketch manual,up-left,sketch manual,up-right,sketch manual,still,sketch manual,up-left,box,down,instruction manual,right,book,right,sketch manual,left,instruction manual,right,sketch manual,up-left,box)
+right hand object:((1075,858,sketch manual),up-left,rubik cube,down-right,tablet,up-right,crayon,left,sketch manual,up,sketch manual,up-right,tablet,left,sketch manual,up-right,sketch manual,up-right,fidget spinner ring,up,fidget spinner ring,down,fidget spinner ring,down-left,sketch manual,up-right,fidget spinner ring,down-left,sketch manual,up-right,fidget spinner ring,down-left,fidget spinner ring,down-left,crayon,up-right,fidget spinner ring,down-left,sketch manual,up-right,fidget spinner ring,down-left,tablet,up-right,pencil)
+two hand object:((1075,858,sketch manual),up-left,rubik cube,down-right,magazine,down-right,sketch manual,up-left,desk,left,instruction manual,up,book,still,instruction manual,still,instruction manual,right,instruction manual,left,instruction manual,still,book,still,instruction manual,up-right,instruction manual,right,instruction manual,left,instruction manual,right,book,left,book,right,book,still,instruction manual,still,book,down-left,book,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → up → up → up → up-right → left → up-right → up-left → left → still → up-left → up-left → still → still → down-left → down → up-right → up-left → still → down → down (object: book → rolling tray → rubik cube → sketch manual → notebook → tablet → instruction manual → box)
+Right hand: up-left → down-right → down-right → up → up → up-right → up-left → up → left → up-right → still → up → up → left → right → down-left → up-right → down-left → left → right → down → still (object: crayon → pencil → rubik cube → sketch manual → tablet → fidget spinner ring)
+Two-hand object: magazine → book → rubik cube → sketch manual → desk → instruction manual

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1022,536),right,down,still,right,still,up-right,left,down-right,still,down-left,still,down-right,up,up-left,down,down-right,still)
+right hand:((1582,392),down-left,down-left,up-right,up-right,down,up,up-left,down,right,left,up-left,down-right,up,up-right,down-left,up,down-left)
+left hand object:((916,632,fidget spinner ring),right,sketch manual,down-left,sketch manual,still,cutting pad,up-right,notebook,left,bed,right,sketch manual,right,cutting pad,down,sketch manual,still,sketch manual,still,sketch manual,left,sketch manual,up-left,cutting pad,right,cutting pad,up-left,cutting pad,down,cutting pad,down-right,cutting pad,left,fidget spinner ring)
+right hand object:((960,539,bed),right,cutting pad,down-left,cutting pad,still,instruction manual,up-right,cutting pad,left,bed,right,sketch manual,right,cutting pad,down,cutting pad,still,cutting pad,still,sketch manual,left,sketch manual,up-left,cutting pad,right,cutting pad,up-left,instruction manual,down,sketch manual,down-right,cutting pad,still,instruction manual)
+two hand object:((960,539,bed),right,cutting pad,down-left,cutting pad,still,cutting pad,left,bed,still,bed,still,bed,right,cutting pad,down,cutting pad,still,cutting pad,left,cutting pad,left,cutting pad,left,bed,right,cutting pad,up-left,cutting pad,down,cutting pad,down-right,cutting pad,still,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: right → down → still → right → still → up-right → left → down-right → still → down-left → still → down-right → up → up-left → down → down-right → still (object: notebook → sketch manual → bed → cutting pad → fidget spinner ring)
+Right hand: down-left → down-left → up-right → up-right → down → up → up-left → down → right → left → up-left → down-right → up → up-right → down-left → up → down-left (object: sketch manual → cutting pad → instruction manual → bed)
+Two-hand object: cutting pad → bed

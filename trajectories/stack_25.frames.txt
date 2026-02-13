@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((858,963),still,down-right,still,still,still,still,still)
+right hand:((None,None),none,up-left,up-left,down-left,none,none,none)
+left hand object:((960,826,bed),still,bed,still,bed,none,none,bed,still,bed,still,bed,still,bed)
+right hand object:((None,None),none,bed,still,bed,right,card,right,card,none,none,none)
+two hand object:((None,None),none,bed,still,bed,none,none,bed,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: still → down-right → still → still → still → still → still (object: bed)
+Right hand: none → up-left → up-left → down-left → none → none → none (object: card → bed)
+Two-hand object: bed

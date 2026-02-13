@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((896,226),down,up-left,up-left,up-left,still,still,right,down-right,up-right)
+right hand:((1746,205),down-left,right,up,up,up-left,right,right,up-left,down-left)
+left hand object:((1206,480,sand disc),left,toothbrush,down-right,glass cup,left,clay bowl,up,clay bowl,still,clay bowl,still,clay bowl,down-right,clay bowl,down-right,bowl,right,clay bowl)
+right hand object:((None,None),none,none,none,none,none,none,none,spoon,up-left,toothbrush,down-left,paint brush)
+two hand object:((None,None),none,none,none,none,none,none,none,none,bowl,right,clay bowl)
+
+
+## LLM-Friendly Format:
+Left hand: down → up-left → up-left → up-left → still → still → right → down-right → up-right (object: sand disc → bowl → clay bowl → glass cup → toothbrush)
+Right hand: down-left → right → up → up → up-left → right → right → up-left → down-left (object: paint brush → spoon → toothbrush)
+Two-hand object: bowl → clay bowl

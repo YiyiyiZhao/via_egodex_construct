@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1704,884),left,right,up-left,left,left,up-left,right,left,up-left,left,down-right,right,left)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1495,796,box),left,architectural craft manual,right,cardboard box,left,architectural craft manual,up,jenga block,left,box,right,remote control,right,tablet,left,architectural craft manual,up-left,jenga block,left,architectural craft manual,right,notebook,right,architectural craft manual,up-left,architectural craft manual)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → up-left → left → left → up-left → right → left → up-left → left → down-right → right → left (object: jenga block → cardboard box → architectural craft manual → remote control → notebook → tablet → box)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

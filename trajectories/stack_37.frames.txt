@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((890,1000),still,left,right,still,left,still,still)
+right hand:((1350,994),up-left,up-left,down-left,up-right,up-right,down-right,up-right)
+left hand object:((960,853,bed),still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed)
+right hand object:((960,853,bed),right,rubik cube,left,bed,down-right,fidget spinner ring,up-right,fidget spinner ring,right,sponge cloth,down,rubik cube,still,rubik cube)
+two hand object:((960,853,bed),still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → left → right → still → left → still → still (object: bed)
+Right hand: up-left → up-left → down-left → up-right → up-right → down-right → up-right (object: sponge cloth → rubik cube → fidget spinner ring → bed)
+Two-hand object: bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((538,610),still,up-left,still,down,up-left,right,down-right,up-left,up,down-right,up,down,up-left,down-right,left)
+right hand:((1457,677),down,up,left,up-left,down-right,up,down-left,right,up-left,left,down,up-left,still,up-left,down-right)
+left hand object:((534,348,linen),down-left,pet,still,pet,still,pet,still,pet,up-left,pet,up-right,linen,down-right,plate,up-left,masking tape,up-left,linen,down-right,envelope,right,instruction manual,down-right,sandwich,up-left,mustard,down,bed,right,bed)
+right hand object:((797,764,bed),right,plate,up,flower,down-left,bed,up-right,pair of scissors,down-left,bed,left,bed,right,bed,still,bed,up,bed,down-left,bed,right,bed,right,sandwich,down,plate,up,envelope,down,plate)
+two hand object:((797,764,bed),right,bed,left,bed,still,bed,none,none,bed,left,bed,right,bed,still,bed,up,bed,down-right,plate,up-left,bed,right,sandwich,left,bed,left,bed,right,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-left → still → down → up-left → right → down-right → up-left → up → down-right → up → down → up-left → down-right → left (object: bed → envelope → masking tape → pet → linen → plate → mustard → sandwich → instruction manual)
+Right hand: down → up → left → up-left → down-right → up → down-left → right → up-left → left → down → up-left → still → up-left → down-right (object: bed → pair of scissors → envelope → plate → sandwich → flower)
+Two-hand object: plate → sandwich → bed

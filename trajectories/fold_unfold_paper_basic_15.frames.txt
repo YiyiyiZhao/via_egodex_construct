@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((866,611),down-right,up-left,up-right,down-right,down,down-right,left,up,up-left,down,still,up-left,down-right,right,down-right)
+right hand:((1504,665),down,up-right,up-right,down,down-left,left,up,up-left,right,down,left,still,still,left,down-left)
+left hand object:((1234,752,cutting pad),down-right,cutting pad,left,fidget spinner ring,right,paper bag,left,fidget spinner ring,right,cutting pad,right,cutting pad,down-left,cutting pad,left,notebook,up-left,cutting pad,left,pair of scissors,right,notebook,left,seed bead embroidery,right,cutting pad,down-left,bed,up-right,fidget spinner ring)
+right hand object:((1234,752,cutting pad),down-right,cutting pad,right,cutting pad,up-left,sponge cloth,down,sponge cloth,up-left,cutting pad,right,sketch manual,left,sketch manual,left,instruction manual,up-left,cutting pad,down-left,cutting pad,up-right,cutting pad,down-right,cutting pad,still,cutting pad,down-left,bed,none)
+two hand object:((1234,752,cutting pad),down-right,cutting pad,right,cutting pad,up-left,cutting pad,down,sponge cloth,up-left,cutting pad,right,cutting pad,down-left,cutting pad,still,cutting pad,up-left,cutting pad,down-left,cutting pad,up-right,cutting pad,down-right,cutting pad,still,cutting pad,down-left,bed,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → up-right → down-right → down → down-right → left → up → up-left → down → still → up-left → down-right → right → down-right (object: pair of scissors → seed bead embroidery → notebook → bed → paper bag → cutting pad → fidget spinner ring)
+Right hand: down → up-right → up-right → down → down-left → left → up → up-left → right → down → left → still → still → left → down-left (object: sponge cloth → sketch manual → bed → cutting pad → instruction manual)
+Two-hand object: sponge cloth → cutting pad → bed

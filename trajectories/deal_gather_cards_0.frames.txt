@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((886,816),still,down-right,still,down-right,still,down,up-left,down,down)
+right hand:((1398,766),down-left,down-right,still,left,still,still,still,still,still)
+left hand object:((1062,874,envelope),still,piece of paper,up,desk,still,desk,down,instruction manual,still,instruction manual,still,instruction manual,up,puzzle card,still,shopping list,still,shopping list)
+right hand object:((1125,560,shopping list),down-right,shopping list,down-right,instruction manual,down-right,instruction manual,up-left,instruction manual,still,instruction manual,still,cutting pad,still,instruction manual,still,instruction manual,still,cutting pad)
+two hand object:((1026,676,desk),still,desk,down,desk,still,desk,up,desk,still,desk,still,desk,still,desk,still,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: still → down-right → still → down-right → still → down → up-left → down → down (object: envelope → piece of paper → desk → puzzle card → shopping list → instruction manual)
+Right hand: down-left → down-right → still → left → still → still → still → still → still (object: shopping list → cutting pad → instruction manual)
+Two-hand object: desk

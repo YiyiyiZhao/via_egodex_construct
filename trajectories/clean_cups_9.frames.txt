@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1138,572),down-left,still,up-right,right,down-right,up-left,up-left,still,still)
+right hand:((1460,414),down-right,down-left,left,right,down-left,left,left,up-right,still)
+left hand object:((938,813,bed),up-right,cup,still,cup,right,device,down-left,bed,up-right,rubber band,up-left,fidget spinner ring,up-left,measuring tape,still,tape,still,fidget spinner ring)
+right hand object:((1338,549,cup),right,bottle,down,microfiber cloth,up-left,device,right,bottle,left,measuring tape,up-left,fidget spinner ring,right,pair of scissors,left,bottle cap,still,fidget spinner ring)
+two hand object:((966,542,room),right,room,none,none,room,down,bed,up-right,measuring tape,left,room,still,room,down,bed,up-right,fidget spinner ring)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → still → up-right → right → down-right → up-left → up-left → still → still (object: bed → tape → measuring tape → device → rubber band → cup → fidget spinner ring)
+Right hand: down-right → down-left → left → right → down-left → left → left → up-right → still (object: pair of scissors → measuring tape → device → bottle cap → bottle → cup → microfiber cloth → fidget spinner ring)
+Two-hand object: fidget spinner ring → measuring tape → room → bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((904,804),up,down-right,up-left,down,up,left,right)
+right hand:((1678,852),left,up,down-left,up-left,down-right,up-right,down-left)
+left hand object:((960,809,bed),up-right,cheese,down-right,rubik cube,up-right,remote control,down-left,masking tape,up,bottle cap,up-left,bottle cap,down,card)
+right hand object:((960,809,bed),none,none,remote control,down-left,toy car,up,linen,down,bottle cap,up-right,mustard,down-left,remote control)
+two hand object:((958,545,room),none,none,room,down-right,remote control,none,none,bottle cap,none,none,bottle cap)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-right → up-left → down → up → left → right (object: cheese → card → masking tape → rubik cube → bed → remote control → bottle cap)
+Right hand: left → up → down-left → up-left → down-right → up-right → down-left (object: toy car → linen → bed → mustard → remote control → bottle cap)
+Two-hand object: remote control → bottle cap → room

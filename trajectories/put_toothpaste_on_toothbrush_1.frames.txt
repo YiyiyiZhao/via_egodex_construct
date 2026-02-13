@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((870,826),up-right,right,right,up-left,left,still,still,up-left,up-right,right,left,right,up-left,up-left,down-left,down-right,up-right,up,down,down,right,still,down)
+right hand:((1426,892),up,down-left,down-left,left,left,up,up,still,up,down,down-right,down-left,still,still,up-left,up,down,down,up,up-right,down-left,down,down-left)
+left hand object:((960,812,bed),up,bed,still,bed,still,bed,up-right,pair of scissors,left,toothbrush,down-left,bed,up-right,toothbrush,down-left,desk,up,remote control,up-right,phone,up-left,card,down-right,glass cup,right,fork,still,fork,left,toothbrush,down,desk,up,card,right,toothbrush,down-right,toothbrush,down-right,usb drive,up-left,pair of scissors,still,pair of scissors,down,toothbrush)
+right hand object:((960,812,bed),up-right,cup,right,cup,left,toothbrush,left,pair of scissors,left,toothbrush,still,toothbrush,down-left,toothbrush,still,toothbrush,up-right,toothbrush,down,toothbrush,right,glass cup,left,laptop,down-left,fork,still,toothbrush,left,pair of scissors,up,toothbrush,down-left,toothbrush,down-right,toothbrush,up-right,toothbrush,up,linen,right,toothbrush,down,toothbrush,down,cup)
+two hand object:((960,812,bed),none,none,none,toothbrush,up-left,toothbrush,left,toothbrush,still,toothbrush,down-left,toothbrush,down-left,bed,up,room,right,cellphone,down-left,desk,up,bed,still,bed,still,bed,up-right,pair of scissors,up,toothbrush,down-left,toothbrush,right,toothbrush,down-right,toothbrush,left,room,right,room,still,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → right → right → up-left → left → still → still → up-left → up-right → right → left → right → up-left → up-left → down-left → down-right → up-right → up → down → down → right → still → down (object: pair of scissors → card → usb drive → glass cup → toothbrush → desk → phone → bed → fork → remote control)
+Right hand: up → down-left → down-left → left → left → up → up → still → up → down → down-right → down-left → still → still → up-left → up → down → down → up → up-right → down-left → down → down-left (object: bed → pair of scissors → glass cup → toothbrush → laptop → fork → cup → linen)
+Two-hand object: room → pair of scissors → toothbrush → desk → bed → cellphone

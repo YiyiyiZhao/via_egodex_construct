@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((874,1036),right,up-left,down-right,left,down-right,up-right,down-left,down-left,down-left,left,up-left,up-left)
+right hand:((None,None),none,up-left,up-right,down,down,up,down-left,right,right,right,up-left,still)
+left hand object:((820,881,floor),right,desk,none,none,none,shoe,none,none,shoe,none,none,hair straightener,right,shoe,left,shoe,still,shoe,left,floor)
+right hand object:((None,None),none,desk,none,none,none,shoe,none,none,shoe,none,none,purse,right,shoe,left,shoe,still,shoe,still,shoe)
+two hand object:((None,None),none,desk,none,none,none,shoe,none,none,shoe,none,none,hair straightener,right,shoe,left,shoe,still,shoe,still,shoe)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → down-right → left → down-right → up-right → down-left → down-left → down-left → left → up-left → up-left (object: floor → shoe → desk → hair straightener)
+Right hand: none → up-left → up-right → down → down → up → down-left → right → right → right → up-left → still (object: shoe → desk → purse)
+Two-hand object: shoe → desk → hair straightener

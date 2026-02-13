@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((803,756),up,still,up-left,up,down,up-right,up,up-left,up-right,still,down-left)
+right hand:((1484,812),up,still,up,left,up-left,down-left,up-right,down-right,down-left,up-right,right)
+left hand object:((942,790,desk),up-right,desk,right,desk,left,desk,right,desk,left,desk,up,counter,right,desk,right,desk,still,countertop,left,counter,right,desk)
+right hand object:((942,790,desk),up-right,desk,right,desk,left,desk,right,desk,right,piece of clothing,left,counter,up-right,cutting pad,right,watch,left,microfiber cloth,up,phone,left,desk)
+two hand object:((942,790,desk),up-right,desk,right,desk,left,desk,right,desk,up,room,down,countertop,right,desk,right,desk,still,countertop,left,counter,right,counter)
+
+
+## LLM-Friendly Format:
+Left hand: up → still → up-left → up → down → up-right → up → up-left → up-right → still → down-left (object: counter → desk → countertop)
+Right hand: up → still → up → left → up-left → down-left → up-right → down-right → down-left → up-right → right (object: counter → desk → phone → piece of clothing → microfiber cloth → cutting pad → watch)
+Two-hand object: counter → desk → room → countertop

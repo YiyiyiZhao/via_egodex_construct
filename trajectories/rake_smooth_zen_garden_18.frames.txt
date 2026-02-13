@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((885,320),up-right,still,up-left,up,down-right,up-left,up-left,up-left,up-left)
+right hand:((1682,850),down-left,right,up-right,up,up-left,up-right,up,still,still)
+left hand object:((1128,574,sand disc),up,sand disc,still,sand disc,up-left,sand disc,left,counter,up-right,toothbrush,down,toothbrush,down,sand disc,still,sand disc,up,toothbrush)
+right hand object:((1333,624,paint brush),down-right,pair of scissors,up-left,paint brush,none,none,counter,up-right,toothbrush,down,toothbrush,down,sand disc,still,sand disc,still,sand disc)
+two hand object:((None,None),none,none,none,none,table,right,sand disc,up,sand disc,up,sand disc,still,sand disc,still,sand disc)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → still → up-left → up → down-right → up-left → up-left → up-left → up-left (object: counter → sand disc → toothbrush)
+Right hand: down-left → right → up-right → up → up-left → up-right → up → still → still (object: sand disc → pair of scissors → paint brush → counter → toothbrush)
+Two-hand object: table → sand disc

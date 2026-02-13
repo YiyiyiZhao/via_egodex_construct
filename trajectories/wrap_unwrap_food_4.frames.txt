@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((900,638),right,up-left,left,up-left,down-right,up,left,down-left,right,up-right,up-left,down)
+right hand:((1436,639),down-left,up-left,down-right,up,up-right,down-left,still,down-left,up-right,up-right,right,left)
+left hand object:((None,None),none,toothbrush,left,lemonade,down-left,juice,up-right,plate,down-left,lemonade,down-left,lemonade,up,linen,none,none,countertop,none,none,none,fidget spinner ring)
+right hand object:((1138,274,linen),down,toothbrush,left,yoghurt cup,down-left,juice,up-right,plate,up,linen,down,lemonade,up-right,lemonade,right,spoon,down,banana,down-right,banana,none,none,banana)
+two hand object:((None,None),none,toothbrush,left,lemonade,up,linen,still,linen,none,none,lemonade,none,none,none,countertop,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → left → up-left → down-right → up → left → down-left → right → up-right → up-left → down (object: juice → countertop → toothbrush → linen → plate → fidget spinner ring → lemonade)
+Right hand: down-left → up-left → down-right → up → up-right → down-left → still → down-left → up-right → up-right → right → left (object: yoghurt cup → juice → spoon → toothbrush → linen → plate → banana → lemonade)
+Two-hand object: countertop → toothbrush → linen → lemonade

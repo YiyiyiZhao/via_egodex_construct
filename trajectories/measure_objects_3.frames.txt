@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((524,698),right,left,up-right,down-left,down-left,right,down-right,up-right,left,right,up-right,up-right,left,right,left,up,down-left)
+right hand:((1697,698),left,up-right,up,down-left,right,left,up-right,up-right,down-right,left,up-right,down-right,right,down-left,right,up-left,left)
+left hand object:((1050,771,instruction manual),up-left,book,down-left,desk,right,rolling tray,left,counter,right,instruction manual,up,book,down-right,instruction manual,up-right,instruction manual,down-left,instruction manual,up-left,book,right,book,down-right,instruction manual,down-left,rolling tray,left,book,right,instruction manual,up-left,instruction manual,down-left,instruction manual)
+right hand object:((None,None),none,magazine,right,rolling tray,up-right,instruction manual,down-left,instruction manual,down-left,instruction manual,up,book,right,crayon,up-right,toothbrush,up-right,paint brush,down-left,cutting pad,up-left,book,down-right,instruction manual,right,cellphone,down-left,instruction manual,down,rolling tray,up-left,instruction manual,down,desk)
+two hand object:((None,None),none,architectural craft manual,right,instruction manual,up-right,instruction manual,down-left,rolling tray,down-left,instruction manual,up,instruction manual,down-right,book,up-right,instruction manual,down-left,instruction manual,up-left,book,right,book,down-right,instruction manual,down-left,rolling tray,up-right,instruction manual,down,rolling tray,up-left,rolling tray,down,desk)
+
+
+## LLM-Friendly Format:
+Left hand: right → left → up-right → down-left → down-left → right → down-right → up-right → left → right → up-right → up-right → left → right → left → up → down-left (object: book → counter → rolling tray → desk → instruction manual)
+Right hand: left → up-right → up → down-left → right → left → up-right → up-right → down-right → left → up-right → down-right → right → down-left → right → up-left → left (object: magazine → book → crayon → paint brush → rolling tray → toothbrush → desk → cutting pad → instruction manual → cellphone)
+Two-hand object: book → rolling tray → desk → architectural craft manual → instruction manual

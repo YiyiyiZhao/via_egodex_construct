@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((434,850),up,up,up,down,right,down-left,down)
+right hand:((1862,1006),up,up-left,left,up,up-right,right,down-right)
+left hand object:((356,678,ruler),up,ruler,up,pipe wrench,up,ruler,up-right,ruler,down-right,ruler,down,ruler,down,ruler)
+right hand object:((976,788,countertop),up,counter,up,counter,right,pair of scissors,left,counter,up-right,tongs,down-left,counter,down,counter)
+two hand object:((983,785,counter),up,counter,up,counter,up,counter,down,counter,down,counter,down,counter,down,counter)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → up → down → right → down-left → down (object: ruler → pipe wrench)
+Right hand: up → up-left → left → up → up-right → right → down-right (object: counter → tongs → pair of scissors → countertop)
+Two-hand object: counter

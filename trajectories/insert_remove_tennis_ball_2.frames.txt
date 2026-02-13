@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((887,570),down-right,up-left,up,right,down-left,left,right,down,down,left,right,down-right,down-right,still)
+right hand:((1288,747),up-left,up,down-right,right,down-right,down,up,right,left,right,down-right,down-left,up,up-left)
+left hand object:((960,812,desk),none,none,none,glass cup,down,cup,down,phone,up-left,phone,right,remote control,left,phone,down-right,remote control,up-left,phone,right,glass cup,down-right,cup,right,glass,down,bottle)
+right hand object:((960,812,desk),none,none,none,bed,up,glass cup,down,phone,down-right,apple,up-left,remote control,down,desk,up,remote control,right,tennis ball,down,apple,down-left,bed,up,apple,down,bottle)
+two hand object:((962,541,room),none,none,none,bed,up,glass cup,down,phone,down,countertop,up,remote control,down,desk,up,remote control,down,desk,still,desk,left,bed,up,glass cup,down,bottle)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → up → right → down-left → left → right → down → down → left → right → down-right → down-right → still (object: glass → glass cup → phone → desk → cup → bottle → remote control)
+Right hand: up-left → up → down-right → right → down-right → down → up → right → left → right → down-right → down-left → up → up-left (object: tennis ball → glass cup → apple → phone → desk → bed → bottle → remote control)
+Two-hand object: room → countertop → glass cup → phone → desk → bed → bottle → remote control

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((836,666),down-right,down-left,up-left,up-right,down,right,down,up-right,down)
+right hand:((None,None),none,up-right,left,down-right,left,up-right,right,down-left,down-right)
+left hand object:((884,632,pear),down-right,pear,left,pot holder,left,dish drainer,right,sink,left,rolling tray,right,rolling tray,up-left,sink,right,hot plate,down,hot plate)
+right hand object:((None,None),none,pear,up-right,sink,left,rolling tray,left,sink,left,rolling tray,right,rolling tray,up-left,sink,right,hot plate,down,hot plate)
+two hand object:((None,None),none,kitchen workbench,none,none,kitchen workbench,down-right,sink,left,rolling tray,right,rolling tray,left,kitchen workbench,right,hot plate,down,rolling tray)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → down-left → up-left → up-right → down → right → down → up-right → down (object: hot plate → sink → pot holder → rolling tray → dish drainer → pear)
+Right hand: none → up-right → left → down-right → left → up-right → right → down-left → down-right (object: rolling tray → sink → pear → hot plate)
+Two-hand object: rolling tray → kitchen workbench → sink → hot plate

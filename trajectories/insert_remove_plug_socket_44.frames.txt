@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((806,790),up-left,right,still,up-right,up-right,right,up-right)
+right hand:((1566,761),left,down-left,left,up,right,right,down-left)
+left hand object:((964,549,room),down-right,remote control,up,glue gun,down-left,remote control,up,remote control,right,remote control,up-left,remote control,right,remote control)
+right hand object:((964,549,room),down-right,remote control,up,glue gun,down-left,remote control,right,lotion tube,left,remote control,right,remote control,down-left,remote control)
+two hand object:((964,549,room),down-right,remote control,up,glue gun,down-left,remote control,up,remote control,right,remote control,up-left,remote control,right,remote control)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → right → still → up-right → up-right → right → up-right (object: glue gun → remote control → room)
+Right hand: left → down-left → left → up → right → right → down-left (object: glue gun → remote control → lotion tube → room)
+Two-hand object: glue gun → remote control → room

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((936,988),left,up-left,up-right,up-right,up-right,up-right,left,down,still,left,still,up,up-left,still,left,down-right,still,up)
+right hand:((1604,896),up-left,up,down-left,down-left,up-left,right,left,right,up-right,down-left,still,up-right,up-right,right,left,down,right,up-right)
+left hand object:((960,778,desk),left,book,left,cutting pad,right,cutting pad,up-right,instruction manual,up,instruction manual,right,instruction manual,left,instruction manual,down,instruction manual,still,instruction manual,left,instruction manual,still,instruction manual,still,instruction manual,up-left,instruction manual,up-left,instruction manual,up-left,instruction manual,down-right,instruction manual,still,instruction manual,up-left,architectural craft manual)
+right hand object:((960,778,desk),down,desk,up-right,rubik cube,down-left,cutting pad,up-right,instruction manual,up,instruction manual,right,instruction manual,left,instruction manual,down,instruction manual,still,instruction manual,left,instruction manual,right,seed bead embroidery,left,instruction manual,up-left,instruction manual,up-left,instruction manual,up-left,instruction manual,down-right,instruction manual,still,instruction manual,down-left,desk)
+two hand object:((960,778,desk),down,desk,left,desk,up-right,architectural craft manual,up-right,instruction manual,up,instruction manual,right,instruction manual,left,instruction manual,down,instruction manual,still,instruction manual,left,instruction manual,still,instruction manual,still,instruction manual,up-left,instruction manual,up-left,instruction manual,up-left,instruction manual,down-right,instruction manual,still,instruction manual,down-left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: left → up-left → up-right → up-right → up-right → up-right → left → down → still → left → still → up → up-left → still → left → down-right → still → up (object: book → desk → architectural craft manual → cutting pad → instruction manual)
+Right hand: up-left → up → down-left → down-left → up-left → right → left → right → up-right → down-left → still → up-right → up-right → right → left → down → right → up-right (object: seed bead embroidery → rubik cube → desk → cutting pad → instruction manual)
+Two-hand object: architectural craft manual → desk → instruction manual

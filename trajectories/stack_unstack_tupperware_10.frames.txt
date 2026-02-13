@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((742,1020),right,up,left,up,down-right,up-left,up-left,right,left,right,up-left,right,still,left)
+right hand:((1532,989),up-left,down-right,up-left,down-right,up,down-right,down,left,down-right,up,down-right,up-left,up,down-right)
+left hand object:((732,540,cupboard),up-right,refrigerator,right,kitchen,down-left,cutting mat,up-right,kitchen workbench,down-left,cutting mat,up-left,cutting mat,still,cutting pad,right,cutting pad,left,cutting pad,right,cutting pad,left,cutting pad,right,cutting mat,still,cutting pad,right,kitchen workbench)
+right hand object:((1006,534,kitchen),left,fridge,up,cupboard,left,cupboard,right,microwave,up,stove,up-left,stove,down,rolling tray,up-left,kitchen workbench,down,counter,up-left,microwave,down-right,rolling tray,up,microwave,left,measuring cup,down-right,pair of scissors)
+two hand object:((None,None),none,fridge,right,kitchen workbench,still,kitchen workbench,left,cupboard,right,kitchen,right,kitchen workbench,left,kitchen workbench,right,kitchen workbench,right,kitchen workbench,left,kitchen workbench,still,kitchen workbench,left,kitchen workbench,right,kitchen workbench,right,kitchen workbench)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → left → up → down-right → up-left → up-left → right → left → right → up-left → right → still → left (object: kitchen workbench → refrigerator → kitchen → cupboard → cutting pad → cutting mat)
+Right hand: up-left → down-right → up-left → down-right → up → down-right → down → left → down-right → up → down-right → up-left → up → down-right (object: kitchen workbench → pair of scissors → microwave → stove → rolling tray → counter → measuring cup → fridge → kitchen → cupboard)
+Two-hand object: cupboard → kitchen workbench → fridge → kitchen

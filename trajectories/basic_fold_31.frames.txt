@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((504,516),left,right,up-right,left,right,down,right,up-right,right,down-left,left,right,up-right,down-left,down-left,up-left,left)
+right hand:((1655,936),up-left,up,up-left,right,right,down,right,none,none,none,none,none,none,none,none,none,none)
+left hand object:((630,395,cardboard box),none,none,watch,up-right,fidget spinner ring,down,bed,right,tablet bag,left,bed,up,bed,down-right,wristwatch,right,cutting mat,up-left,room,down,bed,down-right,sketchbook,down-right,towel,left,sketchbook,up-left,tablet bag,still,tablet bag,down-left,watch)
+right hand object:((958,812,bed),none,none,bed,up-right,scissors,down-left,bed,right,tablet bag,left,bed,none,none,none,none,room,none,none,microfiber cloth,none,none,none,none,none,bed)
+two hand object:((958,812,bed),none,none,bed,up,cellphone,down-left,tablet bag,right,tablet bag,left,bed,none,none,none,none,room,none,none,towel,none,none,none,none,none,bed)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → up-right → left → right → down → right → up-right → right → down-left → left → right → up-right → down-left → down-left → up-left → left (object: tablet bag → towel → room → wristwatch → cardboard box → bed → watch → cutting mat → sketchbook → fidget spinner ring)
+Right hand: up-left → up → up-left → right → right → down → right → none → none → none → none → none → none → none → none → none → none (object: tablet bag → room → scissors → bed → microfiber cloth)
+Two-hand object: tablet bag → towel → room → bed → cellphone

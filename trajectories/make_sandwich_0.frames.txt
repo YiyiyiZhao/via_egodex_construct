@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((554,703),down-left,left,up-right,right,down-right,up-left,right,left,up-right,up-left,down-right,up-left,down-right,up,down-left,down)
+right hand:((1404,770),up,left,down-right,up-left,right,right,down-left,left,up-right,up-right,down-left,up-right,left,down,up-left,up)
+left hand object:((532,401,linen),down,pet,right,bed,left,pet,up-right,bottle cap,down-right,plate,up-left,linen,down-right,sandwich,up-left,masking tape,down,countertop,up-left,linen,down-right,plate,up-left,linen,down-right,bed,up-left,linen,down-right,bed,left,bed)
+right hand object:((920,806,bed),up-right,sponge cloth,left,cutting pad,down-right,sponge cloth,down-left,plate,up-right,plate,down,plate,up,sandwich,none,none,plate,left,plate,up,plate,down,plate,up-left,bed,down-right,plate,up-left,plate,left,bed)
+two hand object:((920,806,bed),left,bed,left,bed,right,bed,none,none,plate,left,bed,right,sandwich,none,none,countertop,up,bed,down,bed,still,bed,still,bed,still,bed,down-left,bed,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → left → up-right → right → down-right → up-left → right → left → up-right → up-left → down-right → up-left → down-right → up → down-left → down (object: bed → countertop → masking tape → pet → linen → plate → sandwich → bottle cap)
+Right hand: up → left → down-right → up-left → right → right → down-left → left → up-right → up-right → down-left → up-right → left → down → up-left → up (object: bed → sponge cloth → plate → cutting pad → sandwich)
+Two-hand object: plate → countertop → sandwich → bed

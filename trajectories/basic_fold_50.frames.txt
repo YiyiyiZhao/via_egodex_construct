@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((767,752),up,up-right,up-left,right,down-left,left,down-left,up-left,down-left,down-left,up,up-left,up,up-right,up-right,left,right,down,right,left,up-right,up-left,right)
+right hand:((1402,754),up-left,left,up,down,right,down-right,up-left,up-left,none,none,down-right,down-left,up,up-left,left,down-right,down-left,up-left,right,down-left,up,left,right)
+left hand object:((962,761,bed),still,bed,up,fidget spinner ring,down-right,towel,none,none,bed,down-right,blanket,left,blanket,left,blanket,up-right,blanket,up-left,bed,up,bed,still,bed,down-right,bed,up-right,towel,down-left,bed,up-right,bed,none,none,bed,up-left,bed,right,sponge cloth,right,sponge cloth,left,napkin,right,sponge cloth)
+right hand object:((1499,860,fidget spinner ring),left,watch,up-left,fidget spinner ring,left,towel,down-left,carpet,up,bed,right,bed,down-right,fidget spinner ring,up-left,bed,none,none,bed,up,bed,still,bed,down-right,bed,up-right,towel,right,watch,left,bed,right,fidget spinner ring,up-left,watch,up-right,fidget spinner ring,down-left,bed,right,sponge cloth,left,napkin,down,bed)
+two hand object:((962,761,bed),still,bed,up,bed,up-right,towel,none,none,bed,right,bed,left,bed,down,blanket,none,none,bed,up,bed,still,bed,down-right,bed,right,bed,left,bed,up-right,bed,none,none,bed,up-left,bed,right,sponge cloth,right,sponge cloth,left,napkin,down,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → up-left → right → down-left → left → down-left → up-left → down-left → down-left → up → up-left → up → up-right → up-right → left → right → down → right → left → up-right → up-left → right (object: towel → sponge cloth → napkin → bed → blanket → fidget spinner ring)
+Right hand: up-left → left → up → down → right → down-right → up-left → up-left → none → none → down-right → down-left → up → up-left → left → down-right → down-left → up-left → right → down-left → up → left → right (object: carpet → towel → sponge cloth → napkin → watch → bed → fidget spinner ring)
+Two-hand object: towel → sponge cloth → napkin → bed → blanket

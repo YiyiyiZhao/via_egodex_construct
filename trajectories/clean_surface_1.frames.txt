@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((883,682),up,still,still,still,still,still,down-left,still,still)
+right hand:((1630,740),down-left,down-left,up-right,left,down-left,up-right,left,left,up-right)
+left hand object:((1027,741,seed bead embroidery),up,seed bead embroidery,none,none,seed bead embroidery,still,seed bead embroidery,none,none,seed bead embroidery,none,none,none)
+right hand object:((1444,624,handle grip bar),left,room,still,room,right,toothbrush,down-left,paper towel,left,toothbrush,up-right,toothbrush,left,room,down-right,toothbrush,up-left,room)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up → still → still → still → still → still → down-left → still → still (object: seed bead embroidery)
+Right hand: down-left → down-left → up-right → left → down-left → up-right → left → left → up-right (object: paper towel → toothbrush → room → handle grip bar)

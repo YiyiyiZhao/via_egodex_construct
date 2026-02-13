@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((968,668),right,up,left,left,up-left,up,down-left)
+right hand:((1457,828),up-right,up,up-left,left,right,still,left)
+left hand object:((1256,799,sink),up-left,jenga block,down-right,sink,down-left,sink,right,countertop,none,none,toothbrush,down-left,remote control)
+right hand object:((1256,799,sink),left,floor,right,foam block,left,sink,right,foam block,up,foam block,up,foam block,right,foam block)
+two hand object:((1256,799,sink),left,floor,right,sink,down-left,sink,up-left,room,none,none,sink,right,floor)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → left → left → up-left → up → down-left (object: jenga block → countertop → sink → toothbrush → remote control)
+Right hand: up-right → up → up-left → left → right → still → left (object: floor → foam block → sink)
+Two-hand object: floor → sink → room

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((689,639),right,up-left,up-right,down-right,left,up-right,down-right,right,up,left,right,up,right,still,right,down,right,left,right,right,left)
+right hand:((1817,551),left,right,up-right,left,right,up-right,left,up,down,right,up-right,up-right,left,left,down-right,down,down-right,down-right,down-right,left,up-left)
+left hand object:((333,586,pipe wrench),right,keyboard,up-left,keyboard,right,keyboard,still,dish rack,down-left,counter,still,desk,up-right,keyboard,up-right,keyboard,right,keyboard,left,keyboard,right,keyboard,right,keyboard,up,keyboard,left,keyboard,right,keyboard,down,keyboard,right,dish drainer,left,keyboard,right,keyboard,left,counter,up-right,keyboard)
+right hand object:((1092,742,desk),up,keyboard,down,desk,up-right,toothbrush,down-left,dish rack,up-right,keyboard,up-right,toothbrush,left,measuring tape,up-right,measuring tape,down-right,keyboard,left,keyboard,right,keyboard,up-right,paint brush,down-left,keyboard,left,keyboard,right,keyboard,down,keyboard,right,dish drainer,left,keyboard,right,keyboard,left,counter,up-right,keyboard)
+two hand object:((1092,742,desk),up,keyboard,up-left,keyboard,right,keyboard,up,toothbrush,down,keyboard,down-right,keyboard,up-left,keyboard,up-right,keyboard,right,keyboard,left,keyboard,down-left,desk,up-right,keyboard,up,keyboard,left,keyboard,right,keyboard,down,keyboard,right,dish rack,left,desk,right,keyboard,left,kitchen workbench,down,desk)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → up-right → down-right → left → up-right → down-right → right → up → left → right → up → right → still → right → down → right → left → right → right → left (object: keyboard → dish drainer → counter → desk → pipe wrench → dish rack)
+Right hand: left → right → up-right → left → right → up-right → left → up → down → right → up-right → up-right → left → left → down-right → down → down-right → down-right → down-right → left → up-left (object: keyboard → dish drainer → measuring tape → paint brush → counter → toothbrush → desk → dish rack)
+Two-hand object: kitchen workbench → keyboard → toothbrush → desk → dish rack

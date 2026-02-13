@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((732,986),right,down-right,up,still,up,down-left,right,down-left,left,up-right,right,still,right,left)
+right hand:((1412,952),left,up,up-right,down-left,down-left,up-right,up-right,down-left,none,none,up-left,up-right,down-left,down-right)
+left hand object:((772,886,desk),right,desk,left,floor,up-right,room,down,desk,left,desk,up,room,still,room,still,room,down-left,floor,up-right,room,none,none,room,still,room,down-left,desk)
+right hand object:((1196,930,book),up-left,phone,right,architectural craft manual,up,box,up-left,box,down-left,desk,right,architectural craft manual,up,box,left,jenga block,none,none,remote control,up-left,box,still,carton,up,carton,left,desk)
+two hand object:((772,886,desk),right,desk,up-right,room,still,room,still,room,down,desk,up,room,still,room,still,room,none,none,room,none,none,room,still,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: right → down-right → up → still → up → down-left → right → down-left → left → up-right → right → still → right → left (object: floor → desk → room)
+Right hand: left → up → up-right → down-left → down-left → up-right → up-right → down-left → none → none → up-left → up-right → down-left → down-right (object: jenga block → carton → book → desk → phone → architectural craft manual → remote control → box)
+Two-hand object: desk → room

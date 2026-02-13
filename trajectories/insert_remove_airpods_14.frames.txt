@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1077,930),up-right,up,still,up-left,still,up-left,left)
+right hand:((1521,960),up-left,up,up-right,right,left,down,right)
+left hand object:((960,806,bed),right,device,up,remote control,right,remote control,left,bed,still,bed,still,bed,down,bed)
+right hand object:((960,806,bed),right,remote control,up,remote control,right,remote control,left,bed,still,bed,still,bed,down,bed)
+two hand object:((960,806,bed),up,bed,up,bed,up,bed,still,bed,still,bed,still,bed,down,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → still → up-left → still → up-left → left (object: remote control → device → bed)
+Right hand: up-left → up → up-right → right → left → down → right (object: remote control → bed)
+Two-hand object: bed

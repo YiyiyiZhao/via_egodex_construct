@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((937,788),up,up,left,up,down-right,right,down-left,up-right,left)
+right hand:((1316,894),up-left,up,up,up,down,down-left,still,up-right,left)
+left hand object:((995,714,flower),up-right,banana,up-right,banana,left,banana,up,toothbrush,down-right,banana,up-right,banana,down-left,toothbrush,up-right,toothbrush,up-left,banana)
+right hand object:((960,797,bed),up-right,toothbrush,up-right,banana,left,banana,up,toothbrush,down-right,banana,down-left,fidget spinner ring,up-right,toothbrush,up-right,banana,up-left,banana)
+two hand object:((960,797,bed),up-right,banana,up-right,banana,left,banana,up,toothbrush,down-right,banana,down-left,fidget spinner ring,down,fidget spinner ring,up-right,toothbrush,up-left,banana)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → left → up → down-right → right → down-left → up-right → left (object: banana → toothbrush → flower)
+Right hand: up-left → up → up → up → down → down-left → still → up-right → left (object: banana → toothbrush → fidget spinner ring → bed)
+Two-hand object: banana → toothbrush → fidget spinner ring → bed

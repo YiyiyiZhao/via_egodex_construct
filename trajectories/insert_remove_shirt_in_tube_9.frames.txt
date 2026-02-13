@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((806,883),up-left,up-right,up-right,up-left,left,up-right,right,still,right,down,up-left,up,still,down,right,up-left,down-right,down-left)
+right hand:((1459,920),still,up-left,up-left,down-right,up-left,up,down-right,up-left,up-left,still,up-right,left,down,left,up-left,down,down-right,down-right)
+left hand object:((866,657,salt can),still,salt can,down,countertop,up,bottle,down,countertop,none,none,countertop,up-right,flask,up,cup,none,none,none,glass cup,left,cup,still,glass cup,down,cup,none,none,glass cup,none,none,salt can)
+right hand object:((954,822,table),still,countertop,left,countertop,up,bottle,right,apple,none,none,sponge cloth,none,none,napkin,none,none,none,towel,left,paper bag,down,towel,down-left,napkin,none,none,glass cup,none,none,desk)
+two hand object:((954,822,table),still,countertop,left,countertop,up,bottle,down,countertop,none,none,room,none,none,napkin,none,none,none,room,still,room,down,table,right,countertop,none,none,glass cup,none,none,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → up-right → up-left → left → up-right → right → still → right → down → up-left → up → still → down → right → up-left → down-right → down-left (object: countertop → flask → glass cup → bottle → cup → salt can)
+Right hand: still → up-left → up-left → down-right → up-left → up → down-right → up-left → up-left → still → up-right → left → down → left → up-left → down → down-right → down-right (object: towel → countertop → table → glass cup → sponge cloth → napkin → apple → bottle → desk → paper bag)
+Two-hand object: room → countertop → table → glass cup → napkin → bottle → desk

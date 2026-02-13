@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((898,962),still,right,still,up,left,down-left,still)
+right hand:((1472,918),up-left,up-left,up,down-left,right,down-left,right)
+left hand object:((956,804,bed),still,bed,right,elastic band,up-left,elastic band,left,cable,none,none,charging cable,still,charging cable)
+right hand object:((956,804,bed),right,instruction manual,left,bed,up-right,touchpad,down-left,phone,right,cellphone,down-left,tablet,down,touchpad)
+two hand object:((956,804,bed),still,bed,still,bed,right,elastic band,left,charging cable,none,none,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → right → still → up → left → down-left → still (object: charging cable → cable → elastic band → bed)
+Right hand: up-left → up-left → up → down-left → right → down-left → right (object: touchpad → phone → bed → tablet → instruction manual → cellphone)
+Two-hand object: charging cable → elastic band → bed

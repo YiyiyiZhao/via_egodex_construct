@@ -1,0 +1,6 @@
+{
+  "video_name": "arrange_topple_dominoes_0.frames",
+  "action_label": "arrange_topple_dominoes",
+  "description": "A small line of upright white domino tiles sits near the middle of a light-colored tabletop, with both hands hovering nearby. The left hand moves in toward the row and nudges the first tile, toppling the dominoes in sequence so they fall across the table into a scattered line, while the right hand stays slightly back and does not touch the tiles.",
+  "model": "gpt-5.2-2025-12-11"
+}

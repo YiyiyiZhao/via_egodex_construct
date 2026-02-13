@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((981,1024),still,right,still,still,still,up-left,down-right,right,left,right,still,left,still,up-right,down-left,still)
+right hand:((1297,851),up-right,down,left,up-right,right,right,left,right,down-right,up-left,down-left,down-right,left,none,none,up-right)
+left hand object:((960,824,floor),down,cutting mat,up,floor,right,kitchen countertop,none,none,sweeping brush,down,clay lump,up-right,cutting mat,down-left,chapati,left,clay lump,up,plastering trowel,down,countertop,right,cutting board,down,countertop,up-right,banana,left,plastering trowel,down,piece of sandpaper)
+right hand object:((960,824,floor),up-right,refrigerator,left,room,down,kitchen countertop,up-right,apple,left,banana,up-right,microwave,down-left,apple,right,apple,down,banana,left,kitchen countertop,up-right,plum,down,cutting board,down,countertop,none,none,kitchen,still,room)
+two hand object:((960,540,room),still,room,still,room,down,kitchen countertop,none,none,refrigerator,none,none,cutting mat,left,countertop,up-right,cupboard,down-left,countertop,still,countertop,right,countertop,down,countertop,none,none,kitchen countertop,up,room)
+
+
+## LLM-Friendly Format:
+Left hand: still → right → still → still → still → up-left → down-right → right → left → right → still → left → still → up-right → down-left → still (object: floor → sweeping brush → cutting board → countertop → kitchen countertop → clay lump → chapati → plastering trowel → piece of sandpaper → banana → cutting mat)
+Right hand: up-right → down → left → up-right → right → right → left → right → down-right → up-left → down-left → down-right → left → none → none → up-right (object: floor → plum → cutting board → room → countertop → kitchen countertop → microwave → apple → kitchen → banana → refrigerator)
+Two-hand object: room → countertop → kitchen countertop → cupboard → cutting mat → refrigerator

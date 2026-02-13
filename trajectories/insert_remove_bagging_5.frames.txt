@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((695,783),right,up,left,down,down-right,up,up,right,left,right,up-left,down,down-right,still)
+right hand:((1340,752),up,right,down,down,up-left,none,none,up-left,up-right,down,up-left,down-right,down-right,up-left)
+left hand object:((958,818,tablet bag),up-left,fidget spinner ring,right,tablet bag,none,none,bag,up,paper bag,left,knife,right,bag,down-left,polythene bag,up-right,bag,down-right,bag,left,bag,none,none,none)
+right hand object:((None,None),none,paper bag,none,none,paper bag,none,none,paper bag,none,none,nylon bag,down-left,polythene bag,up-right,bag,right,bag,none,none,none,none,bag)
+two hand object:((None,None),none,paper bag,none,none,none,none,paper bag,none,none,nylon bag,down-left,bag,up-right,bag,down-right,bag,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → left → down → down-right → up → up → right → left → right → up-left → down → down-right → still (object: tablet bag → bag → knife → polythene bag → paper bag → fidget spinner ring)
+Right hand: up → right → down → down → up-left → none → none → up-left → up-right → down → up-left → down-right → down-right → up-left (object: paper bag → bag → polythene bag → nylon bag)
+Two-hand object: paper bag → bag → nylon bag

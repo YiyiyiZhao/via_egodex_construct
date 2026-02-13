@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((960,846),down-left,right,up,left,right,right,up-right,still,still)
+right hand:((1242,658),up-right,down-left,up-left,up-right,down,up-left,down-left,still,still)
+left hand object:((958,649,phone),down,toothbrush,up-left,phone,up,phone,left,remote control,up-right,bed,down-left,phone,up-right,phone,still,phone,up,phone)
+right hand object:((1368,543,seed bead embroidery),left,bed,down-right,toothbrush,up-right,seed bead embroidery,up,fidget spinner ring,left,bed,still,bed,right,flower tray,left,flower tray,up,seed bead embroidery)
+two hand object:((958,649,phone),up,bed,down-right,toothbrush,up-left,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → right → up → left → right → right → up-right → still → still (object: remote control → toothbrush → phone → bed)
+Right hand: up-right → down-left → up-left → up-right → down → up-left → down-left → still → still (object: seed bead embroidery → toothbrush → flower tray → bed → fidget spinner ring)
+Two-hand object: toothbrush → phone → bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((676,998),still,up,left,up-right,still,still,still,down-right,left,still,left)
+right hand:((1276,952),up-left,up-right,right,right,left,left,left,left,still,right,right)
+left hand object:((960,540,kitchen),still,kitchen,still,kitchen,none,none,kitchen,none,none,none,none,kitchen,still,kitchen,none,none,room)
+right hand object:((1200,924,microfiber cloth),up-left,microfiber cloth,up,kitchen,down-right,microfiber cloth,right,cleaning cloth,left,towel,none,none,none,microfiber cloth,down-left,microfiber cloth,right,microfiber cloth,right,sponge cloth)
+two hand object:((960,540,kitchen),still,kitchen,still,kitchen,none,none,kitchen,none,none,none,none,kitchen,still,kitchen,none,none,room)
+
+
+## LLM-Friendly Format:
+Left hand: still → up → left → up-right → still → still → still → down-right → left → still → left (object: kitchen → room)
+Right hand: up-left → up-right → right → right → left → left → left → left → still → right → right (object: towel → cleaning cloth → sponge cloth → kitchen → microfiber cloth)
+Two-hand object: kitchen → room

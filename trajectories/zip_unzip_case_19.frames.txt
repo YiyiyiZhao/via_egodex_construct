@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((820,710),up,right,up,right,down-left,up,right)
+right hand:((1561,718),left,left,right,left,right,down,up-right)
+left hand object:((1088,757,hot plate),up-left,hot plate,right,pot lid,up,sand disc,up-left,fidget spinner ring,down-left,fidget spinner ring,right,pot lid,up-left,fidget spinner ring)
+right hand object:((1712,812,watch),up-left,fidget spinner ring,left,watch,left,sand disc,up-right,fidget spinner ring,right,fidget spinner ring,left,sand disc,right,pot lid)
+two hand object:((962,760,countertop),still,countertop,right,hot plate,up,sand disc,still,sand disc,left,bed,up-right,pot lid,up-left,room)
+
+
+## LLM-Friendly Format:
+Left hand: up → right → up → right → down-left → up → right (object: sand disc → pot lid → hot plate → fidget spinner ring)
+Right hand: left → left → right → left → right → down → up-right (object: fidget spinner ring → sand disc → pot lid → watch)
+Two-hand object: sand disc → pot lid → room → countertop → bed → hot plate

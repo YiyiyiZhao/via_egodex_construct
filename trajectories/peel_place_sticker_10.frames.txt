@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((526,706),up-right,down-right,up-left,up,down,still,up-left,up-left,right,up-left,down,right,down-right,down-left,right,down)
+right hand:((1788,755),down-left,down,still,right,still,still,still,left,up,left,down,up-right,right,down-left,still,down-left)
+left hand object:((958,770,desk),right,magazine,up-right,instruction manual,left,bed,up,fidget spinner ring,down-right,instruction manual,left,tablet bag,up-left,fidget spinner ring,down-right,rolling tray,none,none,paper tablemat,right,magazine,left,architectural craft manual,down-left,sketch manual,left,cutting pad,up-right,cutting pad,left,bed)
+right hand object:((1250,861,instruction manual),up,instruction manual,up-right,instruction manual,left,bed,right,instruction manual,down,instruction manual,still,instruction manual,still,instruction manual,left,desk,none,none,paper tablemat,right,magazine,left,desk,right,sketch manual,left,bed,still,bed,down,bed)
+two hand object:((1249,860,magazine),up,instruction manual,up-right,instruction manual,left,bed,right,instruction manual,down,instruction manual,still,instruction manual,still,instruction manual,left,desk,none,none,paper tablemat,right,magazine,left,magazine,down-left,cutting pad,left,cutting pad,up-right,cutting pad,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down-right → up-left → up → down → still → up-left → up-left → right → up-left → down → right → down-right → down-left → right → down (object: tablet bag → magazine → paper tablemat → rolling tray → sketch manual → desk → instruction manual → bed → architectural craft manual → cutting pad → fidget spinner ring)
+Right hand: down-left → down → still → right → still → still → still → left → up → left → down → up-right → right → down-left → still → down-left (object: magazine → paper tablemat → sketch manual → desk → bed → instruction manual)
+Two-hand object: magazine → paper tablemat → desk → bed → cutting pad → instruction manual

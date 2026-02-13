@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((986,712),left,right,left,right,right,left,up,down,up)
+right hand:((1110,520),down-right,up,right,right,left,left,right,up-right,down-left)
+left hand object:((960,694,countertop),up-left,toothbrush,down-right,counter,up-left,bottle,down-right,handle grip bar,up-right,measuring tape,left,countertop,up,cup,down-right,bottle cap,up,tape)
+right hand object:((1090,498,cup),down-right,cup,up-right,cup,down-left,sponge cloth,up-left,cup,down-left,measuring tape,left,countertop,up,countertop,right,bottle cap,up,measuring tape)
+two hand object:((960,694,countertop),up,room,down,countertop,still,desk,still,countertop,down,countertop,up,countertop,up,countertop,still,countertop,up-right,measuring tape)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → left → right → right → left → up → down → up (object: tape → handle grip bar → countertop → measuring tape → counter → toothbrush → bottle → cup → bottle cap)
+Right hand: down-right → up → right → right → left → left → right → up-right → down-left (object: countertop → measuring tape → sponge cloth → cup → bottle cap)
+Two-hand object: measuring tape → desk → room → countertop

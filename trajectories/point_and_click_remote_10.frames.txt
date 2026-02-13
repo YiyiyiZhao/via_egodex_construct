@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1142,587),up-right,down-left,right,left,left,up-right,still,right,still)
+right hand:((None,None),none,none,none,none,none,none,none,none,none)
+left hand object:((1053,560,remote control),up-right,remote control,down-left,remote control,down-left,desk,still,desk,up-right,remote control,down-left,desk,up-right,remote control,down-left,desk,still,desk)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down-left → right → left → left → up-right → still → right → still (object: remote control → desk)
+Right hand: none → none → none → none → none → none → none → none → none (object: none)

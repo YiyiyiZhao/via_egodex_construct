@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((722,812),up-right,up,still,still,still,still,still,still,still,still,still,still,still,still,still,still,still,still,still,still)
+right hand:((1648,902),left,up-right,up,down-right,down,down-right,still,still,down,down-right,up-left,still,still,still,right,still,down-left,up-right,still,down)
+left hand object:((954,546,room),down,bed,none,none,none,none,none,none,none,none,none,none,none,none,none,none,bed,none,none,none,bed,none,none)
+right hand object:((954,546,room),down-right,remote control,up-right,toothbrush,up,fidget spinner ring,down,remote control,down-right,fidget spinner ring,down,bottle cap,down,fidget spinner ring,left,remote control,down-right,remote control,up,linen,down,fidget spinner ring,left,pair of scissors,none,none,fidget spinner ring,right,toothbrush,up,linen,down,fidget spinner ring,up-right,fidget spinner ring,right,toothbrush,down-right,fidget spinner ring)
+two hand object:((954,546,room),down,bed,none,none,none,none,none,none,none,none,none,none,none,none,none,none,bed,none,none,none,bed,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → still → still → still → still → still → still → still → still → still → still → still → still → still → still → still → still → still → still (object: room → bed)
+Right hand: left → up-right → up → down-right → down → down-right → still → still → down → down-right → up-left → still → still → still → right → still → down-left → up-right → still → down (object: room → pair of scissors → bottle cap → toothbrush → linen → remote control → fidget spinner ring)
+Two-hand object: room → bed

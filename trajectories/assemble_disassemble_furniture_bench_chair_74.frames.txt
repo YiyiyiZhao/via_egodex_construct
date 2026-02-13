@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((850,803),up,down-right,up,still,down-right,up-left,still)
+right hand:((1528,860),down-left,up,up-left,left,up-right,down-left,right)
+left hand object:((1060,730,masking tape),down-left,bed,up-right,masking tape,left,bed,up-right,jenga block,down-right,architectural craft manual,left,book,still,architectural craft manual)
+right hand object:((958,787,bed),still,bed,left,bed,still,bed,up-right,architectural craft manual,down-right,architectural craft manual,up-left,architectural craft manual,still,architectural craft manual)
+two hand object:((958,787,bed),still,bed,up-right,masking tape,left,bed,up-right,architectural craft manual,down-right,architectural craft manual,up-left,architectural craft manual,still,architectural craft manual)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-right → up → still → down-right → up-left → still (object: masking tape → jenga block → architectural craft manual → bed → book)
+Right hand: down-left → up → up-left → left → up-right → down-left → right (object: architectural craft manual → bed)
+Two-hand object: architectural craft manual → bed → masking tape

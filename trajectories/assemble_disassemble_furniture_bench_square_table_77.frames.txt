@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((932,988),up-right,up,up,up,up,left,down-left)
+right hand:((1304,997),up,up,up-right,up,up-left,up-right,down)
+left hand object:((984,851,bed),up-right,architectural craft manual,up,architectural craft manual,up,architectural craft manual,up,foam block,up,architectural craft manual,right,architectural craft manual,down-left,bed)
+right hand object:((984,851,bed),up-right,architectural craft manual,up,architectural craft manual,up,architectural craft manual,up,architectural craft manual,up,architectural craft manual,right,foam block,down-left,remote control)
+two hand object:((984,851,bed),up-left,bed,up,bed,up,bed,still,bed,still,bed,still,bed,down,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → up → up → up → left → down-left (object: architectural craft manual → foam block → bed)
+Right hand: up → up → up-right → up → up-left → up-right → down (object: architectural craft manual → remote control → foam block → bed)
+Two-hand object: bed

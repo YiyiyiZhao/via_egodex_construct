@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((752,196),down-left,down-left,up,right,still,still,still,left,up-right)
+right hand:((1697,247),down-right,up-right,up,right,left,down-left,up-right,down,down-left)
+left hand object:((1134,479,sand disc),down,sand disc,down-left,sand disc,left,kitchen workbench,right,plate,still,clay bowl,still,sand disc,still,clay bowl,left,kitchen workbench,up-right,sand disc)
+right hand object:((1386,372,paint brush),none,none,none,kitchen workbench,up-right,paint brush,none,none,none,none,kitchen workbench,right,paint brush)
+two hand object:((None,None),none,none,none,kitchen workbench,none,none,none,none,none,kitchen workbench,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → down-left → up → right → still → still → still → left → up-right (object: sand disc → kitchen workbench → clay bowl → plate)
+Right hand: down-right → up-right → up → right → left → down-left → up-right → down → down-left (object: paint brush → kitchen workbench)
+Two-hand object: kitchen workbench

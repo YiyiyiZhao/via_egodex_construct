@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((995,1026),up-right,right,left,down-left,right,right,up-right,down-left,up-right)
+right hand:((1249,639),none,none,none,none,down,down,none,none,none)
+left hand object:((960,542,bed),down-right,flower,up-right,iron box,down-left,flower,up,bed,still,bed,still,bed,right,foam block,none,none,bed)
+right hand object:((960,542,bed),none,none,none,none,box,left,bed,down-right,bead necklace,none,none,room,none)
+two hand object:((960,542,bed),none,none,none,none,bed,still,bed,still,bed,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → right → left → down-left → right → right → up-right → down-left → up-right (object: foam block → flower → iron box → bed)
+Right hand: none → none → none → none → down → down → none → none → none (object: bead necklace → box → room → bed)
+Two-hand object: bed

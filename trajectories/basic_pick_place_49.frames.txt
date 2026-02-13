@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((828,844),up,up-right,up,up-right,down,right,still,up,up-left,up-right,up-right)
+right hand:((1524,924),up,up,up,up-left,up-left,up-left,up,down-right,down-left,right,down-right)
+left hand object:((950,822,desk),up,desk,still,desk,up,desk,still,desk,left,desk,up-left,desk,right,desk,right,desk,left,desk,left,desk,right,desk)
+right hand object:((950,822,desk),right,scissors,up,scissors,left,desk,right,scissors,up-left,tweezer,up-right,trowel,up,pair of scissors,down-right,scissors,up,scissors,up-left,scissors,up-left,scissors)
+two hand object:((950,822,desk),up,desk,still,desk,up,desk,still,desk,none,none,none,room,down,desk,left,desk,left,desk,right,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → up → up-right → down → right → still → up → up-left → up-right → up-right (object: desk)
+Right hand: up → up → up → up-left → up-left → up-left → up → down-right → down-left → right → down-right (object: pair of scissors → trowel → scissors → desk → tweezer)
+Two-hand object: desk → room

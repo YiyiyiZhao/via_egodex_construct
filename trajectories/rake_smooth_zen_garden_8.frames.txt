@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((879,734),up,up,up-right,still,up-left,still,up-left,still,still,still,still,down-right,up-right,up-right,down-right,down,still)
+right hand:((1661,791),up-left,up-right,left,left,up,up,up,up-right,right,right,right,down-right,up-left,down-left,up-left,up,right)
+left hand object:((1266,785,cutting pad),up,cutting pad,right,cutting pad,left,cutting pad,up-right,cutting pad,up-left,cutting pad,up-right,cutting pad,up-left,cutting pad,up-right,cutting pad,left,cutting pad,still,cutting pad,right,cutting pad,down,cutting pad,left,instruction manual,up-right,cutting pad,down-right,instruction manual,down-right,cutting pad,still,cutting pad)
+right hand object:((1282,784,instruction manual),up-left,cutting pad,right,paint brush,up-left,paint brush,still,paint brush,up,spoon,up,pair of scissors,up-right,paint brush,up-right,pair of scissors,right,paint brush,right,pair of scissors,right,tweezer,down-left,cutting pad,up-right,paint brush,down-left,sand disc,left,instruction manual,up-right,paint brush,up-right,paint brush)
+two hand object:((1266,785,cutting pad),up,cutting pad,left,bed,up-right,cutting pad,up-right,cutting pad,up-left,cutting pad,down-left,bed,up-right,cutting pad,up-right,cutting pad,left,cutting pad,still,cutting pad,right,cutting pad,down,cutting pad,left,cutting pad,right,cutting pad,down-right,cutting pad,down-right,cutting pad,still,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → up-right → still → up-left → still → up-left → still → still → still → still → down-right → up-right → up-right → down-right → down → still (object: cutting pad → instruction manual)
+Right hand: up-left → up-right → left → left → up → up → up → up-right → right → right → right → down-right → up-left → down-left → up-left → up → right (object: sand disc → pair of scissors → paint brush → spoon → tweezer → cutting pad → instruction manual)
+Two-hand object: cutting pad → bed

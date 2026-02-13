@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1063,534),right,up-left,right,down,up-left,up,down-right,up-left,right,left,down-left,up-left,up,right)
+right hand:((1728,518),down-left,up-left,down,down-left,up-right,right,up-right,down-left,up-right,up-right,up,down-left,down,up-right)
+left hand object:((960,540,bed),down-right,fidget spinner ring,up-right,fidget spinner ring,right,napkin,down-left,bed,up-right,fidget spinner ring,down-right,fidget spinner ring,right,bread,down-left,bed,up-right,fidget spinner ring,down-left,bed,up-right,fidget spinner ring,up-right,dough,left,bed,down,bed)
+right hand object:((1483,635,sponge cloth),left,napkin,up-left,napkin,up-left,napkin,down-left,bed,up-right,remote control,down-left,bed,up-right,bread,down-left,bed,up-right,fidget spinner ring,down-left,bed,up,bed,right,dough,left,bed,down,bed)
+two hand object:((960,540,bed),right,sponge cloth,up-left,napkin,up-left,napkin,down-left,bed,up,bed,still,bed,still,bed,still,bed,right,fidget spinner ring,down-left,bed,up,bed,still,bed,still,bed,right,fidget spinner ring)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → right → down → up-left → up → down-right → up-left → right → left → down-left → up-left → up → right (object: napkin → bed → bread → fidget spinner ring → dough)
+Right hand: down-left → up-left → down → down-left → up-right → right → up-right → down-left → up-right → up-right → up → down-left → down → up-right (object: sponge cloth → napkin → bed → remote control → bread → fidget spinner ring → dough)
+Two-hand object: sponge cloth → napkin → fidget spinner ring → bed

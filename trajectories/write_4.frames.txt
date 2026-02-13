@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((941,700),down-left,right,left,up,up,up-right,down,down,up)
+right hand:((1338,704),up-right,up-right,left,up,still,up-right,down-right,down,up)
+left hand object:((958,706,bed),up-right,cutting pad,down,instruction manual,down-left,instruction manual,up-right,instruction manual,up,instruction manual,up-right,architectural craft manual,down,architectural craft manual,down-right,remote control,up-left,puzzle card)
+right hand object:((1484,586,marker),left,remote control,up-right,remote control,left,remote control,up,remote control,up-left,remote control,right,pair of pliers,right,lighter,down,remote control,up,remote control)
+two hand object:((1143,522,architectural craft manual),none,none,bed,up,instruction manual,up-right,instruction manual,up,instruction manual,up-right,instruction manual,down,architectural craft manual,down-left,bed,up-right,instruction manual)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → right → left → up → up → up-right → down → down → up (object: puzzle card → bed → architectural craft manual → remote control → cutting pad → instruction manual)
+Right hand: up-right → up-right → left → up → still → up-right → down-right → down → up (object: remote control → lighter → pair of pliers → marker)
+Two-hand object: architectural craft manual → instruction manual → bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1004,680),down-right,up-left,still,still,left,down-right,up-right,left,down-right)
+right hand:((1356,678),down,up-right,still,left,down-right,down-left,down,up-right,up-right)
+left hand object:((913,536,cup),down,desk,up,cup,down-right,rubik cube,up-left,cup,right,connect four disc,down-right,toothbrush,up-left,cup,left,cup,right,cup)
+right hand object:((1430,534,bottle),still,bottle,still,bottle,still,bottle,left,remote control,right,bottle,down-left,remote control,down,sponge cloth,up-right,paint spray gun,up,banana)
+two hand object:((960,712,desk),still,desk,still,desk,still,desk,up-right,remote control,down-left,desk,still,desk,down,desk,still,countertop,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → still → still → left → down-right → up-right → left → down-right (object: connect four disc → rubik cube → toothbrush → desk → cup)
+Right hand: down → up-right → still → left → down-right → down-left → down → up-right → up-right (object: paint spray gun → sponge cloth → bottle → banana → remote control)
+Two-hand object: remote control → desk → countertop

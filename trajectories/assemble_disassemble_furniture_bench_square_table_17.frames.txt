@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((884,654),up-right,right,up-right,still,down-left,down,still)
+right hand:((1376,982),up,up,up-right,still,down,still,down)
+left hand object:((1378,786,countertop),left,toothbrush,down-right,countertop,up-left,glass cup,down-right,sponge cloth,down,countertop,down-right,countertop,up-left,fidget spinner ring)
+right hand object:((1378,786,countertop),right,jenga block,left,countertop,right,rolling tray,down-right,rolling tray,down,wooden model,down,architectural craft manual,left,countertop)
+two hand object:((1378,786,countertop),none,none,countertop,still,countertop,still,countertop,left,countertop,down-right,countertop,right,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → right → up-right → still → down-left → down → still (object: countertop → glass cup → sponge cloth → toothbrush → fidget spinner ring)
+Right hand: up → up → up-right → still → down → still → down (object: jenga block → countertop → rolling tray → architectural craft manual → wooden model)
+Two-hand object: countertop

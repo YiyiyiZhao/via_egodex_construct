@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((678,592),right,up-left,right,down-right,left,up-left,up-left,up,down-right)
+right hand:((1382,524),down-left,up,still,up,left,still,up,right,right)
+left hand object:((705,552,toothbrush),right,toothbrush,left,bottle,right,remote control,down-left,countertop,still,countertop,up-right,watch,down-left,desk,up,cup,right,sock)
+right hand object:((1318,488,cup),down-left,handle grip bar,up,container lid,still,remote control,down-left,countertop,still,countertop,up-right,watch,down-left,desk,still,bed,up-right,sock)
+two hand object:((960,798,desk),up-right,cup,down-left,desk,right,desk,up-right,cup,still,cup,still,cup,still,cup,up-right,cup,down-left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → right → down-right → left → up-left → up-left → up → down-right (object: countertop → sock → toothbrush → bottle → desk → cup → remote control → watch)
+Right hand: down-left → up → still → up → left → still → up → right → right (object: bed → handle grip bar → countertop → container lid → sock → desk → cup → remote control → watch)
+Two-hand object: desk → cup

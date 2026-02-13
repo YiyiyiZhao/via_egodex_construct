@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((966,702),left,right,down-right,up-left,down-right,left,up,up-right,still)
+right hand:((1308,676),right,down-right,down,up-right,none,none,none,none,none)
+left hand object:((956,805,bed),up,microfiber cloth,right,microfiber cloth,down-right,sponge cloth,left,linen,right,watch,still,watch,up,watch,up,watch,still,wristband)
+right hand object:((956,805,bed),right,sponge cloth,left,bed,right,sponge cloth,left,bed,none,none,none,none,none)
+two hand object:((956,805,bed),still,bed,up,microfiber cloth,down,bed,up,bed,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → down-right → up-left → down-right → left → up → up-right → still (object: wristband → sponge cloth → linen → bed → microfiber cloth → watch)
+Right hand: right → down-right → down → up-right → none → none → none → none → none (object: sponge cloth → bed)
+Two-hand object: microfiber cloth → bed

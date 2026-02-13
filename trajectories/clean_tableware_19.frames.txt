@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((953,911),up-left,right,left,right,up-left,down-right,up,down,up-right)
+right hand:((1277,912),up-right,up-right,right,left,left,down-right,up,left,right)
+left hand object:((994,796,countertop),up-left,plate,down-right,pair of scissors,left,pair of scissors,right,pair of scissors,up-left,countertop,still,countertop,left,pot lid,down-right,utensil rack,right,crayon)
+right hand object:((994,796,countertop),up-left,desk,still,countertop,right,remote control,left,pair of scissors,left,pair of scissors,right,scouring pad,down-left,microfiber cloth,up-left,handle grip bar,right,microfiber cloth)
+two hand object:((994,796,countertop),up-left,desk,down-right,counter,up,table,down-right,pair of scissors,up-left,desk,still,desk,right,desk,up-left,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → right → left → right → up-left → down-right → up → down → up-right (object: pot lid → pair of scissors → countertop → crayon → plate → utensil rack)
+Right hand: up-right → up-right → right → left → left → down-right → up → left → right (object: pair of scissors → countertop → handle grip bar → scouring pad → desk → microfiber cloth → remote control)
+Two-hand object: pair of scissors → countertop → table → counter → desk

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((650,844),up-right,up-right,left,right,right,up-right,up-right,down-left,down-left,up,still,still,down-left,left,right,up-left,still,down-left,still,still,up-left,still,still)
+right hand:((None,None),none,none,right,down-right,left,up-right,up-right,up-right,left,left,up-right,right,down-left,right,left,left,up,up-right,down-left,up-left,up-left,right,up-left)
+left hand object:((957,826,bed),right,instruction manual,left,bed,left,television,right,notebook,right,rolling tray,up-left,notebook,up-left,instruction manual,left,bed,still,bed,right,notebook,left,bed,up-right,linen,down-left,bed,down-right,rolling tray,right,notebook,left,phone,up-right,linen,still,linen,down-left,bed,still,bed,still,bed,up-right,linen,still,linen)
+right hand object:((None,None),none,none,linen,down-left,bed,right,laptop,right,rolling tray,up-left,notebook,up-left,instruction manual,left,bed,right,pen,down,notebook,left,bed,still,bed,down,bed,right,pen,left,notebook,left,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed)
+two hand object:((None,None),none,none,bed,down,bed,still,bed,up,bed,up,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,down,bed,down,bed,up,bed,up,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → left → right → right → up-right → up-right → down-left → down-left → up → still → still → down-left → left → right → up-left → still → down-left → still → still → up-left → still → still (object: rolling tray → phone → instruction manual → bed → linen → notebook → television)
+Right hand: none → none → right → down-right → left → up-right → up-right → up-right → left → left → up-right → right → down-left → right → left → left → up → up-right → down-left → up-left → up-left → right → up-left (object: rolling tray → laptop → linen → bed → pen → notebook → instruction manual)
+Two-hand object: bed

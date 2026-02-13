@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1040,954),down,still,still,right,right,up,right,up,down,up,left,down-right,still)
+right hand:((1252,599),left,still,up-right,right,still,down,right,still,still,still,still,up,down)
+left hand object:((956,540,bed),still,bed,still,bed,none,none,bed,down-right,keyboard,up-left,bed,right,phone,still,phone,up,mobile phone,up,cellphone,down,camera,none,none,bed)
+right hand object:((956,540,bed),right,phone,still,phone,up-right,phone,right,phone,down-right,phone,left,bed,down-right,sketchbook,none,none,keyboard,right,sketchbook,up-left,bed,right,phone,left,phone)
+two hand object:((956,540,bed),still,bed,still,bed,none,none,keyboard,down-right,keyboard,up-left,bed,down-right,sketchbook,none,none,keyboard,right,sketchbook,up-left,bed,none,none,keyboard)
+
+
+## LLM-Friendly Format:
+Left hand: down → still → still → right → right → up → right → up → down → up → left → down-right → still (object: mobile phone → keyboard → camera → phone → bed → cellphone)
+Right hand: left → still → up-right → right → still → down → right → still → still → still → still → up → down (object: keyboard → sketchbook → phone → bed)
+Two-hand object: keyboard → sketchbook → bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((547,667),up,up-right,up-right,right,down,still,up,down,up,down,up,still,up-right,up-right,down-right)
+right hand:((1827,770),up-left,down-right,up-left,down-right,down,up-right,up-right,up-left,left,down,up-right,left,up-right,still,still)
+left hand object:((570,702,fidget spinner ring),right,desk,up,desk,up-right,pair of scissors,down-left,towel,right,magazine,up,instruction manual,still,instruction manual,up-left,tweezer,down-left,bed,up-right,pair of scissors,down-right,instruction manual,still,magazine,still,magazine,up-right,instruction manual,still,magazine)
+right hand object:((1274,853,magazine),up-right,magazine,left,instruction manual,up-left,pair of scissors,none,none,magazine,up,instruction manual,still,instruction manual,still,magazine,left,bed,up-right,pair of scissors,down-right,instruction manual,up-left,pair of scissors,down-right,magazine,up-right,instruction manual,still,magazine)
+two hand object:((960,770,bed),up,desk,up,desk,up-right,pair of scissors,none,none,magazine,up,instruction manual,still,instruction manual,up-left,tweezer,down-left,bed,right,magazine,still,instruction manual,still,instruction manual,left,bed,right,instruction manual,still,instruction manual)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → up-right → right → down → still → up → down → up → down → up → still → up-right → up-right → down-right (object: towel → magazine → pair of scissors → desk → instruction manual → bed → tweezer → fidget spinner ring)
+Right hand: up-left → down-right → up-left → down-right → down → up-right → up-right → up-left → left → down → up-right → left → up-right → still → still (object: bed → magazine → instruction manual → pair of scissors)
+Two-hand object: magazine → pair of scissors → desk → bed → tweezer → instruction manual

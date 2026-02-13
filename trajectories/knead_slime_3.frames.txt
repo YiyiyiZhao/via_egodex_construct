@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((904,630),up,up-right,up-left,right,up-left,right,still,up-right,left,up,down-right,up-left,down,down,up-right)
+right hand:((1282,565),left,up-right,down-left,up-right,left,up-right,down-left,up-right,up-right,down-left,right,left,down,down-left,up-right)
+left hand object:((1036,690,bottle cap),up,glass cup,up,sandwich,up-left,fidget spinner ring,down-right,remote control,up-left,rubik cube,right,toothbrush,down-left,bottle,up-right,bottle cap,left,rubik cube,left,remote control,right,ice cream,down-left,sandwich,down,slime,up,toothbrush,up-left,fidget spinner ring)
+right hand object:((1278,504,fidget spinner ring),down-left,glass cup,up,sandwich,down,slime,up-right,remote control,up-left,rubik cube,right,toothbrush,down-left,bottle,up-right,bottle cap,left,ice cream,left,remote control,right,sandwich,down-left,sandwich,down,toast,up,toothbrush,up-right,fidget spinner ring)
+two hand object:((959,541,room),down,bed,up-right,sandwich,down,slime,up-right,remote control,up-left,rubik cube,down-left,room,right,toothbrush,left,room,up-right,rubik cube,left,remote control,down-left,room,still,room,down,bed,still,countertop,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → up-left → right → up-left → right → still → up-right → left → up → down-right → up-left → down → down → up-right (object: slime → ice cream → glass cup → rubik cube → bottle cap → toothbrush → bottle → remote control → sandwich → fidget spinner ring)
+Right hand: left → up-right → down-left → up-right → left → up-right → down-left → up-right → up-right → down-left → right → left → down → down-left → up-right (object: slime → toast → ice cream → glass cup → rubik cube → bottle cap → toothbrush → bottle → remote control → sandwich → fidget spinner ring)
+Two-hand object: room → slime → countertop → rubik cube → toothbrush → bed → remote control → sandwich

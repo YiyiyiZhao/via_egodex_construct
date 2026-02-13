@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((886,790),down,still,right,up-right,down-left,right,left,up-right,down-left,up-right,down-left,left,up-right,up-right,left,up,right)
+right hand:((1252,858),up,still,right,up,down-left,left,right,left,up-left,up-left,right,left,right,down-left,still,up,up-left)
+left hand object:((1092,786,rubik cube),still,rubik cube,up,rubik cube,still,rubik cube,up-right,rubik cube,up-left,rubik cube,down,rubik cube,left,rubik cube,still,rubik cube,left,soft lego brick,down-right,rubik cube,down-right,rubik cube,left,soft lego brick,down-right,soft lego brick,down-left,rubik cube,still,rubik cube,down-right,soft lego brick,down,sponge cloth)
+right hand object:((1092,786,rubik cube),still,rubik cube,up,rubik cube,still,rubik cube,up-right,rubik cube,up-left,rubik cube,down,rubik cube,left,rubik cube,still,rubik cube,left,soft lego brick,down-right,rubik cube,down-right,rubik cube,left,rubik cube,down-right,sponge cloth,down-left,rubik cube,still,rubik cube,down-right,soft lego brick,down,rubik cube)
+two hand object:((1092,786,rubik cube),still,rubik cube,up,rubik cube,still,rubik cube,up-right,rubik cube,up-left,soft lego brick,down,rubik cube,left,rubik cube,still,rubik cube,left,soft lego brick,down-right,rubik cube,down-right,rubik cube,up-left,linen,down-right,soft lego brick,down-left,rubik cube,still,rubik cube,down-right,rubik cube,down,rubik cube)
+
+
+## LLM-Friendly Format:
+Left hand: down → still → right → up-right → down-left → right → left → up-right → down-left → up-right → down-left → left → up-right → up-right → left → up → right (object: sponge cloth → rubik cube → soft lego brick)
+Right hand: up → still → right → up → down-left → left → right → left → up-left → up-left → right → left → right → down-left → still → up → up-left (object: sponge cloth → rubik cube → soft lego brick)
+Two-hand object: rubik cube → soft lego brick → linen

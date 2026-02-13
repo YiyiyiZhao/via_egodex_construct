@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((709,1018),up,right,up-left,right,up-left,down-right,right,up-left,right,still,up-left,right,down,right,up-left,down-right,right,up-left)
+right hand:((1442,1009),up-left,up,down-right,up-left,down-right,up,up-left,down,up-left,down-left,down-right,down-left,up-left,right,down-right,up-left,up,right)
+left hand object:((832,597,fridge),up-right,cabinet,up,fridge,up-left,cupboard,right,kitchen,down,floor,up,kitchen,right,kitchen,still,kitchen,right,kitchen workbench,left,kitchen workbench,down-left,cutting mat,right,countertop,left,cutting mat,still,cutting pad,left,cutting pad,up-right,kitchen workbench,right,kitchen workbench,down-left,cutting mat)
+right hand object:((1542,674,refrigerator),up,refrigerator,left,pot lid,left,kitchen,left,cupboard,down-right,tongs,down-right,wristwatch,up-left,tupperware,down-right,tongs,up-left,cabinet,right,tongs,down,rolling tray,down,rolling tray,right,sink,left,sink,right,rolling tray,left,rolling tray,down-right,sink,left,counter)
+two hand object:((1042,538,kitchen),right,kitchen,still,kitchen,left,kitchen,right,kitchen,left,kitchen,still,kitchen,right,kitchen,left,cupboard,right,kitchen workbench,left,kitchen workbench,still,kitchen workbench,right,kitchen workbench,left,kitchen workbench,still,kitchen workbench,left,kitchen workbench,left,kitchen workbench,right,kitchen workbench,left,kitchen workbench)
+
+
+## LLM-Friendly Format:
+Left hand: up → right → up-left → right → up-left → down-right → right → up-left → right → still → up-left → right → down → right → up-left → down-right → right → up-left (object: cabinet → floor → kitchen workbench → countertop → kitchen → fridge → cupboard → cutting pad → cutting mat)
+Right hand: up-left → up → down-right → up-left → down-right → up → up-left → down → up-left → down-left → down-right → down-left → up-left → right → down-right → up-left → up → right (object: cabinet → pot lid → tongs → sink → rolling tray → tupperware → counter → kitchen → wristwatch → cupboard → refrigerator)
+Two-hand object: cupboard → kitchen workbench → kitchen

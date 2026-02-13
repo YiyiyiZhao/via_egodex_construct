@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((948,647),still,up-right,up-left,up,right,still,up-left,right,up-right)
+right hand:((1336,578),down-left,down-right,up,up-right,still,still,up-left,up-left,right)
+left hand object:((1190,641,scissors),left,sock,none,none,countertop,up,fidget spinner ring,down-right,scissors,right,scissors,up-left,fidget spinner ring,down-right,scissors,up-right,scissors)
+right hand object:((1190,641,scissors),up-left,room,none,none,fidget spinner ring,still,fidget spinner ring,down-left,scissors,right,scissors,down-right,scissors,up-left,pair of scissors,still,scissors)
+two hand object:((962,723,countertop),up,room,none,none,countertop,still,countertop,right,glue gun,left,countertop,none,none,scissors,up-right,scissors)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-right → up-left → up → right → still → up-left → right → up-right (object: scissors → countertop → fidget spinner ring → sock)
+Right hand: down-left → down-right → up → up-right → still → still → up-left → up-left → right (object: fidget spinner ring → scissors → room → pair of scissors)
+Two-hand object: glue gun → scissors → room → countertop

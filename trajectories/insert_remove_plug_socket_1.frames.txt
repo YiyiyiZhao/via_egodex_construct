@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((916,752),up,up-right,up,up-right,down,down-left,down-left)
+right hand:((1671,966),up,up-left,up,none,none,down-right,down-right)
+left hand object:((1290,588,hair straightener),down-left,remote control,up-right,hair straightener,up,hair straightener,down,remote control,down-left,bed,right,remote control,down-left,remote control)
+right hand object:((958,754,desk),up,bed,up-right,hair straightener,up,hair straightener,none,none,toothbrush,down-left,bed,right,remote control)
+two hand object:((958,754,desk),right,remote control,left,bed,up-right,fidget spinner ring,none,none,toothbrush,down,remote control,down-left,remote control)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → up → up-right → down → down-left → down-left (object: remote control → bed → hair straightener)
+Right hand: up → up-left → up → none → none → down-right → down-right (object: hair straightener → toothbrush → desk → bed → remote control)
+Two-hand object: toothbrush → desk → bed → remote control → fidget spinner ring

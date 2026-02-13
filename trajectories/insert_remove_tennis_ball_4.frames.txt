@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((925,574),right,up-left,down-left,right,left,up-right,down-right,up-left,down,up,up-right,left,right,right)
+right hand:((1286,704),right,up-right,right,left,up-right,right,left,right,left,right,down-left,left,up,right)
+left hand object:((1010,334,plywood),down-right,toothbrush,up-right,sauce bottle,down-left,desk,up-right,bottle,down-left,desk,up,room,down-right,bottle,up-left,room,down-right,bottle,up-left,apple,down-right,apple,up-left,room,right,bottle cap,right,sauce bottle)
+right hand object:((985,546,room),right,remote control,up-right,bottle cap,down-left,sauce bottle,down-left,remote control,up,bottle,up-right,glass cup,down-left,bottle,right,bottle,down-left,bottle,up-right,shoe,down-right,glass cup,left,glass cup,up-left,bottle,right,watch)
+two hand object:((985,546,room),right,toothbrush,up-right,bottle,left,room,down-right,bottle,up-left,room,still,room,down-right,bottle,up-left,room,down-right,flask,none,none,room,right,room,right,bottle cap,right,sauce bottle)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → down-left → right → left → up-right → down-right → up-left → down → up → up-right → left → right → right (object: room → sauce bottle → plywood → apple → toothbrush → bottle → desk → bottle cap)
+Right hand: right → up-right → right → left → up-right → right → left → right → left → right → down-left → left → up → right (object: room → sauce bottle → shoe → glass cup → bottle → watch → remote control → bottle cap)
+Two-hand object: room → flask → sauce bottle → toothbrush → bottle → bottle cap

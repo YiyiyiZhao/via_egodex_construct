@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((950,792),down-left,up-right,down-left,up-right,up-right,still,left)
+right hand:((1484,834),down-left,up-left,down,left,right,left,right)
+left hand object:((1140,836,plastic container),up-left,bed,down-left,wristband,down-right,wristband,up-right,bed,down-right,container lid,left,wristband,right,phone)
+right hand object:((960,742,bed),down-right,plastic container,up-left,bed,still,bed,down-right,glass cup,up-left,bed,right,phone,up-left,phone)
+two hand object:((960,742,bed),down,bed,still,bed,still,bed,down-right,glass cup,up-left,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → up-right → down-left → up-right → up-right → still → left (object: wristband → container lid → phone → bed → plastic container)
+Right hand: down-left → up-left → down → left → right → left → right (object: phone → glass cup → plastic container → bed)
+Two-hand object: glass cup → bed

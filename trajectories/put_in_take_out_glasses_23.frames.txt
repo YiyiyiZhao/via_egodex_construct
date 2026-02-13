@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((669,884),up-right,right,down,right,left,right,up-right,left)
+right hand:((1428,936),up-left,up-right,right,up-right,right,up-left,down-left,right)
+left hand object:((834,792,architectural craft manual),up-right,book,right,instruction manual,right,book,right,book,left,sketch manual,right,phone,up-right,phone,down-left,tweezer)
+right hand object:((960,778,bed),up-left,remote control,right,remote control,right,book,right,rolling tray,right,pair of pliers,up-left,tweezer,up-right,remote control,down-right,pair of scissors)
+two hand object:((960,778,bed),up-left,instruction manual,right,instruction manual,right,book,right,book,down-left,bed,right,pair of scissors,up-right,remote control,down-left,pair of scissors)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → right → down → right → left → right → up-right → left (object: book → sketch manual → phone → architectural craft manual → tweezer → instruction manual)
+Right hand: up-left → up-right → right → up-right → right → up-left → down-left → right (object: pair of scissors → book → pair of pliers → rolling tray → bed → remote control → tweezer)
+Two-hand object: pair of scissors → book → bed → remote control → instruction manual

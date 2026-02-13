@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((823,748),right,up-right,right,still,left,down-left,down-left)
+right hand:((1373,750),down-left,up-left,down,up,left,up,right)
+left hand object:((1130,685,cutting pad),down-left,countertop,still,countertop,right,cutting pad,up-left,toothbrush,left,toothbrush,left,pair of scissors,down,countertop)
+right hand object:((1130,685,cutting pad),down,crayon,up,toothbrush,left,countertop,up-right,toothbrush,down-left,cutting pad,still,cutting pad,left,cutting mat)
+two hand object:((1130,685,cutting pad),down-left,countertop,up-right,toothbrush,left,countertop,up-right,toothbrush,down-right,cutting pad,still,cutting pad,left,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-right → right → still → left → down-left → down-left (object: toothbrush → pair of scissors → cutting pad → countertop)
+Right hand: down-left → up-left → down → up → left → up → right (object: countertop → crayon → toothbrush → cutting pad → cutting mat)
+Two-hand object: toothbrush → cutting pad → countertop

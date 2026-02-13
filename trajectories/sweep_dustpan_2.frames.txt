@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((826,742),still,up,still,up-left,up-right,up-right,up-right,still,up-left)
+right hand:((1456,608),left,up-right,still,right,left,still,up-left,up-right,left)
+left hand object:((957,786,table),still,table,still,table,still,table,up-left,fidget spinner ring,down-right,table,up-left,fidget spinner ring,down-right,table,still,table,still,countertop)
+right hand object:((957,786,table),still,table,still,table,still,table,up-left,table,up-right,table,up-right,utensil,down-left,table,up-right,architectural craft manual,down-left,countertop)
+two hand object:((957,786,table),up-right,plate,up-right,plate,still,plate,down-left,table,up-right,table,still,table,still,table,still,table,still,table)
+
+
+## LLM-Friendly Format:
+Left hand: still → up → still → up-left → up-right → up-right → up-right → still → up-left (object: table → fidget spinner ring → countertop)
+Right hand: left → up-right → still → right → left → still → up-left → up-right → left (object: utensil → table → architectural craft manual → countertop)
+Two-hand object: table → plate

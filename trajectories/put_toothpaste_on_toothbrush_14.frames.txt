@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((692,736),right,left,up,down-right,left,up-left,right,down-left,down,right,still,up,left,down,still)
+right hand:((1558,820),up-left,down-right,up,left,right,down,up-right,up,down-left,up-left,up-left,up-right,up-right,down-left,down)
+left hand object:((962,820,desk),up,remote control,down-left,bed,up-right,remote control,left,remote control,down,desk,up,remote control,right,carton,none,none,instruction manual,down-right,instruction manual,down-left,bed,up-right,remote control,left,card,down,remote control,still,tag)
+right hand object:((962,820,desk),up-right,cup,up,toothbrush,up-left,remote control,up-right,toothbrush,down,cup,left,cup,up-right,fork,left,fork,down-left,pair of scissors,up,cup,up,cup,up-right,usb drive,up-right,scissors,down-left,toothbrush,down,cup)
+two hand object:((962,820,desk),none,none,bed,right,desk,up,toothbrush,down,desk,up-right,linen,none,none,none,desk,still,bed,still,bed,up-right,remote control,down-left,desk,right,bed,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → left → up → down-right → left → up-left → right → down-left → down → right → still → up → left → down → still (object: carton → card → tag → desk → bed → remote control → instruction manual)
+Right hand: up-left → down-right → up → left → right → down → up-right → up → down-left → up-left → up-left → up-right → up-right → down-left → down (object: pair of scissors → usb drive → scissors → toothbrush → desk → fork → cup → remote control)
+Two-hand object: toothbrush → desk → linen → bed → remote control

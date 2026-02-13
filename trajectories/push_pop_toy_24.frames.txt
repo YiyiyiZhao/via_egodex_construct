@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((929,708),right,up-left,up-left,still,right,down-left,down,up,up,right,left,up-left)
+right hand:((1301,679),left,still,right,still,up-left,down,down-left,up-left,down-right,up-left,down-right,up)
+left hand object:((1064,650,soft lego brick),up-right,rubik cube,down-left,rubik cube,down,rubik cube,down,soft lego brick,up-left,room,still,room,still,room,down-right,remote control,down,rubik cube,up,remote control,up-left,rubik cube,up-left,rolling tray)
+right hand object:((960,542,room),down-right,rubik cube,down-left,rubik cube,down,rubik cube,down,rubik cube,up-left,room,still,room,still,room,down-right,remote control,down,rubik cube,up,remote control,up-left,rubik cube,up-left,rubik cube)
+two hand object:((960,542,room),down-right,book,down-left,rubik cube,up-left,room,down-right,soft lego brick,up-left,room,still,room,still,room,down-right,remote control,up-left,room,still,room,still,room,down-right,rolling tray)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → up-left → still → right → down-left → down → up → up → right → left → up-left (object: room → rolling tray → rubik cube → soft lego brick → remote control)
+Right hand: left → still → right → still → up-left → down → down-left → up-left → down-right → up-left → down-right → up (object: remote control → rubik cube → room)
+Two-hand object: room → book → rolling tray → rubik cube → soft lego brick → remote control

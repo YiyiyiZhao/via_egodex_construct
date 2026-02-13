@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1000,622),down-left,still,left,right,down-left,up-left,up-left,left,right)
+right hand:((1352,622),down-left,down-right,left,up-right,left,up-right,left,down-right,right)
+left hand object:((1204,564,bottle),left,cup,up-right,cup,still,cup,down-right,remote control,down,sock,down-right,sponge cloth,left,countertop,up-left,banana,right,banana)
+right hand object:((1206,564,tap pipe),up-right,cup,down-left,cup,down-left,cup,up-right,cup,left,cup,right,cup,left,cup,down,cup,up-right,yoghurt cup)
+two hand object:((961,672,countertop),down,countertop,up,countertop,still,countertop,still,countertop,up-right,cup,down-left,countertop,right,countertop,right,countertop,up-left,counter)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → still → left → right → down-left → up-left → up-left → left → right (object: countertop → sponge cloth → sock → bottle → banana → cup → remote control)
+Right hand: down-left → down-right → left → up-right → left → up-right → left → down-right → right (object: tap pipe → yoghurt cup → cup)
+Two-hand object: counter → cup → countertop

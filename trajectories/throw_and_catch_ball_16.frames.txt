@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((821,840),right,up-left,left,right,down,up-right,left,right,up-right,left,right,up-right,up-right,down-right,left,up-right,down-left,up-right,down,up-left,right,right,down-right,left,up-left,left)
+right hand:((1277,862),down-right,up-right,down-left,down-left,up,left,up-right,down,up,up-left,still,down,still,right,up,down,down,down,up,still,up-right,left,none,none,none,left)
+left hand object:((960,540,room),down-right,ball,up-left,room,still,room,still,room,down,peach,none,none,room,still,room,right,board,up-left,board,down-left,board,none,none,board,none,none,none,none,board,down,board,down-left,bed,up,room,still,room,right,board,none,none,none,board,left,board)
+right hand object:((960,540,room),none,none,room,still,room,still,room,none,none,none,room,still,room,right,board,left,room,right,board,none,none,room,none,none,none,none,board,down,board,down-left,bed,right,fidget spinner ring,up-left,room,still,room,none,none,none,board,left,board)
+two hand object:((960,540,room),none,none,room,still,room,still,room,none,none,none,room,still,room,right,board,up-left,board,left,room,none,none,room,none,none,none,none,board,down,board,down-left,bed,up,room,still,room,right,board,none,none,none,board,left,board)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → left → right → down → up-right → left → right → up-right → left → right → up-right → up-right → down-right → left → up-right → down-left → up-right → down → up-left → right → right → down-right → left → up-left → left (object: room → board → ball → bed → peach)
+Right hand: down-right → up-right → down-left → down-left → up → left → up-right → down → up → up-left → still → down → still → right → up → down → down → down → up → still → up-right → left → none → none → none → left (object: fidget spinner ring → board → room → bed)
+Two-hand object: board → room → bed

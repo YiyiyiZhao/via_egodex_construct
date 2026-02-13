@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((866,816),up-right,down-right,right,down-left,up-left,up,down)
+right hand:((1512,841),left,left,up,up-right,down-right,down,down-right)
+left hand object:((995,820,desk),up,bed,still,bed,still,desk,still,countertop,still,bed,up-right,briefcase,down-left,bed)
+right hand object:((995,820,desk),right,remote control,left,bed,up-right,briefcase,left,box,down,briefcase,down-left,briefcase,down-left,bed)
+two hand object:((995,820,desk),up-left,desk,still,bed,still,countertop,still,countertop,still,bed,left,bed,down-right,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down-right → right → down-left → up-left → up → down (object: briefcase → countertop → desk → bed)
+Right hand: left → left → up → up-right → down-right → down → down-right (object: briefcase → desk → bed → remote control → box)
+Two-hand object: countertop → desk → bed

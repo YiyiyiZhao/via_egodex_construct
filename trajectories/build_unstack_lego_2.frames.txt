@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((759,843),right,up,still,still,up-left,up-left,right,down,down-left,up,up,up)
+right hand:((1264,915),up,up-left,right,up-right,up,down-right,up-left,up-left,left,down-right,right,down)
+left hand object:((876,850,carpet),up-right,bed,right,remote control,left,bed,still,carpet,up-left,linen,down-right,bed,up-right,wooden model,down-left,plastic model,down-left,plastic model,left,scouring pad,up-left,linen,right,fidget spinner ring)
+right hand object:((876,850,carpet),up-right,bed,right,remote control,left,bed,still,carpet,none,none,bed,up-right,wooden model,down-left,plastic model,down-left,plastic model,none,none,wooden model,down-left,plastic model)
+two hand object:((876,850,carpet),up,room,down-right,remote control,left,bed,still,carpet,none,none,room,down,bed,right,plastic model,down-left,plastic model,none,none,wooden model,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → still → still → up-left → up-left → right → down → down-left → up → up → up (object: carpet → scouring pad → plastic model → linen → bed → remote control → wooden model → fidget spinner ring)
+Right hand: up → up-left → right → up-right → up → down-right → up-left → up-left → left → down-right → right → down (object: carpet → plastic model → bed → remote control → wooden model)
+Two-hand object: carpet → room → plastic model → bed → remote control → wooden model

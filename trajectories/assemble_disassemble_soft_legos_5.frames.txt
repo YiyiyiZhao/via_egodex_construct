@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((641,698),still,up-right,right,still,right,right,up-right,left,right)
+right hand:((1486,522),left,left,left,left,up-right,up,down,down-left,left)
+left hand object:((1038,522,tablemat),still,tablemat,left,cutting pad,right,desk,still,desk,right,desk,down-right,carpet,down-right,desk,left,remote control,down-right,piece of paper)
+right hand object:((1038,522,tablemat),still,tablemat,left,cutting pad,right,desk,still,desk,right,desk,down-right,carpet,up-right,crayon,down-left,desk,right,desk)
+two hand object:((1038,522,tablemat),still,tablemat,left,cutting pad,right,cutting mat,still,desk,right,desk,down-right,carpet,down-right,desk,down-right,desk,right,desk)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-right → right → still → right → right → up-right → left → right (object: carpet → piece of paper → desk → tablemat → remote control → cutting pad)
+Right hand: left → left → left → left → up-right → up → down → down-left → left (object: carpet → crayon → desk → tablemat → cutting pad)
+Two-hand object: carpet → desk → tablemat → cutting pad → cutting mat

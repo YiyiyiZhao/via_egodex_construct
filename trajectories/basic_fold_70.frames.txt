@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((940,821),up,down-right,left,up,up-left,down-left,up-left,right,down,right,left,up-right,up,down-right,down)
+right hand:((1518,854),up-left,none,none,right,down,up-right,none,none,none,up,left,right,up-right,down-left,down-right)
+left hand object:((1069,788,bed),none,none,towel,down-right,room,down-left,paper bag,up-right,towel,up-left,fidget spinner ring,down-right,napkin,none,none,bed,right,cutting board,left,room,right,cutting pad,up,paper bag,left,fidget spinner ring,down-right,cutting pad)
+right hand object:((1069,788,bed),up-left,bed,none,none,room,down-left,paper bag,up-right,towel,down,polythene bag,none,none,none,bed,right,cutting mat,none,none,napkin,up,sponge cloth,down,cutting pad,down-right,sketch manual)
+two hand object:((1069,788,bed),none,none,none,room,down-left,paper bag,up-right,linen,down,polythene bag,none,none,none,bed,up,bed,none,none,cutting pad,up,sponge cloth,down,cutting pad,down-right,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-right → left → up → up-left → down-left → up-left → right → down → right → left → up-right → up → down-right → down (object: cutting board → towel → room → napkin → bed → paper bag → cutting pad → fidget spinner ring)
+Right hand: up-left → none → none → right → down → up-right → none → none → none → up → left → right → up-right → down-left → down-right (object: towel → room → napkin → sponge cloth → sketch manual → bed → paper bag → cutting mat → cutting pad → polythene bag)
+Two-hand object: room → sponge cloth → linen → bed → paper bag → cutting pad → polythene bag

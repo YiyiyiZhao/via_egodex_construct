@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((910,850),up-right,up-right,right,up,up-right,up-left,up-right,still,right,up-right,down-left,left)
+right hand:((1428,582),down-left,right,up-left,up-left,up-right,up,left,right,left,down-left,up-right,left)
+left hand object:((1048,862,pot lid),up-right,yoghurt cup,up-right,bowl,right,yoghurt cup,up,bowl,up-left,countertop,up-left,packet cap,down-right,counter,up-right,jenga block,down-left,fidget spinner ring,none,none,desk,up,fidget spinner ring)
+right hand object:((914,780,desk),up-right,desk,up-right,counter,still,desk,right,counter,still,countertop,left,desk,up,counter,still,counter,right,counter,none,none,room,up-right,device)
+two hand object:((914,780,desk),up-right,desk,right,yoghurt cup,up-left,desk,right,countertop,still,countertop,left,desk,up,counter,still,desk,right,counter,none,none,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → right → up → up-right → up-left → up-right → still → right → up-right → down-left → left (object: yoghurt cup → jenga block → pot lid → countertop → bowl → counter → desk → packet cap → fidget spinner ring)
+Right hand: down-left → right → up-left → up-left → up-right → up → left → right → left → down-left → up-right → left (object: room → countertop → device → counter → desk)
+Two-hand object: yoghurt cup → room → countertop → counter → desk

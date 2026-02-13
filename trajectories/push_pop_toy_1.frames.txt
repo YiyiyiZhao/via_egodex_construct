@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1000,863),up,up-right,up,down-left,up,down-right,left)
+right hand:((1339,857),up-left,up-left,up-right,down-left,up-left,down,left)
+left hand object:((1136,895,plastic ball),left,kitchen countertop,right,plastic container,up-right,rubik cube,down-left,plastic ball,left,floor,right,rubik cube,left,rolling tray)
+right hand object:((1004,879,floor),up-left,kitchen countertop,right,rubik cube,up,rubik cube,down-left,plastic ball,left,floor,right,rubik cube,left,rubik cube)
+two hand object:((1136,895,plastic ball),up-left,kitchen,down,kitchen countertop,right,rubik cube,up-left,room,down,floor,right,rubik cube,left,rubik cube)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → up → down-left → up → down-right → left (object: floor → plastic ball → kitchen countertop → rolling tray → rubik cube → plastic container)
+Right hand: up-left → up-left → up-right → down-left → up-left → down → left (object: floor → kitchen countertop → rubik cube → plastic ball)
+Two-hand object: floor → room → plastic ball → kitchen countertop → rubik cube → kitchen

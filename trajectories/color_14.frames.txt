@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((937,867),right,up,up,up,still,still,down-left,still,up-left,still,up,down-right,still,still,right,left,left,left)
+right hand:((1252,694),up-left,down-right,up,up,up-right,up-left,down-left,up-right,up,still,up,down-left,up-left,down-left,right,up-right,left,up)
+left hand object:((1076,910,paper tablemat),up-right,paper tablemat,up-left,rubik cube,up,rubik cube,up,rubik cube,still,box,still,box,down-right,paper tablemat,still,paper tablemat,left,cutting mat,right,paper tablemat,still,paper tablemat,still,paper tablemat,up-left,paper tablemat,up-left,rubik cube,right,box,down,paper tablemat,right,paper tablemat,left,paper tablemat)
+right hand object:((1076,910,paper tablemat),up-left,book,right,toothbrush,up-left,box,up,rubik cube,still,box,still,box,down-right,paper tablemat,up,pencil,still,pencil,down,paper tablemat,still,paper tablemat,still,paper tablemat,up-left,paper tablemat,up-left,rubik cube,down-right,fidget spinner ring,down-left,paper tablemat,right,paper tablemat,left,paper tablemat)
+two hand object:((1076,910,paper tablemat),up-left,rubik cube,right,toothbrush,up-left,box,up,box,still,box,still,box,down-right,paper tablemat,still,paper tablemat,up-left,paper tablemat,still,cutting pad,still,paper tablemat,still,paper tablemat,up-left,paper tablemat,up-left,rubik cube,right,rubik cube,down,paper tablemat,right,paper tablemat,left,paper tablemat)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → up → up → still → still → down-left → still → up-left → still → up → down-right → still → still → right → left → left → left (object: rubik cube → paper tablemat → cutting mat → box)
+Right hand: up-left → down-right → up → up → up-right → up-left → down-left → up-right → up → still → up → down-left → up-left → down-left → right → up-right → left → up (object: book → paper tablemat → pencil → rubik cube → toothbrush → fidget spinner ring → box)
+Two-hand object: paper tablemat → rubik cube → toothbrush → cutting pad → box

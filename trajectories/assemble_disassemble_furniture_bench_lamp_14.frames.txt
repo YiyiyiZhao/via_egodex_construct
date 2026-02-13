@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((880,736),up-right,up,down-left,down-left,down-left,down,down-left,still,still)
+right hand:((1316,762),up,up-left,left,down-right,down-right,down,down,still,down)
+left hand object:((960,836,desk),up-right,remote control,down-left,desk,up-right,paint spray gun,down,plastic model piece,down-left,desk,down,desk,down,desk,still,desk,down-right,desk)
+right hand object:((1460,732,foam),left,desk,up,desk,up-right,paint spray gun,down-left,desk,down,desk,down,desk,down,desk,still,desk,down-right,desk)
+two hand object:((960,836,desk),up,desk,up,room,right,paint spray gun,down,plastic model piece,down-left,desk,down,desk,up,room,still,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → down-left → down-left → down-left → down → down-left → still → still (object: paint spray gun → remote control → desk → plastic model piece)
+Right hand: up → up-left → left → down-right → down-right → down → down → still → down (object: paint spray gun → desk → foam)
+Two-hand object: paint spray gun → desk → room → plastic model piece

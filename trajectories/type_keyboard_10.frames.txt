@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((704,886),up,down-left,up-left,still,still,still,still,still,still,still,still,still,still,still,still,still,up,still,down,still,still,still,still,still,still)
+right hand:((1592,916),up,left,up-left,up-right,down-left,right,still,up-right,down-left,up-right,still,down,up-right,down-left,left,up-right,left,right,right,left,down-left,left,up-right,down-left,still)
+left hand object:((958,775,desk),up,desk,still,desk,still,desk,down,desk,still,desk,still,desk,still,desk,still,desk,still,desk,still,desk,still,desk,up,desk,down,desk,still,desk,up,desk,down,desk,up,desk,still,desk,still,desk,still,desk,still,desk,still,desk,still,desk,still,desk,still,desk)
+right hand object:((958,775,desk),up-right,keyboard,left,keyboard,left,keyboard,right,keyboard,still,keyboard,still,keyboard,still,keyboard,down-left,desk,up-right,keyboard,still,keyboard,still,keyboard,still,keyboard,down-left,desk,still,desk,up-right,keyboard,right,keyboard,up-left,keyboard,still,keyboard,down-left,desk,up-right,keyboard,left,keyboard,still,keyboard,right,keyboard,left,keyboard,still,keyboard)
+two hand object:((1126,724,keyboard),left,keyboard,left,keyboard,left,keyboard,right,keyboard,still,keyboard,still,keyboard,still,keyboard,right,keyboard,left,keyboard,still,keyboard,still,keyboard,still,keyboard,right,keyboard,left,keyboard,left,keyboard,right,keyboard,up-left,keyboard,still,keyboard,down-right,keyboard,left,keyboard,left,keyboard,still,keyboard,right,keyboard,left,keyboard,still,keyboard)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-left → up-left → still → still → still → still → still → still → still → still → still → still → still → still → still → up → still → down → still → still → still → still → still → still (object: desk)
+Right hand: up → left → up-left → up-right → down-left → right → still → up-right → down-left → up-right → still → down → up-right → down-left → left → up-right → left → right → right → left → down-left → left → up-right → down-left → still (object: keyboard → desk)
+Two-hand object: keyboard

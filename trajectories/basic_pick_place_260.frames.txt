@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((893,703),down-right,down-right,down-right,up-right,down,still,up-left)
+right hand:((1286,833),left,up-left,down-right,down,up,down-left,down)
+left hand object:((850,591,scouring pad),down-right,desk,down-right,cutting pad,up,room,down-right,tag,right,plate,still,plate,left,wristwatch)
+right hand object:((1412,664,sand disc),up-left,sand disc,still,plate,down-right,plate,still,plate,left,plate,still,plate,still,sand disc)
+two hand object:((1075,895,card),up-left,desk,down-right,card sleeve,up,room,right,plate,left,plate,still,plate,left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → down-right → down-right → up-right → down → still → up-left (object: room → wristwatch → scouring pad → tag → desk → plate → cutting pad)
+Right hand: left → up-left → down-right → down → up → down-left → down (object: sand disc → plate)
+Two-hand object: room → card → desk → plate → card sleeve

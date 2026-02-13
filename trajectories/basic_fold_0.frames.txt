@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((970,1016),left,up-right,left,left,none,none,up-right,down,up-right,down,up-left,right,left,none)
+right hand:((1662,955),up-left,up,down,none,none,none,none,left,none,none,up,up-right,down,none)
+left hand object:((959,844,bed),still,bed,up-right,towel,down-left,linen,left,bed,none,none,bed,still,bed,none,none,linen,down-left,bed,still,bed,down-right,polythene bag,left,bed,none)
+right hand object:((1396,809,towel),left,paper bag,up-right,towel,down-left,blanket,none,none,none,none,bed,up-right,puzzle card,none,none,none,none,polythene bag,left,bed,none)
+two hand object:((959,844,bed),up,room,right,towel,down-left,linen,none,none,none,none,bed,none,none,none,none,none,polythene bag,down,paper bag,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → up-right → left → left → none → none → up-right → down → up-right → down → up-left → right → left → none (object: polythene bag → towel → linen → bed)
+Right hand: up-left → up → down → none → none → none → none → left → none → none → up → up-right → down → none (object: bed → towel → puzzle card → paper bag → blanket → polythene bag)
+Two-hand object: towel → room → linen → bed → paper bag → polythene bag

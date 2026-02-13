@@ -1,0 +1,6 @@
+{
+  "video_name": "arrange_topple_dominoes_2.frames",
+  "action_label": "arrange_topple_dominoes",
+  "description": "On the tabletop in front of you there’s a short curved line of upright white domino tiles. The left hand moves in toward the first tiles and taps them, knocking the line over so the dominoes topple in sequence and scatter across the table, while the right hand stays nearby hovering without touching any tile.",
+  "model": "gpt-5.2-2025-12-11"
+}

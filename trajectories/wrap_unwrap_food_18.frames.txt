@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((774,768),up,up-right,up,down,up,up-left,down-left,down-left,down-right,up,down,right,up-left,still,left,down-right,left)
+right hand:((1609,844),up,up-left,down,down-right,up-left,up-right,left,down-right,left,up,down,down-right,left,right,right,left,right)
+left hand object:((1165,840,cutting mat),up-right,cutting mat,up-left,room,down,countertop,none,none,none,none,cutting pad,none,none,lace,left,countertop,still,countertop,still,desk,still,desk,still,desk,still,countertop,right,bread,down-left,desk)
+right hand object:((1165,840,cutting mat),left,table,up,room,down-right,bread,down-right,fidget spinner ring,none,none,spoon,down,cutting pad,none,none,lace,left,countertop,still,countertop,still,desk,still,desk,still,desk,still,countertop,right,bread,down-left,desk)
+two hand object:((1165,840,cutting mat),up-right,cutting mat,up-left,room,down,countertop,none,none,none,none,cutting pad,none,none,desk,still,countertop,still,countertop,still,desk,still,desk,still,desk,still,countertop,right,bread,down-left,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → up → down → up → up-left → down-left → down-left → down-right → up → down → right → up-left → still → left → down-right → left (object: room → countertop → lace → desk → bread → cutting pad → cutting mat)
+Right hand: up → up-left → down → down-right → up-left → up-right → left → down-right → left → up → down → down-right → left → right → right → left → right (object: room → countertop → cutting mat → table → lace → spoon → desk → bread → cutting pad → fidget spinner ring)
+Two-hand object: room → countertop → desk → bread → cutting pad → cutting mat

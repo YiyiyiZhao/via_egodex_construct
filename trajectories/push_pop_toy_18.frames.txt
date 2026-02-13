@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((906,883),up,right,up-left,up-right,down-left,up,right,down-left,up-right,right,up-left,down-right,up-left,down-right,right,up-left)
+right hand:((1317,744),left,up-right,up-right,left,down-right,up,up-left,down-right,left,left,right,left,right,left,up-right,down-left)
+left hand object:((916,777,fidget spinner ring),up,room,down-right,remote control,up-left,desk,down-right,remote control,up-left,fidget spinner ring,up,fidget spinner ring,down-right,phone,up-left,remote control,still,rubik cube,still,phone,up-left,fidget spinner ring,down-right,phone,up-left,fidget spinner ring,down-right,remote control,still,phone,up,rubik cube)
+right hand object:((1154,866,rolling tray),up-right,fidget spinner ring,down-left,remote control,up-left,desk,down-right,remote control,up,rubik cube,up-left,desk,down-right,phone,up-left,remote control,still,remote control,still,phone,still,remote control,still,phone,up,remote control,still,remote control,still,phone,up,remote control)
+two hand object:((1154,866,rubik cube),up-left,room,down-right,remote control,up-left,room,down-right,remote control,up-left,room,down,desk,down-right,phone,up-left,remote control,still,remote control,still,phone,still,remote control,still,phone,up,remote control,still,remote control,still,phone,up,rubik cube)
+
+
+## LLM-Friendly Format:
+Left hand: up → right → up-left → up-right → down-left → up → right → down-left → up-right → right → up-left → down-right → up-left → down-right → right → up-left (object: room → rubik cube → phone → desk → remote control → fidget spinner ring)
+Right hand: left → up-right → up-right → left → down-right → up → up-left → down-right → left → left → right → left → right → left → up-right → down-left (object: rolling tray → rubik cube → desk → phone → remote control → fidget spinner ring)
+Two-hand object: room → rubik cube → phone → desk → remote control

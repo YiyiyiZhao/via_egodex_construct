@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((388,1009),right,up-left,up-right,still,left,down-left,still,up-right,down-left,down,still,right,up-right,up-right,down-left)
+right hand:((1270,780),up-left,up-right,none,none,none,none,down-left,none,none,up-right,up-right,down-left,none,none,none)
+left hand object:((960,816,bed),left,bed,up-left,bed,up-right,fidget spinner ring,up-left,box,still,box,down-left,bed,up,room,right,box,left,room,still,room,still,room,still,room,down,fidget spinner ring,up,room,right,box)
+right hand object:((960,816,bed),up,charging dock,up-right,paper container,none,none,none,none,charging dock,still,box,none,none,box,left,room,still,room,right,box,none,none,none)
+two hand object:((960,816,bed),left,bed,up-left,bed,none,none,none,none,room,still,room,none,none,room,still,room,still,room,still,room,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → up-right → still → left → down-left → still → up-right → down-left → down → still → right → up-right → up-right → down-left (object: room → box → fidget spinner ring → bed)
+Right hand: up-left → up-right → none → none → none → none → down-left → none → none → up-right → up-right → down-left → none → none → none (object: charging dock → room → paper container → bed → box)
+Two-hand object: room → bed

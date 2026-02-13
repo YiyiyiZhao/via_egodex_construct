@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((892,793),still,still,still,still,still,still,still)
+right hand:((1376,754),left,still,left,right,up,up,down-right)
+left hand object:((1071,800,countertop),down,hot plate,still,hot plate,still,rolling tray,still,rolling tray,still,rolling tray,still,rolling tray,still,rolling tray)
+right hand object:((1071,800,countertop),right,mug,still,remote control,left,toothbrush,down-left,rolling tray,still,rolling tray,still,rolling tray,up-right,remote control)
+two hand object:((1071,800,countertop),left,countertop,left,countertop,right,countertop,left,countertop,still,countertop,still,countertop,left,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still (object: rolling tray → hot plate → countertop)
+Right hand: left → still → left → right → up → up → down-right (object: mug → countertop → rolling tray → toothbrush → remote control)
+Two-hand object: countertop

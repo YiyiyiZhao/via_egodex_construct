@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((926,836),up-right,right,left,up-left,down-right,down-left,left,right,still,up,down-right,down-right,up-left,down-right,right,still,up-right,down,up-left,down-right)
+right hand:((1468,862),up-left,up-left,right,up,down-left,up-left,right,down,up,down,down-right,up,left,down-right,up-left,down-right,left,down,right,up-left)
+left hand object:((960,807,bed),right,knot,up-right,pair of scissors,up-left,pair of scissors,left,bed,right,pair of scissors,left,bed,up,bed,right,pair of scissors,left,bed,up,bed,right,pair of scissors,left,bed,up-right,pair of scissors,right,pair of scissors,left,bed,right,scissors,left,toothbrush,up-left,toothbrush,right,scissors,down-left,bed)
+right hand object:((960,807,bed),right,knot,up-right,pair of scissors,up-left,pair of scissors,up-left,pair of scissors,right,pair of scissors,left,paint brush,left,bed,right,pair of scissors,up-left,paint brush,left,bed,right,pair of scissors,up-right,pair of scissors,left,pair of scissors,down-left,bed,up,bed,right,pair of scissors,left,toothbrush,left,bed,still,bed,down,bed)
+two hand object:((960,807,bed),up,bed,up,bed,right,pair of scissors,left,bed,up-right,pair of scissors,left,paint brush,up,necklace string,down-right,pair of scissors,up-left,pair of scissors,left,bed,right,pair of scissors,up,pair of scissors,left,toothbrush,right,pair of scissors,left,bed,right,pair of scissors,left,pair of scissors,left,bed,up-right,pair of scissors,down-left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → right → left → up-left → down-right → down-left → left → right → still → up → down-right → down-right → up-left → down-right → right → still → up-right → down → up-left → down-right (object: pair of scissors → knot → scissors → toothbrush → bed)
+Right hand: up-left → up-left → right → up → down-left → up-left → right → down → up → down → down-right → up → left → down-right → up-left → down-right → left → down → right → up-left (object: pair of scissors → paint brush → knot → toothbrush → bed)
+Two-hand object: pair of scissors → paint brush → toothbrush → bed → necklace string

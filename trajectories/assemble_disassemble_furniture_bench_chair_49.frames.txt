@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((921,574),still,still,still,still,still,still,still)
+right hand:((1358,598),left,up,still,down,up,right,down-right)
+left hand object:((962,742,desk),up,measuring tool,down-left,room,up-right,measuring tool,down,countertop,up,trowel,right,measuring tool,left,measuring tool)
+right hand object:((962,742,desk),up,plastic model piece,down-left,room,up-right,measuring tool,down,countertop,up,measuring tool,still,wooden model,down-left,room)
+two hand object:((962,544,room),down,desk,up,room,still,room,still,room,still,room,still,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still (object: countertop → desk → room → trowel → measuring tool)
+Right hand: left → up → still → down → up → right → down-right (object: countertop → desk → room → plastic model piece → wooden model → measuring tool)
+Two-hand object: desk → room

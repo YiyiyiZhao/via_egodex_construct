@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((946,814),up-left,up-right,still,up-right,up,up,up-right,still,up,right,still,up,right,still)
+right hand:((1339,707),up-left,left,down-right,up-right,down-right,still,up-right,up-right,down,down-left,up,down-right,up,up-right)
+left hand object:((1077,762,lighter),up-left,lighter,up-right,remote control,still,cellphone,up-right,device,up,cellphone,still,marker,up-right,remote control,up-left,cellphone,up-left,cellphone,down-right,cellphone,down-right,remote control,up,remote control,down-right,remote control,still,cellphone)
+right hand object:((960,540,room),down-right,pair of scissors,left,remote control,still,cellphone,up-right,cellphone,up,remote control,still,remote control,up-right,remote control,up-left,cellphone,up-left,room,right,lighter,down-right,remote control,up,toothbrush,down-right,remote control,still,cellphone)
+two hand object:((960,540,room),down-right,pair of scissors,up-left,room,still,room,down-right,cellphone,up,remote control,still,remote control,up-left,room,down-right,cellphone,up-left,room,still,room,down-right,remote control,up,remote control,down-right,cellphone,still,remote control)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → still → up-right → up → up → up-right → still → up → right → still → up → right → still (object: lighter → device → cellphone → remote control → marker)
+Right hand: up-left → left → down-right → up-right → down-right → still → up-right → up-right → down → down-left → up → down-right → up → up-right (object: room → pair of scissors → lighter → toothbrush → remote control → cellphone)
+Two-hand object: remote control → cellphone → room → pair of scissors

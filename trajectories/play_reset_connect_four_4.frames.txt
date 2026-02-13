@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((866,854),up-right,up-right,up-left,up,left,down-left,down)
+right hand:((1793,959),up-left,left,up,right,right,down-right,down)
+left hand object:((960,816,carpet),down-right,bead necklace,up-right,seat cloth,up-left,seat cloth,up-right,pot holder,none,none,bed,down,bed)
+right hand object:((960,816,carpet),still,bed,up-right,seat cloth,up-left,seat cloth,up-right,pot holder,down-left,bed,down,bed,down,bed)
+two hand object:((960,816,carpet),still,bed,up-left,bed,up-right,seat cloth,up-right,tablet bag,none,none,bed,down,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-right → up-left → up → left → down-left → down (object: carpet → pot holder → bead necklace → seat cloth → bed)
+Right hand: up-left → left → up → right → right → down-right → down (object: pot holder → seat cloth → carpet → bed)
+Two-hand object: seat cloth → carpet → tablet bag → bed

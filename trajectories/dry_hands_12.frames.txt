@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1132,676),up-left,up-left,up-left,down-left,down-right,up-left,up-left,down-right,up-left)
+right hand:((1185,578),down-left,none,none,down-left,down,up,left,right,left)
+left hand object:((958,741,bed),none,none,banana,up-left,banana,down-left,seed bead embroidery,down-right,bed,up,banana,left,room,up-right,banana,left,banana)
+right hand object:((958,741,bed),none,none,none,banana,down-left,bed,still,bed,up,banana,left,room,up-right,banana,left,banana)
+two hand object:((958,741,bed),none,none,none,banana,down-left,bed,still,bed,still,bed,up,room,still,room,up-right,banana)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-left → up-left → down-left → down-right → up-left → up-left → down-right → up-left (object: banana → seed bead embroidery → room → bed)
+Right hand: down-left → none → none → down-left → down → up → left → right → left (object: banana → room → bed)
+Two-hand object: banana → room → bed

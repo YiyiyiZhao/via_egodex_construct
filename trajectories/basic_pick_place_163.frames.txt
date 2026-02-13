@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((427,857),up,up,right,right,up-right,down,down)
+right hand:((1754,982),up-left,up-left,up-left,up-left,down,right,down-right)
+left hand object:((1008,821,desk),none,none,counter,up-left,jenga block,right,socket,right,soft lego brick,down,rubik cube,down,mallet)
+right hand object:((1008,821,desk),none,none,counter,right,toothbrush,left,rolling tray,right,rolling tray,down-left,counter,down,countertop)
+two hand object:((1008,821,desk),none,none,desk,still,countertop,still,countertop,still,countertop,down,countertop,down,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → right → right → up-right → down → down (object: jenga block → socket → counter → rubik cube → soft lego brick → mallet → desk)
+Right hand: up-left → up-left → up-left → up-left → down → right → down-right (object: countertop → counter → rolling tray → toothbrush → desk)
+Two-hand object: desk → countertop

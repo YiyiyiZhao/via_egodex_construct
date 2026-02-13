@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((944,678),still,still,still,still,still,still,still)
+right hand:((1430,656),down,up,left,down-left,up-right,left,down-left)
+left hand object:((1181,701,rolling tray),up-left,foam block,down-right,sponge cloth,up-left,jenga block,still,jenga block,still,jenga block,still,jenga block,still,jenga block)
+right hand object:((1181,701,rolling tray),down,envelope,up,sponge cloth,down,kitchen countertop,up-left,rolling tray,still,rolling tray,still,rolling tray,right,rolling tray)
+two hand object:((1181,701,rolling tray),down-left,countertop,up-right,sponge cloth,down,kitchen countertop,up-left,architectural craft manual,right,rolling tray,still,rolling tray,down-left,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → still → still → still (object: foam block → rolling tray → sponge cloth → jenga block)
+Right hand: down → up → left → down-left → up-right → left → down-left (object: envelope → rolling tray → sponge cloth → kitchen countertop)
+Two-hand object: countertop → kitchen countertop → sponge cloth → rolling tray → architectural craft manual

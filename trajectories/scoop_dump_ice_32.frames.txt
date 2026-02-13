@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((961,925),up-left,up-right,up-right,up-right,up,down-left,down)
+right hand:((1608,961),up-left,left,right,up-left,up-left,up-left,down-right)
+left hand object:((1046,804,desk),up-left,cup,up,cup,up-right,lemonade,right,handle grip bar,up,handle grip bar,left,cup,down,cup)
+right hand object:((1700,844,dustpan),up,dustpan,down-left,scissors,down-right,scissors,still,pair of scissors,up,scissors,up-left,scissors,down,scissors)
+two hand object:((1046,804,desk),up,bed,up,room,down,desk,up,desk,up-left,countertop,up,room,down,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → up-right → up-right → up → down-left → down (object: handle grip bar → lemonade → desk → cup)
+Right hand: up-left → left → right → up-left → up-left → up-left → down-right (object: dustpan → scissors → pair of scissors)
+Two-hand object: countertop → desk → room → bed

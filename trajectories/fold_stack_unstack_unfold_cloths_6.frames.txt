@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1160,809),right,up-right,left,up-right,left,up-right,down-left,right,up-left)
+right hand:((None,None),none,none,none,none,none,none,none,none,none)
+left hand object:((1414,850,sponge cloth),left,cutting pad,left,cutting pad,up-right,sponge cloth,left,cutting pad,left,sponge cloth,down-right,sponge cloth,down-left,cutting mat,right,sponge cloth,up-left,towel)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-right → left → up-right → left → up-right → down-left → right → up-left (object: sponge cloth → cutting pad → towel → cutting mat)
+Right hand: none → none → none → none → none → none → none → none → none (object: none)

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((704,838),still,up,up-right,right,up,down,up)
+right hand:((1650,915),up,up-right,down-right,down,up,up,up)
+left hand object:((892,832,desk),still,desk,up,desk,none,none,foam block,up-left,container lid,up,container lid,down-right,scissors)
+right hand object:((892,832,desk),right,pot holder,left,desk,right,sweeping brush,down-left,scissors,right,handle grip bar,up-left,scissors,up-left,scissors)
+two hand object:((892,832,desk),still,desk,up,desk,none,none,none,none,scissors,up-left,scissors)
+
+
+## LLM-Friendly Format:
+Left hand: still → up → up-right → right → up → down → up (object: foam block → scissors → desk → container lid)
+Right hand: up → up-right → down-right → down → up → up → up (object: sweeping brush → handle grip bar → pot holder → scissors → desk)
+Two-hand object: scissors → desk

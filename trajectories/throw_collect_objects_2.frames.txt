@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((612,774),up-right,down-right,up-left,left,up-right,left,right,up-left,right,left,right,left,down,down-right,up,up-right,down,up-left,down-right,down-right,up,right,up,still,down,up-left,down,right,down-right)
+right hand:((1826,942),up-left,left,right,left,left,right,left,down-right,up-left,right,left,right,left,none,none,right,up,down-right,up,up-left,down,down,up-left,left,up,down,right,left,down-left)
+left hand object:((960,798,floor),up,desk,none,none,floor,still,desk,up,desk,still,desk,left,table,right,desk,up,floor,down,desk,up,countertop,still,desk,down,desk,down,floor,up,desk,up,desk,down,countertop,none,none,countertop,left,desk,right,countertop,still,floor,up,countertop,still,desk,down-left,countertop,none,none,none,towel,down-right,banana)
+right hand object:((960,798,floor),up,desk,up,room,down,floor,still,desk,up,desk,still,desk,up,plum,right,microfiber cloth,up-right,microfiber cloth,left,microfiber cloth,left,countertop,still,desk,down,desk,none,none,pair of scissors,left,desk,up-right,bottle cap,none,none,countertop,up-right,cardboard box,down-left,countertop,right,banana,left,countertop,still,desk,up-right,box,none,none,none,towel,down-right,banana)
+two hand object:((960,798,floor),up,desk,none,none,floor,still,desk,up,desk,still,desk,left,desk,right,desk,up,floor,down,desk,up,counter,still,desk,down,desk,none,none,desk,up,desk,up,room,none,none,desk,left,desk,right,countertop,still,floor,up,countertop,still,desk,down-left,countertop,none,none,none,towel,down-right,banana)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down-right → up-left → left → up-right → left → right → up-left → right → left → right → left → down → down-right → up → up-right → down → up-left → down-right → down-right → up → right → up → still → down → up-left → down → right → down-right (object: floor → towel → countertop → table → desk → banana)
+Right hand: up-left → left → right → left → left → right → left → down-right → up-left → right → left → right → left → none → none → right → up → down-right → up → up-left → down → down → up-left → left → up → down → right → left → down-left (object: floor → towel → room → countertop → pair of scissors → desk → cardboard box → banana → microfiber cloth → plum → bottle cap → box)
+Two-hand object: floor → towel → room → countertop → counter → desk → banana

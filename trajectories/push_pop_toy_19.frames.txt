@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((920,880),right,up-right,left,down-right,down-left,still,right,still,still,left,down-left,up-right,right,up-left)
+right hand:((1340,929),left,still,right,down-right,right,up-left,down-left,right,right,still,still,up-left,left,up-right)
+left hand object:((1178,868,book),up-left,rubik cube,right,rubik cube,up,rubik cube,down,rubik cube,down,soft lego brick,left,bed,right,rolling tray,up,rubik cube,up-left,rolling tray,down,soft lego brick,down,soft lego brick,left,bed,still,bed,still,bed)
+right hand object:((1179,866,sponge cloth),up-left,rubik cube,right,rubik cube,up,rubik cube,down,rubik cube,down,rubik cube,left,bed,right,rolling tray,up,rubik cube,up-left,rolling tray,down,soft lego brick,down,soft lego brick,left,bed,still,bed,still,bed)
+two hand object:((958,547,room),down-right,rubik cube,right,rubik cube,left,bed,right,rubik cube,down,soft lego brick,left,bed,right,rubik cube,up,soft lego brick,left,bed,still,bed,right,soft lego brick,left,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-right → left → down-right → down-left → still → right → still → still → left → down-left → up-right → right → up-left (object: book → rolling tray → rubik cube → soft lego brick → bed)
+Right hand: left → still → right → down-right → right → up-left → down-left → right → right → still → still → up-left → left → up-right (object: sponge cloth → rolling tray → rubik cube → soft lego brick → bed)
+Two-hand object: rubik cube → soft lego brick → room → bed

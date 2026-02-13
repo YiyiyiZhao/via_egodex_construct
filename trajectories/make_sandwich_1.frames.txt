@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((704,688),right,right,left,right,left,right,left,up,down,down,right,up-left,right,left,up-left,up,down-right,up,down-left,up-left,down-right,up-left,down-left,down-right)
+right hand:((1750,874),up-left,down-left,left,left,up-right,down-right,left,up-left,right,down-right,up-left,down-left,none,none,down,up-left,right,up-left,down-right,up,down-left,up-right,down-left,right)
+left hand object:((961,789,bed),up,bed,right,plate,left,mustard,down,bed,none,none,blanket,left,blanket,up-left,blanket,none,none,bed,none,none,towel,right,bed,still,bed,none,none,remote control,left,blanket,right,pot lid,left,blanket,up-left,blanket,right,instruction manual,down,plastic model piece,down-left,bed,up-right,plastic container)
+right hand object:((961,789,bed),up,bed,still,bed,still,bed,still,bed,still,bed,still,bed,none,none,fidget spinner ring,none,none,bed,none,none,bed,none,none,bed,none,none,remote control,none,none,bed,still,bed,left,bed,up-right,instruction manual,up,card sleeve,down-left,bed,up-right,plastic container)
+two hand object:((961,789,bed),up,bed,still,bed,still,bed,still,bed,none,none,bed,none,none,blanket,none,none,bed,none,none,none,none,bed,none,none,remote control,none,none,bed,still,bed,left,bed,up-right,instruction manual,up,notebook,down-left,bed,up-right,plastic container)
+
+
+## LLM-Friendly Format:
+Left hand: right → right → left → right → left → right → left → up → down → down → right → up-left → right → left → up-left → up → down-right → up → down-left → up-left → down-right → up-left → down-left → down-right (object: bed → towel → pot lid → plastic model piece → plate → mustard → blanket → remote control → instruction manual → plastic container)
+Right hand: up-left → down-left → left → left → up-right → down-right → left → up-left → right → down-right → up-left → down-left → none → none → down → up-left → right → up-left → down-right → up → down-left → up-right → down-left → right (object: bed → fidget spinner ring → remote control → card sleeve → instruction manual → plastic container)
+Two-hand object: bed → blanket → remote control → notebook → instruction manual → plastic container

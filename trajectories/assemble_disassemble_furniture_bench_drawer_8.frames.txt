@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((886,583),up,still,right,still,left,still,still)
+right hand:((1340,639),left,left,right,right,right,down-left,up-right)
+left hand object:((984,605,paper container),still,paper container,still,paper container,up-right,box,right,box,left,foam block,still,box,still,paper container)
+right hand object:((960,763,bed),up,bed,up,box,right,paper container,right,box,right,carton,down-left,box,down-left,paper container)
+two hand object:((960,763,bed),up,paper container,down,bed,still,bed,up-right,box,down-left,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up → still → right → still → left → still → still (object: foam block → box → paper container)
+Right hand: left → left → right → right → right → down-left → up-right (object: carton → paper container → box → bed)
+Two-hand object: paper container → box → bed

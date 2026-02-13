@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((834,746),right,down,up,down,down-right,up,down,up-left,up-left,still,down,up,down-left,up)
+right hand:((1224,882),up,up-right,down,up,up-right,left,up-right,up-right,down-left,up-left,down-right,up-right,down-left,down)
+left hand object:((936,838,bed),up-left,linen,down-right,carpet,still,carpet,still,carpet,left,carpet,right,floor,still,carpet,up,room,down,carpet,still,floor,down,carpet,up-right,plastic model piece,up-left,linen,right,food container)
+right hand object:((1382,816,box),up-left,room,down,carpet,still,carpet,still,carpet,left,carpet,right,floor,still,carpet,up,room,down,carpet,right,plastic model piece,left,soft lego brick,up-right,nail,down-left,plastic model piece,down,plastic model piece)
+two hand object:((959,540,room),still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,down,floor,down-right,soft lego brick,up,plastic model piece,up-left,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: right → down → up → down → down-right → up → down → up-left → up-left → still → down → up → down-left → up (object: floor → carpet → room → plastic model piece → linen → bed → food container)
+Right hand: up → up-right → down → up → up-right → left → up-right → up-right → down-left → up-left → down-right → up-right → down-left → down (object: floor → carpet → room → soft lego brick → nail → plastic model piece → box)
+Two-hand object: floor → soft lego brick → room → plastic model piece

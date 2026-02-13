@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((910,946),up,up-right,up,still,up,up-left,down-left)
+right hand:((1424,950),up-left,up-left,up,up,down-left,right,down-right)
+left hand object:((960,844,bed),up-right,tray,down-left,bed,up-right,foam block,still,foam block,still,foam block,up-left,base plate,left,base plate)
+right hand object:((960,844,bed),up,bed,up,bed,up-right,foam block,still,foam block,still,rolling tray,up-right,linen,down,remote control)
+two hand object:((960,844,bed),up,bed,up,bed,up,bed,up-right,foam block,down-left,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → up → still → up → up-left → down-left (object: foam block → tray → base plate → bed)
+Right hand: up-left → up-left → up → up → down-left → right → down-right (object: foam block → rolling tray → linen → bed → remote control)
+Two-hand object: foam block → bed

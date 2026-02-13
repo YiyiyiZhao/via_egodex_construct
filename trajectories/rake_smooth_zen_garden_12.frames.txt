@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1012,158),down-right,down-left,right,down,up-right,right,up-right,down-right,up-left)
+right hand:((1588,134),up,down-right,down-right,left,down-right,down,up-left,up,up)
+left hand object:((1364,454,mirror),down,sand disc,left,sand disc,right,sand disc,down,sand disc,right,sand disc,none,none,none,paint brush,none)
+right hand object:((1432,216,paint brush),up-right,crayon,down-right,pencil,up,paint brush,left,toothbrush,down-left,paint brush,none,none,stick,up,paint brush,none)
+two hand object:((1364,454,mirror),none,none,none,none,none,none,none,none,paint brush,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → down-left → right → down → up-right → right → up-right → down-right → up-left (object: paint brush → sand disc → mirror)
+Right hand: up → down-right → down-right → left → down-right → down → up-left → up → up (object: crayon → pencil → paint brush → toothbrush → stick)
+Two-hand object: paint brush → mirror

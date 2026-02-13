@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((864,1054),up-right,up,down-right,left,right,left,right,right,up-left,left,left,left,left,left,still)
+right hand:((1374,1046),up-left,up-right,up,right,down-left,down-right,up-left,up-left,left,still,right,right,right,left,left)
+left hand object:((None,None),none,shoe,up-right,phone,none,none,paint brush,down,phone,left,fidget spinner ring,none,none,none,none,none,none,none,paint brush,none,none)
+right hand object:((808,890,floor),right,shoe,up-right,phone,up,fidget spinner ring,down-left,paint brush,down,phone,none,none,none,fidget spinner ring,left,fidget spinner ring,none,none,none,none,paint brush,none,none)
+two hand object:((None,None),none,shoe,up-right,phone,none,none,pair of scissors,down,phone,none,none,none,none,none,none,none,none,paint brush,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up → down-right → left → right → left → right → right → up-left → left → left → left → left → left → still (object: paint brush → phone → shoe → fidget spinner ring)
+Right hand: up-left → up-right → up → right → down-left → down-right → up-left → up-left → left → still → right → right → right → left → left (object: floor → shoe → paint brush → phone → fidget spinner ring)
+Two-hand object: paint brush → phone → shoe → pair of scissors

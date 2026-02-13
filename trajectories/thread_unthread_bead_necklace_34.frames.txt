@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1002,933),down-right,up-left,down,up-right,right,left,down-right,right,up-left)
+right hand:((1430,788),left,up,down-right,up-left,down,up,down-right,down,up-left)
+left hand object:((960,634,table),down-right,pair of scissors,up-left,table,down,pair of scissors,up,table,up,bed,still,bed,down,pair of scissors,up,bed,down-right,pair of scissors)
+right hand object:((960,634,table),right,mancala board,left,table,down,paper tablemat,right,cutting mat,left,bed,still,bed,still,bed,right,seed bead embroidery,down-left,pair of scissors)
+two hand object:((960,634,table),still,table,still,table,up,bed,down,table,up,bed,still,bed,down,pair of scissors,up,bed,down-right,pair of scissors)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → down → up-right → right → left → down-right → right → up-left (object: table → bed → pair of scissors)
+Right hand: left → up → down-right → up-left → down → up → down-right → down → up-left (object: pair of scissors → table → paper tablemat → mancala board → seed bead embroidery → bed → cutting mat)
+Two-hand object: pair of scissors → table → bed

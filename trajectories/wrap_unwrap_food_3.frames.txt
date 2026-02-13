@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((758,673),right,still,down-left,up-right,right,right,left,down-left,right,still,left,up-right,down,still,left,left,left)
+right hand:((1495,748),down-left,up,down-right,up-left,left,left,right,down-right,left,right,up-left,left,right,left,down-right,right,right)
+left hand object:((919,766,table),still,table,right,countertop,none,none,counter,up-right,bread,still,bread,down-left,countertop,none,none,countertop,down-left,countertop,still,countertop,up-right,fidget spinner ring,down-left,countertop,still,countertop,up-right,bread,down-right,bread,left,countertop)
+right hand object:((919,766,table),down-right,plate,up,bread,down-right,fidget spinner ring,left,counter,up-right,bread,still,bread,down-left,countertop,none,none,countertop,down-left,countertop,still,countertop,left,countertop,down-left,countertop,still,countertop,up-right,toast,down-right,bread,left,countertop)
+two hand object:((919,766,table),still,table,right,countertop,none,none,countertop,up-right,bread,down-left,countertop,right,countertop,none,none,countertop,down-left,countertop,still,countertop,left,countertop,still,table,still,countertop,up-right,toast,down-right,bread,left,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: right → still → down-left → up-right → right → right → left → down-left → right → still → left → up-right → down → still → left → left → left (object: countertop → table → counter → bread → fidget spinner ring)
+Right hand: down-left → up → down-right → up-left → left → left → right → down-right → left → right → up-left → left → right → left → down-right → right → right (object: countertop → toast → table → counter → plate → bread → fidget spinner ring)
+Two-hand object: table → bread → toast → countertop

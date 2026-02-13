@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1381,728),down-left,up,still,still,still,up-right,down-left,up,up-right,still,still,up-left,up-right,up-right)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1046,864,cutting mat),up-right,book,left,rolling tray,still,rolling tray,up-left,notebook,down,notebook,up-right,paint brush,down-left,remote control,up-right,phone,still,remote control,still,phone,still,phone,left,remote control,still,remote control,up,linen)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → up → still → still → still → up-right → down-left → up → up-right → still → still → up-left → up-right → up-right (object: book → paint brush → rolling tray → phone → linen → remote control → notebook → cutting mat)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

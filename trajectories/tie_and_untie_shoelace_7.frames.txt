@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((858,706),down-right,right,up,up-left,up-left,right,down-right,up-left)
+right hand:((1556,763),left,down-left,still,right,down,left,up-left,down-left)
+left hand object:((964,696,pair of pliers),right,pair of pliers,down-right,tie,right,tie,left,watch,down,wristwatch,down-right,wristwatch,right,tie,left,tie)
+right hand object:((960,720,bed),right,tie,still,tie,right,tie,none,none,bed,right,tie,up,pair of scissors,down,tie)
+two hand object:((960,720,bed),right,tie,still,tie,right,tie,none,none,bed,right,tie,left,tie,left,tie)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → right → up → up-left → up-left → right → down-right → up-left (object: wristwatch → watch → pair of pliers → tie)
+Right hand: left → down-left → still → right → down → left → up-left → down-left (object: pair of scissors → tie → bed)
+Two-hand object: tie → bed

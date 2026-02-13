@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((711,814),left,right,down-left,left,up-right,down-right,up-right,left,down-right,up,up-left,down-right,up-right)
+right hand:((1782,992),left,none,none,none,none,up-right,none,none,right,none,none,none,none)
+left hand object:((1006,904,desk),up,book,right,desk,left,rolling tray,down-left,magazine,right,cutting pad,up-left,notebook,up-right,sketch manual,left,paper bag,down,tablet,up-right,cutting pad,up,notebook,down-right,cutting pad,up,laptop)
+right hand object:((1006,904,desk),up,book,none,none,none,none,desk,up-right,desk,none,none,paper bag,right,rolling tray,none,none,desk,none,none)
+two hand object:((1006,904,desk),up,architectural craft manual,none,none,none,none,rolling tray,right,desk,none,none,desk,down-right,desk,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → down-left → left → up-right → down-right → up-right → left → down-right → up → up-left → down-right → up-right (object: magazine → book → notebook → rolling tray → sketch manual → desk → laptop → paper bag → cutting pad → tablet)
+Right hand: left → none → none → none → none → up-right → none → none → right → none → none → none → none (object: paper bag → book → desk → rolling tray)
+Two-hand object: architectural craft manual → rolling tray → desk

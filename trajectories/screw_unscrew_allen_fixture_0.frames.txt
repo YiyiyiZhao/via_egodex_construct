@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((None,None),none,down-left,down-right,left,up-left,up-right,left,right,down-left,down,right,down-left,down-right,left,up-right,down-left,down,up)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((None,None),none,phone,down-left,phone,right,pair of scissors,left,tweezer,down-left,instruction manual,up-right,fidget spinner ring,left,phone,right,pair of scissors,down-left,phone,right,phone,down-left,instruction manual,down-left,instruction manual,up,room,right,mobile phone,left,phone,right,phone,down-right,phone,up-left,phone)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: none → down-left → down-right → left → up-left → up-right → left → right → down-left → down → right → down-left → down-right → left → up-right → down-left → down → up (object: room → pair of scissors → mobile phone → phone → instruction manual → tweezer → fidget spinner ring)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: none)

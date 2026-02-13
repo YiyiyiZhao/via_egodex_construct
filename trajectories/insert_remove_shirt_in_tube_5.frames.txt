@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1121,750),down,up-right,up-left,down,down-right,still,up,down,left,up-right,up-right,still,up-left,still,still,up-right,still,still,down-left,still,down-right,up-left)
+right hand:((1447,692),up-left,right,none,none,up,up-right,down-left,down-right,left,up-right,left,down,down-left,up-right,down-left,up,up-left,down-right,down-right,left,up-left,left)
+left hand object:((1182,604,sauce container),down,bottle,up-right,cup,down-left,bed,left,blanket,right,sauce bottle,left,towel,right,sauce bottle,left,towel,still,towel,up-right,towel,down-right,paint can,up,sauce bottle,up-left,ice cream,down-left,desk,none,none,glass cup,down-left,desk,up-right,glass cup,down-left,desk,up-right,cup,down-right,flask,up-left,flask)
+right hand object:((960,824,desk),up-right,bottle,none,none,none,fidget spinner ring,up,linen,down-left,towel,right,sauce bottle,up-right,paper bag,left,towel,up-right,towel,up,towel,down-right,sauce bottle,up-left,ice cream,up,linen,still,linen,down,glass cup,up,linen,down,glass cup,down-left,desk,still,bed,up-right,flask,up-left,flask)
+two hand object:((960,824,desk),up-right,bottle,none,none,none,bed,up,towel,up-right,towel,left,towel,right,towel,still,towel,up-right,towel,up,towel,down-right,sauce bottle,up-left,ice cream,none,none,none,glass cup,left,room,right,glass cup,down-left,bed,still,bed,up-right,flask,up-left,flask)
+
+
+## LLM-Friendly Format:
+Left hand: down → up-right → up-left → down → down-right → still → up → down → left → up-right → up-right → still → up-left → still → still → up-right → still → still → down-left → still → down-right → up-left (object: towel → flask → ice cream → sauce bottle → glass cup → paint can → sauce container → bottle → cup → bed → desk → blanket)
+Right hand: up-left → right → none → none → up → up-right → down-left → down-right → left → up-right → left → down → down-left → up-right → down-left → up → up-left → down-right → down-right → left → up-left → left (object: bed → towel → flask → ice cream → sauce bottle → glass cup → bottle → linen → desk → paper bag → fidget spinner ring)
+Two-hand object: towel → room → flask → ice cream → sauce bottle → glass cup → bottle → desk → bed

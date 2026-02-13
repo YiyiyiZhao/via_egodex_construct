@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((964,1028),right,up-left,still,still,right,up,down-right,down-left,down-right,up-left,still,up-left,still,down-right,left,still,right,down-left,still,down,right,left,down-left,up-right,still,up-left,right,left,up-right,left,still,left,left,right,still)
+right hand:((1347,958),up-left,up,left,right,left,right,left,left,right,left,right,right,left,left,right,right,up-left,down-left,none,none,right,down,left,right,left,right,down-right,left,up-right,right,down-left,left,right,up-right,left)
+left hand object:((None,None),none,none,sink,left,floor,up-right,kitchen,down-left,floor,right,sink,left,floor,none,none,sink top,left,floor,still,floor,still,floor,still,floor,none,none,floor,still,floor,none,none,none,none,none,none,sink,none,none,none,none,none,none,floor,none,none,none,sink,none,none,kitchen,none,none)
+right hand object:((1032,538,kitchen),left,kitchen,down-right,trowel,left,floor,none,none,linen,none,none,none,none,none,floor,none,none,none,none,door,none,none,none,none,none,none,none,none,none,remote control,down-right,bed,up-left,fridge,none,none,none,refrigerator,left,kitchen,still,kitchen,down-right,toothbrush,left,bottle,none,none,none)
+two hand object:((None,None),none,none,sink,left,floor,none,none,floor,none,none,none,none,none,floor,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,floor,none,none,none,sink,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → still → still → right → up → down-right → down-left → down-right → up-left → still → up-left → still → down-right → left → still → right → down-left → still → down → right → left → down-left → up-right → still → up-left → right → left → up-right → left → still → left → left → right → still (object: floor → sink top → sink → kitchen)
+Right hand: up-left → up → left → right → left → right → left → left → right → left → right → right → left → left → right → right → up-left → down-left → none → none → right → down → left → right → left → right → down-right → left → up-right → right → down-left → left → right → up-right → left (object: floor → door → trowel → kitchen → fridge → linen → bed → toothbrush → bottle → remote control → refrigerator)
+Two-hand object: floor → sink

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((664,924),up-right,left,down-left,right,down,down-left,down-left,up,right,up-left,up-left,down-right,down-left,up,up,down-left,up,right,down-right)
+right hand:((1666,900),up-left,up-right,left,left,right,up-left,down,up-right,down-left,down-right,up,up,left,down,up,up,down,right,right)
+left hand object:((1116,878,rolling tray),up-left,kitchen workbench,down,counter,left,counter,up,batterie,down,cutting pad,still,cutting pad,down,cutting pad,right,rolling tray,right,cutting mat,up-left,fidget spinner ring,down-right,counter,up-right,cutting pad,up-right,phone,down-right,phone,none,none,cutting pad,down,desk,still,desk,up-right,instruction manual)
+right hand object:((1116,878,rolling tray),up-left,kitchen workbench,right,tweezer,down-left,ruler,up-left,batterie,down,cutting mat,right,paint brush,down-right,paint brush,up-right,device,down,instruction manual,left,countertop,right,paint brush,up-right,toothbrush,left,phone,down-right,phone,none,none,cutting pad,down,desk,still,desk,right,mobile phone)
+two hand object:((1116,878,rolling tray),up-left,kitchen workbench,down,counter,up,kitchen workbench,still,kitchen workbench,down,cutting pad,still,cutting pad,down,cutting pad,up,kitchen workbench,still,kitchen workbench,down,box,up,kitchen workbench,right,cutting pad,down-left,desk,up-left,desk,none,none,kitchen workbench,still,desk,still,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → left → down-left → right → down → down-left → down-left → up → right → up-left → up-left → down-right → down-left → up → up → down-left → up → right → down-right (object: kitchen workbench → batterie → counter → rolling tray → phone → desk → instruction manual → fidget spinner ring → cutting pad → cutting mat)
+Right hand: up-left → up-right → left → left → right → up-left → down → up-right → down-left → down-right → up → up → left → down → up → up → down → right → right (object: kitchen workbench → batterie → mobile phone → countertop → device → paint brush → rolling tray → toothbrush → phone → instruction manual → desk → ruler → tweezer → cutting pad → cutting mat)
+Two-hand object: kitchen workbench → counter → rolling tray → desk → cutting pad → box

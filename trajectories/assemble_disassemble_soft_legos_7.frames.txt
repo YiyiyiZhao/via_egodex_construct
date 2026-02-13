@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((907,837),right,up,down-left,up,up-left,up,down-right,up-left,up-left,down-right,up-right,left,up,right,up-left,down-right,right,left)
+right hand:((1851,974),up-left,left,up,up,right,up,left,down,up-right,up,down-right,up-right,left,left,right,right,left,down-right)
+left hand object:((1096,798,table),up,rubik cube,down-left,instruction manual,down-left,desk,up-left,desk,down,desk,left,scouring pad,right,desk,down,desk,up,instruction manual,down-right,remote control,down,desk,still,desk,still,desk,still,desk,up-right,rubik cube,down-left,desk,up-right,rubik cube,left,rubik cube)
+right hand object:((1096,798,table),left,desk,up-left,desk,up,desk,up-left,desk,down,desk,up,desk,down-left,desk,down,desk,still,desk,right,rubik cube,up-right,fidget spinner ring,down-left,desk,still,desk,still,desk,still,desk,down,desk,up-right,rubik cube,down-left,desk)
+two hand object:((1096,798,table),right,wooden model,left,desk,up,desk,up-left,desk,down,desk,up,desk,down-left,desk,down,desk,still,desk,down,desk,still,desk,still,desk,still,desk,still,desk,still,desk,down,desk,left,desk,down-right,desk)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → down-left → up → up-left → up → down-right → up-left → up-left → down-right → up-right → left → up → right → up-left → down-right → right → left (object: scouring pad → table → rubik cube → desk → remote control → instruction manual)
+Right hand: up-left → left → up → up → right → up → left → down → up-right → up → down-right → up-right → left → left → right → right → left → down-right (object: rubik cube → table → desk → fidget spinner ring)
+Two-hand object: table → wooden model → desk

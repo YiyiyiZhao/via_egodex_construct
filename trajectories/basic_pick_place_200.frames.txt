@@ -1,0 +1,11 @@
+## Hand Object Dynamics
+left hand:((1624,606),down-left,down-left,up-left,right,left,down-left,right)
+right hand:((None,None),none,none,none,none,none,none,none)
+left hand object:((957,538,room),down,desk,right,toothbrush,down-right,towel,left,kitchen countertop,right,piece of clothing,left,countertop,down,countertop)
+right hand object:((None,None),none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-left → down-left → up-left → right → left → down-left → right (object: towel → room → countertop → kitchen countertop → toothbrush → desk → piece of clothing)
+Right hand: none → none → none → none → none → none → none (object: none)

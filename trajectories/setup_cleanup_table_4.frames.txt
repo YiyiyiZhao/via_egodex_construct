@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((625,876),down,right,right,left,right,left,left,right,left,right,right,left,right,right,up-right,up-right,left,down,left,up-right)
+right hand:((1144,835),up-right,up-right,left,right,left,right,up-left,left,right,up-left,left,right,left,left,right,up-left,down-left,down,up-right,up-left)
+left hand object:((958,772,bed),still,bed,still,bed,still,desk,still,desk,still,bed,still,desk,still,desk,right,paper tablemat,left,desk,still,desk,still,desk,still,desk,still,desk,right,paper tablemat,left,desk,right,bed,left,fidget spinner ring,down-right,cutting pad,up,sponge cloth,up-left,sponge cloth)
+right hand object:((1290,802,paper tablemat),left,bed,right,cup,down-left,cutting mat,right,towel,left,cup,down-right,cutting mat,up-left,toothbrush,none,none,pair of scissors,up-left,paint brush,none,none,pair of scissors,left,toothbrush,left,pair of scissors,down-right,desk,right,bed,none,none,cutting pad,up,napkin,up-left,sponge cloth)
+two hand object:((1290,802,paper tablemat),down,paper tablemat,left,bed,right,cutting pad,left,paper tablemat,left,bed,right,cutting pad,left,desk,none,none,cutting pad,up-left,room,none,none,desk,still,desk,none,none,room,up,linen,none,none,cutting pad,up,sponge cloth,up-left,sponge cloth)
+
+
+## LLM-Friendly Format:
+Left hand: down → right → right → left → right → left → left → right → left → right → right → left → right → right → up-right → up-right → left → down → left → up-right (object: paper tablemat → sponge cloth → desk → bed → cutting pad → fidget spinner ring)
+Right hand: up-right → up-right → left → right → left → right → up-left → left → right → up-left → left → right → left → left → right → up-left → down-left → down → up-right → up-left (object: bed → towel → pair of scissors → paper tablemat → paint brush → napkin → sponge cloth → toothbrush → desk → cup → cutting pad → cutting mat)
+Two-hand object: room → paper tablemat → sponge cloth → desk → linen → bed → cutting pad

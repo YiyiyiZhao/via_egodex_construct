@@ -1,0 +1,6 @@
+{
+  "video_name": "arrange_topple_dominoes_1.frames",
+  "action_label": "arrange_topple_dominoes",
+  "description": "Several domino tiles are spread on the tabletop in front of you, with a small cluster of face-up pieces near the middle. The left hand and right hand move in toward the dominoes, sliding and separating them, then each hand repeatedly picks up individual tiles and stands them upright in a tight row; the right hand nudges the last tile into alignment and both hands pull back, leaving a neat line ready to topple.",
+  "model": "gpt-5.2-2025-12-11"
+}

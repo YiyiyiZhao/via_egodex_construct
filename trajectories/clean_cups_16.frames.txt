@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((998,628),up-left,right,left,down-right,down-right,up-left,right,still,up-left)
+right hand:((1174,552),down-right,right,still,up-left,down-left,still,up-right,down-left,up-right)
+left hand object:((938,535,cup),left,bottle,up-right,fidget spinner ring,left,toothbrush,right,scouring pad,left,yoghurt cup,still,cup,up-right,yoghurt cup,right,bottle,left,yoghurt cup)
+right hand object:((1278,535,cup),down-left,mug,up-left,cup,up-right,cup,up-left,cup,down-right,wristwatch,up,seed bead embroidery,up-left,bottle,down-left,bottle,up-left,bottle)
+two hand object:((960,728,countertop),none,none,countertop,still,desk,still,countertop,still,countertop,up,countertop,still,countertop,still,countertop,still,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → right → left → down-right → down-right → up-left → right → still → up-left (object: yoghurt cup → scouring pad → toothbrush → bottle → cup → fidget spinner ring)
+Right hand: down-right → right → still → up-left → down-left → still → up-right → down-left → up-right (object: mug → seed bead embroidery → bottle → cup → wristwatch)
+Two-hand object: desk → countertop

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((694,768),up-left,right,down-left,right,up,up-left,right,down,down,still,down)
+right hand:((1749,911),left,left,up-left,down-left,up-left,up-right,down,up-left,down-left,up-left,up-right)
+left hand object:((1148,905,blanket),left,instruction manual,up-left,sponge cloth,right,book,right,paper tablemat,up,magazine,left,carpet,right,carpet,down-right,paper tablemat,right,paper tablemat,up-right,sponge cloth,still,sponge cloth)
+right hand object:((954,794,bed),down-right,instruction manual,right,paper tablemat,up-left,book,right,paper tablemat,up,magazine,left,carpet,right,carpet,down-right,paper tablemat,right,paper tablemat,up-right,sponge cloth,still,sponge cloth)
+two hand object:((954,794,bed),down-right,instruction manual,right,paper tablemat,up-left,carpet,right,paper tablemat,up,magazine,left,carpet,right,carpet,down-right,paper tablemat,right,sponge cloth,up-left,sponge cloth,still,sponge cloth)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → right → down-left → right → up → up-left → right → down → down → still → down (object: carpet → magazine → book → paper tablemat → sponge cloth → blanket → instruction manual)
+Right hand: left → left → up-left → down-left → up-left → up-right → down → up-left → down-left → up-left → up-right (object: carpet → magazine → book → paper tablemat → sponge cloth → bed → instruction manual)
+Two-hand object: carpet → magazine → paper tablemat → sponge cloth → bed → instruction manual

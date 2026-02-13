@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((871,746),still,up-left,still,still,down,right,still)
+right hand:((1408,776),up,up-left,down-left,up,up,still,down-right)
+left hand object:((770,854,wristwatch),still,seed bead embroidery,up-left,watch,still,watch,still,watch,down,watch,right,seed bead embroidery,down-right,watch)
+right hand object:((960,762,bed),still,bed,up-right,instruction manual,down,plate,up,plate,up,food container,down-right,paper container,down-left,bed)
+two hand object:((960,762,bed),still,bed,up,bed,still,bed,still,bed,still,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-left → still → still → down → right → still (object: seed bead embroidery → watch → wristwatch)
+Right hand: up → up-left → down-left → up → up → still → down-right (object: bed → paper container → plate → food container → instruction manual)
+Two-hand object: bed

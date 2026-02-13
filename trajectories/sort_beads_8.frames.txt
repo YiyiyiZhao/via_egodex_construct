@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1174,492),up-left,left,right,still,still,right,down-left,up-right,up-right,down,right,up-right,up,down-left,right,left,right,still)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1172,428,fidget spinner ring),down-left,fidget spinner ring,up,fidget spinner ring,up-left,linen,left,linen,still,linen,still,linen,down-right,blanket,up-left,linen,down-right,seed bead embroidery,down-right,seed bead embroidery,up-left,seed bead embroidery,down-right,seed bead embroidery,still,seed bead embroidery,right,seed bead embroidery,right,seed bead embroidery,still,seed bead embroidery,up,seed bead embroidery,up-right,fidget spinner ring)
+right hand object:((None,None),none,none,fidget spinner ring,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+two hand object:((None,None),none,none,fidget spinner ring,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → left → right → still → still → right → down-left → up-right → up-right → down → right → up-right → up → down-left → right → left → right → still (object: linen → blanket → seed bead embroidery → fidget spinner ring)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: fidget spinner ring)
+Two-hand object: fidget spinner ring

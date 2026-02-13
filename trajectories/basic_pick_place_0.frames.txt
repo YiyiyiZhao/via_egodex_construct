@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((554,702),up-left,up,up-right,down-right,down-left,down,still)
+right hand:((1864,833),up,left,up-right,left,right,none,none)
+left hand object:((395,662,metal rod),up-left,ruler,right,desk,left,ruler,down-right,metal rod,down-left,ruler,down,metal rod,down-right,metal rod)
+right hand object:((1634,948,scouring pad),left,desk,right,stapler,left,desk,up,box,down,desk,none,none)
+two hand object:((None,None),none,desk,up,desk,left,desk,up,kitchen workbench,down,desk,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up → up-right → down-right → down-left → down → still (object: metal rod → ruler → desk)
+Right hand: up → left → up-right → left → right → none → none (object: scouring pad → desk → stapler → box)
+Two-hand object: kitchen workbench → desk

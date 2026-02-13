@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((903,888),down-right,down-right,up-right,left,still,down-right,up-left,down-right,still)
+right hand:((1285,832),up-right,none,none,up-right,right,down-left,left,up-left,down-right)
+left hand object:((828,839,spoon),still,spoon,still,spoon,right,pair of pliers,left,toothbrush,still,spoon,right,plate,left,pair of scissors,down-left,spoon,still,spoon)
+right hand object:((1017,756,countertop),right,plate,none,none,plate,left,square table,still,square table,right,plate,down,plate,up-left,square table,still,square table)
+two hand object:((1014,754,table),still,table,none,none,table,still,table,still,table,right,lemonade,left,countertop,still,counter,still,table)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → down-right → up-right → left → still → down-right → up-left → down-right → still (object: pair of scissors → pair of pliers → spoon → toothbrush → plate)
+Right hand: up-right → none → none → up-right → right → down-left → left → up-left → down-right (object: plate → square table → countertop)
+Two-hand object: counter → table → countertop → lemonade

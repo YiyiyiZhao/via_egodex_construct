@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((972,1028),up-left,still,left,up-right,up-right,still,down,right,right,right,up,down,up-left)
+right hand:((1568,1013),up,still,up,up-left,down-right,up,left,left,down-left,up,down,up-right,down-right)
+left hand object:((760,852,rolling tray),up,rolling tray,still,rolling tray,left,rolling tray,up-right,rolling tray,up,rolling tray,still,rolling tray,down,rolling tray,right,rolling tray,right,rolling tray,up-right,cutting pad,up-right,lemonade,down-left,rolling tray,up-left,rolling tray)
+right hand object:((1554,762,briefcase),left,desk,still,desk,right,box,left,apple,up,apple,up,apple,left,ball,left,apple,left,apple,up-right,apple,down-left,rolling tray,down-right,desk,right,desk)
+two hand object:((960,836,desk),up,desk,still,desk,left,desk,up-right,desk,still,desk,still,desk,left,desk,left,rolling tray,right,rolling tray,up-right,rolling tray,down-left,rolling tray,down-right,desk,right,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → still → left → up-right → up-right → still → down → right → right → right → up → down → up-left (object: rolling tray → cutting pad → lemonade)
+Right hand: up → still → up → up-left → down-right → up → left → left → down-left → up → down → up-right → down-right (object: ball → rolling tray → apple → briefcase → desk → box)
+Two-hand object: rolling tray → desk

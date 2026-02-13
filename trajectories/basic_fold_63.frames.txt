@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((None,None),none,up,up-left,down-right,left,down-left,up-right,right,up-right,down-left,up-right,down-left,none)
+right hand:((None,None),none,up-left,up-right,down-left,down-right,none,none,none,none,none,none,none,none)
+left hand object:((None,None),none,towel,right,towel,up,bag,left,bed,down-right,tissue paper pack,down-right,sheet,left,bed,up-right,linen,none,none,bed,up,linen,down,bed,none)
+right hand object:((None,None),none,bed,right,towel,up,bag,left,bed,down-right,polythene bag,none,none,none,none,none,bed,none,none,bed,none)
+two hand object:((None,None),none,bed,right,towel,up,bag,left,bed,down-right,tissue paper pack,none,none,none,none,none,bed,none,none,bed,none)
+
+
+## LLM-Friendly Format:
+Left hand: none → up → up-left → down-right → left → down-left → up-right → right → up-right → down-left → up-right → down-left → none (object: towel → bag → tissue paper pack → sheet → linen → bed)
+Right hand: none → up-left → up-right → down-left → down-right → none → none → none → none → none → none → none → none (object: bag → towel → polythene bag → bed)
+Two-hand object: bag → tissue paper pack → towel → bed

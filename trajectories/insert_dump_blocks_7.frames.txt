@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((852,766),up,up-right,up,left,down,up-right,down-right,up-right,down-left,left,up,down-right,up-right,up-left,down-left,right,down-right,up,up-right,down-right,up-left)
+right hand:((1615,816),up-left,down,up-left,up,up-right,up-left,up-left,down-left,right,down,left,up-left,down-left,left,right,up,left,down-right,right,down,down-right)
+left hand object:((900,876,bottle cap),up-right,bed,up,bed,left,mustard,left,mustard,right,bed,left,mustard,right,bed,up,bed,up-left,toothbrush,left,toothbrush,down-right,bed,up-left,toothbrush,down-right,bed,still,bed,still,bed,up,bed,down,bed,up,bed,still,bed,down-right,plate,up-left,bed)
+right hand object:((960,762,bed),up,bed,right,plate,up,plate,left,bed,still,bed,up,bed,down,bed,right,plate,left,bed,still,table,right,bottle cap,left,plate,right,plate,left,bed,still,bed,right,plate,left,bed,up,bed,down-right,plate,down-left,plate,up-left,bed)
+two hand object:((960,762,bed),up,bed,up,bed,up,bed,still,bed,still,bed,up,bed,down-left,table,up-right,bed,still,bed,still,bed,still,bed,down,bed,up,bed,still,bed,still,bed,up,bed,down,bed,up,bed,still,bed,down,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → up → left → down → up-right → down-right → up-right → down-left → left → up → down-right → up-right → up-left → down-left → right → down-right → up → up-right → down-right → up-left (object: bed → toothbrush → plate → mustard → bottle cap)
+Right hand: up-left → down → up-left → up → up-right → up-left → up-left → down-left → right → down → left → up-left → down-left → left → right → up → left → down-right → right → down → down-right (object: plate → table → bottle cap → bed)
+Two-hand object: table → bed

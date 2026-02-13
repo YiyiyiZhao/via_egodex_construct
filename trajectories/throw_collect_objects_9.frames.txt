@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1646,937),up-left,right,down,left,up-right,down,up-left,up-right,up,up,down,left,right,right,up-left,left)
+right hand:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none)
+left hand object:((1574,766,storage box),left,blanket,up-right,storage box,down-left,floor,left,towel,up-right,towel,down-right,towel,up-left,box,down-left,desk,up-right,storage box,right,cutting pad,down-left,box,down-left,towel,right,towel,left,countertop,right,towel,left,box)
+right hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,towel,none)
+two hand object:((None,None),none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,towel,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → right → down → left → up-right → down → up-left → up-right → up → up → down → left → right → right → up-left → left (object: floor → towel → countertop → storage box → desk → blanket → cutting pad → box)
+Right hand: none → none → none → none → none → none → none → none → none → none → none → none → none → none → none → none (object: towel)
+Two-hand object: towel

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((702,858),up-right,down-right,up,down,up,down,down-right)
+right hand:((1430,916),up,up,up-left,left,still,right,down-right)
+left hand object:((954,790,rolling tray),up-right,rolling tray,down-right,yoghurt cup,up-left,banana,down-left,rolling tray,right,rolling tray,still,rolling tray,down-right,cup)
+right hand object:((1274,849,pair of scissors),up,glue gun,up-left,pair of scissors,up-left,glue gun,left,pair of scissors,still,pair of scissors,right,glue gun,down-right,stapler)
+two hand object:((952,546,room),none,none,bed,still,bed,still,bed,none,none,bed,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down-right → up → down → up → down → down-right (object: yoghurt cup → rolling tray → banana → cup)
+Right hand: up → up → up-left → left → still → right → down-right (object: glue gun → stapler → pair of scissors)
+Two-hand object: room → bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((988,796),still,up-left,left,up-right,up-right,up-right,still,up-right,up)
+right hand:((1300,666),left,left,right,down-right,down-left,up,up-left,up-right,still)
+left hand object:((1051,808,remote control),up,pair of scissors,up-left,measuring tool,up-left,bed,right,bed,down,scissors,down,pair of scissors,up,scissors,right,pair of scissors,left,tweezer)
+right hand object:((960,542,bed),right,sponge cloth,left,bed,left,bed,right,bed,down-right,pair of scissors,down,pair of scissors,up,pair of scissors,right,pair of scissors,right,seed bead embroidery)
+two hand object:((960,542,bed),still,bed,still,bed,left,bed,right,bed,down,scissors,up,bed,still,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → up-left → left → up-right → up-right → up-right → still → up-right → up (object: measuring tool → pair of scissors → scissors → bed → remote control → tweezer)
+Right hand: left → left → right → down-right → down-left → up → up-left → up-right → still (object: sponge cloth → pair of scissors → seed bead embroidery → bed)
+Two-hand object: scissors → bed

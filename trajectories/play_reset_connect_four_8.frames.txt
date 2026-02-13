@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((978,872),up,down-right,up,down,up-left,up-right,down-left,up,down,down-right,up-left,down-left,up,down,up)
+right hand:((1778,941),left,up,down-right,up,down,up-right,up,down,up,down-right,left,up,down,up,down)
+left hand object:((962,820,bed),up,bed,left,bed,right,bed,down,bed,up,room,still,room,still,room,still,room,down,bed,down,bed,up,bed,down,bed,up,room,down,bed,up,room)
+right hand object:((962,820,bed),right,seed bead embroidery,up,tablet bag,up,tablet bag,left,room,right,pot holder,right,notebook,left,room,right,basket,down-left,pot holder,down-left,bed,up,bed,up-right,basket,up-right,pot holder,up,linen,down,chair)
+two hand object:((962,820,bed),up,bed,left,bed,right,bed,up,room,still,room,still,room,still,room,still,room,still,room,still,room,down,bed,up,room,still,room,still,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-right → up → down → up-left → up-right → down-left → up → down → down-right → up-left → down-left → up → down → up (object: room → bed)
+Right hand: left → up → down-right → up → down → up-right → up → down → up → down-right → left → up → down → up → down (object: tablet bag → basket → room → chair → seed bead embroidery → pot holder → linen → bed → notebook)
+Two-hand object: room → bed

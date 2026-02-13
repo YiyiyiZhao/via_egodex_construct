@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((520,784),right,right,down,right,right,up-left,down-right,left,up,up-left,still,down)
+right hand:((1362,634),down-left,up-right,down,right,up-right,up-left,down-left,up-right,up-right,up,still,down)
+left hand object:((845,892,paper tablemat),up-right,magazine,right,crayon,none,none,floor,right,paper tablemat,none,none,magazine,left,paper tablemat,none,none,magazine,still,paper tablemat,none)
+right hand object:((907,766,bed),down,magazine,right,crayon,left,scrapbook,up-left,floor,right,paper tablemat,up,rolling tray,up-left,placemat,left,paper tablemat,down,fidget spinner ring,up,rolling tray,still,magazine,none)
+two hand object:((845,892,paper tablemat),up,bed,right,crayon,none,none,room,down-right,paper tablemat,none,none,paper tablemat,left,paper tablemat,none,none,placemat,still,placemat,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → right → down → right → right → up-left → down-right → left → up → up-left → still → down (object: floor → crayon → paper tablemat → magazine)
+Right hand: down-left → up-right → down → right → up-right → up-left → down-left → up-right → up-right → up → still → down (object: floor → magazine → crayon → paper tablemat → scrapbook → rolling tray → bed → placemat → fidget spinner ring)
+Two-hand object: room → crayon → paper tablemat → bed → placemat

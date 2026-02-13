@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1036,704),left,up,down-left,left,right,left,up-left,right,still)
+right hand:((1346,791),down-right,left,down,up,left,up-right,down-right,up-right,down-left)
+left hand object:((1153,863,sponge cloth),left,watch,up,watch,down-left,watch,left,watch,right,watch,left,watch,up-left,watch,right,watch,still,watch)
+right hand object:((1153,863,sponge cloth),down-right,seed bead embroidery,up-left,seed bead embroidery,down-right,bead necklace,none,none,countertop,down,countertop,up,countertop,right,seed bead embroidery,left,bead necklace)
+two hand object:((960,778,countertop),none,none,countertop,still,countertop,none,none,countertop,down,countertop,up,countertop,up,countertop,still,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: left → up → down-left → left → right → left → up-left → right → still (object: sponge cloth → watch)
+Right hand: down-right → left → down → up → left → up-right → down-right → up-right → down-left (object: sponge cloth → countertop → seed bead embroidery → bead necklace)
+Two-hand object: countertop

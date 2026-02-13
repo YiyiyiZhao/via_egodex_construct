@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1365,996),up-left,down-right,still,still,still,still,still,still,still,still,still,still,still,left,up,down-right,still,still,still,left,up-right,down,left,still,down)
+right hand:((1382,769),none,none,still,still,still,down-right,up-left,down,up-right,still,still,right,right,up-right,down-left,still,still,still,still,still,still,up,down-right,left,up-left)
+left hand object:((852,980,couch),up,bed,down,couch,still,couch,still,couch,still,couch,still,couch,still,couch,still,couch,still,couch,still,couch,still,couch,still,couch,right,couch,left,couch,up-right,remote control,up-right,phone,still,cellphone,still,cellphone,still,remote control,still,phone,still,phone,down-left,couch,left,couch,still,couch,up-right,bed)
+right hand object:((1350,644,laptop),none,none,phone,still,phone,right,remote control,left,phone,still,phone,still,phone,still,phone,right,phone,still,phone,still,camera,left,room,right,fidget spinner ring,right,fidget spinner ring,down-left,bed,down-left,couch,up,room,down,couch,still,couch,none,none,couch,none,none,cutting mat,right,tweezer,up-left,phone)
+two hand object:((960,542,room),none,none,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,none,none,room,still,room,still,room,still,room,none,none,room,none,none,room,down,desk,none)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → down-right → still → still → still → still → still → still → still → still → still → still → still → left → up → down-right → still → still → still → left → up-right → down → left → still → down (object: couch → phone → bed → remote control → cellphone)
+Right hand: none → none → still → still → still → down-right → up-left → down → up-right → still → still → right → right → up-right → down-left → still → still → still → still → still → still → up → down-right → left → up-left (object: couch → room → camera → tweezer → phone → laptop → bed → remote control → cutting mat → fidget spinner ring)
+Two-hand object: desk → room

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((966,630),right,up-left,left,right,right,up-left,up-right,up-right,still,down,still,still,down)
+right hand:((1274,634),down-right,up-left,still,still,still,still,still,up,up-left,still,still,up,still)
+left hand object:((958,540,room),still,room,still,room,still,room,right,rubik cube,down,soft lego brick,up,soft lego brick,left,room,still,room,still,room,still,room,still,room,right,plastic container,left,room)
+right hand object:((958,540,room),still,room,still,room,still,room,right,rubik cube,down,soft lego brick,up,soft lego brick,left,room,still,room,still,room,still,room,still,room,right,plastic container,left,room)
+two hand object:((958,540,room),still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → left → right → right → up-left → up-right → up-right → still → down → still → still → down (object: rubik cube → soft lego brick → room → plastic container)
+Right hand: down-right → up-left → still → still → still → still → still → up → up-left → still → still → up → still (object: rubik cube → soft lego brick → room → plastic container)
+Two-hand object: room

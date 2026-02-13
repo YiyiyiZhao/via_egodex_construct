@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((876,876),down,left,still,right,still,left,right,still,still,right,left,up,up-left,down-right,up-right,down-left,up-left,right)
+right hand:((1413,619),left,right,down-right,left,right,down-left,up-right,down-left,up-right,down-left,up-right,down-left,up-left,right,down-right,left,up-right,left)
+left hand object:((820,814,tablemat),right,bed,left,cutting mat,still,cutting mat,still,cutting mat,still,cutting mat,left,cutting mat,right,cutting mat,right,bed,left,cutting mat,right,bed,left,cutting mat,up-right,fidget spinner ring,right,bed,down,bed,up-right,cup,down-left,cutting mat,up-left,room,down,bed)
+right hand object:((820,814,tablemat),up-right,plate,left,cutting mat,up-right,plate,left,room,right,glass cup,left,pair of scissors,right,toothbrush,down-left,bed,up-right,mop bucket,down-left,bed,up-right,paint brush,down-left,bed,left,bed,down,bed,down-right,towel,up-left,cutting mat,up,linen,down,bed)
+two hand object:((960,545,room),down,bed,left,cutting mat,still,cutting mat,up-right,room,still,room,down-left,cutting mat,up-right,room,down,bed,up,room,down,bed,up,room,down,bed,left,bed,down,bed,up,room,down-right,cutting mat,up-left,room,down,bed)
+
+
+## LLM-Friendly Format:
+Left hand: down → left → still → right → still → left → right → still → still → right → left → up → up-left → down-right → up-right → down-left → up-left → right (object: bed → room → tablemat → cup → cutting mat → fidget spinner ring)
+Right hand: left → right → down-right → left → right → down-left → up-right → down-left → up-right → down-left → up-right → down-left → up-left → right → down-right → left → up-right → left (object: bed → towel → room → pair of scissors → mop bucket → glass cup → paint brush → toothbrush → tablemat → linen → plate → cutting mat)
+Two-hand object: cutting mat → room → bed

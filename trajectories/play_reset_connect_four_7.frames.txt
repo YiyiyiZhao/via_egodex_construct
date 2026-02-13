@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((910,884),up,up,down,up,up,still,down,up,down,up,down,up,down,down-right,up,down,up,still,up-right,still,right,still,still,down)
+right hand:((1740,967),left,up,up,down,up,down-left,up,down,up,down,up,down,up,left,down,up-right,down,up,down,left,up,down,up,down)
+left hand object:((960,837,bed),up,bed,right,bead necklace,up-left,room,down-right,mancala board,up,mancala board,down-left,bed,down,bed,up,bed,down,bed,up-right,mancala board,down-left,bed,up,bed,still,bed,still,bed,up-left,bed,right,bead necklace,up,bead necklace,down-left,bed,up,bed,still,bed,still,bed,still,bed,up,room,down,bed)
+right hand object:((960,837,bed),right,seed bead embroidery,left,bead necklace,up-right,basket,down-left,mancala board,up-right,pot holder,down-left,bed,up,room,down-right,seed bead embroidery,up-left,basket,down-left,mancala board,up-right,linen,down,seed bead embroidery,up-left,basket,up-right,basket,up-right,wooden stand,down-left,pot holder,up-right,pot holder,left,pot holder,right,pot holder,still,pot holder,left,room,right,pot holder,still,notebook,down-left,pot holder)
+two hand object:((960,837,bed),up,bed,up,room,still,room,down,bed,up-right,mancala board,up-left,room,still,room,down,bed,up,room,down,bed,up,room,still,room,still,room,still,room,down,bed,up,room,down,bed,up,room,down,bed,still,bed,up,room,down,bed,up,room,down,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → down → up → up → still → down → up → down → up → down → up → down → down-right → up → down → up → still → up-right → still → right → still → still → down (object: bead necklace → mancala board → room → bed)
+Right hand: left → up → up → down → up → down-left → up → down → up → down → up → down → up → left → down → up-right → down → up → down → left → up → down → up → down (object: basket → wooden stand → room → mancala board → seed bead embroidery → bead necklace → pot holder → linen → bed → notebook)
+Two-hand object: mancala board → room → bed

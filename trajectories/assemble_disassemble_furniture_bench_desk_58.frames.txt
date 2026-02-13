@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((899,915),up-left,right,up,down-right,up,up-left,down-left)
+right hand:((1322,958),left,up-right,up,right,down-right,left,down)
+left hand object:((1061,985,glue stick),up-left,bed,still,bed,left,bed,right,plastic model piece,left,bed,right,plastic model piece,left,bed)
+right hand object:((1366,752,rolling tray),down-left,remote control,up,room,none,none,plastic model piece,up-right,wristband,left,seed bead embroidery,down-left,plastic model piece)
+two hand object:((960,834,bed),still,bed,up,room,none,none,room,still,room,down,bed,right,plastic model piece)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → right → up → down-right → up → up-left → down-left (object: plastic model piece → glue stick → bed)
+Right hand: left → up-right → up → right → down-right → left → down (object: wristband → room → seed bead embroidery → rolling tray → plastic model piece → remote control)
+Two-hand object: plastic model piece → room → bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((746,778),right,right,up-left,left,down-right,up-right,up-left,left,down-right,down-left)
+right hand:((1798,950),left,up,still,up-left,down-left,left,left,down-left,still,down-left)
+left hand object:((960,811,bed),right,pair of scissors,down-right,pair of scissors,left,bed,up-right,book,right,cutting pad,up-right,book,up-left,architectural craft manual,down-left,book,down-right,remote control,up-left,remote control)
+right hand object:((960,811,bed),still,bed,right,pair of scissors,down-left,pair of pliers,up-left,pair of glasses,up,pair of glasses,down,architectural craft manual,up-left,architectural craft manual,down-left,book,down-right,remote control,up-left,remote control)
+two hand object:((960,811,bed),still,bed,right,pair of scissors,up,remote control,left,bed,right,cutting pad,up-right,cutting pad,up-left,bed,down-right,book,down-right,remote control,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: right → right → up-left → left → down-right → up-right → up-left → left → down-right → down-left (object: pair of scissors → book → bed → architectural craft manual → remote control → cutting pad)
+Right hand: left → up → still → up-left → down-left → left → left → down-left → still → down-left (object: pair of glasses → pair of scissors → book → pair of pliers → bed → architectural craft manual → remote control)
+Two-hand object: pair of scissors → book → bed → remote control → cutting pad

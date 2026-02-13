@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1032,870),up,up,up-right,still,still,up-left,still)
+right hand:((1390,760),left,up,still,down-left,up,up-right,down-right)
+left hand object:((1236,743,architectural craft manual),left,bed,right,chair,left,bed,right,wooden stand,still,chair,still,cutting pad,left,bed)
+right hand object:((1236,743,architectural craft manual),left,bed,right,chair,left,bed,right,wooden stand,still,chair,still,cutting pad,left,bed)
+two hand object:((1236,743,architectural craft manual),left,bed,still,bed,up,bed,still,bed,still,bed,right,cutting pad,left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → up-right → still → still → up-left → still (object: wooden stand → cutting pad → chair → bed → architectural craft manual)
+Right hand: left → up → still → down-left → up → up-right → down-right (object: wooden stand → cutting pad → chair → bed → architectural craft manual)
+Two-hand object: cutting pad → bed → architectural craft manual

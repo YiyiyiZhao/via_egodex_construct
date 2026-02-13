@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((682,695),right,left,up,down-right,down-left,up,down,up-left,down,down-right,down,up-left,down-right,up,down-right,up,down-left,up-left,up-right,down-right,right,down,up-left)
+right hand:((1818,850),up,left,up-left,up-right,left,down-left,down-right,up,down-left,right,none,none,none,none,up-right,down-left,down-right,up-right,down-left,none,none,up-right,none)
+left hand object:((958,774,floor),up-right,towel,left,desk,up,counter,up,desk,down-left,towel,up-right,desk,up,floor,down,countertop,up,countertop,still,desk,down,floor,up,countertop,down-left,towel,up-right,counter,down-left,towel,up-right,counter,down-left,towel,left,towel,up-right,towel,down-right,towel,up-right,banana,left,countertop,down-left,countertop)
+right hand object:((1612,848,blanket),left,desk,right,apple,left,counter,up,desk,up-right,storage box,down,mat craft board,up-left,floor,down,countertop,up,countertop,still,desk,none,none,countertop,none,none,counter,up-right,box,up-right,cardboard box,down-left,countertop,still,desk,still,countertop,none,none,banana,up,banana,none)
+two hand object:((958,774,floor),up,desk,up,desk,up,counter,up,desk,down,countertop,up,countertop,up,floor,down,countertop,up,desk,down,desk,none,none,countertop,none,none,towel,up,countertop,up-right,countertop,down,countertop,up,room,down,towel,none,none,banana,left,countertop,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → left → up → down-right → down-left → up → down → up-left → down → down-right → down → up-left → down-right → up → down-right → up → down-left → up-left → up-right → down-right → right → down → up-left (object: floor → towel → countertop → counter → desk → banana)
+Right hand: up → left → up-left → up-right → left → down-left → down-right → up → down-left → right → none → none → none → none → up-right → down-left → down-right → up-right → down-left → none → none → up-right → none (object: floor → countertop → counter → apple → storage box → mat craft board → desk → cardboard box → blanket → banana → box)
+Two-hand object: floor → towel → room → countertop → counter → desk → banana

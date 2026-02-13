@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((818,994),right,still,right,up-left,left,down-left,right,left,right)
+right hand:((1571,1012),up-left,up-right,up-left,down-left,up-right,up-right,left,up-right,down-right)
+left hand object:((1004,845,architectural craft manual),down-right,architectural craft manual,right,architectural craft manual,right,architectural craft manual,left,desk,none,none,desk,none,none,none)
+right hand object:((781,808,desk),right,notebook,right,box,up,instruction manual,down-left,book,up-right,architectural craft manual,up-right,architectural craft manual,up,architectural craft manual,down,architectural craft manual,up-right,architectural craft manual)
+two hand object:((781,808,desk),right,architectural craft manual,left,desk,left,desk,up-right,room,none,none,desk,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → still → right → up-left → left → down-left → right → left → right (object: architectural craft manual → desk)
+Right hand: up-left → up-right → up-left → down-left → up-right → up-right → left → up-right → down-right (object: book → desk → architectural craft manual → notebook → instruction manual → box)
+Two-hand object: architectural craft manual → desk → room

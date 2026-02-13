@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1179,732),left,right,up-left,down-right,up-right,right,left,right,down,up-left,up,down-right,up-right,down-right)
+right hand:((1576,574),up-right,left,down,up-right,up-left,up-left,none,none,left,up-left,none,none,down-left,none)
+left hand object:((968,762,desk),up-left,cup,up-right,mug,up-left,cup,down-right,table,up-right,mug,up-left,mug,down-left,cup,right,mug,down-right,mug,left,paper towel,down-left,restaurant,up-right,cup,up,sponge cloth,down,table)
+right hand object:((968,762,desk),up,table,up,cup,down,table,right,cup,up-left,paper towel,up-left,mug,none,none,table,up-right,cup,left,paper towel,none,none,yoghurt cup,down-left,table,none)
+two hand object:((1406,783,cup),left,table,right,table,down-left,table,up-left,table,up-right,mug,up-left,cup,none,none,table,left,table,up,table,none,none,mug,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → up-left → down-right → up-right → right → left → right → down → up-left → up → down-right → up-right → down-right (object: desk → table → restaurant → cup → sponge cloth → mug → paper towel)
+Right hand: up-right → left → down → up-right → up-left → up-left → none → none → left → up-left → none → none → down-left → none (object: desk → table → cup → yoghurt cup → mug → paper towel)
+Two-hand object: mug → table → cup

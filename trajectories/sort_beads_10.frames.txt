@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((560,572),up,down-right,down-right,left,up-right,left,left,up-left,right)
+right hand:((1424,512),down,up,right,left,down-left,down-left,up-right,up,right)
+left hand object:((954,720,paper tablemat),up,table,none,none,desk,still,desk,up,countertop,still,countertop,still,desk,still,desk,up,desk)
+right hand object:((954,720,paper tablemat),up,table,none,none,desk,still,desk,right,bead necklace,left,bead necklace,up-left,desk,still,desk,up,desk)
+two hand object:((954,720,paper tablemat),up,desk,none,none,desk,still,desk,up,countertop,still,desk,still,desk,still,desk,up,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-right → down-right → left → up-right → left → left → up-left → right (object: table → paper tablemat → desk → countertop)
+Right hand: down → up → right → left → down-left → down-left → up-right → up → right (object: table → paper tablemat → desk → bead necklace)
+Two-hand object: paper tablemat → desk → countertop

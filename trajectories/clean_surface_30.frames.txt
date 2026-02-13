@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((810,555),still,down-right,left,up-left,up-left,left,still,down-right,down)
+right hand:((1471,505),down,up,left,right,right,left,up-right,down,down-left)
+left hand object:((837,561,towel),still,towel,down-right,cleaning cloth,up-left,towel,still,cleaning cloth,up,towel,still,microfiber cloth,still,microfiber cloth,down-right,napkin,left,towel)
+right hand object:((1249,219,linen),down-right,fidget spinner ring,down,glue bottle,left,glue bottle,up-right,glue bottle,up,bottle,down-left,bottle,down-right,bottle,left,paint spray gun,down-left,spray bottle)
+two hand object:((None,None),none,none,countertop,up,room,still,room,none,none,none,bed,up,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: still → down-right → left → up-left → up-left → left → still → down-right → down (object: napkin → microfiber cloth → towel → cleaning cloth)
+Right hand: down → up → left → right → right → left → up-right → down → down-left (object: paint spray gun → glue bottle → bottle → linen → fidget spinner ring → spray bottle)
+Two-hand object: bed → room → countertop

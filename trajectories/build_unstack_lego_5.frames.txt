@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((878,782),right,left,down-right,down,up-left,still,down-right,up,left,down-right)
+right hand:((1302,816),left,up-right,left,right,right,right,left,none,none,none)
+left hand object:((880,840,floor),right,floor,right,board game,left,carpet,still,floor,up,remote control,down,carpet,right,floor,still,floor,right,remote control,down-left,floor)
+right hand object:((880,840,floor),right,floor,right,board game,left,carpet,still,floor,still,carpet,none,none,none,none,floor,none)
+two hand object:((880,840,floor),up,room,down,board game,up,room,left,room,down,carpet,none,none,none,none,room,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → left → down-right → down → up-left → still → down-right → up → left → down-right (object: floor → remote control → carpet → board game)
+Right hand: left → up-right → left → right → right → right → left → none → none → none (object: floor → carpet → board game)
+Two-hand object: floor → carpet → board game → room

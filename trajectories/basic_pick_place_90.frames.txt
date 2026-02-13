@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((458,790),up,down-right,up-left,up-right,up-right,down-right,down-left)
+right hand:((None,None),none,none,up-left,up,left,down,right)
+left hand object:((736,802,rolling tray),up,cutting pad,down,rolling tray,up,cutting pad,up-right,foam block,up-right,rolling tray,right,tray,down-left,cutting mat)
+right hand object:((None,None),none,none,mat craft board,right,scouring pad,up,slime,left,cutting pad,right,rolling tray,right,mat craft board)
+two hand object:((None,None),none,none,countertop,up-left,countertop,up-right,countertop,up-left,rolling tray,right,rolling tray,down-right,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: up → down-right → up-left → up-right → up-right → down-right → down-left (object: foam block → tray → rolling tray → cutting pad → cutting mat)
+Right hand: none → none → up-left → up → left → down → right (object: slime → scouring pad → mat craft board → rolling tray → cutting pad)
+Two-hand object: rolling tray → countertop

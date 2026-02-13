@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((622,768),up-right,down-right,left,up-right,down,still,right,down-left,down-left,down,up-left,up,down-right,up-left,right,up-left,down-right,up-right,up,up-left,down-right,down)
+right hand:((1762,878),up-left,up-left,up-left,down,up,right,still,down-left,up-right,down-left,up-right,right,still,down-right,left,down-right,up-left,up-left,down,right,left,down)
+left hand object:((964,814,bed),up,bed,up-right,pancake,up-left,bed,down,bed,still,bed,up-right,toothbrush,right,toothbrush,down-right,cutting pad,down-left,bed,down,bed,up-right,sand disc,up-left,pen,down,bed,still,bed,none,none,desk,down-right,sponge cloth,up-left,bed,up-right,spoon,none,none,sandwich,left,fidget spinner ring)
+right hand object:((964,814,bed),up,bed,none,none,bed,down,bed,still,bed,right,scissors,left,toothbrush,down-right,remote control,down-left,bed,down,bed,left,bed,right,bed,right,bed,still,bed,none,none,desk,still,bed,still,bed,up-right,scouring pad,none,none,sandwich,down,plate)
+two hand object:((964,814,bed),up,bed,none,none,bed,down,bed,still,bed,right,scissors,up-left,room,down-right,remote control,down-left,bed,down,bed,left,bed,right,bed,right,bed,still,bed,none,none,room,down,bed,still,bed,up-right,scouring pad,none,none,sandwich,down,plate)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → down-right → left → up-right → down → still → right → down-left → down-left → down → up-left → up → down-right → up-left → right → up-left → down-right → up-right → up → up-left → down-right → down (object: sand disc → sponge cloth → spoon → pancake → toothbrush → desk → bed → pen → cutting pad → sandwich → fidget spinner ring)
+Right hand: up-left → up-left → up-left → down → up → right → still → down-left → up-right → down-left → up-right → right → still → down-right → left → down-right → up-left → up-left → down → right → left → down (object: plate → scouring pad → scissors → toothbrush → desk → bed → remote control → sandwich)
+Two-hand object: room → plate → scouring pad → scissors → bed → remote control → sandwich

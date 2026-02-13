@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((999,807),up,up-left,up,up-left,up-left,left,still,still,still,still,still,down,up,right,still,down-left,still,still,still,still,down-right,still,still,down)
+right hand:((1644,906),up-left,up-left,up,up-left,left,left,left,up-left,left,down-left,left,right,down,still,left,left,right,left,left,left,up-right,down-right,left,right)
+left hand object:((1286,878,cutting pad),up-left,cutting pad,up,cutting pad,up,cutting mat,up,cutting pad,up-left,cutting pad,still,cutting pad,up-left,cutting pad,right,cutting pad,up-right,cutting mat,left,cutting pad,still,cutting pad,down-left,cutting pad,still,cutting pad,right,cutting pad,right,cutting pad,left,cutting pad,still,cutting pad,left,cutting pad,left,fidget spinner ring,right,cutting pad,right,cutting pad,still,cutting pad,right,cutting pad,down-left,cutting mat)
+right hand object:((1286,878,cutting pad),up-left,cutting pad,up-right,toothbrush,left,cutting pad,up-left,cutting pad,up-left,cutting pad,still,cutting pad,up-left,cutting pad,up-right,paint brush,up-left,spoon,down-left,sand disc,still,sand disc,up-right,pair of scissors,down,toothbrush,down-left,cutting pad,right,cutting pad,up-right,paint brush,down-left,cutting mat,still,cutting mat,up-right,paint brush,left,paint brush,down-left,cutting pad,up-right,spoon,down-left,sand disc,down-left,cutting pad)
+two hand object:((1286,878,cutting pad),up-left,cutting pad,up,cutting pad,up,cutting pad,up-left,cutting pad,up-left,cutting pad,still,cutting pad,up-left,cutting pad,down-left,desk,up-right,cutting mat,still,cutting pad,left,cutting mat,left,cutting pad,still,cutting pad,right,cutting pad,right,cutting pad,right,cutting mat,left,cutting pad,left,cutting pad,down-left,desk,up-right,cutting mat,left,cutting pad,still,cutting pad,right,cutting pad,down-left,cutting pad)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-left → up → up-left → up-left → left → still → still → still → still → still → down → up → right → still → down-left → still → still → still → still → down-right → still → still → down (object: fidget spinner ring → cutting pad → cutting mat)
+Right hand: up-left → up-left → up → up-left → left → left → left → up-left → left → down-left → left → right → down → still → left → left → right → left → left → left → up-right → down-right → left → right (object: sand disc → pair of scissors → paint brush → spoon → toothbrush → cutting pad → cutting mat)
+Two-hand object: cutting pad → desk → cutting mat

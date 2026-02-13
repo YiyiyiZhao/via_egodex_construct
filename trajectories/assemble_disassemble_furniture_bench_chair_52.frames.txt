@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((963,604),still,still,still,still,up-right,still,still)
+right hand:((1302,662),up-left,still,down-left,still,right,right,down-left)
+left hand object:((1078,546,trowel),still,trowel,still,trowel,still,plastic model piece,right,phone,left,tweezer,right,wooden model,left,trowel)
+right hand object:((961,544,room),right,trowel,still,trowel,still,plastic model piece,right,phone,left,tweezer,right,trowel,down-right,fidget spinner ring)
+two hand object:((1078,546,wooden model),still,trowel,left,room,still,room,right,trowel,up-right,linen,still,linen,down-left,room)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → still → up-right → still → still (object: trowel → phone → plastic model piece → tweezer → wooden model)
+Right hand: up-left → still → down-left → still → right → right → down-left (object: fidget spinner ring → room → trowel → phone → plastic model piece → tweezer)
+Two-hand object: trowel → linen → room → wooden model

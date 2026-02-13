@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((562,790),up,up,up,right,down,left,down)
+right hand:((1754,902),up-left,up-left,down-left,up,down-left,right,down-right)
+left hand object:((407,774,metal rod),up,metal rod,right,kitchen workbench,still,kitchen workbench,still,kitchen workbench,still,kitchen workbench,still,kitchen workbench,still,kitchen workbench)
+right hand object:((None,None),none,kitchen workbench,right,rolling tray,down,stapler,up,stapler,down,rolling tray,still,caliper,left,kitchen workbench)
+two hand object:((None,None),none,kitchen workbench,still,kitchen workbench,still,kitchen workbench,still,kitchen workbench,still,kitchen workbench,still,kitchen workbench,still,kitchen workbench)
+
+
+## LLM-Friendly Format:
+Left hand: up → up → up → right → down → left → down (object: metal rod → kitchen workbench)
+Right hand: up-left → up-left → down-left → up → down-left → right → down-right (object: rolling tray → caliper → kitchen workbench → stapler)
+Two-hand object: kitchen workbench

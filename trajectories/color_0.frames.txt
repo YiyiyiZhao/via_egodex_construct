@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((812,774),right,up-left,down-right,up,up-left,up,left,up-left,still,down-left,down,left,up,up-right,up-right,left,down-left,down,up-left)
+right hand:((None,None),none,up,down-right,up-left,up,up-right,left,up-left,still,down-left,down-right,up-left,up-right,right,up-right,left,down-left,right,down-right)
+left hand object:((960,770,desk),up-left,fidget spinner ring,right,book,left,architectural craft manual,up,architectural craft manual,up,architectural craft manual,up-left,book,down-left,architectural craft manual,left,architectural craft manual,still,architectural craft manual,down-left,book,down,architectural craft manual,left,architectural craft manual,up,architectural craft manual,up-right,architectural craft manual,up-right,architectural craft manual,still,architectural craft manual,down-left,architectural craft manual,down-left,architectural craft manual,right,sketch manual)
+right hand object:((None,None),none,paper container,up,fidget spinner ring,down,book,up,architectural craft manual,up,book,up-left,book,down-left,book,left,book,still,book,down-left,book,down,architectural craft manual,up-right,fidget spinner ring,up-right,fidget spinner ring,down-left,architectural craft manual,up-right,book,left,architectural craft manual,down-left,architectural craft manual,down-left,architectural craft manual,down,desk)
+two hand object:((None,None),none,desk,left,desk,right,book,up,book,up,book,up-left,book,down-left,book,left,book,still,book,down-left,book,down,book,left,book,up,book,up,book,up-right,book,still,book,down-left,book,down-left,book,down,desk)
+
+
+## LLM-Friendly Format:
+Left hand: right → up-left → down-right → up → up-left → up → left → up-left → still → down-left → down → left → up → up-right → up-right → left → down-left → down → up-left (object: book → sketch manual → desk → architectural craft manual → fidget spinner ring)
+Right hand: none → up → down-right → up-left → up → up-right → left → up-left → still → down-left → down-right → up-left → up-right → right → up-right → left → down-left → right → down-right (object: paper container → book → desk → architectural craft manual → fidget spinner ring)
+Two-hand object: book → desk

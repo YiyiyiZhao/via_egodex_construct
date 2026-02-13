@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((944,928),up-left,up-right,left,right,down,right,up,right,down,up,down)
+right hand:((1454,874),left,left,up-right,left,right,down-left,up,up,down-right,still,up)
+left hand object:((1067,899,plastic container),up,food container,up-left,bed,down-right,rolling tray,up-left,bed,still,bed,down-right,phone,up,phone,up-right,phone,down,phone,still,mobile phone,right,glass cup)
+right hand object:((1347,820,rolling tray),up,rolling tray,left,bed,right,stapler,left,bed,still,bed,down-right,phone,up,phone,up-right,phone,down,phone,still,phone,right,glass cup)
+two hand object:((958,548,room),down,bed,up,bed,up,room,down,bed,still,bed,down-right,mobile phone,up-right,phone,up-right,remote control,down,phone,still,mobile phone,up-left,bed)
+
+
+## LLM-Friendly Format:
+Left hand: up-left → up-right → left → right → down → right → up → right → down → up → down (object: mobile phone → glass cup → rolling tray → phone → bed → food container → plastic container)
+Right hand: left → left → up-right → left → right → down-left → up → up → down-right → still → up (object: stapler → glass cup → rolling tray → phone → bed)
+Two-hand object: mobile phone → room → phone → bed → remote control

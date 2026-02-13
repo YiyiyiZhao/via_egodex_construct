@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1006,723),left,up-right,still,up-left,right,right,left,down-left,down-right)
+right hand:((1314,754),down-left,down-right,up-right,down,up-right,down,up-left,down-right,down-left)
+left hand object:((970,576,cup),down-right,toothbrush,up-left,toothbrush,still,paint spray gun,left,cup,right,cup,right,cup,up-left,toothbrush,left,cup,down-right,cup)
+right hand object:((1196,698,remote control),left,toothbrush,up-left,toothbrush,right,toothbrush,down,sponge cloth,up-right,scouring pad,up-left,bottle,left,toothbrush,right,bottle,down,toothpaste)
+two hand object:((1196,698,remote control),left,countertop,right,toothbrush,still,paint spray gun,down-left,desk,up,desk,down,desk,up-right,toothbrush,left,desk,down,desk)
+
+
+## LLM-Friendly Format:
+Left hand: left → up-right → still → up-left → right → right → left → down-left → down-right (object: paint spray gun → toothbrush → cup)
+Right hand: down-left → down-right → up-right → down → up-right → down → up-left → down-right → down-left (object: toothpaste → scouring pad → sponge cloth → toothbrush → bottle → remote control)
+Two-hand object: countertop → paint spray gun → toothbrush → desk → remote control

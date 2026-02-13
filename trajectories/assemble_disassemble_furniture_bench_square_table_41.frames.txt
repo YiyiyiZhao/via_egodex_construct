@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1066,791),still,still,still,down-left,up,still,down)
+right hand:((1468,607),down-left,down-left,up-left,left,down-right,left,down)
+left hand object:((1278,659,tray),down,napkin,still,architectural craft manual,none,none,remote control,right,architectural craft manual,up-left,room,down-right,architectural craft manual)
+right hand object:((1278,658,rolling tray),down,napkin,still,architectural craft manual,left,fidget spinner ring,right,architectural craft manual,up,architectural craft manual,down-left,fidget spinner ring,up-right,architectural craft manual)
+two hand object:((1278,658,rolling tray),down,napkin,still,architectural craft manual,none,none,remote control,right,architectural craft manual,up-left,room,down-right,architectural craft manual)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → still → down-left → up → still → down (object: room → tray → napkin → architectural craft manual → remote control)
+Right hand: down-left → down-left → up-left → left → down-right → left → down (object: napkin → rolling tray → architectural craft manual → fidget spinner ring)
+Two-hand object: room → napkin → rolling tray → architectural craft manual → remote control

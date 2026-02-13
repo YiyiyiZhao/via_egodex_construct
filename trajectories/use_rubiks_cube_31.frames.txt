@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((940,694),down-right,up-left,still,still,still,still,up-left)
+right hand:((1528,814),left,right,up-left,up-left,down-right,up-left,right)
+left hand object:((961,769,desk),right,rubik cube,up,rubik cube,still,rubik cube,still,soft lego brick,still,remote control,up-right,rubik cube,down-right,rubik cube)
+right hand object:((961,769,desk),still,desk,still,desk,still,desk,still,desk,still,desk,still,desk,still,desk)
+two hand object:((961,769,desk),right,remote control,up,rubik cube,left,desk,right,soft lego brick,left,desk,still,desk,right,rubik cube)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → still → still → still → still → up-left (object: remote control → rubik cube → soft lego brick → desk)
+Right hand: left → right → up-left → up-left → down-right → up-left → right (object: desk)
+Two-hand object: rubik cube → remote control → soft lego brick → desk

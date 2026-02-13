@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((946,655),up-right,left,left,right,down-right,up,left,left,right,right,up-right,up-left,left,right,left,right,up-right,left,down,down-right,down-left)
+right hand:((1333,534),left,up-right,right,left,down-left,up,right,none,none,left,down-left,up-right,right,left,right,left,up-left,right,left,down,right)
+left hand object:((992,620,fidget spinner ring),up,fidget spinner ring,right,toothbrush,up-right,mop handle,down-left,floor,up-right,remote control,up-left,fidget spinner ring,right,toothbrush,left,fidget spinner ring,right,toothbrush,left,fidget spinner ring,up-right,fidget spinner ring,down-right,device,right,toothbrush,left,toothbrush,right,toothbrush,left,fidget spinner ring,right,fidget spinner ring,right,toothbrush,left,fidget spinner ring,down-right,fidget spinner ring,down-right,slime)
+right hand object:((1347,488,fidget spinner ring),left,fidget spinner ring,left,toothbrush,up-right,mop handle,down-left,floor,up-right,remote control,up-right,fidget spinner ring,left,toothbrush,none,none,toothbrush,up-right,fidget spinner ring,down-left,desk,up-right,device,right,toothbrush,left,toothbrush,right,toothbrush,left,fidget spinner ring,up-left,fidget spinner ring,down-left,toothbrush,right,fidget spinner ring,down,fidget spinner ring,right,fidget spinner ring)
+two hand object:((962,700,bed),up,room,right,toothbrush,left,room,still,room,still,room,down,desk,up-right,toothbrush,none,none,toothbrush,down-left,desk,up,room,still,room,up-right,toothbrush,down-left,room,right,toothbrush,left,room,down,bed,up-right,toothbrush,down-left,room,down,desk,up,room)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → left → left → right → down-right → up → left → left → right → right → up-right → up-left → left → right → left → right → up-right → left → down → down-right → down-left (object: floor → slime → mop handle → device → toothbrush → remote control → fidget spinner ring)
+Right hand: left → up-right → right → left → down-left → up → right → none → none → left → down-left → up-right → right → left → right → left → up-left → right → left → down → right (object: floor → mop handle → device → toothbrush → desk → remote control → fidget spinner ring)
+Two-hand object: toothbrush → desk → room → bed

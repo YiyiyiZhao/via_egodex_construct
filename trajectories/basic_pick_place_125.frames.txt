@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((564,754),left,up-left,still,up,up-right,up-right,down-right)
+right hand:((1499,741),left,left,up,up,left,down,down-right)
+left hand object:((956,872,desk),right,countertop,left,pair of scissors,still,pair of scissors,right,desk,left,pair of scissors,right,pair of scissors,down-right,desk)
+right hand object:((1286,794,storage box),left,bowl,down-left,countertop,up-right,bowl,up-left,room,right,piece of clothing,left,sponge cloth,down-left,desk)
+two hand object:((962,544,room),down-right,countertop,left,countertop,still,countertop,up,kitchen,down,countertop,none,none,room)
+
+
+## LLM-Friendly Format:
+Left hand: left → up-left → still → up → up-right → up-right → down-right (object: pair of scissors → desk → countertop)
+Right hand: left → left → up → up → left → down → down-right (object: room → countertop → bowl → sponge cloth → storage box → desk → piece of clothing)
+Two-hand object: kitchen → room → countertop

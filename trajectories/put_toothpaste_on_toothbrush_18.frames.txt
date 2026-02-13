@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((932,934),up,up-right,still,up,up-right,right,still,still,still,still,up-left,up,down-right,left,up-left,down,down-right,still,still,down-right,left,down-left,still,still,still,down)
+right hand:((1333,956),up,up,up-right,down-left,down,left,up,still,right,left,down-right,up,left,up,down,left,still,still,up-left,still,right,up-right,up-right,down-left,down,down-left)
+left hand object:((912,865,desk),none,none,desk,still,desk,right,remote control,up,toothbrush,up,card,left,desk,still,table,still,desk,right,pair of scissors,left,remote control,up,phone,down-right,remote control,down-left,table,up-right,remote control,down-left,table,up-right,toothbrush,right,tweezer,still,pair of scissors,up-right,tweezer,down-left,table,right,remote control,still,remote control,still,remote control,still,marker,left,table)
+right hand object:((1292,774,cup),up-left,cup,up-right,cup,up,toothbrush,down,cup,left,cup,left,toothbrush,right,toothbrush,still,toothbrush,down-right,pen,right,cup,up-right,cup,up,cup,still,cup,still,cup,still,cup,down,cup,left,pair of scissors,right,tweezer,still,pair of scissors,up-right,pair of scissors,down-right,pair of scissors,up-right,toothbrush,up-right,toothbrush,down,cup,still,glass cup,down-right,glass cup)
+two hand object:((912,865,desk),none,none,room,still,room,down,desk,left,table,up-right,pair of scissors,down-left,table,still,table,still,table,right,pair of scissors,down-left,desk,left,table,still,table,still,table,still,table,still,table,up-right,pair of scissors,right,tweezer,still,pair of scissors,up-right,pair of scissors,down-right,pair of scissors,up-left,room,still,room,still,room,down,desk,still,desk)
+
+
+## LLM-Friendly Format:
+Left hand: up → up-right → still → up → up-right → right → still → still → still → still → up-left → up → down-right → left → up-left → down → down-right → still → still → down-right → left → down-left → still → still → still → down (object: pair of scissors → card → table → toothbrush → desk → phone → remote control → tweezer → marker)
+Right hand: up → up → up-right → down-left → down → left → up → still → right → left → down-right → up → left → up → down → left → still → still → up-left → still → right → up-right → up-right → down-left → down → down-left (object: pair of scissors → glass cup → toothbrush → cup → pen → tweezer)
+Two-hand object: room → pair of scissors → table → desk → tweezer

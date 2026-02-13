@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((924,811),still,still,up-right,up-right,still,still,still)
+right hand:((1604,896),up-left,left,right,up-left,up-right,right,down)
+left hand object:((1130,732,wood model),still,wood model,still,plastic model piece,right,plastic model piece,still,wooden model,still,plastic model piece,left,bed,right,remote control)
+right hand object:((960,796,bed),left,bed,right,plastic model piece,right,plastic model piece,still,wooden model,still,plastic model piece,left,bed,still,bed)
+two hand object:((960,796,bed),left,bed,right,bed,still,bed,still,bed,still,bed,still,bed,still,bed)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → up-right → up-right → still → still → still (object: wood model → plastic model piece → bed → wooden model → remote control)
+Right hand: up-left → left → right → up-left → up-right → right → down (object: plastic model piece → wooden model → bed)
+Two-hand object: bed

@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((692,638),right,up,left,down-right,up-right,up,up-left,down-right,up-left,down-left,down-right,down)
+right hand:((1772,660),left,up-left,up-right,down-left,none,none,down-right,none,none,down-right,down,up-left)
+left hand object:((1173,792,tablet bag),left,bed,up-right,bag,up,bag,down-left,bed,up-right,paper bag,down,bag,right,bag,down,bag,left,bag,down-left,bed,none,none)
+right hand object:((None,None),none,bed,up-right,bag,up,bag,down-left,bed,none,none,bag,right,linen,none,none,bag,up-left,bag,right,bag,none)
+two hand object:((None,None),none,bed,up-right,bag,up,bag,down-left,bed,none,none,bag,right,linen,none,none,bag,none,none,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → up → left → down-right → up-right → up → up-left → down-right → up-left → down-left → down-right → down (object: bag → tablet bag → paper bag → bed)
+Right hand: left → up-left → up-right → down-left → none → none → down-right → none → none → down-right → down → up-left (object: bag → linen → bed)
+Two-hand object: bag → linen → bed

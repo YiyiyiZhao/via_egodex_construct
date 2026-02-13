@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((859,707),down-right,up-left,down-right,right,up-left,up-right,down,left,up,right,down,down,down)
+right hand:((1769,761),down,left,up,up-right,right,down-left,up-right,up-left,down-left,up-right,down-left,up,up-right)
+left hand object:((1040,638,towel),down-left,desk,still,counter,still,counter,up,desk,up-left,countertop,right,banana,down-left,countertop,down-right,microfiber cloth,up-left,countertop,up-right,cardboard box,down-right,box,down,cutting pad,down-right,banana)
+right hand object:((962,763,desk),up-left,table,down-right,towel,up,storage box,up,storage box,down,countertop,down-right,sponge cloth,up-right,storage box,left,box,down-left,countertop,right,countertop,up-right,box,left,cardboard box,up-right,banana)
+two hand object:((962,763,desk),up-left,desk,still,counter,still,counter,up,desk,still,floor,still,countertop,down,countertop,left,countertop,up-right,box,down-left,countertop,up-right,box,down-left,countertop,none)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → up-left → down-right → right → up-left → up-right → down → left → up → right → down → down → down (object: towel → countertop → counter → desk → cardboard box → microfiber cloth → banana → cutting pad → box)
+Right hand: down → left → up → up-right → right → down-left → up-right → up-left → down-left → up-right → down-left → up → up-right (object: towel → countertop → table → sponge cloth → storage box → desk → cardboard box → banana → box)
+Two-hand object: floor → countertop → counter → desk → box

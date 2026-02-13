@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((906,939),left,right,up-left,up-left,down,right,down-left,still,down-left,up-right,down-left,up-right,left)
+right hand:((1368,832),down-right,up-left,down,up,down-right,left,up-right,down-left,right,left,right,left,right)
+left hand object:((960,805,desk),left,cardboard box,right,bed,right,paper bag,left,box,right,box,right,box,left,box,up-left,box,still,box,up-right,storage box,left,box,right,box,left,box)
+right hand object:((1652,846,cutting pad),left,cutting pad,left,bed,right,paper bag,left,box,right,box,up-right,towel,none,none,none,sponge cloth,down-left,architectural craft manual,down,box,up-left,soap,right,carton)
+two hand object:((960,805,desk),down,desk,up-left,bed,left,bed,right,box,right,box,right,box,none,none,none,none,box,left,box,right,box,left,carton)
+
+
+## LLM-Friendly Format:
+Left hand: left → right → up-left → up-left → down → right → down-left → still → down-left → up-right → down-left → up-right → left (object: storage box → desk → cardboard box → bed → paper bag → box)
+Right hand: down-right → up-left → down → up → down-right → left → up-right → down-left → right → left → right → left → right (object: carton → soap → towel → architectural craft manual → sponge cloth → bed → paper bag → cutting pad → box)
+Two-hand object: carton → desk → box → bed

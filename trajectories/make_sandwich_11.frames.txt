@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((641,726),right,left,down-right,down,down-right,up-left,up,down-left,up,left,up-left,right,left,down,up-left)
+right hand:((1663,866),none,none,left,up,right,up-right,down-left,down-right,up-left,up-right,down,up-right,down-left,down-right,up)
+left hand object:((356,880,pet),right,bed,still,bed,left,pet,right,pet,right,bed,left,pet,none,none,pet,up,pet,left,pet,right,pet,right,pet,left,pet,down-right,pet,left,pet)
+right hand object:((966,798,bed),none,none,bed,still,bed,right,fidget spinner ring,none,none,plastic ball,none,none,none,bed,still,bed,right,towel,up-left,bottle cap,none,none,bed,up-right,bread)
+two hand object:((None,None),none,none,bed,still,bed,down,bed,none,none,room,none,none,none,bed,still,bed,none,none,none,none,bed,none)
+
+
+## LLM-Friendly Format:
+Left hand: right → left → down-right → down → down-right → up-left → up → down-left → up → left → up-left → right → left → down → up-left (object: bed → pet)
+Right hand: none → none → left → up → right → up-right → down-left → down-right → up-left → up-right → down → up-right → down-left → down-right → up (object: towel → plastic ball → bed → fidget spinner ring → bread → bottle cap)
+Two-hand object: room → bed

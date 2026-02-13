@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((802,768),up-right,up-left,down,up,down,right,up-right,up-left,left,left,down-left,up-right,up-left,right,left,right,down-left,right,down-left,up)
+right hand:((1750,917),up-left,up-right,down,none,none,left,up-left,left,up,right,down-right,left,right,left,right,left,down-right,up-left,up-left,down-right)
+left hand object:((960,792,floor),down-right,floor,left,pet,right,floor,left,linen,down-right,fidget spinner ring,right,bed,up,sponge cloth,up-left,couch,left,sofa,down,bed,down,bed,down,bed,right,cutting mat,down-left,cutting mat,up-right,cutting mat,left,bed,left,blanket,right,cutting mat,left,sponge cloth,up-left,cutting mat)
+right hand object:((960,792,floor),down-right,floor,up-right,linen,down-left,floor,none,none,blanket,left,bed,down-left,bed,up,couch,left,couch,down,bed,right,fidget spinner ring,left,cutting mat,down-right,cutting mat,down-left,cutting mat,up-right,cutting mat,left,bed,down,floor,right,cutting mat,left,sponge cloth,up-left,cutting mat)
+two hand object:((960,792,floor),up-right,cardboard box,down-left,room,down,floor,none,none,bed,still,bed,up,cardboard box,down,bed,up,couch,down,bed,down,bed,up-right,cutting mat,down-right,cutting mat,left,bed,right,cutting mat,up-left,room,down,floor,right,cutting mat,left,sponge cloth,up-left,cutting mat)
+
+
+## LLM-Friendly Format:
+Left hand: up-right → up-left → down → up → down → right → up-right → up-left → left → left → down-left → up-right → up-left → right → left → right → down-left → right → down-left → up (object: floor → couch → pet → sponge cloth → sofa → linen → bed → blanket → cutting mat → fidget spinner ring)
+Right hand: up-left → up-right → down → none → none → left → up-left → left → up → right → down-right → left → right → left → right → left → down-right → up-left → up-left → down-right (object: floor → couch → sponge cloth → linen → bed → blanket → cutting mat → fidget spinner ring)
+Two-hand object: floor → couch → room → sponge cloth → cardboard box → bed → cutting mat

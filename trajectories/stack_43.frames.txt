@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((926,1004),still,still,right,left,right,right,left)
+right hand:((1452,960),left,up-left,down-left,up,up,down,right)
+left hand object:((959,856,floor),none,none,none,none,bed,none,none,room,still,room)
+right hand object:((959,856,floor),none,none,card,right,card,up-right,sponge cloth,up,fidget spinner ring,up-left,room,down-right,rubik cube)
+two hand object:((959,856,floor),none,none,none,none,bed,none,none,room,still,room)
+
+
+## LLM-Friendly Format:
+Left hand: still → still → right → left → right → right → left (object: floor → room → bed)
+Right hand: left → up-left → down-left → up → up → down → right (object: floor → room → card → sponge cloth → rubik cube → fidget spinner ring)
+Two-hand object: floor → room → bed

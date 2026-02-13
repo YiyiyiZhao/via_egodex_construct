@@ -1,0 +1,12 @@
+## Hand Object Dynamics
+left hand:((1113,688),down-right,still,up-right,left,still,up-left,left)
+right hand:((1400,919),still,still,still,still,still,still,down)
+left hand object:((1307,755,plastic model piece),still,jenga block,still,instruction manual,left,countertop,right,plastic model piece,still,architectural craft manual,left,plastic model piece,left,countertop)
+right hand object:((1307,755,plastic model piece),right,architectural craft manual,still,architectural craft manual,left,countertop,right,plastic model piece,still,architectural craft manual,left,plastic model piece,left,countertop)
+two hand object:((1307,755,plastic model piece),left,countertop,right,architectural craft manual,left,countertop,still,countertop,right,architectural craft manual,left,countertop,down-right,countertop)
+
+
+## LLM-Friendly Format:
+Left hand: down-right → still → up-right → left → still → up-left → left (object: jenga block → countertop → plastic model piece → architectural craft manual → instruction manual)
+Right hand: still → still → still → still → still → still → down (object: architectural craft manual → countertop → plastic model piece)
+Two-hand object: architectural craft manual → countertop → plastic model piece
