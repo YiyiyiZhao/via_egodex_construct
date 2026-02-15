@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_56.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop there’s a yellow bowl near the back, a small white cup to its right, and a couple of yellow toy food pieces spread out. The right hand moves down to grasp a small blue-and-white piece, lifts it up, carries it forward and slightly left over the yellow bowl, then lowers and releases it into the bowl, leaving the bowl as the destination while the hand withdraws.",
+  "model": "gpt-5.2-2025-12-11"
+}

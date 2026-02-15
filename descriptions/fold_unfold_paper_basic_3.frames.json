@@ -1,0 +1,6 @@
+{
+  "video_name": "fold_unfold_paper_basic_3.frames",
+  "action_label": "fold_unfold_paper_basic",
+  "description": "A single white sheet of paper lies on the pink surface in front of the person. The left hand reaches toward the left edge while the right hand approaches the right edge, making the paper a two-hand object as they lift and bend the far side toward the near side, then lower it to align the edges and fold it in half; both hands press and smooth along the fold to sharpen the crease.",
+  "model": "gpt-5.2-2025-12-11"
+}

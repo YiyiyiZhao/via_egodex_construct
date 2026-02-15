@@ -1,0 +1,6 @@
+{
+  "video_name": "play_reset_connect_four_10.frames",
+  "action_label": "play_reset_connect_four",
+  "description": "A blue Connect Four grid sits on the table with yellow and red checkers piled nearby and an instruction sheet off to the left. The right hand picks up a red checker from the pile, moves upward and left toward the top row of the grid, then releases it into a slot so it drops into the board, leaving the hand empty and pulling back.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_128.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front of you are a pair of black slip-on sandals, a small remote, a clear pair of safety glasses, a flathead screwdriver, a white USB adapter, and a black mouse. The left hand stays resting on the left side, while the right hand reaches in from the right to grasp the mouse as a right-hand object, lifts it slightly, moves it up and toward the sandals, and then sets it down inside the nearer sandal before releasing and pulling back.",
+  "model": "gpt-5.2-2025-12-11"
+}

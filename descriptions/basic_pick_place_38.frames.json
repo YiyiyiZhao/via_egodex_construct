@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_38.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front, there’s a green apple near the center, a small red ball to the left, a clear plastic piece in the middle, and a black round plate on the right. The right hand reaches in from the right, grasps the apple as a right-hand object, lifts it up and carries it to the right, then lowers it onto the black plate and releases it, while the left hand stays resting near the red ball without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

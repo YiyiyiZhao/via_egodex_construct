@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_desk_1.frames",
+  "action_label": "assemble_disassemble_furniture_bench_desk",
+  "description": "A white plastic base with three upright rectangular posts sits on a green mat, with a small white rectangular piece lying nearby. The left hand reaches in from the left, picks up the small white piece as a left-hand object, moves it rightward over the base, and presses it down onto the empty front-left position to make it stand, while the right hand stays on the base as a right-hand object to steady it.",
+  "model": "gpt-5.2-2025-12-11"
+}

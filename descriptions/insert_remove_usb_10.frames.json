@@ -1,0 +1,6 @@
+{
+  "video_name": "insert_remove_usb_10.frames",
+  "action_label": "insert_remove_usb",
+  "description": "On the bed in front of you there’s a black USB hub with a thick black cable attached, and a small white adapter with a short white lead. The left hand slides in from the left to steady the hub as the right hand reaches in from the right, pinches the small white plug at the hub, and pulls it upward and away to remove it, then lets the white adapter drop onto the bed while both hands hover back near the hub.",
+  "model": "gpt-5.2-2025-12-11"
+}

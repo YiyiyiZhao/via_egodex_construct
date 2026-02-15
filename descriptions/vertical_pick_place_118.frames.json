@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_118.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the table there’s a small white bow-shaped item near the center and a clear plastic bin positioned to the right. The right hand comes in from the right, reaches down to grasp the bow (making it a right-hand object), lifts it up and over the rim of the bin, then lowers it into the bin and releases it.",
+  "model": "gpt-5.2-2025-12-11"
+}

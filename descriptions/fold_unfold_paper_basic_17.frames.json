@@ -1,0 +1,6 @@
+{
+  "video_name": "fold_unfold_paper_basic_17.frames",
+  "action_label": "fold_unfold_paper_basic",
+  "description": "A white sheet of paper lies on a flat bed surface in front of both hands. The left hand reaches in from the left to steady the paper’s left edge while the right hand lifts the top flap upward, then folds it down toward the bottom edge to close the sheet; both hands press and smooth along the fold, keeping the paper as a two-hand object during the crease.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "pick_place_food_0.frames",
+  "action_label": "pick_place_food",
+  "description": "On the table in front of you, there’s a woven basket filled with food items and, to the right, a plate holding bananas, grapes, and a pastry. The right hand reaches from the lower right toward the plate, grasps one banana as a right-hand object, lifts it up and left over the basket, then lowers it into the basket and releases it, leaving the banana inside while the hand pulls back.",
+  "model": "gpt-5.2-2025-12-11"
+}

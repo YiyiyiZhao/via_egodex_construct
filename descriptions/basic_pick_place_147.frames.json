@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_147.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you there’s a small turquoise plastic basket near the back left, a white bowl to the right, and a few small blocks scattered around. The left hand reaches forward into the basket, grasps a small blue block as a left-hand object, lifts it out, moves rightward over the bowl, and lowers it into the bowl before releasing it, while the right hand stays nearby without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

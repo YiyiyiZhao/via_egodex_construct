@@ -1,0 +1,6 @@
+{
+  "video_name": "clean_cups_16.frames",
+  "action_label": "clean_cups",
+  "description": "On the tabletop there’s a yellow bottle, four plastic cups (yellow, red, green, and blue), and a blue scrub sponge lying in front. The right hand reaches forward and grips the red cup as a right-hand object, while the left hand moves left to pick up the yellow bottle and briefly angles its nozzle toward the red cup before setting the bottle back; then the left hand lifts the blue scrub sponge as a left-hand object and presses it into the mouth of the red cup, pushing and twisting slightly while the right hand holds the cup steady.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_chair_80.frames",
+  "action_label": "assemble_disassemble_furniture_bench_chair",
+  "description": "In front of you on the red bedspread are a small white block structure and a separate white rectangular piece. The left hand stays mostly planted near the main structure while the right hand moves in from the right, grasps the rectangular piece as a right-hand object, brings it leftward and slightly downward to align it, then pushes it into an opening on the main structure before letting go and lifting away.",
+  "model": "gpt-5.2-2025-12-11"
+}

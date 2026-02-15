@@ -1,0 +1,6 @@
+{
+  "video_name": "fold_unfold_paper_basic_8.frames",
+  "action_label": "fold_unfold_paper_basic",
+  "description": "A white sheet of paper lies on the table in front of both hands. The left hand and right hand move in to grasp the paper as a two-hand object, lifting it slightly and then folding it down into a smaller rectangle; they press along the crease with their fingertips and palms, then pick it up again to unfold and refold sections, smoothing each fold flat before briefly releasing.",
+  "model": "gpt-5.2-2025-12-11"
+}

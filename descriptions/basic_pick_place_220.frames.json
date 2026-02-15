@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_220.frames",
+  "action_label": "basic_pick_place",
+  "description": "Two plastic bowls sit on the tabletop, with a small blue boxed item in the light blue bowl and a few small colorful pieces nearby. The right hand reaches in from the right, moves left to grasp the blue box in the light blue bowl as a right-hand object, lifts it up and carries it rightward, then lowers and releases it into the purple bowl; the left hand stays resting near the lower left and does not touch any objects.",
+  "model": "gpt-5.2-2025-12-11"
+}

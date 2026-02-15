@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_60.frames",
+  "action_label": "basic_pick_place",
+  "description": "A yellow tabletop holds a white bowl with small colorful blocks inside and an empty blue bowl to the right. The right hand reaches forward into the white bowl, grasps a purple block as a right-hand object, lifts it up and to the right, then lowers it into the blue bowl and releases it, while the left hand stays near the bottom of the table without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

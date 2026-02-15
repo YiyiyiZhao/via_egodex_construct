@@ -1,0 +1,6 @@
+{
+  "video_name": "play_reset_connect_four_8.frames",
+  "action_label": "play_reset_connect_four",
+  "description": "A blue Connect Four grid sits on the tabletop with a loose pile of red and yellow checkers in front of it. The left hand stays low and mostly still near the pile while the right hand repeatedly pinches individual checkers from the pile, moves up and forward to the grid, and releases them into the slots, then returns to pick up another piece (the checkers are a right-hand object when held).",
+  "model": "gpt-5.2-2025-12-11"
+}

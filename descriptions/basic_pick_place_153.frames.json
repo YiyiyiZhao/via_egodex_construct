@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_153.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table there’s a gray plastic bin to the right, a round unicorn coaster near the center, a red-handled screwdriver, a small wooden block, and a small clear bottle. The right hand reaches in from the right toward the coaster, grips it as a right-hand object, lifts it up and carries it rightward over the bin, then lowers and releases it into the bin.",
+  "model": "gpt-5.2-2025-12-11"
+}

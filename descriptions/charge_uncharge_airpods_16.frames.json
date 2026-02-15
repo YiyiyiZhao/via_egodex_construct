@@ -1,0 +1,6 @@
+{
+  "video_name": "charge_uncharge_airpods_16.frames",
+  "action_label": "charge_uncharge_airpods",
+  "description": "On the green tabletop in front of you, there’s a white AirPods charging case with a charging cable plugged into it. The left hand reaches in from the left toward the case while the right hand moves in from the right to grasp the cable near the connector; the left hand steadies the left-hand object (the case) as the right hand pulls the right-hand object (the cable) straight out to unplug it, then the right hand releases the cable and the left hand sets the case back down.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "roll_ball_2.frames",
+  "action_label": "roll_ball",
+  "description": "A small red ball sits on a green-covered tabletop, with both hands reaching in from the bottom of the view. The left hand nudges and rolls the ball across the table while the right hand hovers close, then the right hand briefly takes control to roll it back the other way as the left hand pulls away and returns to guide it again; contact alternates between a left-hand object and a right-hand object as the ball changes hands.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_203.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the bed in front of you are a light blue bowl, a small green block, a small yellow block, a red splat-shaped piece, a blue box, and a pink donut-shaped toy. The left hand reaches forward toward the yellow block, pinches it as the left-hand object, lifts it up and carries it to the right into the blue bowl, then releases it inside and withdraws back, while the right hand stays near the blue box without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_126.frames",
+  "action_label": "basic_pick_place",
+  "description": "A gray plastic bin sits in the center of the table, with a phone behind it and a black mouse to the right. The right hand reaches to the right side, pinches and lifts a small green block as a right-hand object, carries it leftward over the bin, then lowers and releases it into the bin; the left hand stays resting near the bin without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

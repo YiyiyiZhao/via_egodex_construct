@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_110.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the table in front of you there’s a clear rectangular plastic bin and a small white round lid sitting on the pink cloth. The left hand stays resting near the bottom while the right hand reaches forward, pinches the white lid, lifts it upward, moves it over the clear bin, and drops it inside so it lands on the bottom of the bin, then the right hand withdraws and hovers nearby.",
+  "model": "gpt-5.2-2025-12-11"
+}

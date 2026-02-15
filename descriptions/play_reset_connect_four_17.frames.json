@@ -1,0 +1,6 @@
+{
+  "video_name": "play_reset_connect_four_17.frames",
+  "action_label": "play_reset_connect_four",
+  "description": "A blue Connect Four grid stands on a green cloth, with stacks of yellow checkers on the left and red checkers on the right. The left hand reaches into the yellow pile, picks up a yellow checker as a left-hand object, lifts it upward and to the right over the top of the grid, then releases it into a top slot so it drops into place while the hand pulls back away.",
+  "model": "gpt-5.2-2025-12-11"
+}

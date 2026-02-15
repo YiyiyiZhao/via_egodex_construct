@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_22.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front, there’s a clear plastic container, a colorful cube, a small blue rectangular pack near the back, gray tongs on the right, and a gray curved item near the front. The left hand stays resting on the left side while the right hand reaches forward toward the blue pack, grips it as a right-hand object, lifts it slightly, moves it leftward over the clear container, and lowers it into the container before releasing and pulling back.",
+  "model": "gpt-5.2-2025-12-11"
+}

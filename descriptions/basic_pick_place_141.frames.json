@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_141.frames",
+  "action_label": "basic_pick_place",
+  "description": "A chessboard sits on the table with a few yellow and dark pieces, a remote control lying across the squares, and a small white case off to the right. The right hand reaches toward the white case, grips it as a right-hand object, lifts it up and moves it leftward over the board, then lowers and releases it onto an empty square near the remote while the left hand stays resting and does not touch anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

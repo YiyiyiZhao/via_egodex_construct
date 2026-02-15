@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_207.frames",
+  "action_label": "basic_pick_place",
+  "description": "A blue bowl sits on the counter with several small toys nearby, including a white yogurt cup, a green block, and a yellow duck. The right hand reaches in from the right, grasps the yogurt cup as a right-hand object, lifts it up and left, then lowers it into the bowl and releases it, while the left hand stays resting on the left side of the counter without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_35.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table there’s a purple scoop near the right, a small gray bin in the back corner, and a few small items scattered in the middle. The left hand reaches forward toward the gray bin, pinches and lifts a small wooden cube from inside it, then moves back left-to-right to place and release the cube into the purple scoop, while the right hand keeps holding the scoop steady by its handle as a right-hand object.",
+  "model": "gpt-5.2-2025-12-11"
+}

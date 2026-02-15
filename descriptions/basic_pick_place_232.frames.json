@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_232.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the bed surface in front of you are a small yellow piece near the center, a light blue bowl to the right with a green block beside it, and other items like a playing card box and a pink donut-shaped object. The left hand reaches forward toward the yellow piece, pinches and lifts it as a left-hand object, then moves rightward and lowers it into the blue bowl before releasing, while the right hand stays near the lower right without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

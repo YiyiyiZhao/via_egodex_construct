@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_128.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A clear plastic bin sits on the table, with a small white star-shaped toy with a loop lying to the right. The left hand stays resting on the tabletop while the right hand moves in from the right, grasps the star toy as a right-hand object, lifts it upward, then moves left over the bin and releases it to drop inside, after which the right hand pulls back.",
+  "model": "gpt-5.2-2025-12-11"
+}

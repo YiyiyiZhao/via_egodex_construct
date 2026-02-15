@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_legos_24.frames",
+  "action_label": "assemble_disassemble_legos",
+  "description": "Several large Lego-style blocks are spread out on the bed: a green block, two red blocks, a white block, and a yellow block. The right hand picks up a red block from the right side and brings it toward the center, then grasps the yellow block and stacks it onto the white block; next the right hand adds a red block on top of the growing stack, and finally lifts the green block and places it on top, while the left hand stays nearby without touching any block.",
+  "model": "gpt-5.2-2025-12-11"
+}

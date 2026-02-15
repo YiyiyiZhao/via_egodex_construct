@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_120.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red bedspread in front of you are a small green plate, a blue rectangular toy block, a yellow block, a domino tile, and a couple of small toy figures. The right hand reaches in from the right toward the blue block, grips it as a right-hand object, lifts it slightly and carries it forward and down, then sets it onto the center of the green plate and releases it.",
+  "model": "gpt-5.2-2025-12-11"
+}

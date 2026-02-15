@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_18.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A clear plastic bin sits on the tabletop, and a small white soft item lies nearby. The right hand moves in from the right, pinches and lifts the white item off the table, carries it upward and over the bin, then releases it so it drops inside while the left hand stays resting on the table.",
+  "model": "gpt-5.2-2025-12-11"
+}

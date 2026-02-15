@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_226.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red blanket in front of you are a small green plate, a yellow block, a red piece, a white domino tile, and a few small toy figures. The right hand reaches down to the yellow block, grasps it as a right-hand object, lifts it up and moves it toward the green plate, then lowers and releases it onto the center of the plate while the hand withdraws to the right.",
+  "model": "gpt-5.2-2025-12-11"
+}

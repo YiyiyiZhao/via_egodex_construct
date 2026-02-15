@@ -1,0 +1,6 @@
+{
+  "video_name": "play_mancala_17.frames",
+  "action_label": "play_mancala",
+  "description": "A wooden mancala board sits on the tabletop, with several glass marbles (blue, green, and clear) in the right-side pits and the right end store. The right hand repeatedly reaches to the right end store, pinches up one marble at a time, moves leftward over the small pits, and drops a marble into successive pits, briefly touching each pit as it releases and then returning to the store to scoop more.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "stack_unstack_plates_16.frames",
+  "action_label": "stack_unstack_plates",
+  "description": "Four small plastic plates—yellow, red, green, and blue—are spread out on the countertop in front. The left hand lifts the blue plate, moves it leftward, and places it onto the yellow plate to start a stack, then slides the red plate onto that stack and finally picks up the green plate and sets it on top, leaving a neat pile; the left-hand object changes from the blue plate to the red plate to the green plate as each is placed and released.",
+  "model": "gpt-5.2-2025-12-11"
+}

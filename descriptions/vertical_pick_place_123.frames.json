@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_123.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A small clear bottle sits on the yellow surface in front of a clear plastic bin. The right hand reaches forward to grasp the bottle as a right-hand object, lifts it upward, moves it right and slightly forward over the bin, then lowers and releases it into the bin while the left hand stays hovering nearby without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_169.frames",
+  "action_label": "basic_pick_place",
+  "description": "A small metal tray sits in the middle of the table, with a blue cap nearby and several toys and crayons off to the right. The left hand stays near the center while the right hand reaches to the right, grasps the yellow hippo toy as a right-hand object, lifts it, carries it leftward over the table, and sets it down onto the tray before releasing.",
+  "model": "gpt-5.2-2025-12-11"
+}

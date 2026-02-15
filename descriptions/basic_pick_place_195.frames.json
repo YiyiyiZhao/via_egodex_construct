@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_195.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop ahead are a blue cube with holes, a green block, a wooden ring, a small light-blue cup, a red-handled tool, and a yellow plate on the right. The right hand reaches in from the right toward the blue cube, pinches and lifts it, carries it rightward over the yellow plate, and sets it down before releasing so the cube becomes a plate object and the hand pulls back.",
+  "model": "gpt-5.2-2025-12-11"
+}

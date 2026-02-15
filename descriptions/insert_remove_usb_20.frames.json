@@ -1,0 +1,6 @@
+{
+  "video_name": "insert_remove_usb_20.frames",
+  "action_label": "insert_remove_usb",
+  "description": "A small black USB hub sits on the desk in front of you, with a few loose cables draped around it. The left hand steadies the hub from the left while the right hand moves in from the right to grasp a USB plug, pushes it into a port on the hub, then pulls it back out and lets the cable fall back onto the desk; the hub is a left-hand object and the cable end is a right-hand object during the insertion and removal.",
+  "model": "gpt-5.2-2025-12-11"
+}

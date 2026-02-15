@@ -1,0 +1,6 @@
+{
+  "video_name": "load_dispense_ice_7.frames",
+  "action_label": "load_dispense_ice",
+  "description": "A toy kitchen setup is in front, with a gray refrigerator that has a small dispenser opening on its door, plus a nearby counter holding a yellow cup and a bowl. The right hand reaches to the counter, grasps the yellow cup as a right-hand object, and brings it to the refrigerator’s dispenser opening, pushing the cup into the recess and pulling it back out; a small white ice-cube piece appears in the cup. The right hand then moves the cup away and sets it back on the counter.",
+  "model": "gpt-5.2-2025-12-11"
+}

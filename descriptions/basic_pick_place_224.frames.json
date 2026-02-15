@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_224.frames",
+  "action_label": "basic_pick_place",
+  "description": "In front of you are two small bowls on the bed-like surface, with a striped ribbon and a pink oval ring off to the right. The left hand stays low and mostly steady near the peach bowl, while the right hand moves in from the right, reaches into the peach bowl to grasp a small rectangular piece, lifts it out, then moves back and places it into the blue bowl before withdrawing.",
+  "model": "gpt-5.2-2025-12-11"
+}

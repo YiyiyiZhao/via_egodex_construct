@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_39.frames",
+  "action_label": "basic_pick_place",
+  "description": "A yellow bowl sits near the back of the table, and a small clear plastic cup is closer to the front-right. The right hand reaches forward and grasps the cup as a right-hand object, lifts it up and moves it leftward over the bowl, then lowers and releases it into the bowl while the left hand stays mostly still nearby without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

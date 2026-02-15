@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_270.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front are a clear plastic tray, a small yellow hippo toy, a white figurine, a blue mouse toy, a yellow tennis ball, and a banana-shaped object. The right hand reaches in from the right, moves leftward to grasp the metal padlock as the right-hand object, then carries it left and slightly forward and lowers it into the clear plastic tray before releasing; the left hand stays extended on the left side without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

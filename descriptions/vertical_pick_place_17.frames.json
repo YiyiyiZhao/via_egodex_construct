@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_17.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A clear plastic bin sits near the back of the table, and a small white plush toy lies on the tabletop in front of it. The left hand stays resting on the table, while the right hand reaches in from the right, grasps the plush toy as a right-hand object, lifts it upward, moves it over the bin, and releases it to drop into the bin before withdrawing.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_109.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front of you are a red plastic cup, a purple grape cluster toy, a small orange wedge, a small wooden block, and a yellow toothbrush-like stick. The left hand stays mostly still near the front edge, while the right hand reaches in toward the yellow stick, lifts it, moves it up and forward to hover over the red cup, then releases it and pulls back to the right with the right hand no longer touching any object.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_square_table_16.frames",
+  "action_label": "assemble_disassemble_furniture_bench_square_table",
+  "description": "A small white model base with four upright rectangular posts sits on a green mat, with a separate small white block piece nearby. The left hand reaches in from the left, picks up the loose block, and moves it inward to seat it into the base between the posts while the right hand stays on the base to steady it; after aligning, the left hand releases and withdraws slightly as the right hand continues holding the base (right-hand object: model base; left-hand object: small block during placement).",
+  "model": "gpt-5.2-2025-12-11"
+}

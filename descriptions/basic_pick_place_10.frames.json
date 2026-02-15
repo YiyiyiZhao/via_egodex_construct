@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_10.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front of you are a light-blue bowl, a purple scoop, a yellow bottle-shaped toy, a small yellow-topped screw, a wooden block, and a red plastic fork. The right hand moves up and left toward the bowl, dips in to grasp a small white piece as a right-hand object, then lifts it out and places it into the purple scoop before withdrawing; the left hand stays near the front edge without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "stack_unstack_cups_8.frames",
+  "action_label": "stack_unstack_cups",
+  "description": "Three small white paper cups sit on the tabletop in front. The left hand reaches in from the bottom to steady and hold the leftmost cup as a left-hand object, while the right hand moves in from the right to grasp the middle cup as a right-hand object, lifts it up and over, and nests it into the cup held by the left hand; the right hand then picks up the remaining cup and stacks it on top, leaving a neat three-cup stack before both hands release and pull back.",
+  "model": "gpt-5.2-2025-12-11"
+}

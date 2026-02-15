@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_198.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front of you are a clear rectangular plastic container, a yellow plate with a white sponge-like block on it, a small blue cup, and a beige ring-shaped item. The left hand moves in from the lower center toward the right, pinches and lifts the white sponge-like block off the yellow plate as the left-hand object, carries it leftward over the clear container, then lowers it into the container and releases it.",
+  "model": "gpt-5.2-2025-12-11"
+}

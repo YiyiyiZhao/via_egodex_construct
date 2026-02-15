@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_79.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red surface in front of you are a blue plate, a small light-green tray, a green triangular piece, a wooden strip with two holes, a white block, and a small blue cube near the right side. The right hand reaches in from the right, grasps the blue cube as a right-hand object, lifts it slightly, moves it leftward over the blue plate, and then lowers and releases it onto the center of the plate, leaving the hand hovering above.",
+  "model": "gpt-5.2-2025-12-11"
+}

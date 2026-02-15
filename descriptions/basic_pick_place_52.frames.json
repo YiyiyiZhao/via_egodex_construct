@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_52.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the yellow tabletop there’s a white egg near the center and a yellow bowl positioned to the right. The right hand reaches from the right toward the egg, pinches and lifts it, then moves rightward over the bowl and lowers it in; the egg becomes a right-hand object during the lift and is released into the bowl while the left hand stays mostly still nearby without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

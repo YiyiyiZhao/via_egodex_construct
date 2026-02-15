@@ -1,0 +1,6 @@
+{
+  "video_name": "screw_unscrew_bottle_cap_18.frames",
+  "action_label": "screw_unscrew_bottle_cap",
+  "description": "A tall blue-and-silver water bottle stands on the wooden table, with both hands nearby. The left hand reaches in from the left to steady the bottle, while the right hand comes in from the right to grip the cap and twist it counterclockwise until it comes off; the bottle is a left-hand object and the cap becomes a right-hand object as it’s lifted away and set down on the table.",
+  "model": "gpt-5.2-2025-12-11"
+}

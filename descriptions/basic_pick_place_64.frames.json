@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_64.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front there are scissors, a small metal tray with a paper insert, a red-handled screwdriver, a red tape dispenser, a black-and-yellow tape measure, a small box, and a square sticky note. The left hand stays resting near the small box while the right hand moves in from the right toward the red-handled screwdriver, grasps it as a right-hand object, lifts it and carries it up and slightly left, then sets it down inside the metal tray and releases.",
+  "model": "gpt-5.2-2025-12-11"
+}

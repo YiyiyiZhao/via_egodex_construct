@@ -1,0 +1,6 @@
+{
+  "video_name": "use_rubiks_cube_7.frames",
+  "action_label": "use_rubiks_cube",
+  "description": "A Rubik’s cube sits on the desk in front of you, with both hands positioned on either side. The left hand moves in from the left and the right hand moves in from the right to make the Rubik’s cube a two-hand object, then both hands hold it steady while the right hand makes a small adjustment on the cube’s top/right side before returning to a stable grip.",
+  "model": "gpt-5.2-2025-12-11"
+}

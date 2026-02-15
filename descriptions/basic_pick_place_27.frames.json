@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_27.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop ahead are a yellow bowl, a small cup, a few small yellow and beige pieces, and a small orange egg-shaped item near the right side. The left hand stays resting on the table, while the right hand moves in from the right, grasps the orange item as a right-hand object, lifts it, carries it leftward toward the yellow bowl, and lowers it into the bowl before releasing.",
+  "model": "gpt-5.2-2025-12-11"
+}

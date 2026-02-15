@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_114.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a gray tray with a small yellow bulb-shaped object on it, a light-blue bowl to the right, and other small toys like green dice and yellow tongs nearby. The left hand reaches forward to the tray, grips the yellow bulb-shaped left-hand object, lifts it up, then carries it rightward and lowers it into the blue bowl before releasing it, while the right hand stays near the lower right without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

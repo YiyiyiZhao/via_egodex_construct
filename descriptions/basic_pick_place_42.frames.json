@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_42.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the bed in front of you there’s a light green bowl, a small wooden block, and a few small toys scattered nearby. The right hand moves in from the right, reaches forward to grasp the wooden block as a right-hand object, then lifts it and carries it down and left over the bowl before releasing it so it drops into the bowl; the right hand then pulls back away.",
+  "model": "gpt-5.2-2025-12-11"
+}

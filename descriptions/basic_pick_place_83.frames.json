@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_83.frames",
+  "action_label": "basic_pick_place",
+  "description": "A round gray plate sits in the center, with a purple block and an orange toy to the left and a green block plus a blue box to the right. The left hand reaches forward and left to grasp the purple block (left-hand object), lifts it up and arcs it rightward over the plate, then lowers and releases it onto the center of the plate while the right hand stays still nearby without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

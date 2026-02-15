@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_136.frames",
+  "action_label": "basic_pick_place",
+  "description": "A chessboard sits on the table with several pieces on it, along with a gray phone-like object, a remote control, and a small white case to the right. The left hand stays mostly still near the left edge while the right hand reaches in from the right, grips the white case as a right-hand object, lifts it up and inward over the chessboard, and then sets it down near the center squares before releasing and pulling back.",
+  "model": "gpt-5.2-2025-12-11"
+}

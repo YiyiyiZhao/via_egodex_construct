@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_145.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a donut, a slice of bread, a croissant on a red plate, a burger, a gray tray, and a banana. The left hand reaches forward to the croissant, grips it as a left-hand object, lifts it off the red plate, carries it to the right, and sets it down onto the gray tray before letting go, while the right hand stays nearby without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

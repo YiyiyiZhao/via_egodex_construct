@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_8.frames",
+  "action_label": "basic_pick_place",
+  "description": "In front of you on the bed are a small blue plate, a pink patterned saucer, a tiny white cup, and a red block-like piece. The left hand reaches down and grasps the red piece as a left-hand object, then lifts and moves it up and to the right to place it onto the center of the blue plate before releasing; the right hand stays nearby, open and not touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

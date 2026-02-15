@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_29.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the table there’s a small white squishy item near the center and a clear plastic storage tub sitting to the right. The left hand stays resting on the tabletop, while the right hand moves in from the right, reaches down to grasp the white item as a right-hand object, lifts it up, carries it over the tub, and releases it so it drops inside before the right hand withdraws downward.",
+  "model": "gpt-5.2-2025-12-11"
+}

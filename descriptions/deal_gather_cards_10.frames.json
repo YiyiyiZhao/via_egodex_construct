@@ -1,0 +1,6 @@
+{
+  "video_name": "deal_gather_cards_10.frames",
+  "action_label": "deal_gather_cards",
+  "description": "A tabletop card game is spread out, with a face-down draw pile near the center-left, a few face-up cards in the middle, and a larger stack of cards on the right. The left hand slides over to the draw pile, lifts and flips a card, briefly places it onto the face-up area, then later draws another card and moves it toward the middle while the right hand comes in to pick up a card from the right-side stack and hold it; both hands then shift their cards back toward their respective piles, releasing them to gather the cards into neater stacks.",
+  "model": "gpt-5.2-2025-12-11"
+}

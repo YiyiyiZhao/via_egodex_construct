@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_chair_49.frames",
+  "action_label": "assemble_disassemble_furniture_bench_chair",
+  "description": "A small white block model that looks like a chair or bench is on the table, with a separate small white cube off to the right. The left hand stays on the main structure to steady it while the right hand reaches in from the right, grasps the small cube, slides it inward, and presses it into place against the side of the model before letting go.",
+  "model": "gpt-5.2-2025-12-11"
+}

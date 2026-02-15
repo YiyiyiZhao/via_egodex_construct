@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_184.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a red plastic cup, a bunch of purple grapes, a small rectangular block, and a thin yellow stick lying near the center. The left hand stays mostly still near the bottom, while the right hand reaches in to grasp the yellow stick as a right-hand object, lifts it up and forward to the cup, dips the tip into the cup briefly, then pulls it back out and releases it near where it started.",
+  "model": "gpt-5.2-2025-12-11"
+}

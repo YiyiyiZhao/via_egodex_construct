@@ -1,0 +1,6 @@
+{
+  "video_name": "sort_beads_1.frames",
+  "action_label": "sort_beads",
+  "description": "A tabletop is scattered with small piles of colorful beads, with a larger mixed pile near the upper right. The left hand stays mostly still on the left side, while the right hand moves from the mixed pile toward the center, pinches a few beads, and places them into a nearby color-sorted pile before reaching back toward the mixed pile again.",
+  "model": "gpt-5.2-2025-12-11"
+}

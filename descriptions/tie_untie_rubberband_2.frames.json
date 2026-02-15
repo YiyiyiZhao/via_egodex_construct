@@ -1,0 +1,6 @@
+{
+  "video_name": "tie_untie_rubberband_2.frames",
+  "action_label": "tie_untie_rubberband",
+  "description": "A small stack of cards or a compact deck sits on the table with a rubber band wrapped around it. The left hand moves in from the left to pick up and steady the stack as a left-hand object, while the right hand pinches the rubber band, lifts it up and off, stretches it free, and then releases the band onto the tabletop to the right as the left hand sets the stack back down.",
+  "model": "gpt-5.2-2025-12-11"
+}

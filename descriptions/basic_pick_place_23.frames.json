@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_23.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the yellow tabletop there’s a small brown cup and several toy pieces, including a blue elephant, a yellow block, a red wedge, a small stacked piece, and two black cherries. The left hand stays near the middle while the right hand reaches to the blue elephant, grips it as a right-hand object, lifts it up and left toward the cup, then releases it and pulls back to hover above the toys.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "deal_gather_cards_13.frames",
+  "action_label": "deal_gather_cards",
+  "description": "A deck of playing cards is in the left hand near the center, with a growing spread of face-up cards on the tabletop to the right and a small discard pile off to the left. The left hand keeps the deck steady while the right hand repeatedly reaches to the top card, lifts it, moves it rightward, and places it onto the face-up layout, then slides and straightens the dealt cards into a wider overlapping fan as the spread grows.",
+  "model": "gpt-5.2-2025-12-11"
+}

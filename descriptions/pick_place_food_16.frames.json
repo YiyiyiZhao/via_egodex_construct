@@ -1,0 +1,6 @@
+{
+  "video_name": "pick_place_food_16.frames",
+  "action_label": "pick_place_food",
+  "description": "On the table there’s a wicker basket holding bread and other food items, and a plate to the right with plastic fruit and vegetables. The right hand reaches to the plate, grasps a yellow banana (right-hand object), lifts it up and moves it left toward the basket, then lowers it into the basket and lets go, leaving the banana resting among the other items.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_20.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a banana, an orange, a croissant, a red apple, and two bowls on the right—one blue and one pink—with a green apple initially sitting in the pink bowl. The left hand reaches forward toward the pink bowl, grasps the green apple as a left-hand object, lifts it up and slightly right, then lowers and releases it into the blue bowl while the right hand stays nearby without touching any object.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_158.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the bed in front are small toys: a green egg-shaped piece, a red strawberry, a white cube, a wooden block, a gray mouse, a yellow duck, and a light green bowl to the right. The left hand reaches down toward the yellow duck, grasps it as a left-hand object, then lifts and moves rightward toward the bowl and lowers it to place it inside, releasing contact.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_jenga_5.frames",
+  "action_label": "assemble_jenga",
+  "description": "A Jenga tower sits on the bed in front of you, with a few loose wooden blocks nearby. The left hand moves in from the left to gather a loose block while the right hand reaches in from the right, and together they bring blocks toward the top of the tower; the right hand briefly steadies the tower as a left-hand block is set onto the top, then both hands pull back with the right hand hovering above as if checking the stack’s stability.",
+  "model": "gpt-5.2-2025-12-11"
+}

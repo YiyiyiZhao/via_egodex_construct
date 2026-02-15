@@ -1,0 +1,6 @@
+{
+  "video_name": "stack_unstack_cups_3.frames",
+  "action_label": "stack_unstack_cups",
+  "description": "Three red plastic cups sit in a row on the tabletop in front of the hands. The left hand slides in from the left to grasp the leftmost cup and hold it steady, while the right hand reaches from the right to lift the rightmost cup, bring it over, and nest it into the left-hand cup, then lifts the remaining cup and stacks it on top so the three cups end up nested together as one stack.",
+  "model": "gpt-5.2-2025-12-11"
+}

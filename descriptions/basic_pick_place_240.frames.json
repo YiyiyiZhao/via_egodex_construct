@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_240.frames",
+  "action_label": "basic_pick_place",
+  "description": "An orange bowl with small items sits on the table, and a clear plastic tray with a couple of tools is to the right. The right hand reaches forward to the bowl, pinches and lifts a small pink ring-shaped item as a right-hand object, then moves rightward and lowers it into the clear tray before releasing it, while the left hand stays near the table without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_64.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A clear plastic bin sits on the table in front, with a small rectangular item lying on the surface near it. The right hand moves down to grasp the small item as a right-hand object, lifts it upward and forward, then places it into the plastic bin and releases it while the left hand stays nearby without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

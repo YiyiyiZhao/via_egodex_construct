@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_123.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red cloth in front of you are a small black round piece, a wooden block, a green leaf-shaped piece, a blue spoon, and a white dustpan. The right hand moves down toward the black round piece, pinches it to lift it, carries it to the right over the dustpan, and sets it down inside the dustpan before the fingers release and the hand withdraws.",
+  "model": "gpt-5.2-2025-12-11"
+}

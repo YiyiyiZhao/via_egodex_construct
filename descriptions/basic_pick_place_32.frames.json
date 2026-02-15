@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_32.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a metal tray in the center, a red-handled screwdriver above it, a remote control below it, and a padlock near the lower right, with a couple of small plush toys off to the right. The right hand reaches forward toward the red-handled screwdriver, grasps it as a right-hand object, lifts it up and moves it over the tray, then lowers and releases it so it rests inside the tray while the left hand stays mostly still and does not touch any objects.",
+  "model": "gpt-5.2-2025-12-11"
+}

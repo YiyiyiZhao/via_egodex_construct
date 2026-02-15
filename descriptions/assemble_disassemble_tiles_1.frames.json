@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_tiles_1.frames",
+  "action_label": "assemble_disassemble_tiles",
+  "description": "A tall stack of colorful magnetic tiles sits near the center of the table, with a few loose triangle pieces off to the right. The right hand reaches in, lifts several top triangle tiles off the stack and sets them to the right, while the left hand steadies the stack as a left-hand object; then both hands shift to sorting, with the right hand repeatedly peeling square tiles from the stack and placing them around the table as right-hand objects while the left hand briefly holds and repositions the remaining stack.",
+  "model": "gpt-5.2-2025-12-11"
+}

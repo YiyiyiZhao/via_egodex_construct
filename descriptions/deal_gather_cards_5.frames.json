@@ -1,0 +1,6 @@
+{
+  "video_name": "deal_gather_cards_5.frames",
+  "action_label": "deal_gather_cards",
+  "description": "A tabletop card setup is in front, with a small face-up card near the top, a pile of cards and some hearts cards to the right, and a couple of loose paper cards on the left. The left hand slides over the deck at center while the right hand holds a small stack of hearts cards, then the left hand reaches up to take the face-up card and brings it down; afterward both hands gather the scattered cards into a single pile, with the left hand pushing and squaring from the left and the right hand pressing and pulling from the right until the stack is neat.",
+  "model": "gpt-5.2-2025-12-11"
+}

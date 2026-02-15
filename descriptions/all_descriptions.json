@@ -1,0 +1,308 @@
+[
+  {
+    "video_name": "vertical_pick_place_21.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic storage bin sits on the table in front of the hands, with a small green object nearby. The right hand reaches forward and grasps the green item as a right-hand object, lifts it up and forward over the bin, then releases it so it drops inside while the left hand stays lower and mostly still near the bin’s edge.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_22.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic storage box sits on a red bedspread in front of a draped tan backdrop, with a small green apple-shaped item nearby. The right hand grasps the green item, lifts it upward, moves it over the storage box, and releases it inside, while the left hand stays lower and mostly still without touching any object.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_23.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits near the back of the table, with a small yellow piece in front of it; the left hand rests on the tabletop. The right hand moves in from the right, reaches down to grasp the yellow piece as a right-hand object, lifts it upward and forward over the bin, then releases it so it drops into the bin while the left hand stays still on the desk.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_24.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic storage tub sits on a red cloth surface, with a small green toy-like item with a white loop in front of it. The right hand reaches in from the right to grasp the green item as a right-hand object, lifts it upward and forward over the tub, then releases it to drop inside, while the left hand stays near the front edge of the tub without touching it.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_25.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A small green toy lies on the yellow tabletop in front of a clear plastic storage box, with both hands hovering nearby. The right hand moves down to grasp the green toy (right-hand object), lifts it upward toward the box, then lowers and releases it into the box while the left hand stays mostly still and open beside the toy without touching it.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_26.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A small rectangular box sits on the bed in front of you, with a clear plastic storage bin off to the right. The right hand reaches in from the right, grasps the box as a right-hand object, lifts it up and to the right over the bin, then lowers and releases it so it drops into the bottom of the bin while the left hand stays resting and does not touch anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_27.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits on the yellow tabletop in front of a red backdrop, with a small rectangular white-and-red box near the hands. The left hand stays resting on the table while the right hand grasps the box, lifts it upward, moves it forward over the bin, and then releases it so it drops inside.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_28.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic tub sits near the back of the table, with a small pink rubber duck on the tabletop in front of it. The left hand stays resting on the table while the right hand moves down toward the duck, grasps it as a right-hand object, lifts it upward and over the tub, then lowers and releases it into the tub before pulling back.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_29.frames",
+    "action_label": "vertical_pick_place",
+    "description": "On the table there’s a small white squishy item near the center and a clear plastic storage tub sitting to the right. The left hand stays resting on the tabletop, while the right hand moves in from the right, reaches down to grasp the white item as a right-hand object, lifts it up, carries it over the tub, and releases it so it drops inside before the right hand withdraws downward.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_3.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits on a pink-covered table, with a small red-and-white box in front of it while the left hand rests nearby. The right hand moves in from the right, grips the small box as a right-hand object, lifts it upward and forward over the bin, then releases it so it drops into the bin; the left hand stays mostly still and does not touch anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_30.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits on the table, with a small rectangular item lying in front of it. The left hand stays near the front edge of the bin while the right hand reaches in from the right, grasps the small item as a right-hand object, lifts it upward and forward, then moves it over the bin and releases it so it drops inside before the right hand withdraws.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_31.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic storage bin sits on the tabletop, with a small white bow-shaped item with a loop lying in front of it. The right hand reaches forward to grasp the bow as a right-hand object, lifts it upward and slightly toward the bin, then lowers and releases it into the bin, while the left hand stays resting on the table without touching anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_32.frames",
+    "action_label": "vertical_pick_place",
+    "description": "On the wooden tabletop there’s a clear plastic bin near the back and a small white foam animal-shaped piece with a loop lying in front of it. The left hand stays resting on the table, while the right hand moves in from the right to pinch and lift the foam piece straight up, carries it forward and slightly left over the bin’s rim, then lowers and releases it into the bin.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_33.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic storage bin sits on the tabletop, with a small white plush keychain lying in front of it. The left hand stays resting on the table while the right hand reaches in from the right to grasp the plush (a right-hand object), lifts it upward, moves it over the bin, and releases it so it drops inside.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_34.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear rectangular plastic tub sits near the back on a pink cloth, with a small gray soft item lying in front of it. The right hand reaches forward and down toward the gray item, pinches it to pick it up, then lifts and moves it upward toward the tub and releases it inside; the left hand stays resting near the bottom edge without touching any object.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_35.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A light wood tabletop sits in a corner against white walls, with a white piece of clothing lying rumpled near the center-right. The left hand and right hand move in toward the clothing and take hold of it as a two-hand object, then lift it up and pull it outward to unfold and spread it flat on the table before sliding it down toward the front edge and letting go.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_36.frames",
+    "action_label": "vertical_pick_place",
+    "description": "On the bed in front of you there’s a clear plastic storage box and a small white cup-like item near the left hand. The right hand moves in from the right, reaches down to grasp the small cup as a right-hand object, lifts it up, carries it to hover over the clear box, and then lowers and releases it into the box while the left hand stays resting nearby without touching anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_37.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits near the back of the table, and a small white soft item with a loop rests in front of it. The left hand stays planted on the desk while the right hand reaches in from the right, pinches and lifts the white item upward, then moves it forward and drops it into the plastic bin before pulling back.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_38.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic storage box sits on a light wooden desk, with a small yellow foam block in front of it. The left hand stays resting near the center of the desk while the right hand reaches in from the right, pinches the foam block as a right-hand object, lifts it upward, moves it forward over the storage box, and releases it so it drops inside the box.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_39.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits on the table, with a small round snack cup on the tabletop in front of it. The left hand stays resting on the desk while the right hand moves in from the right, grips the snack cup as a right-hand object, lifts it upward, carries it over the bin, and releases it to drop inside, then withdraws back down to the right.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_4.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A small yellow rubber duck sits on the pink surface in front of a clear plastic storage box, with the left hand resting nearby. The right hand moves in from the right to grasp the duck as a right-hand object, lifts it upward, carries it over the box, and releases it so it drops into the container while the left hand stays still and does not touch anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_40.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A small white plush keychain with a loop sits on the tabletop, with a clear plastic storage bin positioned to the right. The left hand stays resting on the table, while the right hand moves in from the right toward the plush, pinches and lifts the looped keychain as a right-hand object, then carries it up and right and drops it into the clear bin before pulling back.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_41.frames",
+    "action_label": "vertical_pick_place",
+    "description": "On the bed in front of you there’s a clear plastic storage bin and a small white cup sitting near it. The right hand moves left toward the cup, pinches and lifts it straight up, then carries it rightward over the bin and releases it to drop inside, while the left hand stays resting and does not touch anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_42.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A small yellow rubber duck sits on the pink surface in front of a clear plastic box, with the left hand resting nearby. The right hand reaches toward the duck, grips it as a right-hand object, lifts it upward and moves it over the clear box, then releases it so it drops into the box while the left hand stays still and does not touch anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_43.frames",
+    "action_label": "vertical_pick_place",
+    "description": "On the table in front of you there’s a small green object near the center and a clear plastic storage bin to the right. The left hand stays mostly relaxed over the table, while the right hand reaches in toward the green object, pinches and lifts it up, then carries it rightward over the storage bin and lowers it in, releasing it so it drops into the bin.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_44.frames",
+    "action_label": "vertical_pick_place",
+    "description": "On the desk in front of you there’s a clear plastic bin and a small yellow oval object lying on the tabletop. The left hand stays resting on the desk while the right hand reaches forward to grasp the yellow object, lifts it up and moves it toward the bin, then lowers and releases it inside the bin before the right hand pulls back.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_45.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits on the tabletop, with a small white ring-shaped item in front of it, and both hands are visible near the bottom edge. The right hand reaches forward from the right, pinches and lifts the small white item as a right-hand object, moves it upward and slightly left over the bin, then releases it so it drops into the bin while the left hand stays resting and does not touch anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_46.frames",
+    "action_label": "vertical_pick_place",
+    "description": "On the table there’s a clear plastic bin near the back and a small pink rubber duck in front of it. The left hand stays resting on the table while the right hand moves down to grasp the duck as a right-hand object, lifts it upward and toward the bin, then lowers it into the bin and releases it.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_47.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits on the bed to the right, and a small red-and-white box lies in front of it while the left hand rests near the bottom left. The right hand reaches down to the box, grips it as a right-hand object, lifts it upward and over the bin, then releases it so it drops into the bin; the left hand stays still and does not touch anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_48.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic storage box sits on the yellow table with a small rectangular item in front of it, and both hands hover near the tabletop. The left hand stays low and mostly steady while the right hand moves forward to grasp the small item as a right-hand object, lifts it up and forward over the box, then lowers and releases it into the box before pulling back.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_49.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic storage box sits on the desk in front, with both hands resting near it. The right hand reaches into the box, grasps a small white item as a right-hand object, lifts it up and out, then moves down and left to place it on the desk near the left hand, while the left hand stays mostly still and does not touch any object.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_5.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear rectangular plastic storage box sits on the table with a small white round lid in front of it, while the left hand rests on the left side of the table. The right hand reaches in from the right toward the lid, pinches and lifts it upward, moves it over the storage box, and releases it so it drops into the box; the left hand stays still and does not touch anything, and the lid is the right-hand object until it’s released.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_50.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits near the back of the wooden table, with a small white plush towel-like item lying in front of it. The left hand stays resting on the table while the right hand moves in from the right, pinches and lifts the towel (right-hand object), carries it upward and forward over the bin, and drops it down into the bin before the hand withdraws.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_51.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic storage bin sits on a yellow tabletop with a small red-and-white box in front of it, backed by a red cloth. The left hand reaches in from the right, pinches and lifts the small box straight up, moves it forward and slightly left over the bin, then lowers it into the bin and releases, leaving the box inside while the hand withdraws.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_52.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A white T‑shirt lies on a light wood tabletop in front of you, with the person’s forearms and hands visible at the edges. The right hand reaches in from the right to grab and pull the shirt toward the center, then both hands spread it out, smooth it flat, and fold it into a long rectangle before the right hand lifts and places the folded shirt down as a neat stack.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_53.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits on the table, with a small white plush toy in front of it. The left hand stays resting on the table while the right hand reaches in from the right, grasps the plush (right-hand object), lifts it upward, moves it forward over the bin, and releases it so it drops inside, then withdraws.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_54.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits on the tabletop, with a small white foam piece lying in front of it. The right hand moves in from the right, reaches down to pinch and lift the foam piece off the table, then carries it upward and over the bin before lowering and releasing it into the bin, while the left hand rests on the table without touching the object.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_55.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits near the back of the wooden table, and a small white item with a loop lies closer to the front. The left hand stays resting on the table while the right hand reaches in from the right, pinches the white item to pick it up, lifts it upward, moves it over the bin, and releases it down into the bin.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_56.frames",
+    "action_label": "vertical_pick_place",
+    "description": "On the pink bedsheet, a small gray plush toy sits in front of a clear plastic bin. The right hand reaches down to the toy, pinches and lifts it upward, then moves forward and slightly left over the bin and releases it so it drops inside, while the left hand stays resting and does not touch any object.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_57.frames",
+    "action_label": "vertical_pick_place",
+    "description": "On the yellow tabletop there’s a small clear bottle near the center and an open clear plastic storage bin on the right. The right hand moves in from the lower right toward the bottle, grips it as a right-hand object, lifts it up and right, then lowers it into the storage bin and releases it, while the left hand stays near the center-left without touching anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_58.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits near the back of the table, and a small white plush keychain lies on the tabletop in front of it. The left hand stays resting on the table while the right hand moves in from the right, reaches down to grasp the plush keychain as a right-hand object, then lifts it up and places it down into the plastic bin before withdrawing.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_59.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic storage bin sits on a red-covered surface, with a small green toy lying in front of it. The right hand reaches forward to the green toy, grasps it as a right-hand object, lifts it upward and forward over the bin, then releases it so it drops into the bin while the left hand stays low and mostly still, not touching anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_6.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A small gray toy lies on the pink surface in front of a clear plastic bin. The right hand reaches down from the right, grips the toy as a right-hand object, lifts it upward, moves it over the bin, and releases it to drop inside while the other hand stays out of contact.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_60.frames",
+    "action_label": "vertical_pick_place",
+    "description": "On the table there’s a clear plastic storage bin near the back and a small white plush keychain lying in front of it. The left hand stays resting on the table, while the right hand moves in from the right, pinches and lifts the plush keychain, carries it forward and slightly left over the bin, then releases it so it drops into the bin before the right hand withdraws.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_61.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits on the yellow tabletop in front of a red cloth backdrop, with a small rectangular box near the front edge. The left hand stays resting on the table, while the right hand reaches down to grasp the box, lifts it up and forward over the bin, then lowers and releases it so it drops into the bin.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_62.frames",
+    "action_label": "vertical_pick_place",
+    "description": "On the desk there’s a small white plush keychain in front of a clear plastic box, with both hands visible near the tabletop. The right hand moves down to grasp the plush keychain, lifts it up and over the rim of the clear box, then releases it so it drops into the box, while the left hand stays resting on the desk without touching the object.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_63.frames",
+    "action_label": "vertical_pick_place",
+    "description": "On the table there’s a small yellow rubber duck in front of a clear plastic bin, with both hands resting nearby. The right hand reaches forward from the right toward the duck, grasps it as a right-hand object, lifts it up and carries it rightward over the bin, then releases it so it drops into the bin while the left hand stays resting and does not touch anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_64.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic bin sits on the table in front, with a small rectangular item lying on the surface near it. The right hand moves down to grasp the small item as a right-hand object, lifts it upward and forward, then places it into the plastic bin and releases it while the left hand stays nearby without touching anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_65.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear rectangular plastic storage box sits in the center, with a small white round lid/cup in front of it on the bed, while the left hand rests nearby. The right hand reaches down to the white lid/cup, lifts it upward, moves it over the storage box, and drops it inside, then withdraws as the left hand stays still without touching anything.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_66.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A clear plastic storage tub sits on the desk, with a small ring-like fidget spinner in front of it. The left hand stays resting on the desk, while the right hand reaches in, pinches the small spinner (right-hand object), lifts it upward, then moves forward over the tub and releases it so it drops into the container.",
+    "model": "gpt-5.2-2025-12-11"
+  },
+  {
+    "video_name": "vertical_pick_place_67.frames",
+    "action_label": "vertical_pick_place",
+    "description": "A small red-and-white box sits on the yellow table in front of you, with a clear plastic bin to the right and a red cloth backdrop behind. The right hand reaches forward to grasp the box as a right-hand object, lifts it up and to the right over the bin, then releases it so it drops into the bin while the left hand stays resting on the table without touching anything.",
+    "model": "gpt-5.2-2025-12-11"
+  }
+]

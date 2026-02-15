@@ -1,0 +1,6 @@
+{
+  "video_name": "staple_paper_3.frames",
+  "action_label": "staple_paper",
+  "description": "On the desk in front are a stack of blank papers and a black stapler, with another small pile of papers to the right. The right hand picks up the stapler as a right-hand object and opens it while the left hand lifts and aligns a sheet from the left stack as a left-hand object, then the left hand slides the sheet under the stapler’s mouth and the right hand presses down to staple, repeating this by moving finished sheets to the right pile and grabbing the next one from the left stack before setting the stapler back down.",
+  "model": "gpt-5.2-2025-12-11"
+}

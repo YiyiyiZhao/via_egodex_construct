@@ -1,0 +1,6 @@
+{
+  "video_name": "fold_unfold_paper_basic_16.frames",
+  "action_label": "fold_unfold_paper_basic",
+  "description": "A white sheet of paper lies on a pink bed surface in front of the hands. The left hand and right hand move in to pinch the top edge of the paper as a two-hand object, lift it slightly, then fold it down toward the center and press along the crease; they smooth the fold flat, reorient the paper upright, and repeat a fold and firm crease-pressing motion, with the left hand holding the paper steady while the right hand slides and presses to sharpen the fold.",
+  "model": "gpt-5.2-2025-12-11"
+}

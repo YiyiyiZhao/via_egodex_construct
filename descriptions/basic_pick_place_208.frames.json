@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_208.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a clear plastic container, a blue rectangular box, a multicolored cube, and a couple of gray tools. The left hand stays mostly resting near the tools, while the right hand reaches forward to the blue box, grips it as a right-hand object, lifts it up, moves it forward and down, and sets it into the clear plastic container before releasing it.",
+  "model": "gpt-5.2-2025-12-11"
+}

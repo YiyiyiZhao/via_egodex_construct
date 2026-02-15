@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_176.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front of you are a small rectangular metal tray, a bright yellow bowl, and a few small items off to the right. The right hand reaches forward toward the metal tray, pinches and lifts a small yellow piece from inside it, then moves rightward over the yellow bowl and drops the piece into the bowl, while the left hand stays resting near the front-left without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

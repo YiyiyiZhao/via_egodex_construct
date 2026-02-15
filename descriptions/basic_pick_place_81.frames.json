@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_81.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red cloth in front, there’s a yellow plate surrounded by a blue block, a small yellow block, a white tile, a multicolored ring, and a few small toys. The left hand moves in from the right, reaches down to pinch and pick up the small green piece (left-hand object), lifts it up and arcs it leftward over the yellow plate, then lowers it and releases it onto the center of the plate, leaving the hand hovering just above.",
+  "model": "gpt-5.2-2025-12-11"
+}

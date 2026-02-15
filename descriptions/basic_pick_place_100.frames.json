@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_100.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front are a clear plastic container, a pair of gray tongs, a colorful cube, a blue box, and a small gray tool off to the right. The left hand reaches forward and right to grasp the tongs (left-hand object), lifts them, carries them leftward over the clear container, and lowers them into the container before releasing; the right hand stays near the front-right area, hovering without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

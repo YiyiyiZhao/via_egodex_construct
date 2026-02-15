@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_206.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop there’s a gray baking tray holding a burger, a blue plate in the foreground, and some toy fruit (a yellow banana-like piece, a green apple, and an orange) near the back and right side. The left hand stays relaxed near the front-left, while the right hand reaches forward to the tray, grasps the burger as a right-hand object, lifts it up and carries it toward the blue plate, then lowers and releases it onto the plate.",
+  "model": "gpt-5.2-2025-12-11"
+}

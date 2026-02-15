@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_141.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the cloth-covered surface there’s a small single-serve cup near the center and a clear plastic tub behind it. The right hand moves in from the right, pinches and lifts the small cup off the cloth, carries it upward and slightly right over the tub, then releases it to drop into the tub while the left hand stays resting near the bottom left without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

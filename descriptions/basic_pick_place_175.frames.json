@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_175.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red bedspread in front of you are a yellow plastic plate, a green foam die, a blue block, a small orange cup, and a tiny animal toy near the plate. The right hand moves in from the right toward the small animal toy, pinches and lifts it, then carries it leftward over the yellow plate and lowers it onto the center of the plate before releasing; the right-hand object is the small toy during the lift and transfer, and the hand ends hovering above the plate.",
+  "model": "gpt-5.2-2025-12-11"
+}

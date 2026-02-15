@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_44.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the desk in front of you there’s a clear plastic bin and a small yellow oval object lying on the tabletop. The left hand stays resting on the desk while the right hand reaches forward to grasp the yellow object, lifts it up and moves it toward the bin, then lowers and releases it inside the bin before the right hand pulls back.",
+  "model": "gpt-5.2-2025-12-11"
+}

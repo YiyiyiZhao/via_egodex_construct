@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_130.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the tabletop, there’s a clear plastic storage bin near the back and a small white capsule-like item sitting in front of it. The left hand stays resting on the table, while the right hand reaches in from the right to grasp the small item as a right-hand object, lifts it up and forward over the bin, then releases it so it drops inside before the right hand withdraws.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_194.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop there’s a yellow bowl in the center, a blue plate to the right with a small white cup nearby, plus a round coaster and a couple of small red pieces. The left hand stays low and relaxed near the coaster while the right hand reaches forward into the yellow bowl, grasps a small rectangular item as a right-hand object, then lifts it out and moves it rightward to set it down on the blue plate before releasing it.",
+  "model": "gpt-5.2-2025-12-11"
+}

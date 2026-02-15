@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_225.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a purple scoop in the foreground and, farther back near the corner, a white dustpan holding a small yellow duck along with a blue die and a small green block. The left hand stays mostly still near the left side while the right hand reaches forward toward the corner, pinches and lifts the yellow duck out of the white dustpan, carries it forward over the table, lowers it into the purple scoop, and then releases it so it rests inside.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "fold_stack_unstack_unfold_cloths_7.frames",
+  "action_label": "fold_stack_unstack_unfold_cloths",
+  "description": "Several microfiber cloths are spread on a table: a larger stack of lime-green cloths on the left and a smaller stacked pile of blue cloths on the right. The right hand picks up a folded lime-green cloth from the center, moves it rightward, and places it neatly on top of the blue stack, then returns to the left stack, pinches up a larger lime-green cloth, and pulls it toward the lower right as it begins unfolding it, keeping the cloth as the right-hand object throughout.",
+  "model": "gpt-5.2-2025-12-11"
+}

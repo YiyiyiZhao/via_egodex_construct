@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_109.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A small green toy sits on the yellow surface, with a clear plastic storage box to the right. The right hand moves down and left to grasp the green toy as a right-hand object, lifts it upward and carries it rightward over the storage box, then lowers and releases it inside, while the left hand stays hovering near the surface without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_9.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the counter in front of you there’s a clear tray holding a blue sponge, a small clear bottle, and other small items, with a light-blue block sitting just off the tray. The left hand stays resting near the left edge, while the right hand reaches in toward the light-blue block, grasps it as a right-hand object, lifts it up, carries it diagonally down and right onto the clear tray beside the blue sponge, and then releases it.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "insert_remove_bookshelf_19.frames",
+  "action_label": "insert_remove_bookshelf",
+  "description": "A small white three-slot bookshelf sits in the back-right corner of the desk, with several books lying near the front-right area. The right hand picks up one book at a time from the desk, moves it rightward toward the corner, and slides each book vertically into an open slot of the bookshelf, then releases; the left hand stays mostly resting near the front edge and does not touch the books.",
+  "model": "gpt-5.2-2025-12-11"
+}

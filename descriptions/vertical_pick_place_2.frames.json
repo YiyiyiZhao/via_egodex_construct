@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_2.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A clear plastic storage bin sits on the yellow tabletop, with a small green toy lying in front of it. The left hand stays near the table while the right hand reaches forward to grasp the green toy as a right-hand object, lifts it upward and toward the bin, then lowers it into the bin and releases it, pulling the right hand back afterward.",
+  "model": "gpt-5.2-2025-12-11"
+}

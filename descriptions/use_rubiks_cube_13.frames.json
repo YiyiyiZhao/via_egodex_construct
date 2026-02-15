@@ -1,0 +1,6 @@
+{
+  "video_name": "use_rubiks_cube_13.frames",
+  "action_label": "use_rubiks_cube",
+  "description": "A small Rubik’s cube sits on the desk in front of you. The left hand reaches in from the left and the right hand from the right to grasp the cube as a two-hand object, then both hands perform short twisting turns—alternating small clockwise and counterclockwise face rotations—before easing the cube back down onto the desk and relaxing their grip.",
+  "model": "gpt-5.2-2025-12-11"
+}

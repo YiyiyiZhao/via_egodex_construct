@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_chair_70.frames",
+  "action_label": "assemble_disassemble_furniture_bench_chair",
+  "description": "A small white block-built chair model sits on a dark blue bedspread in front of a pink pillow. The left hand rests on the base to steady the chair while the right hand reaches in from the right, pinches the top/back block section, lifts and wiggles it upward to loosen it, then pulls that piece away to the right so it becomes a right-hand object while the remaining chair stays in place as a left-hand object.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "insert_remove_furniture_bench_round_table_32.frames",
+  "action_label": "insert_remove_furniture_bench_round_table",
+  "description": "On the tabletop in front of you are a round white base with a threaded center and a cross-shaped white bench piece off to the right. The right hand moves in from the right to pick up the cross-shaped bench (right-hand object), brings it leftward over the round base, and lowers it onto the center post while the left hand hovers nearby to help align it; then both hands release, leaving the bench seated on the round table base.",
+  "model": "gpt-5.2-2025-12-11"
+}

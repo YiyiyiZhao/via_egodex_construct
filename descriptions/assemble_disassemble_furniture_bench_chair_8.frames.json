@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_chair_8.frames",
+  "action_label": "assemble_disassemble_furniture_bench_chair",
+  "description": "In front of the person is a small white block structure standing upright on a red surface, with a loose small white cube beside it. The left hand stays on the left side of the structure to steady it as a left-hand object, while the right hand reaches in from the right to pick up the small cube as a right-hand object and push it into a side opening of the structure, then releases and pulls back.",
+  "model": "gpt-5.2-2025-12-11"
+}

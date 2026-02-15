@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_6.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A small gray toy lies on the pink surface in front of a clear plastic bin. The right hand reaches down from the right, grips the toy as a right-hand object, lifts it upward, moves it over the bin, and releases it to drop inside while the other hand stays out of contact.",
+  "model": "gpt-5.2-2025-12-11"
+}

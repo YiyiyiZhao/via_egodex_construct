@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_legos_0.frames",
+  "action_label": "assemble_disassemble_legos",
+  "description": "On the bed in front of you are several chunky plastic blocks: a blue base block, a white block with a red piece on it, plus separate green, red, and yellow blocks. The left hand stays near the blue base to steady the area while the right hand picks up the green block, sets it onto the blue block, then slides the white block with the red piece over and presses it down onto the growing stack; next the right hand adds the loose red block onto the top/front of the structure and finishes by lifting the yellow block and placing it on top.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_107.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the counter in front are a blue bowl, a small white cup, a yellow bread-like piece, a small yellow cube, a green block, a rubber duck, and a pair of cherries. The right hand moves in from the right toward the center, grips the white cup as the right-hand object, lifts it up and carries it rightward over the bowl, then lowers and releases the cup into the bowl while the left hand stays resting on the left without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

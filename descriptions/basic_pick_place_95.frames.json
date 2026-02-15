@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_95.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front are a blue plate with a small purple block, a yellow mango-shaped object, a clear plastic jar, and a few small pieces off to the right. The left hand reaches forward toward the blue plate, pinches and lifts the purple block as a left-hand object, then moves it rightward and lowers it into the open clear jar before releasing it, while the right hand stays nearby without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

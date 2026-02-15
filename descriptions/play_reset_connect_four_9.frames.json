@@ -1,0 +1,6 @@
+{
+  "video_name": "play_reset_connect_four_9.frames",
+  "action_label": "play_reset_connect_four",
+  "description": "A blue Connect Four grid sits on the table with a pile of red discs on the left and yellow discs on the right. The left hand rests near the red discs while the right hand reaches toward the lower right side of the grid, briefly touching and jostling the loose yellow discs near the base, then withdraws back toward the yellow pile as the left hand stays mostly still.",
+  "model": "gpt-5.2-2025-12-11"
+}

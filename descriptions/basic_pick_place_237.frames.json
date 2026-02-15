@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_237.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the bed in front of you are a shallow gray plastic tub with water, a black computer mouse, and a few small items including a phone-shaped object and a green block. The left hand stays resting on the bed, while the right hand moves down to grasp the mouse as a right-hand object, lifts it up and forward, lowers it into the tub, then releases it so the mouse becomes a tub object and the right hand withdraws.",
+  "model": "gpt-5.2-2025-12-11"
+}

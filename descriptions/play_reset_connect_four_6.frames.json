@@ -1,0 +1,6 @@
+{
+  "video_name": "play_reset_connect_four_6.frames",
+  "action_label": "play_reset_connect_four",
+  "description": "A blue Connect Four grid stands on a green tablecloth, with loose yellow checkers piled on the left and red checkers piled on the right. The left hand enters from the right, picks up a single red checker from the red pile, and moves it leftward toward the front of the game board, holding it poised near the lower openings while the right hand stays offscreen.",
+  "model": "gpt-5.2-2025-12-11"
+}

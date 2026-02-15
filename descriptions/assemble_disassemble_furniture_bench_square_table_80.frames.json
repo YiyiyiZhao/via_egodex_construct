@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_square_table_80.frames",
+  "action_label": "assemble_disassemble_furniture_bench_square_table",
+  "description": "On the table there’s a white square base with upright pegs and a separate white rectangular block lying in front of it. The right hand moves in from the right to pick up the block as a right-hand object, carries it forward and slightly left over the base, and presses it down onto a peg to seat it, while the left hand stays nearby and then lightly steadies the base; the right hand releases and withdraws, leaving the block attached.",
+  "model": "gpt-5.2-2025-12-11"
+}

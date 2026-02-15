@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_185.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front of you are a white bowl near the back center, a yellow tennis ball to the left, a smartphone lying near the middle-right, plus a donut and a Rubik’s cube on the right. The left hand stays mostly resting near the tennis ball while the right hand reaches in from the right to grasp the phone as a right-hand object, lifts it up and forward, then lowers and releases it so it ends up leaning inside the bowl; both hands then pull back.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_16.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red bedspread there’s a green plate in the middle, with a yellow cheese-shaped piece to the left and several small toys and containers (a green block, a small figure, a blue cup, a strawberry, a blue case, and a white tray) around it. The right hand moves in from the right toward the small black-and-white figure, grips it as a right-hand object, lifts it up, then carries it down and places it onto the center of the green plate before releasing and pulling back.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_142.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a white bowl near the upper right, a blue block on the right, plus a yellow block, a small yellow animal toy, and an orange fruit-shaped object near the center. The left hand stays resting on the left side, while the right hand moves in from the right to grasp the blue block, lifts it up and arcs it toward the bowl, lowers it into the bowl, then releases and withdraws; the blue block is a right-hand object until it is placed in the bowl.",
+  "model": "gpt-5.2-2025-12-11"
+}

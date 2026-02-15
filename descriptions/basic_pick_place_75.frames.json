@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_75.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you there’s a small metal pan holding a croissant, a dark round plate to the right, a small box farther back, and a white remote-like item nearby. The left hand reaches in from the right, pinches and lifts the croissant out of the pan, moves it rightward over the table, then lowers and releases it onto the dark round plate.",
+  "model": "gpt-5.2-2025-12-11"
+}

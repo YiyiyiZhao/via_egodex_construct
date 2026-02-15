@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_152.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the counter there’s a metal baking tray with a powdered donut and a small red fruit, a blue plastic bowl with a green die-like item inside, a small blue fork, and a smartphone. The left hand stays resting near the tray while the right hand reaches in from the right toward the donut, grips it as a right-hand object, lifts it off the tray, moves it rightward over the bowl, and lowers it in to release it into the bowl.",
+  "model": "gpt-5.2-2025-12-11"
+}

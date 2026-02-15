@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_248.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the surface in front, there’s a small blue bowl, a yellow animal toy, a red crab toy, and a few colorful blocks. The right hand moves forward toward the yellow toy, grasps it as a right-hand object, lifts it up and slightly right, then lowers it into the blue bowl and releases it, while the left hand stays open and mostly still nearby.",
+  "model": "gpt-5.2-2025-12-11"
+}

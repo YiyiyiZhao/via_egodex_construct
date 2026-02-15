@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_jenga_6.frames",
+  "action_label": "assemble_jenga",
+  "description": "A small Jenga tower sits on the yellow surface in front, with several loose wooden blocks scattered farther back. The right hand reaches in from the right, lifts a single right-hand object block, and carefully places it lengthwise across the top of the tower, nudging it to align while the left hand hovers nearby without touching; after setting it down, the right hand releases and moves back toward the pile to pick up another block.",
+  "model": "gpt-5.2-2025-12-11"
+}

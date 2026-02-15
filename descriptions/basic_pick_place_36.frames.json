@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_36.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table there’s a blue bowl near the back, a small white plastic cup with a lid near the front right, and a few small toy-like items (a yellow piece, a green block, and two dark round pieces). The right hand moves inward and down to grasp the white cup as a right-hand object, lifts it up and forward toward the bowl, lowers it into the bowl, then releases and pulls back while the left hand stays resting near the left side without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

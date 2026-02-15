@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_253.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red table there’s a yellow plate near the center, a blue spoon to its left, a small green triangular piece above it, a white lump to the right, and a dark ring-shaped piece near the bottom. The right hand reaches in from the right, grasps the small orange toy on the right side as the right-hand object, lifts it slightly, moves it leftward over the plate, and sets it down onto the yellow plate before releasing.",
+  "model": "gpt-5.2-2025-12-11"
+}

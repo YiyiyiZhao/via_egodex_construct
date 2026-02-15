@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_260.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a purple block near the center, a round gray plate on the right, and farther back a green block, a small brown toy, and a blue card. The left hand reaches forward to grasp the purple block as a left-hand object, lifts it up and carries it rightward over the gray plate, then lowers and releases it onto the plate while the right hand stays mostly still nearby without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

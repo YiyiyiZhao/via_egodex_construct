@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_legos_17.frames",
+  "action_label": "assemble_disassemble_legos",
+  "description": "Several large plastic blocks are spread out on the bed: a long blue block, smaller red, green, and yellow blocks, and a white block. The left hand brings the long blue block toward the center while the right hand picks up the red block and presses it onto the blue block, then both hands move the blue-and-red assembly onto the white block as a base; next the right hand adds the green block onto the side of the blue block and finally presses the yellow block onto the green, then both hands pull back leaving the stacked structure standing.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_desk_5.frames",
+  "action_label": "assemble_disassemble_furniture_bench_desk",
+  "description": "A white base with four upright rectangular posts sits on a green cloth, and a loose white rectangular block is beside it. The left hand picks up the loose block, moves it rightward toward the front-left corner of the base, lowers it into position, and nudges it to align, while the right hand stays on the base to steady it; the base is the right-hand object and the block is the left-hand object.",
+  "model": "gpt-5.2-2025-12-11"
+}

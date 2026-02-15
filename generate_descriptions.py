@@ -5,6 +5,7 @@ Simple flow: Read frames -> Build prompt -> Call GPT -> Save results
 import os
 import json
 import base64
+import pdb
 from pathlib import Path
 from openai import OpenAI
 
@@ -79,6 +80,11 @@ def process_one_video(client, frames_dir, trajectory_file, model="gpt-5.2-2025-1
     if not images:
         return None, False
 
+    # Skip if too many images (more than 40)
+    if len(images) > 40:
+        print(f"  ⏭️  Skipped: Too many images ({len(images)} > 40)")
+        return None, False
+
     action_label = get_action_label_from_dir(frames_dir)
     trajectory = read_trajectory(trajectory_file)
 
@@ -97,7 +103,8 @@ def main():
     TRAJECTORY_DIR = "./trajectories"
     OUTPUT_DIR = "./descriptions"
     MODEL = "gpt-5.2-2025-12-11"
-    BASE_URL = "https://xiaoai.plus/v1"
+    # MODEL= "gpt-5.2-all"
+    BASE_URL = "https://api.yunjintao.com/v1"
     # =============================================================
 
     print("=" * 70)
@@ -114,7 +121,7 @@ def main():
     output_path.mkdir(parents=True, exist_ok=True)
 
     # Initialize OpenAI client
-    api_key = "sk-dm276hixX4n22oyP2aEc89915b9d4e1dA6E93e37A28850A7"
+    api_key = "sk-4uVwdDyXX46Iz54ECYJhd5NVwILJDddXHDxYdFlrTiI"
     client = OpenAI(api_key=api_key, base_url=BASE_URL)
 
 
@@ -156,7 +163,8 @@ def main():
                     json.dump(result, f, indent=2, ensure_ascii=False)
 
                 results.append(result)
-                print(f"  ✓ Done: {description[:80]}...\n")
+                print(f"  ✓ Done!")
+                print(f"  Description: {description}")
             else:
                 print(f"  ✗ Failed\n")
 

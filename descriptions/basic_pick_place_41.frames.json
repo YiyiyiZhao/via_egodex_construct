@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_41.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front of you are a shallow rectangular box lid, a small red block, a letter “L” cube, a patterned blue-green piece, and a black computer mouse near an orange toy. The left hand stays open and mostly still on the left, while the right hand moves in from the right to grasp the red block, lifts it up, carries it leftward over the box lid, and releases it into the lid so it sits inside; the right hand then withdraws.",
+  "model": "gpt-5.2-2025-12-11"
+}

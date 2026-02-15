@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_tiles_0.frames",
+  "action_label": "assemble_disassemble_tiles",
+  "description": "A small wall made of colorful magnetic tiles sits on the wooden table in front of you. The left hand reaches in from the left and steadies the standing tile wall while the right hand comes in from the right; both hands slide the structure toward the center and then lift it as a two-hand object, pulling it apart into two separate stacks so the right hand holds one stack as a right-hand object and the left hand holds the other as a left-hand object.",
+  "model": "gpt-5.2-2025-12-11"
+}

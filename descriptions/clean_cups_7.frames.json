@@ -1,0 +1,6 @@
+{
+  "video_name": "clean_cups_7.frames",
+  "action_label": "clean_cups",
+  "description": "On the table there’s a small yellow squeeze bottle on the left, a blue sponge in the center, and a row of plastic cups on the right (red, blue, green, yellow). The right hand reaches to the right and grasps the red cup as a right-hand object while the left hand picks up the yellow bottle as a left-hand object, then the left hand brings the bottle tip toward the red cup and briefly inserts it; after pulling back, the left hand switches to the blue sponge and presses it down into the red cup while the right hand holds the cup steady, making the cup a two-hand object.",
+  "model": "gpt-5.2-2025-12-11"
+}

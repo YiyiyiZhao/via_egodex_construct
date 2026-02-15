@@ -1,0 +1,6 @@
+{
+  "video_name": "clean_surface_32.frames",
+  "action_label": "clean_surface",
+  "description": "A yellow tabletop or mattress surface is in front with a light blue cloth on it, and a spray bottle sits to the right. The left hand presses the cloth against the surface and wipes in short strokes back and forth and slightly diagonally, while the right hand holds the bottle nearby and shifts it closer as if ready to spray, making the cloth the left-hand object and the bottle the right-hand object.",
+  "model": "gpt-5.2-2025-12-11"
+}

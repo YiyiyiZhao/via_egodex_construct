@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_201.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table there’s a yellow plate near a clear plastic container, with a small light-blue cup farther back and a donut-shaped item off to the right. The right hand reaches to the sandwich on the yellow plate, grips it as a right-hand object, lifts it up and moves it rightward over the open clear container, then lowers and releases the sandwich into the container before pulling back.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_68.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the counter in front of you are a yellow plate, a small gray shaker, a purple eggplant, a banana, two cupcakes, and a small black pot holding yellow fruit. The left hand stays resting on the left side, while the right hand reaches down into the pot, grasps a small orange-colored fruit as the right-hand object, lifts it out, moves leftward over the yellow plate, and releases it onto the plate.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_47.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A clear plastic bin sits on the bed to the right, and a small red-and-white box lies in front of it while the left hand rests near the bottom left. The right hand reaches down to the box, grips it as a right-hand object, lifts it upward and over the bin, then releases it so it drops into the bin; the left hand stays still and does not touch anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

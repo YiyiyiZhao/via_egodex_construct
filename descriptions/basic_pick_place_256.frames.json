@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_256.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red bedspread in front of you are a pink bowl, a bunch of green grapes, a small lidded cup, a yellow pepper, a green block, and a small clear cube. The right hand moves in from the right toward the small cup, grips it as the right-hand object, lifts it up and over the bowl, then lowers it into the bowl and releases so it sits inside.",
+  "model": "gpt-5.2-2025-12-11"
+}

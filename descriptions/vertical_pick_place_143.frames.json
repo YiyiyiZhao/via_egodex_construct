@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_143.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the table there’s a small white mouse-shaped plush with a loop near the center and a clear plastic bin set farther back. The right hand moves in from the right, reaches down to grasp the plush (right-hand object), lifts it upward and forward over the table, then lowers it into the clear bin and releases, while the left hand stays resting on the tabletop without touching the plush.",
+  "model": "gpt-5.2-2025-12-11"
+}

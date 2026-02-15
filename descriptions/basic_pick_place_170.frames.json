@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_170.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front of you, there’s a shallow rectangular tray holding a small orange toy, with a black computer mouse nearby along with a blue triangular piece and a small red block off to the right. The left hand stays resting on the left side while the right hand moves in from the right, grasps the mouse as a right-hand object, lifts it, and places it down inside the tray next to the orange toy before releasing.",
+  "model": "gpt-5.2-2025-12-11"
+}

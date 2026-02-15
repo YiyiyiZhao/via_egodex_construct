@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_drawer_30.frames",
+  "action_label": "assemble_disassemble_furniture_bench_drawer",
+  "description": "In front of you on a red blanket is a small white box-like cabinet and a separate white drawer piece. The left hand steadies the cabinet as a left-hand object while the right hand picks up the drawer as a right-hand object, lifts and aligns it, then slides it straight into the cabinet until it seats; the right hand pushes it fully closed and then releases while the left hand keeps the cabinet in place.",
+  "model": "gpt-5.2-2025-12-11"
+}

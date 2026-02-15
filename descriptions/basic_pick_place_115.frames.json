@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_115.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the bed in front there’s a light green bowl to the right, a blue block, a small gray duck, a yellow toy, a wooden cube, and a small white teacup. The right hand moves down toward the blue block, grips it as a right-hand object, lifts it up and right toward the green bowl, and then lowers it into the bowl and releases it so the block ends up inside.",
+  "model": "gpt-5.2-2025-12-11"
+}

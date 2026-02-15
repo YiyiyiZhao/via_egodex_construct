@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_5.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A clear rectangular plastic storage box sits on the table with a small white round lid in front of it, while the left hand rests on the left side of the table. The right hand reaches in from the right toward the lid, pinches and lifts it upward, moves it over the storage box, and releases it so it drops into the box; the left hand stays still and does not touch anything, and the lid is the right-hand object until it’s released.",
+  "model": "gpt-5.2-2025-12-11"
+}

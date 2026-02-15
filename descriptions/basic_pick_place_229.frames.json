@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_229.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the countertop there’s a blue bowl, a small white jar, a green block, a pair of cherries, a small wooden cube, a yellow bottle, and a yellow bread-shaped piece. The left hand stays resting near the jar while the right hand moves in from the right, grasps the yellow bread-shaped piece, lifts it up and forward, then lowers it into the blue bowl and releases it so it sits inside.",
+  "model": "gpt-5.2-2025-12-11"
+}

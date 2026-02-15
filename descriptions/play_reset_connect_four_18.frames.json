@@ -1,0 +1,6 @@
+{
+  "video_name": "play_reset_connect_four_18.frames",
+  "action_label": "play_reset_connect_four",
+  "description": "A blue Connect Four grid sits on the table with loose yellow and red checkers scattered in small piles nearby. The left hand reaches forward and steadies the left side of the grid while the right hand moves in toward the bottom bar, grips the release area, and pulls it across to reset, letting the checkers drop out and spill onto the tabletop before both hands ease back.",
+  "model": "gpt-5.2-2025-12-11"
+}

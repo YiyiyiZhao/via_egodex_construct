@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_3.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A clear plastic bin sits on a pink-covered table, with a small red-and-white box in front of it while the left hand rests nearby. The right hand moves in from the right, grips the small box as a right-hand object, lifts it upward and forward over the bin, then releases it so it drops into the bin; the left hand stays mostly still and does not touch anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

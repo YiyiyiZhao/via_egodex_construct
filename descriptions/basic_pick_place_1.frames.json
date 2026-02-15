@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_1.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop there’s a gray smartphone near the front, a rainbow pop-it, red-and-yellow pliers, a multicolored cube, a blue tool, and an empty shallow box tray to the upper right. The right hand reaches in from the right toward the phone, grips it as a right-hand object, lifts it off the table, moves it up and to the right, and sets it down inside the box tray before letting go, while the left hand stays resting nearby without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

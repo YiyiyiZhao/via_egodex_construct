@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_lamp_4.frames",
+  "action_label": "assemble_disassemble_furniture_bench_lamp",
+  "description": "On the table in front of you there’s a white light bulb lying near a small white lamp base, with a red backdrop behind them. The right hand reaches forward to grasp the bulb (right-hand object), lifts it up, then moves it toward the lamp base while the left hand slides in to steady the base (left-hand object); the right hand lowers and seats the bulb onto the top of the base, making small adjusting motions as if to align or begin screwing it in.",
+  "model": "gpt-5.2-2025-12-11"
+}

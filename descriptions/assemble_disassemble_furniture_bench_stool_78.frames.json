@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_stool_78.frames",
+  "action_label": "assemble_disassemble_furniture_bench_stool",
+  "description": "On the green-covered bed in front of the purple pillow, there’s a white square base piece, a smaller square top piece, and a white rounded post-like part. The left hand moves in to steady the stacked white square pieces as the right hand reaches to the rounded post, lifts it upright, aligns it over the top piece, and presses it down into place, then releases; the square stack is the left-hand object and the rounded post is the right-hand object until it’s set.",
+  "model": "gpt-5.2-2025-12-11"
+}

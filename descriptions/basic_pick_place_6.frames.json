@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_6.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front are a yellow plastic plate, a blue cube and a green cube, a red-handled screwdriver, and a small white container with a lid. The right hand moves in from the right, reaches to the blue cube, grasps it as a right-hand object, lifts it up and carries it slightly rightward over the yellow plate, then lowers and releases it onto the plate.",
+  "model": "gpt-5.2-2025-12-11"
+}

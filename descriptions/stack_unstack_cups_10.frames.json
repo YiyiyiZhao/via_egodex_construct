@@ -1,0 +1,6 @@
+{
+  "video_name": "stack_unstack_cups_10.frames",
+  "action_label": "stack_unstack_cups",
+  "description": "A stack of white paper cups sits on the table in front of you. The left hand comes in to steady and hold the stack while the right hand pinches the rim of the top cup, pulls it out to the right, and sets it down; the right hand repeats this unstacking motion to place more cups in a row, while the left hand continues holding the remaining stack until it releases.",
+  "model": "gpt-5.2-2025-12-11"
+}

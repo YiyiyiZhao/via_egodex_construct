@@ -1,0 +1,6 @@
+{
+  "video_name": "stock_unstock_fridge_20.frames",
+  "action_label": "stock_unstock_fridge",
+  "description": "On the countertop in front of you there’s a gray fridge door, a bunch of green grapes, and a red fruit to the right. The right hand lifts and pulls the fridge door open while the left hand stays near the counter, then the right hand picks up the grapes and places them inside the lower shelf area, grabs the red fruit and sets it in next to the grapes, and finally pushes the fridge door closed.",
+  "model": "gpt-5.2-2025-12-11"
+}

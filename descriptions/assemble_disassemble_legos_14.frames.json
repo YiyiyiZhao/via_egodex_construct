@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_legos_14.frames",
+  "action_label": "assemble_disassemble_legos",
+  "description": "A small LEGO-style build sits on the bed: a blue base on red legs with a white block on one side and a yellow block on the other. Both hands move in from either side toward the build; the left hand steadies the blue base while the right hand pinches and lifts the yellow block off to the right, then the left hand pulls the white block away to the left and the right hand lifts the blue base and separates it from the red legs, leaving the pieces spread apart.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_74.frames",
+  "action_label": "basic_pick_place",
+  "description": "A blue bowl sits in the center on a pink surface, with a small white block just to the right of it and a yellow squeeze bottle farther back. The left hand stays resting near the bowl while the right hand reaches in from the right, grips the white block as a right-hand object, lifts it, moves it leftward over the bowl, and releases it so it drops into the bowl before the right hand pulls back.",
+  "model": "gpt-5.2-2025-12-11"
+}

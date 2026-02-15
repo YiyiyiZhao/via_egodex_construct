@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_square_table_10.frames",
+  "action_label": "assemble_disassemble_furniture_bench_square_table",
+  "description": "A white square base with four round corner sockets sits on a green surface, and a small white peg-like piece is to the right. The left hand steadies the base as the right hand picks up the peg, moves it leftward over the base, lowers it into the top-right socket, and presses down to seat it upright, then lifts away while the left hand keeps holding the base.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_90.frames",
+  "action_label": "basic_pick_place",
+  "description": "A white rectangular tray sits on the left side of the counter, and a chessboard with several pieces and green toy blocks is on the right. The left hand rests near the tray while the right hand reaches to the right side of the chessboard, grasps a light-green block (right-hand object), lifts it up and leftward over the tray, then lowers it into the tray and releases it.",
+  "model": "gpt-5.2-2025-12-11"
+}

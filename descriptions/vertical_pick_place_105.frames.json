@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_105.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A clear plastic bin sits on the table in front, with a small clear bottle nearby. The right hand moves down and grasps the bottle as a right-hand object, lifts it up and over the bin, then lowers and releases it so it drops into the bottom of the bin while the left hand stays mostly still near the front edge.",
+  "model": "gpt-5.2-2025-12-11"
+}

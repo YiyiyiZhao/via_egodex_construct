@@ -1,0 +1,6 @@
+{
+  "video_name": "play_reset_connect_four_12.frames",
+  "action_label": "play_reset_connect_four",
+  "description": "A blue Connect Four grid sits on a tablecloth with scattered yellow and red checkers nearby, plus the game box and instructions off to the left. The right hand moves in from the right side holding a red checker, hovers near the right edge of the grid as if lining up a drop, then pauses with the checker still in hand without releasing it.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_0.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A small rectangular box sits on the yellow tabletop in front of a clear plastic bin, with a red cloth backdrop behind. The left hand stays resting near the center of the table while the right hand moves in, grips the box as a right-hand object, lifts it upward, carries it forward over the bin, and lowers it into the bin before releasing and pulling back.",
+  "model": "gpt-5.2-2025-12-11"
+}

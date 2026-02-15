@@ -1,0 +1,6 @@
+{
+  "video_name": "play_reset_connect_four_13.frames",
+  "action_label": "play_reset_connect_four",
+  "description": "A blue Connect Four grid stands on the table with a pile of red discs on the left and yellow discs on the right. The left hand stays near the red pile while the right hand repeatedly picks up yellow discs, moves upward to the top edge of the grid, and releases them so they drop into the board’s slots, then returns down to the yellow pile for the next disc.",
+  "model": "gpt-5.2-2025-12-11"
+}

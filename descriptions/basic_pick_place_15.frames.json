@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_15.frames",
+  "action_label": "basic_pick_place",
+  "description": "Several small toys are spread on the blue surface in front, including a banana, a pink donut, a yellow die, and a red plate on the right. The left hand reaches in from the left, grasps the small white toy near the center-left as a left-hand object, lifts it, moves it rightward toward the red plate, and sets it down onto the plate before releasing it.",
+  "model": "gpt-5.2-2025-12-11"
+}

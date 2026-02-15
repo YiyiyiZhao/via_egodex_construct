@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_square_table_41.frames",
+  "action_label": "assemble_disassemble_furniture_bench_square_table",
+  "description": "In front of you is a small white model base sitting on a green surface, with several rectangular pillar pieces nearby. The left hand stays on the base to steady it, while the right hand picks up a pillar block from the right side, moves it over the base, and presses it down into a slot near the front edge, adjusting it until it sits upright; the base is a left-hand object and the pillar becomes a right-hand object during placement.",
+  "model": "gpt-5.2-2025-12-11"
+}

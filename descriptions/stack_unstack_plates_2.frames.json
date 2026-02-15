@@ -1,0 +1,6 @@
+{
+  "video_name": "stack_unstack_plates_2.frames",
+  "action_label": "stack_unstack_plates",
+  "description": "In front of you on the green-covered surface there’s a small stack of colorful plastic plates near the right side. The right hand reaches in and touches the top blue plate, slides it to the right and releases it as a right-hand object, then moves back to the remaining stack to slide the yellow plate out to the left and set it down, and finally shifts to the red plate and slides it forward away from the stack.",
+  "model": "gpt-5.2-2025-12-11"
+}

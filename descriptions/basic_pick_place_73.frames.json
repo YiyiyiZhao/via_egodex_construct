@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_73.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table there’s a small yellow piece in the foreground, a yellow banana and a gray item near the back, and a light blue bowl on the right. The right hand reaches in from the right, pinches and lifts the small yellow piece as a right-hand object, moves it rightward over the bowl, then lowers it into the bowl and releases it so it rests inside.",
+  "model": "gpt-5.2-2025-12-11"
+}

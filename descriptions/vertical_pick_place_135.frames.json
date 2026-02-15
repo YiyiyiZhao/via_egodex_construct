@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_135.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A small white foam piece sits on the tabletop near the center, and a clear plastic bin is positioned on the right. The left hand stays resting on the table, while the right hand reaches in from the right, pinches and lifts the foam piece off the surface, moves it rightward and slightly upward, then lowers and releases it into the clear bin.",
+  "model": "gpt-5.2-2025-12-11"
+}

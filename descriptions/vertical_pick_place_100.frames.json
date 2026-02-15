@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_100.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A clear plastic bin sits near the back of the table, and a small white figurine with a ring lies on the tabletop in front of it. The right hand moves in from the right, reaches down to grasp the white figurine as a right-hand object, lifts it up and forward over the bin, then releases it so it drops inside; the left hand stays resting on the table and does not touch anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -51,7 +51,7 @@ def construct_task_prompt(examples,action_label,hand_trajectory):
       - direction of motion (for each hand if visible)
       - relative relationship to objects (approaching, touching, holding, releasing, rotating, sliding, etc.)
       - whether each hand is touching or not, and which object is the left-hand/right-hand/two-hand object (if applicable)
-    Sentence 3 (optional, only if applicable): Note safety concerns (e.g., hot, sharp, fragile, spill risk). If no safety concern, omit this sentence.
+    Sentence 3: Note safety concerns (e.g., hot, sharp, fragile, spill risk). If no safety concern, omit this sentence.
 
     Examples of Sentence 2 style:{examples}
     Action label: {action_label}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_19.frames",
+  "action_label": "basic_pick_place",
+  "description": "In front of you on the bed are a small light-purple bowl, a white LEGO-like block, a green block with a toy croissant on it, and a pink round slice toy with a small white cube nearby. The left hand reaches forward to the white LEGO-like block, pinches and lifts it, then moves it rightward over the bowl and lowers it inside before releasing; the right hand hovers near the pink slice without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

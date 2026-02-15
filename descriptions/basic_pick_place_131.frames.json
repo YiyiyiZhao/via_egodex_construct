@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_131.frames",
+  "action_label": "basic_pick_place",
+  "description": "A blue plate sits near the center with several small toy pieces around it, including a white bunny figure, a green triangular piece, and a blue sponge-like cloth on the red surface. The right hand moves in from the right toward the white bunny, grips it as a right-hand object, lifts it up, carries it leftward over the blue plate, then lowers and releases it onto the plate before pulling back.",
+  "model": "gpt-5.2-2025-12-11"
+}

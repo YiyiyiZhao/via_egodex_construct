@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_124.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a gray tray with a small spool-like item on it, a pink bowl behind the tray, a red round object to the left, and a couple of small packaged pieces near your hands. The left hand stays low and mostly still, while the right hand reaches forward to the tray, pinches and lifts the small spool-like right-hand object, moves it upward and back toward the pink bowl, drops it into the bowl, and then withdraws back toward the table without holding anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

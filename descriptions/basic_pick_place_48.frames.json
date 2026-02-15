@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_48.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the yellow tabletop there’s a small metal pan with a handle near the back left, a bunch of red grapes in the middle, and a dark round plate on the right. The left hand reaches in from the right, pinches and lifts a small blue block from inside the metal pan, carries it rightward over the grapes, and lowers it onto the dark round plate, making the blue block a left-hand object until it is released.",
+  "model": "gpt-5.2-2025-12-11"
+}

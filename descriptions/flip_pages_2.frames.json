@@ -1,0 +1,6 @@
+{
+  "video_name": "flip_pages_2.frames",
+  "action_label": "flip_pages",
+  "description": "An open paperback book lies on a yellow tabletop in front of the viewer. The left hand stays near the left page to steady the two-hand object, while the right hand repeatedly pinches the top-right edge of a page, lifts it up and over toward the left, and smooths it down, completing several page flips in succession.",
+  "model": "gpt-5.2-2025-12-11"
+}

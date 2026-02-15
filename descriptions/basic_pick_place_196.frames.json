@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_196.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red surface in front of you are a pink bowl, a bunch of green grapes, an oval bun, a small clear plastic cup, a yellow pepper, and a green block. The right hand reaches in from the right toward the clear cup, grasps it as a right-hand object, lifts it up and left over the bowl, then lowers it into the bowl and releases it so it sits inside.",
+  "model": "gpt-5.2-2025-12-11"
+}

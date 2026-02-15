@@ -1,0 +1,6 @@
+{
+  "video_name": "sweep_dustpan_1.frames",
+  "action_label": "sweep_dustpan",
+  "description": "A tabletop is covered with many tiny colorful beads, with a small white dustpan resting on the left and a small hand brush on the right. The left hand stays near the left side without touching any object, while the right hand holds the right-hand object (the brush) and sweeps it from the right edge inward and slightly left, pushing scattered beads into a tighter pile near the back wall, then lifting and repositioning the brush to continue sweeping.",
+  "model": "gpt-5.2-2025-12-11"
+}

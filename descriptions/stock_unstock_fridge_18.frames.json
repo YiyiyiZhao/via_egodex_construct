@@ -1,0 +1,6 @@
+{
+  "video_name": "stock_unstock_fridge_18.frames",
+  "action_label": "stock_unstock_fridge",
+  "description": "A small play kitchen is in front of you, with a gray refrigerator on the left and an oven on the right. The right hand reaches to the refrigerator handle and pulls the door open toward the left, then reaches inside to take out a green apple and sets it down on the counter; next, the right hand grabs a loaf of bread from the fridge and places it on the counter, while the left hand stays near the edge and then moves in to swing the refrigerator door toward closed.",
+  "model": "gpt-5.2-2025-12-11"
+}

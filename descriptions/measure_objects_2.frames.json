@@ -1,0 +1,6 @@
+{
+  "video_name": "measure_objects_2.frames",
+  "action_label": "measure_objects",
+  "description": "On the tabletop in front of you are three smartphones (two dark-screen phones near the top and one lit phone near the bottom) and a small yellow tape measure. The right hand picks up and extends the tape measure while the left hand steadies it, then the tape is laid across the top phone and repositioned to measure the other phone’s width and length; next the tape is moved down onto the lit phone, with the left hand holding the tape’s end at one edge while the right hand slides and adjusts the tape measure housing to read the dimensions before retracting and re-extending it for another measurement.",
+  "model": "gpt-5.2-2025-12-11"
+}

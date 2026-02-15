@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_101.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front of you are an open black case with two white round items inside, a yellow cube and a blue cube, a tape measure, a clear jar, a red marker, a pink phone, and a small rubber duck. The left hand stays resting on the left side while the right hand reaches to the tape measure, grasps it as a right-hand object, lifts it, moves it leftward over the open case, and sets it down inside before releasing.",
+  "model": "gpt-5.2-2025-12-11"
+}

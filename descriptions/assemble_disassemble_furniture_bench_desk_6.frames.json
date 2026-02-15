@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_desk_6.frames",
+  "action_label": "assemble_disassemble_furniture_bench_desk",
+  "description": "A white plastic base with three upright rectangular posts sits on a green cloth, with a loose matching block near the left side. The left hand reaches in from the left, grips the leftmost upright block on the base, wiggles and lifts it upward to detach it, then carries it leftward and sets it down on the cloth, while the right hand stays resting on the base to steady it (left-hand object: block; right-hand object: base).",
+  "model": "gpt-5.2-2025-12-11"
+}

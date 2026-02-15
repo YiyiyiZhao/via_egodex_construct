@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_138.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front, there’s a green block near the center, a yellow bowl toward the back right, a white block nearby, and a croissant-shaped item at the bottom. The left hand stays mostly still on the left while the right hand reaches in from the right, pinches and lifts the green block as a right-hand object, carries it up and right to the yellow bowl, lowers it inside, then releases and pulls back.",
+  "model": "gpt-5.2-2025-12-11"
+}

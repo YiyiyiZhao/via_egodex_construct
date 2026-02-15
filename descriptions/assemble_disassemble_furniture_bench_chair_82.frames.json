@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_chair_82.frames",
+  "action_label": "assemble_disassemble_furniture_bench_chair",
+  "description": "In front of you on a red surface is a small white block-built chair or bench structure, with a loose small cube piece nearby. The left hand stays on the main chair structure to steady it as a left-hand object, while the right hand picks up the small cube as a right-hand object, brings it inward, and slides it into a side slot on the chair; the right hand then lets go and pulls back while the left hand continues to hold the structure steady.",
+  "model": "gpt-5.2-2025-12-11"
+}

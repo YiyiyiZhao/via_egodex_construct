@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_14.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the pink-covered surface, there’s a small rectangular box near the center-left and a clear plastic bin to the right. The right hand reaches in from the right toward the box, grips it as a right-hand object, lifts it up and to the right, then lowers it into the plastic bin and releases it, withdrawing afterward.",
+  "model": "gpt-5.2-2025-12-11"
+}

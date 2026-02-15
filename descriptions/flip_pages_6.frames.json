@@ -1,0 +1,6 @@
+{
+  "video_name": "flip_pages_6.frames",
+  "action_label": "flip_pages",
+  "description": "An open book lies on a yellow bedspread with a pen nearby. The left hand rests along the left side to steady the book while the right hand repeatedly pinches the top-right page corner and sweeps it leftward to flip pages over the spine, then returns to the right edge to grab the next page, keeping the book as a two-hand object throughout.",
+  "model": "gpt-5.2-2025-12-11"
+}

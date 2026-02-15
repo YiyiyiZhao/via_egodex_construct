@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_30.frames",
+  "action_label": "basic_pick_place",
+  "description": "A blue cup sits near the center, a white phone lies to the right, and a black stapler is near the front edge with a black tray holding small items at the back. The left hand stays resting on the left side while the right hand reaches forward to grasp the stapler (right-hand object), lifts it up and moves it toward the back, then sets it down into the black tray and releases it, leaving both hands off the objects.",
+  "model": "gpt-5.2-2025-12-11"
+}

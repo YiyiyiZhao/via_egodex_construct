@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_122.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the pink-covered surface, there’s a clear rectangular plastic bin and a small white round lid nearby. The right hand reaches forward, grasps the white lid as a right-hand object, lifts it upward, moves it over the clear bin, and lowers it to place it inside before releasing, while the left hand stays resting and does not touch anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

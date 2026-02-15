@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_28.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A clear plastic tub sits near the back of the table, with a small pink rubber duck on the tabletop in front of it. The left hand stays resting on the table while the right hand moves down toward the duck, grasps it as a right-hand object, lifts it upward and over the tub, then lowers and releases it into the tub before pulling back.",
+  "model": "gpt-5.2-2025-12-11"
+}

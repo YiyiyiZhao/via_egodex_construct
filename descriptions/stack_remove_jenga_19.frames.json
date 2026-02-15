@@ -1,0 +1,6 @@
+{
+  "video_name": "stack_remove_jenga_19.frames",
+  "action_label": "stack_remove_jenga",
+  "description": "A Jenga tower sits on a bedspread in front of you. The right hand moves in from the right to steady the tower, then presses and slides a lower block outward and fully pulls it free as the left hand stays nearby without touching. The right hand then lifts the removed block up and places it on top of the tower, so the tower may wobble and fall if bumped.",
+  "model": "gpt-5.2-2025-12-11"
+}

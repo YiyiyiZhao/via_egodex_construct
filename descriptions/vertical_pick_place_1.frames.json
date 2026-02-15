@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_1.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the pink cloth in front of you there’s a small white plastic lid near the center and a clear rectangular bin to the right, with the left hand resting near the bottom edge. The left hand moves in from the right, grips the lid as a left-hand object, lifts it upward, carries it rightward over the clear bin, then lowers and releases it so it drops into the bin while the left hand withdraws.",
+  "model": "gpt-5.2-2025-12-11"
+}

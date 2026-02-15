@@ -1,0 +1,6 @@
+{
+  "video_name": "charge_uncharge_device_40.frames",
+  "action_label": "charge_uncharge_device",
+  "description": "A light green tabletop is in front of you with a pink phone lying face down and a short white charging cable nearby. The right hand moves in from the right to pick up and steady the phone as a right-hand object, while the left hand reaches in from the left to grasp the cable as a left-hand object and guide its connector into the phone’s charging port; once inserted, the left hand releases the cable and both hands relax away, leaving the phone connected and resting on the table.",
+  "model": "gpt-5.2-2025-12-11"
+}

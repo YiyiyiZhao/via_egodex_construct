@@ -1,0 +1,6 @@
+{
+  "video_name": "screw_unscrew_allen_fixture_7.frames",
+  "action_label": "screw_unscrew_allen_fixture",
+  "description": "A black perforated base plate lies on a bed, with a small upright black bracket, a couple of screws, and an L‑shaped Allen key nearby. The left hand lifts the bracket, sets it onto the base plate, then picks up the Allen key and inserts it into the bracket’s screw head, turning it back and forth to tighten/loosen the fixture while keeping the bracket aligned; the bracket is the left-hand object during placement, and the Allen key becomes the left-hand object during the turning.",
+  "model": "gpt-5.2-2025-12-11"
+}

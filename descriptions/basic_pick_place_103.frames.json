@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_103.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table there’s an orange bowl near the back, a small yellow duck and two dark round items beside it, and a yellow bread-shaped piece in the foreground with a small brown egg-shaped item to the right. The left hand stays resting on the table, while the right hand moves in from the right, grasps the brown egg-shaped item as a right-hand object, lifts it up and arcs it leftward over the orange bowl, then lowers it into the bowl and releases it before withdrawing.",
+  "model": "gpt-5.2-2025-12-11"
+}

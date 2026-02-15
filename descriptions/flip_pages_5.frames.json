@@ -1,0 +1,6 @@
+{
+  "video_name": "flip_pages_5.frames",
+  "action_label": "flip_pages",
+  "description": "A magazine lies open on a yellow surface in front of you, with colorful ads and large photos visible across the spread. The left hand stays near the left page edge to steady the magazine, while the right hand pinches the top-right corner of the right page, lifts it up and over to the left in a smooth arc, and lays it down to reveal the next spread; this page-flip motion repeats, with the magazine becoming a two-hand object whenever both hands are touching it.",
+  "model": "gpt-5.2-2025-12-11"
+}

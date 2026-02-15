@@ -1,0 +1,6 @@
+{
+  "video_name": "play_reset_connect_four_2.frames",
+  "action_label": "play_reset_connect_four",
+  "description": "A blue Connect Four grid sits on a green tablecloth, with loose yellow checkers piled on the left and red checkers on the right. The right hand picks up a single yellow checker, moves it upward and to the right to the top edge of the grid, and drops it into a column, then pulls back to the right leaving the checker in place as the board is reset for play.",
+  "model": "gpt-5.2-2025-12-11"
+}

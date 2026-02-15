@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_legos_4.frames",
+  "action_label": "assemble_disassemble_legos",
+  "description": "On the bed in front of you are a blue rectangular Lego base, two small red pieces, and a yellow Lego block. The left hand reaches forward and places a red piece onto the blue base while the right hand brings the other red piece in and presses it onto the base beside the first, then the right hand picks up the yellow block and sets it onto the assembled red-and-blue stack before both hands withdraw and release the build.",
+  "model": "gpt-5.2-2025-12-11"
+}

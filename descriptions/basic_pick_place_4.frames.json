@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_4.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front, there’s a light blue bowl with a sponge-like tan piece inside, an orange bowl farther back, and a few toy blocks and dice scattered between them. The left hand stays low and mostly still near the left side, while the right hand reaches into the blue bowl, grips the tan piece as a right-hand object, lifts it out, moves it forward and left, and drops it into the orange bowl before withdrawing.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_163.frames",
+  "action_label": "basic_pick_place",
+  "description": "A shallow rectangular box sits in the middle of the table, with a small wooden cube to the left and a few small toys and pieces to the right. The left hand stays near the wooden cube without touching anything, while the right hand reaches in from the right, grasps the black computer mouse, lifts it, moves it leftward over the rectangular box, and sets the mouse down inside before releasing and pulling back.",
+  "model": "gpt-5.2-2025-12-11"
+}

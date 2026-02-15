@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_chair_31.frames",
+  "action_label": "assemble_disassemble_furniture_bench_chair",
+  "description": "A small white block model sits on the table, with a tall vertical piece in the middle and a smaller cube off to the right. The left hand steadies the main structure on the left side while the right hand reaches in from the right to grasp the small cube, slides it left toward the center, and presses it into place against the vertical piece; the model is a two-hand object while the cube is a right-hand object.",
+  "model": "gpt-5.2-2025-12-11"
+}

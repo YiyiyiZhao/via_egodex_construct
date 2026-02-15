@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_132.frames",
+  "action_label": "basic_pick_place",
+  "description": "A light blue bowl sits on the surface with a white rectangular block behind it, a red round slice and a yellow piece nearby, and a green block off to the right. The left hand moves in from the left toward the white block, grips it as the left-hand object, lifts it up and forward over the bowl, then lowers and releases it into the bowl while the right hand stays open and hovering near the green block without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

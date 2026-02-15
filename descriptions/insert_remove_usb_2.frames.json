@@ -1,0 +1,6 @@
+{
+  "video_name": "insert_remove_usb_2.frames",
+  "action_label": "insert_remove_usb",
+  "description": "A bed surface is in front with a dark blue pillow at the back and a small black USB hub with cables lying near the center-right. The left hand moves in to steady the USB hub as a left-hand object, while the right hand brings a USB plug down toward the hub, aligns it, briefly inserts it, then lifts it back out and releases, leaving the hub on the bed.",
+  "model": "gpt-5.2-2025-12-11"
+}

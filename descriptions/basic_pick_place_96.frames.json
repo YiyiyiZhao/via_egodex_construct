@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_96.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the pink surface in front, there are two large plastic blocks (green and purple), a blue card box, a gray oval tray on the right, and a small orange toy near the back right. The left hand reaches forward to the blue box, grips it as a left-hand object, lifts it, carries it rightward over the surface, and sets it down onto the gray tray before releasing, while the right hand stays resting near the bottom.",
+  "model": "gpt-5.2-2025-12-11"
+}

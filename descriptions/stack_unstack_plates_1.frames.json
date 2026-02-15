@@ -1,0 +1,6 @@
+{
+  "video_name": "stack_unstack_plates_1.frames",
+  "action_label": "stack_unstack_plates",
+  "description": "On the table there’s a small stack of colorful plates, with a blue plate on top. The right hand reaches in, touches and lifts the blue plate off the stack, slides it to the right, then pinches the next plate (yellow) and pulls it away, unstacking so the plates spread out with the blue set down separately.",
+  "model": "gpt-5.2-2025-12-11"
+}

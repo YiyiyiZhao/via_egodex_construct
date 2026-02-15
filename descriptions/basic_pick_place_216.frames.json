@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_216.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front of the hands are a small orange, a red plate, a marker, a paintbrush, a die, a small toy saw, and a clear roll of tape. The left hand stays mostly still near the left edge, while the right hand moves in from the right to grasp the clear tape roll as a right-hand object, lifts it, carries it leftward over the other items, and sets it down onto the center of the red plate before letting go.",
+  "model": "gpt-5.2-2025-12-11"
+}

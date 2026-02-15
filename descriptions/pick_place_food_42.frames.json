@@ -1,0 +1,6 @@
+{
+  "video_name": "pick_place_food_42.frames",
+  "action_label": "pick_place_food",
+  "description": "In front of you, there’s a wicker basket filled with bread and other food items on the left and a plate of fruit on the right. The left hand reaches toward the plate, grasps the bunch of purple grapes as a left-hand object, lifts it up and left over the basket, then lowers it into the basket and releases it so the grapes rest inside.",
+  "model": "gpt-5.2-2025-12-11"
+}

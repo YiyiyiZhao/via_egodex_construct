@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_square_table_75.frames",
+  "action_label": "assemble_disassemble_furniture_bench_square_table",
+  "description": "On the table there’s a white square base with a few blocky columns, and a separate white rectangular block piece lies in front of it. The right hand reaches in, grasps the rectangular block as a right-hand object, lifts it up and moves it forward over the base, then lowers and presses it into place next to the existing upright column while the left hand steadies the base by resting near its front edge before both hands release and pull back.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "stack_unstack_plates_5.frames",
+  "action_label": "stack_unstack_plates",
+  "description": "On the green tablecloth in front of you there’s a small stack of colorful plates near the right side. The right hand reaches in from the lower right and touches the top red plate, slides it to the right to uncover a yellow plate, then lifts and shifts plates one by one—moving the yellow plate leftward and pulling a blue plate forward—until the plates are unstacked into separate plates spread out on the table, with the right-hand object changing from red to yellow to blue as each is released.",
+  "model": "gpt-5.2-2025-12-11"
+}

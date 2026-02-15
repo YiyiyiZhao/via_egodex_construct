@@ -1,0 +1,6 @@
+{
+  "video_name": "charge_uncharge_device_2.frames",
+  "action_label": "charge_uncharge_device",
+  "description": "A small gray device sits on a green cloth with a white charging cable plugged into it, and both hands rest nearby. The right hand moves in from the right to steady the device as a right-hand object, while the left hand reaches in from the left to grasp the cable plug as a left-hand object and pulls it straight out, unplugging it and leaving the loose cable end resting on the cloth.",
+  "model": "gpt-5.2-2025-12-11"
+}

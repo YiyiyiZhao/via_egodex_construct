@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_21.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A clear plastic storage bin sits on the table in front of the hands, with a small green object nearby. The right hand reaches forward and grasps the green item as a right-hand object, lifts it up and forward over the bin, then releases it so it drops inside while the left hand stays lower and mostly still near the bin’s edge.",
+  "model": "gpt-5.2-2025-12-11"
+}

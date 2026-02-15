@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_102.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red surface in front of you are a blue plate, a white block with rounded bumps, and several small toy pieces including a gray ball and a blue sponge-like shape. The right hand moves in from the right, reaches toward and grasps the white bumpy block as the right-hand object, then lifts it and carries it leftward over the blue plate before lowering and releasing it onto the plate, leaving the hand hovering nearby.",
+  "model": "gpt-5.2-2025-12-11"
+}

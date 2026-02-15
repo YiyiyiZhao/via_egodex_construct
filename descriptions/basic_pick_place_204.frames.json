@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_204.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red tabletop in front, there’s a yellow plate near a small orange toy, a green triangular piece, a blue spoon, and a small black round item. The right hand moves in from the right, reaches toward the orange toy, grasps it as a right-hand object, lifts it slightly, then carries it rightward and lowers it onto the yellow plate before releasing it.",
+  "model": "gpt-5.2-2025-12-11"
+}

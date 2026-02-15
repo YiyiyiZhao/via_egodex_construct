@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_254.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a shallow gray tray, a couple of small green blocks and a green die, a small yellow duck, a long yellow tool, and a pink mouse toy near the right wall. The left hand reaches forward and right toward the long yellow tool, grasps it as a left-hand object, lifts it up, carries it leftward over the tray, and then lowers and releases it so it lies inside the tray, while the right hand stays near the lower right and does not touch anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

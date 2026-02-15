@@ -1,0 +1,6 @@
+{
+  "video_name": "stock_unstock_fridge_6.frames",
+  "action_label": "stock_unstock_fridge",
+  "description": "A toy kitchen set is in front of you, with a tall gray refrigerator on the left and an oven unit on the right, and a yellow banana lying on the floor near the fridge. The right hand reaches forward to the fridge handle and pulls the refrigerator door outward to open it, then the right hand picks up the banana, moves it into the fridge compartment, releases it onto the shelf, and finally swings the door closed, while the left hand stays low and mostly still nearby.",
+  "model": "gpt-5.2-2025-12-11"
+}

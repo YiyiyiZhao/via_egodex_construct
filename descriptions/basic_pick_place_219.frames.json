@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_219.frames",
+  "action_label": "basic_pick_place",
+  "description": "In front of you on the bed are a blue plate, a small white cup, a clear bottle, a round lid with a picture, and a couple of red plastic pieces. The left hand reaches in from the left toward the red piece, grips it as a left-hand object, lifts it up and moves it forward to set it down onto the blue plate, while the right hand stays open and mostly still near the right side without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

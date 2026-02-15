@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_20.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A small stack of cards sits on the yellow table in front of a clear plastic bin, with a red cloth backdrop behind. The left hand stays resting on the table while the right hand reaches down to grasp the stack, lifts it upward, moves it over the bin, and lowers it into the bin before releasing and pulling back.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "fold_stack_unstack_unfold_cloths_6.frames",
+  "action_label": "fold_stack_unstack_unfold_cloths",
+  "description": "A pink cloth lies flat on the left, while a yellow cloth is in front on the right with a small stack of folded cloths further back. The right hand reaches in from the right to touch the yellow cloth, folds and bunches it inward, then lifts the folded yellow cloth up and carries it toward the back-right stack, setting it on top and releasing it.",
+  "model": "gpt-5.2-2025-12-11"
+}

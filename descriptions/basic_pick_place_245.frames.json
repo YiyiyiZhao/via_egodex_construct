@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_245.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the yellow tabletop there’s a blue bowl, a purple square frame, a small yellow toy, and a tiny clear piece near the center. The right hand moves in from the right toward the clear piece, pinches it as a right-hand object, lifts it up and carries it leftward over the bowl, then releases it into the bowl while the left hand stays resting nearby without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

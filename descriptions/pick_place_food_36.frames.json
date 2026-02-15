@@ -1,0 +1,6 @@
+{
+  "video_name": "pick_place_food_36.frames",
+  "action_label": "pick_place_food",
+  "description": "On the table there’s a wicker basket with bread and a banana, and a plate holding fruit like green grapes, a banana, and other small produce. The right hand moves in from the right toward the plate, grasps the bunch of green grapes as a right-hand object, lifts them up and carries them leftward over the basket, then lowers and releases the grapes into the basket before pulling away.",
+  "model": "gpt-5.2-2025-12-11"
+}

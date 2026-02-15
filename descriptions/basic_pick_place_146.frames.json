@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_146.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front there are two bowls (a purple one on the left and a green one on the right), a small green tray, a white cube, a red oval piece, and a large white block. The left hand reaches into the purple bowl, grips the croissant as a left-hand object, lifts it up and carries it rightward, then lowers it into the green bowl and releases it while the right hand stays near the red oval without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

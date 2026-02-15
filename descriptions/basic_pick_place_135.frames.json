@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_135.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red surface there’s a white dustpan near the back, a small white domino tile in the middle, plus a green triangular piece, a blue spoon, a black disk, and a couple of small toy mice. The right hand reaches in from the right toward the domino, pinches and lifts it up, then moves it diagonally up-left and sets it down inside the dustpan before releasing, leaving the dustpan holding the tile.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_104.frames",
+  "action_label": "basic_pick_place",
+  "description": "In front of you on the table are a slice of bread, a small clear cup, a little orange ball, and a blue bowl on the right, with some small items near the back left. The left hand reaches forward to pick up a small white block-like piece, lifts it, carries it to the right over the blue bowl, and releases it into the bowl, while the right hand stays mostly still near the center of the table.",
+  "model": "gpt-5.2-2025-12-11"
+}

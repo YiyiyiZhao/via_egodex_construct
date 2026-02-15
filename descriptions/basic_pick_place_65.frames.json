@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_65.frames",
+  "action_label": "basic_pick_place",
+  "description": "In front of you on the tabletop are a red plate, a small purple toy sitting on a pink square base, a yellow frame, a couple of small blocks, and a tiny animal figure. The left hand stays low and mostly still, while the right hand reaches in from the right, pinches and lifts the purple toy off its pink base (right-hand object), carries it leftward over the tabletop, and sets it down onto the center of the red plate before releasing it.",
+  "model": "gpt-5.2-2025-12-11"
+}

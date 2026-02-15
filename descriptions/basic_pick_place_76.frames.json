@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_76.frames",
+  "action_label": "basic_pick_place",
+  "description": "A light blue bowl sits on the table, with a colorful cube and a small wooden stick nearby. The right hand moves in from the right toward the colorful cube, grasps it as a right-hand object, lifts it up and carries it leftward over the bowl, then lowers it into the bowl and releases.",
+  "model": "gpt-5.2-2025-12-11"
+}

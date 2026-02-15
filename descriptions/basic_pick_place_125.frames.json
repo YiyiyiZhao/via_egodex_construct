@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_125.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a gray rectangular tray with a padlock on its edge, a gray plastic tub to the right, and a red strawberry-like item with a small wooden block nearby. The right hand reaches into the gray tub, pinches and lifts a small white block-shaped piece, then moves it leftward over the tray and lowers it to place it down, releasing it, while the left hand stays extended near the red item without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "fold_unfold_paper_basic_1.frames",
+  "action_label": "fold_unfold_paper_basic",
+  "description": "A single sheet of white paper lies on the table in front of both hands. The right hand reaches in from the right to lift and fold the paper over, while the left hand moves in to steady the opposite edge; then both hands press and smooth along the fold to crease it, and finally they release so the paper rests folded flat on the table.",
+  "model": "gpt-5.2-2025-12-11"
+}

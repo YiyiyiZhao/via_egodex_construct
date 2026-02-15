@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_33.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red bedspread in front of you are a yellow plate, a blue block, a small green cube, a small ring, a yellow block, and a few small toys near the top right. The right hand moves in from the right toward the green cube, pinches and lifts it, carries it over the yellow plate, and then lowers and releases it so the green cube ends up on the plate.",
+  "model": "gpt-5.2-2025-12-11"
+}

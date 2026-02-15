@@ -1,0 +1,6 @@
+{
+  "video_name": "build_unstack_lego_4.frames",
+  "action_label": "build_unstack_lego",
+  "description": "On the bed in front of you there’s a small stacked tower of large colorful LEGO-style blocks (green, blue, yellow, and a purple block on top). The left hand reaches in from the left and grips the purple top block, lifting it up and setting it down to the left, while the right hand steadies the remaining stack; then both hands grasp different blocks and pull them apart, sliding pieces outward and separating the tower into individual blocks spread across the bed.",
+  "model": "gpt-5.2-2025-12-11"
+}

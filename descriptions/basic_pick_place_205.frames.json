@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_205.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table there’s a small gray plastic tub, a round pink lid/coaster, a white rectangular block, and some tools off to the right. The right hand reaches in from the right toward the pink round piece, pinches and lifts it, moves it forward and slightly left over the gray tub, then lowers it into the tub and releases, leaving the tub as the right-hand object briefly before the hand withdraws.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_78.frames",
+  "action_label": "basic_pick_place",
+  "description": "A yellow bowl sits near the back center, with a croissant-shaped toy on the left, a green block in the middle, and a white block on the right. The left hand stays resting on the table, while the right hand moves inward to grasp the white block as a right-hand object, lifts it up and left over the yellow bowl, then lowers and releases it into the bowl before withdrawing.",
+  "model": "gpt-5.2-2025-12-11"
+}

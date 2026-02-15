@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_legos_26.frames",
+  "action_label": "assemble_disassemble_legos",
+  "description": "On the bed in front of you there’s a small stack of large toy blocks in green, red, white, and yellow. The left hand and right hand move in toward the stacked blocks to make it a two-hand object, then the right hand lifts off the red piece and sets it down nearby while the left hand steadies the remaining stack; next the right hand pulls the green piece off and places it to the right, and the hands separate the rest so the white block is lifted and set down beside the yellow and the two red pieces.",
+  "model": "gpt-5.2-2025-12-11"
+}

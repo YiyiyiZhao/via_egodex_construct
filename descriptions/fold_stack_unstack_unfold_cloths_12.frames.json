@@ -1,0 +1,6 @@
+{
+  "video_name": "fold_stack_unstack_unfold_cloths_12.frames",
+  "action_label": "fold_stack_unstack_unfold_cloths",
+  "description": "A tabletop is covered with a beige cloth, with a larger flat blue cloth stack on the left and a smaller folded blue cloth stack on the right. The right hand repeatedly lifts and refolds the top cloth on the right stack, pinching a corner to flip it over and pressing it flat, then slides the folded stack slightly before releasing so it sits neatly; the larger left stack remains untouched.",
+  "model": "gpt-5.2-2025-12-11"
+}

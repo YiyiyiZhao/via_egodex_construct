@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_10.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the table there’s a small rectangular plastic case near the center and a clear plastic storage bin to the right, with the left hand resting nearby. The right hand reaches in from the lower right, grips the small case as a right-hand object, lifts it upward, moves it over the bin, and lowers it to release it into the bin, while the left hand stays open and does not touch anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

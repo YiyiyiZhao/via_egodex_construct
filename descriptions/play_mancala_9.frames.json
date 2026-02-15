@@ -1,0 +1,6 @@
+{
+  "video_name": "play_mancala_9.frames",
+  "action_label": "play_mancala",
+  "description": "A wooden mancala board sits on the table, with several small glass stones in the right-side pits and the long store along the far right edge. The right hand repeatedly reaches down into a pit, pinches up a single stone, then moves it slightly to the right and drops it into the next pit, continuing this one-by-one distribution along the row and toward the right-side store while the left hand stays out of view.",
+  "model": "gpt-5.2-2025-12-11"
+}

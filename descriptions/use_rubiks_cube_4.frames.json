@@ -1,0 +1,6 @@
+{
+  "video_name": "use_rubiks_cube_4.frames",
+  "action_label": "use_rubiks_cube",
+  "description": "A small Rubik’s cube sits on the tabletop in front of the hands. The right hand moves in from the right to grasp the cube, then the left hand comes in from the left so it becomes a two-hand object; both hands hold it steady while the right hand twists one side layer, followed by another quick turn of the top layer.",
+  "model": "gpt-5.2-2025-12-11"
+}

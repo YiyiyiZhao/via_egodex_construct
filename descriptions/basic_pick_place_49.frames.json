@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_49.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a white dustpan, a purple scoop near the back wall, a small yellow bulb-shaped item, and a tiny gray toy, with a blue die sitting in the purple scoop. The left hand stays resting near the center while the right hand reaches forward to the purple scoop, grasps the blue die as a right-hand object, lifts it out, moves it down and right over the white dustpan, and releases it to leave the die sitting in the dustpan.",
+  "model": "gpt-5.2-2025-12-11"
+}

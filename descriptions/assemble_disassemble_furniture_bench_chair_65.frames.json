@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_chair_65.frames",
+  "action_label": "assemble_disassemble_furniture_bench_chair",
+  "description": "In front of you on a red surface is a small white block structure shaped like a chair, with a separate white cube piece nearby. The left hand holds the chair structure steady from the left side while the right hand picks up the small cube, slides it leftward, and presses it into a slot on the chair’s right side, then releases and hovers back.",
+  "model": "gpt-5.2-2025-12-11"
+}

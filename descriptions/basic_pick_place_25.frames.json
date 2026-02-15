@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_25.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the bed in front of the hands are a yellow die, a black ring-shaped band, a small orange stick, a black clip-like piece, a green block, and a small white cup-shaped piece. The left hand reaches forward toward the green block, pinches it, lifts it up, and carries it leftward before lowering and releasing it into the center of the black ring; the right hand stays mostly still near the white cup-shaped piece and does not touch any object.",
+  "model": "gpt-5.2-2025-12-11"
+}

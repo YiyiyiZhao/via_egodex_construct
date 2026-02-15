@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_180.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop there’s a blue toy block near the center-left, and to the right there’s a white bowl with black tongs behind it and a small wooden stick nearby. The left hand enters from the right holding a small rectangular box, moves it leftward toward the bowl, and lowers it into the bowl, releasing it so the box becomes a bowl-held object while neither hand remains touching.",
+  "model": "gpt-5.2-2025-12-11"
+}

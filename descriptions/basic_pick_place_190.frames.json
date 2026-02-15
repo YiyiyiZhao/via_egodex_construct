@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_190.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front there’s a blue bowl, a gray plastic bin on the right, a yellow toy animal, a small bird figurine, and a few wooden blocks. The left hand stays low and open near the left side, while the right hand reaches into the gray bin, grasps a small red piece as a right-hand object, lifts it out, moves left toward the blue bowl, drops the red piece into the bowl, and then withdraws back to the right.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_63.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the table there’s a small yellow rubber duck in front of a clear plastic bin, with both hands resting nearby. The right hand reaches forward from the right toward the duck, grasps it as a right-hand object, lifts it up and carries it rightward over the bin, then releases it so it drops into the bin while the left hand stays resting and does not touch anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

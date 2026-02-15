@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_117.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front, there’s a purple scoop near the center-left, a gray bin on the right, and a few small toy pieces scattered near the back wall. The left hand reaches forward and to the right into the gray bin to grasp a small white piece (left-hand object), lifts it out, carries it leftward over the purple scoop, and drops it into the scoop before withdrawing, while the right hand stays mostly still near the bin.",
+  "model": "gpt-5.2-2025-12-11"
+}

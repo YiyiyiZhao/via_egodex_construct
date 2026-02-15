@@ -1,0 +1,6 @@
+{
+  "video_name": "fold_unfold_paper_basic_6.frames",
+  "action_label": "fold_unfold_paper_basic",
+  "description": "A single white sheet of paper lies on a soft bed surface in front of the hands. The left hand reaches in and lifts the left edge while the right hand steadies the right side, making the paper a two-hand object as it’s raised and aligned; then both hands fold the paper downward into a flatter, narrower shape and press along the crease, with the right hand smoothing across while the left hand holds it in place.",
+  "model": "gpt-5.2-2025-12-11"
+}

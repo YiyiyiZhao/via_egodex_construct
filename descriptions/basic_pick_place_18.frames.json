@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_18.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are two bowls: a light blue bowl with a round pink disc-like item sitting on top of other small items, and an orange bowl with a small rectangular piece inside. The left hand stays near the table while the right hand reaches forward to the blue bowl, pinches and lifts the pink disc as a right-hand object, carries it rightward over to the orange bowl, then lowers and releases it into the orange bowl.",
+  "model": "gpt-5.2-2025-12-11"
+}

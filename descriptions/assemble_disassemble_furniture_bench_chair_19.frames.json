@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_chair_19.frames",
+  "action_label": "assemble_disassemble_furniture_bench_chair",
+  "description": "A white plastic frame-like piece sits on the blue bedspread in front of a pink pillow, with a few small white block parts scattered nearby. The left hand stays near the main frame to steady it while the right hand reaches in from the right, grasps a small white block on top of the frame, lifts it upward, and then moves it rightward to set it down with the other loose pieces, leaving the main frame as a left-hand object and the block as a right-hand object during the move.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_85.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red bedspread in front, there’s a yellow plate near the center, a small green block beside a blue sponge-like piece, plus a white block, a green die, and a few other small items. The right hand moves in from the right, pinches and lifts the small green block, carries it leftward over the bed, and then lowers and releases it onto the center of the yellow plate, leaving it resting there as the hand withdraws slightly.",
+  "model": "gpt-5.2-2025-12-11"
+}

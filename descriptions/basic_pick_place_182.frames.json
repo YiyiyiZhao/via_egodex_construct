@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_182.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the bed in front of you are a croissant-shaped toy near the center, a small white block behind it, a yellow bowl on the right, and a green block beside the bowl. The left hand stays resting on the bed while the right hand reaches to the green block, grips it as a right-hand object, lifts it up and over the yellow bowl, then lowers it in and releases it into the bowl before moving away.",
+  "model": "gpt-5.2-2025-12-11"
+}

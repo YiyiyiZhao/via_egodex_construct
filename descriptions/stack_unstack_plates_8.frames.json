@@ -1,0 +1,6 @@
+{
+  "video_name": "stack_unstack_plates_8.frames",
+  "action_label": "stack_unstack_plates",
+  "description": "On the table in front of you are four small plastic plates: yellow and green near the lower center, a blue one above them, and a red one off to the right. The right hand reaches in from the right to grab the red plate, slides it left onto the blue plate, then lifts and places the green plate on top of that stack, and finally slides the yellow plate onto the top, leaving a neatly stacked pile.",
+  "model": "gpt-5.2-2025-12-11"
+}

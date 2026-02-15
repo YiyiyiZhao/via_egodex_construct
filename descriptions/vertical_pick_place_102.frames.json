@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_102.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the bed in front of you there’s a clear plastic storage bin, and a small red-and-white box lying on the sheet. The left hand stays resting near the left side, while the right hand reaches in from the right to grasp the small box as a right-hand object, lifts it upward, moves it over the bin, and releases it so it drops into the plastic container.",
+  "model": "gpt-5.2-2025-12-11"
+}

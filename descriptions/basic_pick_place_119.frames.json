@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_119.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red bedspread in front of you are a white dustpan, a yellow rubber duck, a domino tile, and several small toys including a blue figure and a yellow block. The right hand reaches in from the right, pinches and lifts the yellow block off the bed, carries it leftward over the dustpan, then lowers it into the dustpan and releases it, leaving the block resting inside while the hand pulls back.",
+  "model": "gpt-5.2-2025-12-11"
+}

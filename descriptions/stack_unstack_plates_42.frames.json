@@ -1,0 +1,6 @@
+{
+  "video_name": "stack_unstack_plates_42.frames",
+  "action_label": "stack_unstack_plates",
+  "description": "Four small, brightly colored plates (green, yellow, blue, and red) are laid out on a tablecloth in front of you. The right hand slides the yellow plate down onto the red plate, then pushes the blue plate over to stack on top, and finally lifts the green plate and places it on top to complete a single stacked pile; the right-hand object changes from yellow to blue to green as each plate is moved, while the left hand is not involved.",
+  "model": "gpt-5.2-2025-12-11"
+}

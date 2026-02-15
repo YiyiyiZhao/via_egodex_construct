@@ -1,0 +1,6 @@
+{
+  "video_name": "play_piano_5.frames",
+  "action_label": "play_piano",
+  "description": "A small electronic keyboard sits on the bed in front of you, with a pillow behind it. The right hand moves across the keys from left toward the right, then dips slightly down and back left to press different notes, while the left hand stays resting on the bed and does not touch the keyboard; the keyboard is the right-hand object.",
+  "model": "gpt-5.2-2025-12-11"
+}

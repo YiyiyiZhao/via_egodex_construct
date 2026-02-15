@@ -1,0 +1,6 @@
+{
+  "video_name": "scoop_dump_ice_7.frames",
+  "action_label": "scoop_dump_ice",
+  "description": "A gray plastic bin with ice cubes sits on the bed in front of you, with a yellow cup nearby and a purple scoop resting to the right. The left hand reaches down to grasp the yellow cup (left-hand object), lifts it over the bin, tilts it downward to dump the ice into the gray bin, then rotates it upright and lowers it back toward the bed while the right hand stays planted near the purple scoop without picking anything up.",
+  "model": "gpt-5.2-2025-12-11"
+}

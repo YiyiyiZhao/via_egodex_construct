@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_234.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop there’s a green rectangular block and a blue cube near a yellow plate, with a red-handled utensil off to the right. The right hand reaches in from the right, moves toward the green block, grips it as a right-hand object, lifts it up and carries it rightward over the yellow plate, then lowers it onto the plate and releases.",
+  "model": "gpt-5.2-2025-12-11"
+}

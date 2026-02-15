@@ -1,0 +1,6 @@
+{
+  "video_name": "clean_surface_25.frames",
+  "action_label": "clean_surface",
+  "description": "An orange T-shirt is spread out on a yellow surface against white walls, and there’s a lint roller nearby. The left hand stays near the lower-left edge of the shirt while the right hand picks up the right-hand object (the lint roller) and rolls it back and forth across the shirt, moving rightward and then leftward in short strokes to clean the surface before lifting slightly and repositioning.",
+  "model": "gpt-5.2-2025-12-11"
+}

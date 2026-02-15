@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_40.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop there’s a small round white table with a blue pen on it, a white bench on the right, and several small items including a yellow block, a wooden cube, and a black pen in the middle. The left hand reaches forward toward the round table, pinches the blue pen as a left-hand object, lifts it, then carries it rightward and sets it down on top of the white bench before releasing, while the right hand stays nearby without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

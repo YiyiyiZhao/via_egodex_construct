@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_47.frames",
+  "action_label": "basic_pick_place",
+  "description": "A white bowl sits on the yellow tabletop, with a yellow plate behind it holding a purple block, a green ball, and a small gray piece. The left hand stays near the bowl while the right hand reaches to the plate, grips the purple block as a right-hand object, lifts it up and forward over the bowl, then lowers it in and releases it so it rests inside the bowl.",
+  "model": "gpt-5.2-2025-12-11"
+}

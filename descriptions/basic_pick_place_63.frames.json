@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_63.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front, there’s a metal tray with a white block on it, along with a yellow cup, a blue die, a red ball, and a padlock nearby. The right hand reaches in from the right, grips the yellow cup as a right-hand object, lifts it up and moves it leftward over the tray, then lowers and releases it upright onto the tray near the white block while the left hand stays resting and does not touch anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_furniture_bench_square_table_15.frames",
+  "action_label": "assemble_disassemble_furniture_bench_square_table",
+  "description": "A small white square table-like piece sits on a green cloth, with three upright white blocks on it and one loose block near the left side. The left hand reaches to the loose block, grasps it as a left-hand object, lifts it up and brings it over the table edge, then slides it leftward and sets it down on the cloth, releasing it, while the right hand stays resting on the table base as a right-hand object to steady it.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "use_rubiks_cube_8.frames",
+  "action_label": "use_rubiks_cube",
+  "description": "A Rubik’s cube sits on the desk in front of you, between your hands. The right hand moves in from the right to grasp the cube, then the left hand comes in from the left so it becomes a two-hand object as you hold it steady and twist one layer, making a couple of small turns while keeping it near the center of the desk.",
+  "model": "gpt-5.2-2025-12-11"
+}

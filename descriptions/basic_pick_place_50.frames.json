@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_50.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the red cloth in front of you are a light blue bowl on the left and several small toys and blocks on the right, including a pink animal keychain, a green die, and a purple block. The right hand moves in from the right toward the pink animal keychain, pinches and lifts it by its loop, carries the right-hand object leftward over the bowl, and releases it so it drops into the bowl while the right hand pulls back.",
+  "model": "gpt-5.2-2025-12-11"
+}

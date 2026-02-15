@@ -1,0 +1,6 @@
+{
+  "video_name": "stack_unstack_cups_1.frames",
+  "action_label": "stack_unstack_cups",
+  "description": "Three red plastic cups sit on a light wooden table against plain walls, with both hands hovering nearby. The right hand reaches in from the right to grasp the rightmost cup (right-hand object), lifts it, and brings it over the other cups while the left hand slides in to steady the left cup (left-hand object); the right hand nests the lifted cup into the left cup, then picks up the remaining cup and stacks it into the same pile, leaving a single stacked set centered on the table.",
+  "model": "gpt-5.2-2025-12-11"
+}

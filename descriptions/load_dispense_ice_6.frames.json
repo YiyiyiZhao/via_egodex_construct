@@ -1,0 +1,6 @@
+{
+  "video_name": "load_dispense_ice_6.frames",
+  "action_label": "load_dispense_ice",
+  "description": "A toy kitchen set is in front, with a tall gray fridge cabinet, an oven, and a shelf holding a yellow cup and a pink bowl. The left hand pulls the fridge door open to the left, then the right hand lifts the pink bowl (right-hand object) and brings it closer while the left hand steadies it as a two-hand object; the right hand pinches out small white cubes and drops them one by one into the door’s dispenser bin, leaving one cube in the bowl before the bowl is set back on the shelf and the left hand swings the fridge door closed.",
+  "model": "gpt-5.2-2025-12-11"
+}

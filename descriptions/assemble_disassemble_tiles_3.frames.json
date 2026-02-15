@@ -1,0 +1,6 @@
+{
+  "video_name": "assemble_disassemble_tiles_3.frames",
+  "action_label": "assemble_disassemble_tiles",
+  "description": "A cluster of colorful magnetic tiles—mostly square pieces with a few small triangles—is spread on the tabletop in front of you. The left hand moves in from the left to pull a small group of tiles away from the main cluster and set them down, while the right hand comes in from the right to slide the remaining connected tiles rightward and then separate them; both hands continue nudging and spreading individual squares and triangles apart into a looser scatter across the table, releasing each piece after repositioning it.",
+  "model": "gpt-5.2-2025-12-11"
+}

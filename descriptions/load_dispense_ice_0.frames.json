@@ -1,0 +1,6 @@
+{
+  "video_name": "load_dispense_ice_0.frames",
+  "action_label": "load_dispense_ice",
+  "description": "A toy kitchen setup is in front, with a tall gray refrigerator in the middle and a counter on the right holding a yellow cup and a pink bowl. The left hand pulls the refrigerator door open to the left, then the right hand lifts the pink bowl off the counter; holding the bowl as a two-hand object, the hands tip it to reveal several small white cubes, and the right hand repeatedly pinches and drops the cubes into the refrigerator door’s small bin until only one remains before the bowl is returned to the counter and the left hand swings the fridge door closed.",
+  "model": "gpt-5.2-2025-12-11"
+}

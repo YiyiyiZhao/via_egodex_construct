@@ -1,0 +1,6 @@
+{
+  "video_name": "use_rubiks_cube_30.frames",
+  "action_label": "use_rubiks_cube",
+  "description": "A scrambled Rubik’s Cube sits on the desk in front of you. The left hand moves in toward the cube while the right hand also comes in from the side, and together they pick up and hold the cube as a two-hand object; the hands make small, controlled finger turns that rotate a layer of the cube, then the right hand loosens and lifts away slightly while the left hand keeps the cube steady.",
+  "model": "gpt-5.2-2025-12-11"
+}

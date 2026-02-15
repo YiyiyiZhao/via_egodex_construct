@@ -1,0 +1,6 @@
+{
+  "video_name": "play_reset_connect_four_0.frames",
+  "action_label": "play_reset_connect_four",
+  "description": "A blue Connect Four grid sits on the table with a pile of red checkers on the left and yellow checkers on the right. The left hand moves in toward the base of the grid to steady it while the right hand reaches under the grid and pushes the bottom row of checkers sideways, knocking several pieces out so they drop onto the table, then both hands pull back away from the board.",
+  "model": "gpt-5.2-2025-12-11"
+}

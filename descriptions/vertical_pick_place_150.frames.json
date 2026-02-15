@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_150.frames",
+  "action_label": "vertical_pick_place",
+  "description": "A small pink rubber duck sits on the table in front of a clear plastic bin, with both hands visible near the tabletop. The right hand moves in from the right, reaches down to grasp the duck as a right-hand object, lifts it upward and forward over the bin, then releases it so it drops into the bin while the left hand stays resting on the table without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

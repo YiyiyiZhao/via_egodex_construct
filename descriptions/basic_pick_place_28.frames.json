@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_28.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop in front of you are a metal tray propped on a small wooden block, a padlock, and a couple of small clear plastic items, with a red ball near the right side. The right hand reaches toward the red ball, grasps it as a right-hand object, then lifts and moves it leftward over the tray before lowering it into the tray and releasing it.",
+  "model": "gpt-5.2-2025-12-11"
+}

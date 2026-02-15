@@ -1,0 +1,6 @@
+{
+  "video_name": "load_dispense_ice_1.frames",
+  "action_label": "load_dispense_ice",
+  "description": "A toy kitchen set is in front, with a gray refrigerator that has a dispenser, and a counter area to the right holding a yellow cup and a pink bowl. The right hand picks up the yellow cup from the counter, moves it left to the refrigerator dispenser, presses the cup into the dispenser area as if dispensing ice, then pulls the cup away; this press-and-withdraw motion repeats several times, and finally the right hand carries the cup back to the counter and releases it while the left hand stays relaxed and not touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

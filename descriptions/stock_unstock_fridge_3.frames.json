@@ -1,0 +1,6 @@
+{
+  "video_name": "stock_unstock_fridge_3.frames",
+  "action_label": "stock_unstock_fridge",
+  "description": "A toy kitchen setup is in front, with a gray refrigerator next to a small oven and several plastic foods on the counter (a pastry, burger, banana, red fruit, and a green piece). The left hand pulls the refrigerator door open and holds it while the right hand picks up each food one by one, moves them forward into the fridge compartment, and releases them inside, then the left hand swings the door closed.",
+  "model": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,6 @@
+{
+  "video_name": "stack_unstack_plates_48.frames",
+  "action_label": "stack_unstack_plates",
+  "description": "Several small, brightly colored plates (green, blue, red, and yellow) are spread out on a table in front. The right hand slides the blue plate leftward toward the others, then nudges the red plate onto the blue to stack them, and finally lifts and places the yellow plate on top, leaving a neat stack while the hand releases.",
+  "model": "gpt-5.2-2025-12-11"
+}

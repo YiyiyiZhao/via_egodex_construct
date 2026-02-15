@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_276.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the bed in front of you there’s a pink bowl, a couple of dice and domino tiles, a yellow puzzle-piece shape, a small purple block, and a rectangular wooden piece. The left hand stays mostly resting near the dominoes, while the right hand reaches to the purple block on the right, grips it as a right-hand object, lifts it, moves leftward over the bowl, and drops it into the bowl before withdrawing.",
+  "model": "gpt-5.2-2025-12-11"
+}

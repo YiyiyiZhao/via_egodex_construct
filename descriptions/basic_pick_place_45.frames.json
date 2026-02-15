@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_45.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the tabletop there’s a yellow bowl near the back, a clear plastic cup with white liquid near the left hand, and small items including a tiny metal cup, a green block, and a white egg-shaped object. The right hand moves in from the right toward the small metal cup near the center, pinches it, lifts it up and arcs it forward into the yellow bowl, then releases it and withdraws, while the left hand stays resting near the clear cup without moving it.",
+  "model": "gpt-5.2-2025-12-11"
+}

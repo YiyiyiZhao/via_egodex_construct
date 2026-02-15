@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_156.frames",
+  "action_label": "basic_pick_place",
+  "description": "On the table in front of you are a croissant on the left, a small red ball-like object near the center, and on the right a clear round bowl with a small square container behind it, a green clip, and a white cube. The left hand reaches forward and to the right, pinches a small orange item from the square container, carries it over, and lowers it into the clear bowl before releasing it, while the right hand stays hovering near the right side without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}

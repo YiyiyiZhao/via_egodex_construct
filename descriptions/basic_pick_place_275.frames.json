@@ -1,0 +1,6 @@
+{
+  "video_name": "basic_pick_place_275.frames",
+  "action_label": "basic_pick_place",
+  "description": "A clear plastic tray sits on the table in front, and a yellow bowl on the right holds a colorful cube. The left hand stays near the center while the right hand reaches into the bowl, grasps the cube as a right-hand object, lifts it up and left toward the tray, then lowers it into the clear tray and releases it, leaving the cube resting inside.",
+  "model": "gpt-5.2-2025-12-11"
+}

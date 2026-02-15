@@ -1,0 +1,6 @@
+{
+  "video_name": "vertical_pick_place_57.frames",
+  "action_label": "vertical_pick_place",
+  "description": "On the yellow tabletop there’s a small clear bottle near the center and an open clear plastic storage bin on the right. The right hand moves in from the lower right toward the bottle, grips it as a right-hand object, lifts it up and right, then lowers it into the storage bin and releases it, while the left hand stays near the center-left without touching anything.",
+  "model": "gpt-5.2-2025-12-11"
+}
